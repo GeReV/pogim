@@ -22,18 +22,13 @@ def extract_regions(filename, img, contours, output_size=1200, pad=30):
     offset_x = (output_size//2) - region_cx
     offset_y = (output_size//2) - region_cy
 
-    out = np.zeros((output_size, output_size, 3), np.uint8)
-    # out[:] = (255, 255, 255)
-
     (rh, rw, _) = region.shape
 
-    M = np.float32([[1,0,offset_x],[0,1,offset_y]])
-    region = cv.warpAffine(region,M,(rw,rh), borderMode=cv.BORDER_CONSTANT, borderValue=(255, 255, 255))
+    M = np.float32([[1, 0, offset_x],[0, 1, offset_y]])
+    region = cv.warpAffine(region, M, (rw,rh), borderMode=cv.BORDER_CONSTANT, borderValue=(255, 255, 255))
 
     border_top_bottom = (output_size - rh) // 2
     border_left_right = (output_size - rw) // 2
-
-    print(border_left_right, border_top_bottom)
 
     region = cv.copyMakeBorder(
       region, 
