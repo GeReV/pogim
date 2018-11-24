@@ -1,6 +1,53 @@
 import numpy as np
 import cv2 as cv
-import os
+from os import path
+
+def extract_regions(filename, img, contours, output_size=1200, pad=30):
+  for index, cnt in enumerate(contours):
+    (x, y, w, h) = cv.boundingRect(cnt)
+    top = y - pad
+    bottom = y + h + pad
+    left = x - pad
+    right = x + w + pad
+
+    region = img[top:bottom, left:right]
+
+    moment = cv.moments(cnt)
+    cx = int(moment['m10']/moment['m00'])
+    cy = int(moment['m01']/moment['m00'])
+
+    region_cx = (cx - x + pad)
+    region_cy = (cy - y + pad)
+
+    offset_x = (output_size//2) - region_cx
+    offset_y = (output_size//2) - region_cy
+
+    out = np.zeros((output_size, output_size, 3), np.uint8)
+    # out[:] = (255, 255, 255)
+
+    (rh, rw, _) = region.shape
+
+    M = np.float32([[1,0,offset_x],[0,1,offset_y]])
+    region = cv.warpAffine(region,M,(rw,rh), borderMode=cv.BORDER_CONSTANT, borderValue=(255, 255, 255))
+
+    border_top_bottom = (output_size - rh) // 2
+    border_left_right = (output_size - rw) // 2
+
+    print(border_left_right, border_top_bottom)
+
+    region = cv.copyMakeBorder(
+      region, 
+      border_top_bottom, 
+      border_top_bottom, 
+      border_left_right, 
+      border_left_right, 
+      cv.BORDER_CONSTANT, 
+      value=(255, 255, 255)
+    )
+
+    out_filename = '{}{:04d}.jpg'.format(path.splitext(path.basename(filename))[0], index)
+
+    cv.imwrite(out_filename, region)
 
 def main():
   filename = '../assets/pogim_2.jpg'
@@ -23,19 +70,13 @@ def main():
 
   contours = filter(lambda cnt: cv.contourArea(cnt) > 500, contours)
 
+  pad = 60
+
+  extract_regions(filename, img, contours, pad=pad)
+  
   moments = [cv.moments(cnt) for cnt in contours]
   rects = [cv.boundingRect(cnt) for cnt in contours]
 
-  pad = 30
-
-  for index, (x, y, w, h) in enumerate(rects):
-    top = y - pad
-    bottom = y + h + pad
-    left = x - pad
-    right = x + w + pad
-    section = img[top:bottom, left:right]
-
-    cv.imwrite('{}{:04d}.jpg'.format(os.path.splitext(os.path.basename(filename))[0], index), section)
 
   for (x, y, w, h) in rects:
     cv.rectangle(img, (x, y), (x+w, y+h), (127, 127, 255))
@@ -52,10 +93,11 @@ def main():
   cv.waitKey(0)
   cv.destroyAllWindows()
 
-  # max_width = max(rects, key=lambda x:x[2])[2]
-  # max_height = max(rects, key=lambda x:x[3])[3]
+  max_width = max(rects, key=lambda x:x[2])[2] + pad * 2
+  max_height = max(rects, key=lambda x:x[3])[3] + pad * 2
 
-  
+  print(max_width)
+  print(max_height)
 
 
     
