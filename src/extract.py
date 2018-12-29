@@ -14,7 +14,7 @@ def extract_regions(filename, img, contours, pad=30):
 
         region = img[top:bottom, left:right]
 
-        out_filename = '{}_{:04d}.jpg'.format(
+        out_filename = '{}_{:04d}.png'.format(
             path.splitext(path.basename(filename))[0], index)
 
         cv.imwrite(out_filename, region)

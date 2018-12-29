@@ -12,7 +12,7 @@ from math import atan2, pi, sin, cos
 def rotate_image(filename, angle):
     fullpath = path.abspath(filename)
 
-    return call(["convert", fullpath, "-quality", "90", "-distort", "SRT", "1 %f" % angle, fullpath])
+    return call(["convert", fullpath, "-distort", "SRT", "1 %f" % angle, fullpath])
 
 
 def init_renderer(width, height):
