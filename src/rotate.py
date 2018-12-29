@@ -7,6 +7,7 @@ import sys
 from subprocess import call
 from os import path
 from math import atan2, pi, sin, cos
+from datetime import datetime
 
 
 def rotate_image(filename, angle):
@@ -28,7 +29,7 @@ def shutdown():
     sdl2.ext.quit()
 
 
-def rotate_pog(filename, renderer, width, height):
+def rotate_pog(filename, renderer, width, height, rotations_file):
 
     hw, hh = width // 2, height // 2
 
@@ -50,6 +51,9 @@ def rotate_pog(filename, renderer, width, height):
             if event.type == sdl2.SDL_KEYUP:
                 if event.key.keysym.sym == sdl2.SDLK_RETURN and angle != 0:
                     rotate_image(filename, angle)
+
+                    rotations_file.write("{}\t{}".format(filename, str(angle)))
+
                     running = False
                 if event.key.keysym.sym == sdl2.SDLK_ESCAPE:
                     running = False
@@ -91,10 +95,15 @@ def main():
 
     renderer = init_renderer(width, height)
 
+    rotations_file = open(
+        "rotations_{}.txt".format(datetime.now().strftime("%Y%m%d%H%M%S")),
+        "w"
+    )
+
     for filename in sys.argv[1:]:
         print("Processing: {}".format(path.abspath(filename)))
 
-        if not rotate_pog(filename, renderer, width, height):
+        if not rotate_pog(filename, renderer, width, height, rotations_file):
             break
 
     shutdown()
