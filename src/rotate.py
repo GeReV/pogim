@@ -52,7 +52,8 @@ def rotate_pog(filename, renderer, width, height, rotations_file):
                 if event.key.keysym.sym == sdl2.SDLK_RETURN and angle != 0:
                     rotate_image(filename, angle)
 
-                    rotations_file.write("{}\t{}".format(filename, str(angle)))
+                    rotations_file.write(
+                        "{}\t{}\n".format(filename, str(angle)))
 
                     running = False
                 if event.key.keysym.sym == sdl2.SDLK_ESCAPE:
@@ -105,6 +106,8 @@ def main():
 
         if not rotate_pog(filename, renderer, width, height, rotations_file):
             break
+
+    rotations_file.close()
 
     shutdown()
 
