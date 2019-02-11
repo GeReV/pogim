@@ -34,7 +34,7 @@ def main():
             try:
                 num = int(row['number'])
             except ValueError:
-                print("Skipping Pog of unknown number: %s" % row['number'])
+                print('Skipping Pog of unknown number: %s' % row['number'])
                 continue
 
             output_filename = 'pog_%04d%s' % (num, path.splitext(filename)[1])

@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="{{ with .Site.LanguageCode }}{{ . }}{{ else }}en-US{{ end }}">
+
+<head>
+	{{ partial "head.html" . }}
+	{{ template "_internal/google_analytics.html" . }}
+</head>
+
+<body>
+	<div id="container">
+		{{ partial "header.html" . }}
+		<main id="main">
+			<ul id="pogs" class="gallery">
+				{{ range $.Site.Data.items.items }}
+				<li class="gallery-item">
+					<a href="/images/pogs/{{.filename}}" class="pog pog-{{.series}}">
+						<img src="/images/pogs/{{.filename}}" />
+					</a>
+					{{.number}}
+				</li>
+				{{ end }}
+			</ul>
+		</main>
+		{{ partial "footer.html" . }}
+	</div>
+</body>
+
+</html>
