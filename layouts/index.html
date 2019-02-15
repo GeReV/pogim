@@ -2,27 +2,32 @@
 <html lang="{{ with .Site.LanguageCode }}{{ . }}{{ else }}en-US{{ end }}">
 
 <head>
-	{{ partial "head.html" . }}
-	{{ template "_internal/google_analytics.html" . }}
+  {{ partial "head.html" . }}
+  {{ template "_internal/google_analytics.html" . }}
 </head>
 
 <body>
-	<div id="container">
-		{{ partial "header.html" . }}
-		<main id="main">
-			<ul id="pogs" class="gallery">
-				{{ range $.Site.Data.items.items }}
-				<li class="gallery-item">
-					<a href="/images/pogs/{{.filename}}" class="pog pog-{{.series}}">
-						<img src="/images/pogs/{{.filename}}" />
-					</a>
-					{{.number}}
-				</li>
-				{{ end }}
-			</ul>
-		</main>
-		{{ partial "footer.html" . }}
-	</div>
+  <div id="container">
+    {{ partial "header.html" . }}
+    <main id="main">
+      <ul id="pogs" class="gallery">
+        {{ range $.Site.Data.items.items }}
+        <li class="gallery-item">
+          <a href="/images/pogs/{{.filename}}" class="pog pog-{{.series}}">
+            <img src="/images/pogs/thumbs/{{.filename}}" />
+          </a>
+          <span class="pog-number">
+            {{.number}}
+          </span>
+          {{ if eq .shiny true }}
+          <span class="pog-shiny" title="מבריק">&starf;</span>
+          {{ end }}
+        </li>
+        {{ end }}
+      </ul>
+    </main>
+    {{ partial "footer.html" . }}
+  </div>
 </body>
 
 </html>
