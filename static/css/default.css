@@ -138,10 +138,46 @@ a {
   background: repeating-linear-gradient(135deg, #ea3835, #ea3835 10px, #eee 10px, #eee 15px, #ea3835 15px);
 }
 
-
-
-
-
-
-
-
+.drawer {
+  overflow: visible;
+}
+.drawer .overlay {
+  background: rgba(0, 0, 0, 0.5);
+  transition: opacity ease-in-out 100ms;
+  position: fixed;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+}
+.drawer .drawer-panel {
+  align-items: center;
+  background: #222;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+  color: #fff;
+  display: flex;
+  justify-content: center;
+  max-width: 1300px;
+  position: fixed;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  transform: translate3d(0, 0, 0);
+  transition: transform ease-out 350ms;
+  width: 75vw;
+  height: 100%;
+}
+.drawer .drawer-panel-image {
+  object-fit: contain;
+  padding: 50px;
+  max-width: 1300px;
+  max-height: 1300px;
+  height: 100%;
+}
+.drawer.drawer-closed .overlay {
+  opacity: 0;
+  pointer-events: none;
+}
+.drawer.drawer-closed .drawer-panel {
+  transform: translate3d(-100%, 0, 0);
+}
