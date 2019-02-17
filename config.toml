@@ -3,7 +3,7 @@ baseurl = "http://example.org/"
 languageCode = "he-IL"
 title = "Pogim"
 # Enter your tracking code to enable Google Analytics
-googleAnalytics = "UA-XXXXXXXX-Y"
+googleAnalytics = "UA-42446296-3"
 
 contentdir = "content"
 datadir = "data"
