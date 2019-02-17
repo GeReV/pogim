@@ -1,5 +1,6 @@
 * {
   box-sizing: border-box;
+  outline: 0;
 }
 
 body {
@@ -12,6 +13,10 @@ body {
 
 a {
   color: inherit;
+}
+
+button {
+  cursor: pointer;
 }
 
 #container {  
@@ -156,8 +161,9 @@ a {
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
   color: #fff;
   display: flex;
+  flex-direction: column;
   justify-content: center;
-  max-width: 1300px;
+  max-width: 1600px;
   position: fixed;
   top: 0;
   bottom: 0;
@@ -165,14 +171,22 @@ a {
   transform: translate3d(0, 0, 0);
   transition: transform ease-out 350ms;
   width: 75vw;
-  height: 100%;
+  height: 100vh;
 }
-.drawer .drawer-panel-image {
-  object-fit: contain;
-  padding: 50px;
-  max-width: 1300px;
-  max-height: 1300px;
-  height: 100%;
+.drawer-panel .close {
+  background: transparent;
+  border: 0;
+  color: #fff;
+  font-size: 3rem;
+  font-weight: bold;
+  line-height: 40px;
+  margin: 0;
+  padding: 5px;
+  position: absolute;
+  top: 0;
+  right: 0;
+  width: 50px;
+  height: 50px;
 }
 .drawer.drawer-closed .overlay {
   opacity: 0;
@@ -180,4 +194,64 @@ a {
 }
 .drawer.drawer-closed .drawer-panel {
   transform: translate3d(-100%, 0, 0);
+}
+
+.preview {
+  display: flex;
+  flex-direction: column;
+  padding: 50px;
+  width: 100%;
+  height: 100%;
+}
+.preview .preview-header {
+  flex: 0 0 auto;
+  width: 100%;
+}
+.preview-header .preview-number {
+  margin: 0;
+}
+.preview-header .preview-number::before {
+  content: "פוג מס' ";
+}
+.preview-header .preview-details {
+  margin-top: .5rem;
+}
+.preview .preview-main {
+  align-items: stretch;
+  display: flex;
+  flex: 1 1 auto;
+  /* flex-direction: column; */
+  margin-top: 1rem;
+  /* max-width: 1200px; */
+  /* max-height: 1200px; */
+  position: relative;
+}
+.preview .preview-nav {
+  border: 0;
+  background: rgba(0, 0, 0, 0.2);
+  color: #ccc;
+  flex: 1 0 4rem;
+  font-size: 3rem;
+  margin: 0;
+  opacity: 0;
+  padding: .5rem;
+  /* position: absolute; */
+  top: 0;
+  bottom: 0;
+  transition: opacity ease-in-out 200ms;
+  width: 4rem;
+}
+.preview .preview-nav:hover {
+  opacity: 1;
+}
+.preview .preview-next {
+  left: 0;
+}
+.preview .preview-prev {
+  right: 0;
+}
+.preview .preview-image {
+  cursor: pointer;
+  object-fit: contain;
+  flex: 1 1 0;
 }

@@ -13,8 +13,10 @@
       <ul id="pogs" class="gallery">
         {{ range $.Site.Data.items.items }}
         <li class="gallery-item">
-          <a href="/images/pogs/{{.filename}}" class="pog pog-{{.series}}">
-            <img src="/images/pogs/thumbs/{{.filename}}" />
+          <a href="/images/pogs/{{.filename}}" class="pog pog-{{.series}}" data-image="/images/pogs/{{.filename}}"
+            data-thumbnail="/images/pogs/thumbs/{{.filename}}" data-shiny="{{.shiny}}" data-number="{{.number}}"
+            data-series="{{.series}}">
+            <img src="/images/pogs/thumbs/{{.filename}}" alt="פוג {{.number}}" />
           </a>
           <span class="pog-number">
             {{.number}}
@@ -27,8 +29,8 @@
       </ul>
     </main>
     {{ partial "footer.html" . }}
-    {{ partial "image.html" . }}
-    <script src="/js/image.js" defer></script>
+    {{ partial "preview.html" . }}
+    <script src="/js/preview.js" defer></script>
   </div>
 </body>
 
