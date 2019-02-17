@@ -3,7 +3,17 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://example.org/</loc>
+    <loc>https://gerev.github.io/pogim/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://gerev.github.io/pogim/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://gerev.github.io/pogim/tags/</loc>
     <priority>0</priority>
   </url>
   
