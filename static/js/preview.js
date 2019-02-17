@@ -199,6 +199,7 @@ class Preview {
     imageLoad(this.image, thumbnailSrc)
       .then(this.open);
 
+    // TODO: Should be possible to navigate once lo-res image displayed and abort load.
     return imageLoad(largeImage, imageSrc)
       .then(() => {
         this.image.src = largeImage.src;
