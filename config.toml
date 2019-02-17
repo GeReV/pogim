@@ -1,5 +1,5 @@
 # Site settings
-baseurl = "http://example.org/"
+baseurl = "/"
 languageCode = "he-IL"
 title = "Pogim"
 # Enter your tracking code to enable Google Analytics
