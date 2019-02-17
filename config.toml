@@ -1,5 +1,5 @@
 # Site settings
-baseurl = "/"
+baseurl = "https://gerev.github.io/pogim/"
 languageCode = "he-IL"
 title = "Pogim"
 # Enter your tracking code to enable Google Analytics
