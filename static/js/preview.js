@@ -79,7 +79,7 @@ class Gallery {
   constructor(gallery, preview) {
     this.gallery = gallery;
     this.preview = preview;
-    this.items = gallery.querySelectorAll('.pog');
+    this.items = this.buildItems(gallery.querySelectorAll('.pog'));
 
     this.pendingStep = Promise.resolve();
 
@@ -101,6 +101,16 @@ class Gallery {
       .addEventListener('click', e => this.step(-1));
   }
 
+  buildItems(nodes) {
+    return Array.prototype.map.call(nodes, node => ({
+      thumbnailSrc: node.getAttribute('data-thumbnail'),
+      imageSrc: node.getAttribute('data-image'),
+      series: node.getAttribute('data-series'),
+      number: node.getAttribute('data-number'),
+      shiny: node.getAttribute('data-shiny'),
+    }));
+  }
+
   handleImageClick(e) {
     const pog = e.target.closest('.pog');
 
@@ -111,9 +121,9 @@ class Gallery {
     e.preventDefault();
     e.stopPropagation();
 
-    this.currentIndex = Array.prototype.indexOf.call(this.items, pog);
+    this.currentIndex = this.items.findIndex(item => item.number === pog.getAttribute('data-number'));
 
-    this.preview.show(pog);
+    this.preview.show(this.items[this.currentIndex]);
   }
 
   handleKeyDown(e) {
@@ -137,7 +147,7 @@ class Gallery {
 
         this.currentIndex = nextIndex;
 
-        return this.preview.show(this.items.item(this.currentIndex));
+        return this.preview.show(this.items[this.currentIndex]);
       });
   }
 }
@@ -148,14 +158,25 @@ class Preview {
     this.current = null;
     this.isOpen = false;
     this.isLoading = false;
+    this.backfaces = this.buildBackfaces(this.container.querySelectorAll('.backface'));
+
+    this.currentVariantIndex = 0;
 
     this.open = this.open.bind(this);
     this.close = this.close.bind(this);
     this.show = this.show.bind(this);
+    this.handleKeyUp = this.handleKeyUp.bind(this);
+    this.handleKeyDown = this.handleKeyDown.bind(this);
 
     this.image = this.container.querySelector('.preview-image');
     this.number = this.container.querySelector('.preview-number');
     this.details = this.container.querySelector('.preview-details');
+    this.variants = this.container.querySelector('.preview-variants');
+
+    this.maxVariantIndex = this.variants.childElementCount - 1;
+
+    this.variantsPrimary = this.variants.querySelector('.preview-variant-primary');
+    this.variantsBackface = this.variants.querySelector('.preview-variant-backface');
 
     this.container.querySelector('.close')
       .addEventListener('click', this.close);
@@ -168,9 +189,22 @@ class Preview {
       });
   }
 
+  buildBackfaces(backfaces) {
+    return Array.prototype.reduce.call(backfaces, (obj, template) => {
+      const id = template.getAttribute('id');
+
+      obj[id] = template.content;
+
+      return obj;
+    }, {});
+  }
+
   open() {
     if (!this.isOpen) {
       drawer.classList.remove('drawer-closed');
+
+      document.addEventListener('keyup', this.handleKeyUp);
+      document.addEventListener('keydown', this.handleKeyDown);
     }
 
     this.isOpen = true;
@@ -179,31 +213,78 @@ class Preview {
   close() {
     if (this.isOpen) {
       drawer.classList.add('drawer-closed');
+
+      document.removeEventListener('keyup', this.handleKeyUp);
+      document.removeEventListener('keydown', this.handleKeyDown);
     }
 
     this.isOpen = false;
   }
 
-  show(el) {
-    this.current = el;
+  selectVariant(variantIndex) {
+    const currentSelected = this.variants.querySelector('.preview-variant-selected');
 
-    const thumbnailSrc = this.current.getAttribute('data-thumbnail');
-    const imageSrc = this.current.getAttribute('data-image');
-    const series = this.current.getAttribute('data-series');
-    const number = this.current.getAttribute('data-number');
-    const shiny = this.current.getAttribute('data-shiny');
+    if (currentSelected) {
+      currentSelected.classList.remove('preview-variant-selected');
+    }
 
-    this.number.textContent = number;
-    this.details.textContent = SERIES_CONVERSION[series];
+    this.variants.children.item(variantIndex).classList.add('preview-variant-selected');
+  }
 
-    imageLoad(this.image, thumbnailSrc)
-      .then(this.open);
+  handleKeyUp(evt) {
+    const prevVariantIndex = this.currentVariantIndex;
 
-    // TODO: Should be possible to navigate once lo-res image displayed and abort load.
-    return imageLoad(largeImage, imageSrc)
+    if (evt.key === 'ArrowDown') {
+      this.currentVariantIndex = Math.min(this.currentVariantIndex + 1, this.maxVariantIndex);
+    }
+
+    if (evt.key === 'ArrowUp') {
+      this.currentVariantIndex = Math.max(this.currentVariantIndex - 1, 0);
+    }
+
+    if (prevVariantIndex !== this.currentVariantIndex) {
+      this.selectVariant(this.currentVariantIndex);
+    }
+  }
+
+  handleKeyDown(evt) {
+    if (evt.key === 'ArrowDown' || evt.key === 'ArrowUp') {
+      evt.preventDefault();
+    }
+  }
+
+  setPrimaryVariant(src) {
+    this.variantsPrimary.querySelector('img').src = src;
+  }
+
+  setBackfaceVariant(backface, number) {
+    clearChildren(this.variantsBackface);
+
+    const svg = document.importNode(backface, true);
+    svg.querySelector('tspan').textContent = number;
+
+    this.variantsBackface.appendChild(svg);
+  }
+
+  show(item) {
+    this.currentItem = item;
+
+    this.number.textContent = item.number;
+    this.details.textContent = SERIES_CONVERSION[item.series];
+
+    this.setPrimaryVariant(item.thumbnailSrc);
+
+    this.setBackfaceVariant(this.backfaces['backface-standard'], item.number);
+
+    imageLoad(largeImage, item.imageSrc)
       .then(() => {
-        this.image.src = largeImage.src;
+        if (this.currentItem.number === item.number) {
+          this.image.src = largeImage.src;
+        }
       });
+
+    return imageLoad(this.image, item.thumbnailSrc)
+      .then(this.open);
   }
 }
 

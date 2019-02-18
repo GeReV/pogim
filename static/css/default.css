@@ -228,21 +228,20 @@ button {
 }
 .preview .preview-nav {
   border: 0;
-  background: rgba(0, 0, 0, 0.2);
+  background: rgba(0, 0, 0, 0);
   color: #ccc;
-  flex: 1 0 4rem;
+  flex: 0 0 4rem;
   font-size: 3rem;
   margin: 0;
-  opacity: 0;
   padding: .5rem;
   /* position: absolute; */
   top: 0;
   bottom: 0;
-  transition: opacity ease-in-out 200ms;
+  transition: background-color ease-in-out 200ms;
   width: 4rem;
 }
 .preview .preview-nav:hover {
-  opacity: 1;
+  background: rgba(0, 0, 0, 0.2);
 }
 .preview .preview-next {
   left: 0;
@@ -250,8 +249,38 @@ button {
 .preview .preview-prev {
   right: 0;
 }
-.preview .preview-image {
-  cursor: pointer;
-  object-fit: contain;
+.preview .preview-image-container {
+  align-items: stretch;
+  display: flex;
   flex: 1 1 0;
+  flex-direction: column;
+}
+.preview .preview-image {
+  background: #fff;
+  cursor: pointer;
+  flex: 1 1 auto;
+  height: 0;
+  object-fit: contain;
+}
+.preview .preview-variants {
+  flex: 0 0 8rem;
+  margin: 0 1rem 0 0;
+  padding: 0;
+  list-style-type: none;
+}
+.preview .preview-variants > * + * {
+  margin-top: .5rem;
+}
+.preview .preview-variant {
+  border: 4px solid rgba(0, 0, 0, 0.2);
+  border-radius: 4px;
+  height: 8rem;
+}
+.preview .preview-variant.preview-variant-selected {
+  border-color: rgba(255, 255, 255, 0.8);
+}
+.preview .preview-variant-backface {
+  background: rgba(0, 0, 0, 0.1);
+  background-clip: padding-box;
+  padding: .5rem;
 }
