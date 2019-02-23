@@ -10,17 +10,15 @@
       <div class="preview-main">
         <button class="preview-nav preview-prev">&#x2bc8;</button>
         <div class="preview-image-container">
-          <img src="#" alt="" class="preview-image" />
         </div>
         <button class="preview-nav preview-next">&#x2bc7;</button>
         <ol class="preview-variants">
-          <li class="preview-variant preview-variant-primary preview-variant-selected">
-            <img src="#" alt="" />
-          </li>
-          <li class="preview-variant preview-variant-backface"></li>
         </ol>
       </div>
-      <template class="backface" id="backface-standard">
+      <template class="preview-variant-template">
+        <li class="preview-variant"></li>
+      </template>
+      <template class="backface" id="backface-default">
         {{ partial "backface_standard.svg" . }}
       </template>
     </div>

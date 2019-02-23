@@ -1,5 +1,8 @@
-const drawer = document.querySelector('#image');
-const drawerPanel = drawer.querySelector('.drawer-panel');
+const $ = (selector, context = document) => context.querySelector(selector);
+const $$ = (selector, context = document) => context.querySelectorAll(selector);
+
+const drawer = $('#image');
+const drawerPanel = $('.drawer-panel', drawer);
 
 const largeImage = new Image();
 
@@ -26,11 +29,23 @@ const SERIES_CONVERSION = {
   horospog: 'הורוספוג',
 };
 
-function once(el, type, fn) {
-  el.addEventListener(type, fn, { once: true });
+const BACKFACES = Array.prototype.reduce.call($$('.backface'), (obj, template) => {
+  const id = template.getAttribute('id');
 
-  return () => el.removeEventListener(type, fn, { once: true });
-}
+  obj[id] = template.content.querySelector('svg');
+
+  return obj;
+}, {});
+
+const off = (el, type, fn, opts = false) => el.removeEventListener(type, fn, opts);
+
+const on = (el, type, fn, opts = false) => {
+  el.addEventListener(type, fn, opts);
+
+  return () => off(el, type, fn, opts);
+};
+
+const once = (el, type, fn) => on(el, type, fn, { once: true });
 
 function throttle(callback, wait, immediate = false) {
   let timeout = null;
@@ -63,10 +78,12 @@ function imageLoad(img, src) {
     clearError = once(img, 'error', reject);
 
     img.src = src;
-  }).then(() => {
+  })
+  .then(() => {
     clearLoad();
     clearError();
-  });
+  })
+  .then(() => img);
 }
 
 function clearChildren(el) {
@@ -79,26 +96,23 @@ class Gallery {
   constructor(gallery, preview) {
     this.gallery = gallery;
     this.preview = preview;
-    this.items = this.buildItems(gallery.querySelectorAll('.pog'));
+    this.items = this.buildItems($$('.pog', gallery));
 
     this.pendingStep = Promise.resolve();
 
     this.handleKeyDown = throttle(this.handleKeyDown.bind(this), 50);
     this.step = this.step.bind(this);
 
-    this.gallery.addEventListener('click', this.handleImageClick.bind(this));
+    on(this.gallery, 'click', this.handleImageClick.bind(this));
 
-    document.addEventListener('keydown', this.handleKeyDown);
+    on(document, 'keydown', this.handleKeyDown);
 
     // TODO: Find a better place for these.
-    document.querySelector('.preview-image')
-      .addEventListener('click', e => this.step(1));
+    on($('.preview-image-container'), 'click', e => this.step(1));
 
-    document.querySelector('.preview-next')
-      .addEventListener('click', e => this.step(1));
+    on($('.preview-next'), 'click', e => this.step(1));
 
-    document.querySelector('.preview-prev')
-      .addEventListener('click', e => this.step(-1));
+    on($('.preview-prev'), 'click', e => this.step(-1));
   }
 
   buildItems(nodes) {
@@ -107,6 +121,7 @@ class Gallery {
       imageSrc: node.getAttribute('data-image'),
       series: node.getAttribute('data-series'),
       number: node.getAttribute('data-number'),
+      backface: node.getAttribute('data-backface'),
       shiny: node.getAttribute('data-shiny'),
     }));
   }
@@ -152,13 +167,54 @@ class Gallery {
   }
 }
 
+class Backface {
+  constructor(item) {
+    const node = BACKFACES[`backface-${item.backface}`] || BACKFACES['backface-default'];
+
+    this.svg = document.importNode(node, true);
+    
+    $('tspan', this.svg).textContent = item.number;
+    
+    this.svgThumnbail = document.importNode(this.svg, true);
+  }
+
+  async show() {
+    return this.svg;
+  }
+
+  thumbnail() {
+    return this.svgThumnbail;
+  }
+}
+
+class Frontface {
+  constructor(item) {
+    this.item = item;
+    
+    this.imgFull = new Image();
+    this.imgFull.style.background = `url(${item.thumbnailSrc}) #fff no-repeat center center`;
+    this.imgFull.style.backgroundSize = 'contain';
+    this.imgFull.src = item.imageSrc;
+    
+    this.imgThumbnail = new Image();
+    this.imgThumbnail.src = item.thumbnailSrc;
+  }
+
+  async show() {
+    return this.imgFull;
+  }
+
+  thumbnail() {
+    return this.imgThumbnail;
+  }
+}
+
 class Preview {
   constructor(container) {
     this.container = container;
     this.current = null;
     this.isOpen = false;
     this.isLoading = false;
-    this.backfaces = this.buildBackfaces(this.container.querySelectorAll('.backface'));
 
     this.currentVariantIndex = 0;
 
@@ -168,43 +224,27 @@ class Preview {
     this.handleKeyUp = this.handleKeyUp.bind(this);
     this.handleKeyDown = this.handleKeyDown.bind(this);
 
-    this.image = this.container.querySelector('.preview-image');
-    this.number = this.container.querySelector('.preview-number');
-    this.details = this.container.querySelector('.preview-details');
-    this.variants = this.container.querySelector('.preview-variants');
+    this.number = $('.preview-number', this.container);
+    this.details = $('.preview-details', this.container);
+    this.imageContainer = $('.preview-image-container', this.container);
+    this.variantsContainer = $('.preview-variants', this.container);
+    this.variantTemplate = $('.preview-variant-template', this.container);
 
-    this.maxVariantIndex = this.variants.childElementCount - 1;
+    on($('.close', this.container), 'click', this.close);
 
-    this.variantsPrimary = this.variants.querySelector('.preview-variant-primary');
-    this.variantsBackface = this.variants.querySelector('.preview-variant-backface');
-
-    this.container.querySelector('.close')
-      .addEventListener('click', this.close);
-
-    document.querySelector('.overlay')
-      .addEventListener('click', e => {
+    on($('.overlay'), 'click', e => {
         e.stopPropagation();
 
         this.close();
       });
   }
 
-  buildBackfaces(backfaces) {
-    return Array.prototype.reduce.call(backfaces, (obj, template) => {
-      const id = template.getAttribute('id');
-
-      obj[id] = template.content;
-
-      return obj;
-    }, {});
-  }
-
   open() {
     if (!this.isOpen) {
       drawer.classList.remove('drawer-closed');
 
-      document.addEventListener('keyup', this.handleKeyUp);
-      document.addEventListener('keydown', this.handleKeyDown);
+      on(document, 'keyup', this.handleKeyUp);
+      on(document, 'keydown', this.handleKeyDown);
     }
 
     this.isOpen = true;
@@ -214,21 +254,48 @@ class Preview {
     if (this.isOpen) {
       drawer.classList.add('drawer-closed');
 
-      document.removeEventListener('keyup', this.handleKeyUp);
-      document.removeEventListener('keydown', this.handleKeyDown);
+      off(document, 'keyup', this.handleKeyUp);
+      off(document, 'keydown', this.handleKeyDown);
     }
 
     this.isOpen = false;
   }
 
+  addVariants(variants) {
+    this.maxVariantIndex = variants.length - 1;
+
+    const fragment = document.createDocumentFragment();
+
+    variants.forEach(variant => {
+      const item = document.importNode(this.variantTemplate.content.firstElementChild);
+
+      item.appendChild(variant.thumbnail());
+
+      fragment.appendChild(item);
+    });
+
+    clearChildren(this.variantsContainer);
+
+    this.variantsContainer.appendChild(fragment);
+  }
+
   selectVariant(variantIndex) {
-    const currentSelected = this.variants.querySelector('.preview-variant-selected');
+    const currentSelected = $('.preview-variant-selected', this.variantsContainer);
 
     if (currentSelected) {
       currentSelected.classList.remove('preview-variant-selected');
     }
 
-    this.variants.children.item(variantIndex).classList.add('preview-variant-selected');
+    this.variantsContainer.children.item(variantIndex).classList.add('preview-variant-selected');
+
+    this.variants[variantIndex].show()
+      .then(preview => {
+        if (this.imageContainer.childElementCount) {
+          this.imageContainer.firstElementChild.replaceWith(preview);
+        } else {
+          this.imageContainer.appendChild(preview);
+        }
+      });    
   }
 
   handleKeyUp(evt) {
@@ -253,41 +320,24 @@ class Preview {
     }
   }
 
-  setPrimaryVariant(src) {
-    this.variantsPrimary.querySelector('img').src = src;
-  }
-
-  setBackfaceVariant(backface, number) {
-    clearChildren(this.variantsBackface);
-
-    const svg = document.importNode(backface, true);
-    svg.querySelector('tspan').textContent = number;
-
-    this.variantsBackface.appendChild(svg);
-  }
-
   show(item) {
-    this.currentItem = item;
-
     this.number.textContent = item.number;
     this.details.textContent = SERIES_CONVERSION[item.series];
+    
+    this.variants = [
+      new Frontface(item),
+      new Backface(item),
+    ];
 
-    this.setPrimaryVariant(item.thumbnailSrc);
+    this.addVariants(this.variants);
+    
+    this.currentVariantIndex = 0;
+    this.selectVariant(this.currentVariantIndex);
 
-    this.setBackfaceVariant(this.backfaces['backface-standard'], item.number);
-
-    imageLoad(largeImage, item.imageSrc)
-      .then(() => {
-        if (this.currentItem.number === item.number) {
-          this.image.src = largeImage.src;
-        }
-      });
-
-    return imageLoad(this.image, item.thumbnailSrc)
-      .then(this.open);
+    this.open();
   }
 }
 
-const preview = new Preview(document.querySelector('.drawer-panel'));
+const preview = new Preview($('.drawer-panel'));
 
-const gallery = new Gallery(document.querySelector('#pogs'), preview);
+const gallery = new Gallery($('#pogs'), preview);

@@ -16,7 +16,7 @@ publishdir = "public"
     subtitle = ""
     author = "אמיר גרוצקי"
     description = ""
-    keywords = "פוגים, פוג"
+    keywords = "פוגים, פוג, ניינטיז, נוסטלגיה"
 
     # Footer text
     footertext = " נבנה על-ידי [אמיר גרוצקי](https://github.com/GeReV) &middot; תוכן האתר מוגש בכפוף לרישיון [Creative Commons BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0)"
