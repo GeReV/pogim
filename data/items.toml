@@ -3,957 +3,1094 @@ series = "red"
 shiny = false
 number = 3
 backface = "default"
-filename = "pog_0003.png"
+original = "pog_0003.png"
+preview = "pog_0003.jpg"
 
 [[items]]
 series = "red"
 shiny = false
 number = 8
 backface = "default"
-filename = "pog_0008.png"
+original = "pog_0008.png"
+preview = "pog_0008.jpg"
 
 [[items]]
 series = "red"
 shiny = false
 number = 10
 backface = "old"
-filename = "pog_0010.png"
+original = "pog_0010.png"
+preview = "pog_0010.jpg"
 
 [[items]]
 series = "red"
 shiny = false
 number = 12
 backface = "default"
-filename = "pog_0012.png"
+original = "pog_0012.png"
+preview = "pog_0012.jpg"
 
 [[items]]
 series = "red"
 shiny = false
 number = 14
 backface = "default"
-filename = "pog_0014.png"
+original = "pog_0014.png"
+preview = "pog_0014.jpg"
 
 [[items]]
 series = "red"
 shiny = false
 number = 17
 backface = "default"
-filename = "pog_0017.png"
+original = "pog_0017.png"
+preview = "pog_0017.jpg"
 
 [[items]]
 series = "red"
 shiny = false
 number = 18
 backface = "default"
-filename = "pog_0018.png"
+original = "pog_0018.png"
+preview = "pog_0018.jpg"
 
 [[items]]
 series = "red"
 shiny = false
 number = 20
 backface = "default"
-filename = "pog_0020.png"
+original = "pog_0020.png"
+preview = "pog_0020.jpg"
 
 [[items]]
 series = "red"
 shiny = false
 number = 25
 backface = "default"
-filename = "pog_0025.png"
+original = "pog_0025.png"
+preview = "pog_0025.jpg"
 
 [[items]]
 series = "red"
 shiny = false
 number = 26
 backface = "default"
-filename = "pog_0026.png"
+original = "pog_0026.png"
+preview = "pog_0026.jpg"
 
 [[items]]
 series = "green"
 shiny = false
 number = 32
 backface = "default"
-filename = "pog_0032.png"
+original = "pog_0032.png"
+preview = "pog_0032.jpg"
 
 [[items]]
 series = "green"
 shiny = false
 number = 35
 backface = "default"
-filename = "pog_0035.png"
+original = "pog_0035.png"
+preview = "pog_0035.jpg"
 
 [[items]]
 series = "green"
 shiny = false
 number = 36
 backface = "default"
-filename = "pog_0036.png"
+original = "pog_0036.png"
+preview = "pog_0036.jpg"
 
 [[items]]
 series = "green"
 shiny = false
 number = 37
 backface = "default"
-filename = "pog_0037.png"
+original = "pog_0037.png"
+preview = "pog_0037.jpg"
 
 [[items]]
 series = "green"
 shiny = false
 number = 38
 backface = "default"
-filename = "pog_0038.png"
+original = "pog_0038.png"
+preview = "pog_0038.jpg"
 
 [[items]]
 series = "green"
 shiny = false
 number = 39
 backface = "default"
-filename = "pog_0039.png"
+original = "pog_0039.png"
+preview = "pog_0039.jpg"
 
 [[items]]
 series = "green"
 shiny = false
 number = 41
 backface = "default"
-filename = "pog_0041.png"
+original = "pog_0041.png"
+preview = "pog_0041.jpg"
 
 [[items]]
 series = "green"
 shiny = false
 number = 42
 backface = "default"
-filename = "pog_0042.png"
+original = "pog_0042.png"
+preview = "pog_0042.jpg"
 
 [[items]]
 series = "green"
 shiny = false
 number = 47
 backface = "default"
-filename = "pog_0047.png"
+original = "pog_0047.png"
+preview = "pog_0047.jpg"
 
 [[items]]
 series = "green"
 shiny = false
 number = 49
 backface = "default"
-filename = "pog_0049.png"
+original = "pog_0049.png"
+preview = "pog_0049.jpg"
 
 [[items]]
 series = "green"
 shiny = false
 number = 51
 backface = "default"
-filename = "pog_0051.png"
+original = "pog_0051.png"
+preview = "pog_0051.jpg"
 
 [[items]]
 series = "green"
 shiny = false
 number = 55
 backface = "default"
-filename = "pog_0055.png"
+original = "pog_0055.png"
+preview = "pog_0055.jpg"
 
 [[items]]
 series = "green"
 shiny = true
 number = 57
 backface = "default"
-filename = "pog_0057.png"
+original = "pog_0057.png"
+preview = "pog_0057.jpg"
 
 [[items]]
 series = "blue"
 shiny = false
 number = 61
 backface = "default"
-filename = "pog_0061.png"
+original = "pog_0061.png"
+preview = "pog_0061.jpg"
 
 [[items]]
 series = "blue"
 shiny = false
 number = 64
 backface = "default"
-filename = "pog_0064.png"
+original = "pog_0064.png"
+preview = "pog_0064.jpg"
 
 [[items]]
 series = "blue"
 shiny = false
 number = 65
 backface = "default"
-filename = "pog_0065.png"
+original = "pog_0065.png"
+preview = "pog_0065.jpg"
 
 [[items]]
 series = "blue"
 shiny = false
 number = 74
 backface = "default"
-filename = "pog_0074.png"
+original = "pog_0074.png"
+preview = "pog_0074.jpg"
 
 [[items]]
 series = "blue"
 shiny = false
 number = 77
 backface = "default"
-filename = "pog_0077.png"
+original = "pog_0077.png"
+preview = "pog_0077.jpg"
 
 [[items]]
 series = "blue"
 shiny = false
 number = 81
 backface = "default"
-filename = "pog_0081.png"
+original = "pog_0081.png"
+preview = "pog_0081.jpg"
 
 [[items]]
 series = "purple"
 shiny = false
 number = 91
 backface = "small font"
-filename = "pog_0091.png"
+original = "pog_0091.png"
+preview = "pog_0091.jpg"
 
 [[items]]
 series = "purple"
 shiny = false
 number = 95
 backface = "small font"
-filename = "pog_0095.png"
+original = "pog_0095.png"
+preview = "pog_0095.jpg"
 
 [[items]]
 series = "purple"
 shiny = false
 number = 97
 backface = "small font"
-filename = "pog_0097.png"
+original = "pog_0097.png"
+preview = "pog_0097.jpg"
 
 [[items]]
 series = "purple"
 shiny = false
 number = 100
 backface = "small font"
-filename = "pog_0100.png"
+original = "pog_0100.png"
+preview = "pog_0100.jpg"
 
 [[items]]
 series = "purple"
 shiny = false
 number = 104
 backface = "default"
-filename = "pog_0104.png"
+original = "pog_0104.png"
+preview = "pog_0104.jpg"
 
 [[items]]
 series = "purple"
 shiny = false
 number = 108
 backface = "default"
-filename = "pog_0108.png"
+original = "pog_0108.png"
+preview = "pog_0108.jpg"
 
 [[items]]
 series = "purple"
 shiny = false
 number = 109
 backface = "small font"
-filename = "pog_0109.png"
+original = "pog_0109.png"
+preview = "pog_0109.jpg"
 
 [[items]]
 series = "purple"
 shiny = true
 number = 119
 backface = "default"
-filename = "pog_0119.png"
+original = "pog_0119.png"
+preview = "pog_0119.jpg"
 
 [[items]]
 series = "orange"
 shiny = true
 number = 122
 backface = "default"
-filename = "pog_0122.png"
+original = "pog_0122.png"
+preview = "pog_0122.jpg"
 
 [[items]]
 series = "orange"
 shiny = false
 number = 128
 backface = "default"
-filename = "pog_0128.png"
+original = "pog_0128.png"
+preview = "pog_0128.jpg"
 
 [[items]]
 series = "orange"
 shiny = false
 number = 132
 backface = "default"
-filename = "pog_0132.png"
+original = "pog_0132.png"
+preview = "pog_0132.jpg"
 
 [[items]]
 series = "orange"
 shiny = false
 number = 133
 backface = "default"
-filename = "pog_0133.png"
+original = "pog_0133.png"
+preview = "pog_0133.jpg"
 
 [[items]]
 series = "orange"
 shiny = false
 number = 134
 backface = "default"
-filename = "pog_0134.png"
+original = "pog_0134.png"
+preview = "pog_0134.jpg"
 
 [[items]]
 series = "orange"
 shiny = false
 number = 136
 backface = "default"
-filename = "pog_0136.png"
+original = "pog_0136.png"
+preview = "pog_0136.jpg"
 
 [[items]]
 series = "orange"
 shiny = false
 number = 138
 backface = "default"
-filename = "pog_0138.png"
+original = "pog_0138.png"
+preview = "pog_0138.jpg"
 
 [[items]]
 series = "orange"
 shiny = false
 number = 139
 backface = "small font"
-filename = "pog_0139.png"
+original = "pog_0139.png"
+preview = "pog_0139.jpg"
 
 [[items]]
 series = "orange"
 shiny = false
 number = 140
 backface = "default"
-filename = "pog_0140.png"
+original = "pog_0140.png"
+preview = "pog_0140.jpg"
 
 [[items]]
 series = "orange"
 shiny = false
 number = 141
 backface = "default"
-filename = "pog_0141.png"
+original = "pog_0141.png"
+preview = "pog_0141.jpg"
 
 [[items]]
 series = "orange"
 shiny = false
 number = 142
 backface = "default"
-filename = "pog_0142.png"
+original = "pog_0142.png"
+preview = "pog_0142.jpg"
 
 [[items]]
 series = "orange"
 shiny = false
 number = 144
 backface = "default"
-filename = "pog_0144.png"
+original = "pog_0144.png"
+preview = "pog_0144.jpg"
 
 [[items]]
 series = "orange"
 shiny = false
 number = 145
 backface = "default"
-filename = "pog_0145.png"
+original = "pog_0145.png"
+preview = "pog_0145.jpg"
 
 [[items]]
 series = "orange"
 shiny = false
 number = 146
 backface = "default"
-filename = "pog_0146.png"
+original = "pog_0146.png"
+preview = "pog_0146.jpg"
 
 [[items]]
 series = "orange"
 shiny = false
 number = 147
 backface = "default"
-filename = "pog_0147.png"
+original = "pog_0147.png"
+preview = "pog_0147.jpg"
 
 [[items]]
 series = "orange"
 shiny = false
 number = 149
 backface = "default"
-filename = "pog_0149.png"
+original = "pog_0149.png"
+preview = "pog_0149.jpg"
 
 [[items]]
 series = "pink"
 shiny = true
 number = 154
 backface = "default"
-filename = "pog_0154.png"
+original = "pog_0154.png"
+preview = "pog_0154.jpg"
 
 [[items]]
 series = "pink"
 shiny = false
 number = 157
 backface = "default"
-filename = "pog_0157.png"
+original = "pog_0157.png"
+preview = "pog_0157.jpg"
 
 [[items]]
 series = "pink"
 shiny = false
 number = 158
 backface = "default"
-filename = "pog_0158.png"
+original = "pog_0158.png"
+preview = "pog_0158.jpg"
 
 [[items]]
 series = "pink"
 shiny = false
 number = 159
 backface = "default"
-filename = "pog_0159.png"
+original = "pog_0159.png"
+preview = "pog_0159.jpg"
 
 [[items]]
 series = "pink"
 shiny = false
 number = 163
 backface = "default"
-filename = "pog_0163.png"
+original = "pog_0163.png"
+preview = "pog_0163.jpg"
 
 [[items]]
 series = "pink"
 shiny = false
 number = 167
 backface = "default"
-filename = "pog_0167.png"
+original = "pog_0167.png"
+preview = "pog_0167.jpg"
 
 [[items]]
 series = "pink"
 shiny = false
 number = 170
 backface = "default"
-filename = "pog_0170.png"
+original = "pog_0170.png"
+preview = "pog_0170.jpg"
 
 [[items]]
 series = "pink"
 shiny = false
 number = 172
 backface = "default"
-filename = "pog_0172.png"
+original = "pog_0172.png"
+preview = "pog_0172.jpg"
 
 [[items]]
 series = "pink"
 shiny = false
 number = 176
 backface = "default"
-filename = "pog_0176.png"
+original = "pog_0176.png"
+preview = "pog_0176.jpg"
 
 [[items]]
 series = "pink"
 shiny = false
 number = 177
 backface = "default"
-filename = "pog_0177.png"
+original = "pog_0177.png"
+preview = "pog_0177.jpg"
 
 [[items]]
 series = "pink"
 shiny = false
 number = 180
 backface = "default"
-filename = "pog_0180.png"
+original = "pog_0180.png"
+preview = "pog_0180.jpg"
 
 [[items]]
 series = "poalim"
 shiny = false
 number = 186
 backface = "poalim"
-filename = "pog_0186.png"
+original = "pog_0186.png"
+preview = "pog_0186.jpg"
 
 [[items]]
 series = "brown"
 shiny = false
 number = 219
 backface = "default"
-filename = "pog_0219.png"
+original = "pog_0219.png"
+preview = "pog_0219.jpg"
 
 [[items]]
 series = "brown"
 shiny = false
 number = 225
 backface = "default"
-filename = "pog_0225.png"
+original = "pog_0225.png"
+preview = "pog_0225.jpg"
 
 [[items]]
 series = "brown"
 shiny = false
 number = 236
 backface = "default"
-filename = "pog_0236.png"
+original = "pog_0236.png"
+preview = "pog_0236.jpg"
 
 [[items]]
 series = "black"
 shiny = true
 number = 242
 backface = "sonol"
-filename = "pog_0242.png"
+original = "pog_0242.png"
+preview = "pog_0242.jpg"
 
 [[items]]
 series = "black"
 shiny = false
 number = 243
 backface = "sonol"
-filename = "pog_0243.png"
+original = "pog_0243.png"
+preview = "pog_0243.jpg"
 
 [[items]]
 series = "black"
 shiny = false
 number = 244
 backface = "sonol"
-filename = "pog_0244.png"
+original = "pog_0244.png"
+preview = "pog_0244.jpg"
 
 [[items]]
 series = "black"
 shiny = false
 number = 245
 backface = "sonol"
-filename = "pog_0245.png"
+original = "pog_0245.png"
+preview = "pog_0245.jpg"
 
 [[items]]
 series = "black"
 shiny = false
 number = 248
 backface = "sonol"
-filename = "pog_0248.png"
+original = "pog_0248.png"
+preview = "pog_0248.jpg"
 
 [[items]]
 series = "black"
 shiny = false
 number = 249
 backface = "sonol"
-filename = "pog_0249.png"
+original = "pog_0249.png"
+preview = "pog_0249.jpg"
 
 [[items]]
 series = "black"
 shiny = false
 number = 251
 backface = "sonol"
-filename = "pog_0251.png"
+original = "pog_0251.png"
+preview = "pog_0251.jpg"
 
 [[items]]
 series = "black"
 shiny = false
 number = 254
 backface = "sonol"
-filename = "pog_0254.png"
+original = "pog_0254.png"
+preview = "pog_0254.jpg"
 
 [[items]]
 series = "black"
 shiny = false
 number = 255
 backface = "sonol"
-filename = "pog_0255.png"
+original = "pog_0255.png"
+preview = "pog_0255.jpg"
 
 [[items]]
 series = "black"
 shiny = false
 number = 257
 backface = "sonol"
-filename = "pog_0257.png"
+original = "pog_0257.png"
+preview = "pog_0257.jpg"
 
 [[items]]
 series = "black"
 shiny = false
 number = 260
 backface = "sonol"
-filename = "pog_0260.png"
+original = "pog_0260.png"
+preview = "pog_0260.jpg"
 
 [[items]]
 series = "black"
 shiny = false
 number = 264
 backface = "sonol"
-filename = "pog_0264.png"
+original = "pog_0264.png"
+preview = "pog_0264.jpg"
 
 [[items]]
 series = "gray"
 shiny = true
 number = 272
 backface = "default"
-filename = "pog_0272.png"
+original = "pog_0272.png"
+preview = "pog_0272.jpg"
 
 [[items]]
 series = "gray"
 shiny = false
 number = 279
 backface = "small font"
-filename = "pog_0279.png"
+original = "pog_0279.png"
+preview = "pog_0279.jpg"
 
 [[items]]
 series = "gray"
 shiny = false
 number = 287
 backface = "small font"
-filename = "pog_0287.png"
+original = "pog_0287.png"
+preview = "pog_0287.jpg"
 
 [[items]]
 series = "gray"
 shiny = false
 number = 288
 backface = "small font"
-filename = "pog_0288.png"
+original = "pog_0288.png"
+preview = "pog_0288.jpg"
 
 [[items]]
 series = "gray"
 shiny = false
 number = 297
 backface = "small font"
-filename = "pog_0297.png"
+original = "pog_0297.png"
+preview = "pog_0297.jpg"
 
 [[items]]
 series = "turquoise"
 shiny = false
 number = 305
 backface = "default"
-filename = "pog_0305.png"
+original = "pog_0305.png"
+preview = "pog_0305.jpg"
 
 [[items]]
 series = "turquoise"
 shiny = false
 number = 307
 backface = "default"
-filename = "pog_0307.png"
+original = "pog_0307.png"
+preview = "pog_0307.jpg"
 
 [[items]]
 series = "turquoise"
 shiny = false
 number = 309
 backface = "default"
-filename = "pog_0309.png"
+original = "pog_0309.png"
+preview = "pog_0309.jpg"
 
 [[items]]
 series = "turquoise"
 shiny = false
 number = 314
 backface = "default"
-filename = "pog_0314.png"
+original = "pog_0314.png"
+preview = "pog_0314.jpg"
 
 [[items]]
 series = "turquoise"
 shiny = false
 number = 316
 backface = "default"
-filename = "pog_0316.png"
+original = "pog_0316.png"
+preview = "pog_0316.jpg"
 
 [[items]]
 series = "turquoise"
 shiny = false
 number = 318
 backface = "default"
-filename = "pog_0318.png"
+original = "pog_0318.png"
+preview = "pog_0318.jpg"
 
 [[items]]
 series = "turquoise"
 shiny = false
 number = 320
 backface = "default"
-filename = "pog_0320.png"
+original = "pog_0320.png"
+preview = "pog_0320.jpg"
 
 [[items]]
 series = "turquoise"
 shiny = false
 number = 321
 backface = "default"
-filename = "pog_0321.png"
+original = "pog_0321.png"
+preview = "pog_0321.jpg"
 
 [[items]]
 series = "turquoise"
 shiny = false
 number = 322
 backface = "default"
-filename = "pog_0322.png"
+original = "pog_0322.png"
+preview = "pog_0322.jpg"
 
 [[items]]
 series = "turquoise"
 shiny = false
 number = 323
 backface = "default"
-filename = "pog_0323.png"
+original = "pog_0323.png"
+preview = "pog_0323.jpg"
 
 [[items]]
 series = "turquoise"
 shiny = false
 number = 324
 backface = "default"
-filename = "pog_0324.png"
+original = "pog_0324.png"
+preview = "pog_0324.jpg"
 
 [[items]]
 series = "turquoise"
 shiny = false
 number = 326
 backface = "default"
-filename = "pog_0326.png"
+original = "pog_0326.png"
+preview = "pog_0326.jpg"
 
 [[items]]
 series = "turquoise"
 shiny = false
 number = 328
 backface = "default"
-filename = "pog_0328.png"
+original = "pog_0328.png"
+preview = "pog_0328.jpg"
 
 [[items]]
 series = "turquoise"
 shiny = false
 number = 329
 backface = "default"
-filename = "pog_0329.png"
+original = "pog_0329.png"
+preview = "pog_0329.jpg"
 
 [[items]]
 series = "psycho"
 shiny = false
 number = 353
 backface = "small font"
-filename = "pog_0353.png"
+original = "pog_0353.png"
+preview = "pog_0353.jpg"
 
 [[items]]
 series = "psycho"
 shiny = false
 number = 356
 backface = "small font"
-filename = "pog_0356.png"
+original = "pog_0356.png"
+preview = "pog_0356.jpg"
 
 [[items]]
 series = "psycho"
 shiny = false
 number = 357
 backface = "small font"
-filename = "pog_0357.png"
+original = "pog_0357.png"
+preview = "pog_0357.jpg"
 
 [[items]]
 series = "gold"
 shiny = true
 number = 373
 backface = "buddy"
-filename = "pog_0373.png"
+original = "pog_0373.png"
+preview = "pog_0373.jpg"
 
 [[items]]
 series = "gold"
 shiny = true
 number = 374
 backface = "buddy"
-filename = "pog_0374.png"
+original = "pog_0374.png"
+preview = "pog_0374.jpg"
 
 [[items]]
 series = "dominos"
 shiny = false
 number = 391
 backface = "dominos"
-filename = "pog_0391.png"
+original = "pog_0391.png"
+preview = "pog_0391.jpg"
 
 [[items]]
 series = "dominos"
 shiny = false
 number = 393
 backface = "dominos"
-filename = "pog_0393.png"
+original = "pog_0393.png"
+preview = "pog_0393.jpg"
 
 [[items]]
 series = "dominos"
 shiny = false
 number = 394
 backface = "dominos"
-filename = "pog_0394.png"
+original = "pog_0394.png"
+preview = "pog_0394.jpg"
 
 [[items]]
 series = "dominos"
 shiny = false
 number = 398
 backface = "dominos"
-filename = "pog_0398.png"
+original = "pog_0398.png"
+preview = "pog_0398.jpg"
 
 [[items]]
 series = "dominos"
 shiny = false
 number = 401
 backface = "dominos"
-filename = "pog_0401.png"
+original = "pog_0401.png"
+preview = "pog_0401.jpg"
 
 [[items]]
 series = "dominos"
 shiny = false
 number = 402
 backface = "dominos"
-filename = "pog_0402.png"
+original = "pog_0402.png"
+preview = "pog_0402.jpg"
 
 [[items]]
 series = "dominos"
 shiny = false
 number = 405
 backface = "dominos"
-filename = "pog_0405.png"
+original = "pog_0405.png"
+preview = "pog_0405.jpg"
 
 [[items]]
 series = "comedy-store"
 shiny = false
 number = 452
 backface = "default"
-filename = "pog_0452.png"
+original = "pog_0452.png"
+preview = "pog_0452.jpg"
 
 [[items]]
 series = "comedy-store"
 shiny = false
 number = 456
 backface = "default"
-filename = "pog_0456.png"
+original = "pog_0456.png"
+preview = "pog_0456.jpg"
 
 [[items]]
 series = "comedy-store"
 shiny = false
 number = 459
 backface = "default"
-filename = "pog_0459.png"
+original = "pog_0459.png"
+preview = "pog_0459.jpg"
 
 [[items]]
 series = "comedy-store"
 shiny = false
 number = 460
 backface = "default"
-filename = "pog_0460.png"
+original = "pog_0460.png"
+preview = "pog_0460.jpg"
 
 [[items]]
 series = "comedy-store"
 shiny = false
 number = 461
 backface = "default"
-filename = "pog_0461.png"
+original = "pog_0461.png"
+preview = "pog_0461.jpg"
 
 [[items]]
 series = "comedy-store"
 shiny = false
 number = 471
 backface = "default"
-filename = "pog_0471.png"
+original = "pog_0471.png"
+preview = "pog_0471.jpg"
 
 [[items]]
 series = "comedy-store"
 shiny = false
 number = 476
 backface = "default"
-filename = "pog_0476.png"
+original = "pog_0476.png"
+preview = "pog_0476.jpg"
 
 [[items]]
 series = "comedy-store"
 shiny = false
 number = 480
 backface = "default"
-filename = "pog_0480.png"
+original = "pog_0480.png"
+preview = "pog_0480.jpg"
 
 [[items]]
 series = "comedy-store-yellow"
 shiny = false
 number = 486
 backface = "default"
-filename = "pog_0486.png"
+original = "pog_0486.png"
+preview = "pog_0486.jpg"
 
 [[items]]
 series = "comedy-store-yellow"
 shiny = false
 number = 491
 backface = "default"
-filename = "pog_0491.png"
+original = "pog_0491.png"
+preview = "pog_0491.jpg"
 
 [[items]]
 series = "comedy-store-yellow"
 shiny = false
 number = 501
 backface = "default"
-filename = "pog_0501.png"
+original = "pog_0501.png"
+preview = "pog_0501.jpg"
 
 [[items]]
 series = "crazies"
 shiny = false
 number = 651
 backface = "default"
-filename = "pog_0651.png"
+original = "pog_0651.png"
+preview = "pog_0651.jpg"
 
 [[items]]
 series = "bushido"
 shiny = false
 number = 752
 backface = "uwf"
-filename = "pog_0752.png"
+original = "pog_0752.png"
+preview = "pog_0752.jpg"
 
 [[items]]
 series = "bushido"
 shiny = false
 number = 754
 backface = "uwf"
-filename = "pog_0754.png"
+original = "pog_0754.png"
+preview = "pog_0754.jpg"
 
 [[items]]
 series = "bushido"
 shiny = false
 number = 774
 backface = "uwf"
-filename = "pog_0774.png"
+original = "pog_0774.png"
+preview = "pog_0774.jpg"
 
 [[items]]
 series = "yellow"
 shiny = false
 number = 828
 backface = "default"
-filename = "pog_0828.png"
+original = "pog_0828.png"
+preview = "pog_0828.jpg"
 
 [[items]]
 series = "yellow"
 shiny = false
 number = 833
 backface = "default"
-filename = "pog_0833.png"
+original = "pog_0833.png"
+preview = "pog_0833.jpg"
 
 [[items]]
 series = "yellow"
 shiny = false
 number = 836
 backface = "default"
-filename = "pog_0836.png"
+original = "pog_0836.png"
+preview = "pog_0836.jpg"
 
 [[items]]
 series = "horospog"
 shiny = false
 number = 1012
 backface = "horospog"
-filename = "pog_1012.png"
+original = "pog_1012.png"
+preview = "pog_1012.jpg"
 
 [[items]]
 series = "horospog"
 shiny = false
 number = 1013
 backface = "horospog"
-filename = "pog_1013.png"
+original = "pog_1013.png"
+preview = "pog_1013.jpg"
 
 [[items]]
 series = "horospog"
 shiny = false
 number = 1014
 backface = "horospog"
-filename = "pog_1014.png"
+original = "pog_1014.png"
+preview = "pog_1014.jpg"
 
 [[items]]
 series = "horospog"
 shiny = false
 number = 1015
 backface = "horospog"
-filename = "pog_1015.png"
+original = "pog_1015.png"
+preview = "pog_1015.jpg"
 
 [[items]]
 series = "horospog"
 shiny = false
 number = 1018
 backface = "horospog"
-filename = "pog_1018.png"
+original = "pog_1018.png"
+preview = "pog_1018.jpg"
 
 [[items]]
 series = "horospog"
 shiny = false
 number = 1019
 backface = "horospog"
-filename = "pog_1019.png"
+original = "pog_1019.png"
+preview = "pog_1019.jpg"
 
 [[items]]
 series = "horospog"
 shiny = false
 number = 1020
 backface = "horospog"
-filename = "pog_1020.png"
+original = "pog_1020.png"
+preview = "pog_1020.jpg"
 
 [[items]]
 series = "horospog"
 shiny = false
 number = 1022
 backface = "horospog"
-filename = "pog_1022.png"
+original = "pog_1022.png"
+preview = "pog_1022.jpg"
 
