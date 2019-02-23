@@ -716,14 +716,14 @@ filename = "pog_0357.png"
 series = "gold"
 shiny = true
 number = 373
-backface = "default"
+backface = "buddy"
 filename = "pog_0373.png"
 
 [[items]]
 series = "gold"
 shiny = true
 number = 374
-backface = "default"
+backface = "buddy"
 filename = "pog_0374.png"
 
 [[items]]
@@ -863,21 +863,21 @@ filename = "pog_0651.png"
 series = "bushido"
 shiny = false
 number = 752
-backface = "uwf_international"
+backface = "uwf"
 filename = "pog_0752.png"
 
 [[items]]
 series = "bushido"
 shiny = false
 number = 754
-backface = "uwf_international"
+backface = "uwf"
 filename = "pog_0754.png"
 
 [[items]]
 series = "bushido"
 shiny = false
 number = 774
-backface = "uwf_international"
+backface = "uwf"
 filename = "pog_0774.png"
 
 [[items]]
