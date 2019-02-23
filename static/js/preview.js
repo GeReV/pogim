@@ -173,9 +173,10 @@ class Backface {
 
     this.svg = document.importNode(node, true);
     
-    $('tspan', this.svg).textContent = item.number;
+    $('text', this.svg).textContent = item.number;
     
     this.svgThumnbail = document.importNode(this.svg, true);
+    this.svgThumnbail.classList.add('preview-variant-backface');
   }
 
   async show() {
@@ -230,6 +231,8 @@ class Preview {
     this.variantsContainer = $('.preview-variants', this.container);
     this.variantTemplate = $('.preview-variant-template', this.container);
 
+    on(this.variantsContainer, 'click', this.handleVariantClick.bind(this));
+
     on($('.close', this.container), 'click', this.close);
 
     on($('.overlay'), 'click', e => {
@@ -259,6 +262,19 @@ class Preview {
     }
 
     this.isOpen = false;
+  }
+
+  handleVariantClick(e) {
+    const clickedVariant = e.target.closest('.preview-variant');
+
+    if (clickedVariant) {
+      this.currentVariantIndex = Array.prototype.indexOf.call(this.variantsContainer.children, clickedVariant);
+
+      this.selectVariant(this.currentVariantIndex);
+    }
+
+    e.preventDefault();
+    e.stopPropagation();
   }
 
   addVariants(variants) {
@@ -331,7 +347,6 @@ class Preview {
 
     this.addVariants(this.variants);
     
-    this.currentVariantIndex = 0;
     this.selectVariant(this.currentVariantIndex);
 
     this.open();
