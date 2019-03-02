@@ -26,3 +26,12 @@ hugo
 
 echo "Updating gh-pages branch"
 cd public && git add --all && git commit -m "Publishing to gh-pages (deploy.sh)"
+
+read -p "Would you like to push changes? (Y/n): " -n 1 -r < /dev/tty
+echo
+if [[ $REPLY =~ ^[Nn]$ ]]; then
+    exit 0
+fi
+
+echo "Pushing changes"
+git push
