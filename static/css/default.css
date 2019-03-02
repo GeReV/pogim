@@ -286,6 +286,7 @@ button {
   margin-right: .5rem;
 }
 .preview .preview-downloads > a {
+  background: #ddd;
   border: 1px solid #aaa;
   border-radius: 4px;
   padding: .5rem;
