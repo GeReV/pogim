@@ -256,7 +256,6 @@ button {
   flex-direction: column;
 }
 .preview .preview-image-container > * {
-  /* background: #fff; */
   cursor: pointer;
   flex: 1 1 auto;
   height: 0;
