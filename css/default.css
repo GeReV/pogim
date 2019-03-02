@@ -40,9 +40,12 @@ button {
 }
 
 #footer {
+  align-items: center;
   background: #222;
   color: #fafafa;
-  padding: 2rem 4rem;
+  display: flex;
+  justify-content: space-between;
+  padding: 1.5rem 2rem;
 }
 
 .gallery {
