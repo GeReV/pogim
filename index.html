@@ -1713,10 +1713,17 @@ ga('send', 'pageview');
         <div class="preview-details"></div>
       </header>
       <div class="preview-main">
-        <button class="preview-nav preview-prev">&blacktriangleright;</button>
-        <div class="preview-image-container">
+        <div class="preview-container preview-column preview-flow-expand">
+          <div class="preview-row preview-flow-expand">
+            <button class="preview-nav preview-prev">&blacktriangleright;</button>
+            <div class="preview-image-container"></div>
+            <button class="preview-nav preview-next">&blacktriangleleft;</button>
+          </div>
+          <div class="preview-downloads preview-row preview-justify-center">
+            <a class="preview-download-png" href="#">תמונה בפורמט PNG</a>
+            <a class="preview-download-jpg" href="#">תמונה בפורמט JPG</a>
+          </div>
         </div>
-        <button class="preview-nav preview-next">&blacktriangleleft;</button>
         <ol class="preview-variants">
         </ol>
       </div>

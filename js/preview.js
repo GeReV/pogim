@@ -119,6 +119,7 @@ class Gallery {
     return Array.prototype.map.call(nodes, node => ({
       thumbnailSrc: node.getAttribute('data-thumbnail'),
       imageSrc: node.getAttribute('data-image'),
+      originalSrc: node.getAttribute('href'),
       series: node.getAttribute('data-series'),
       number: node.getAttribute('data-number'),
       backface: node.getAttribute('data-backface'),
@@ -237,6 +238,8 @@ class Preview {
 
     this.number = $('.preview-number', this.container);
     this.details = $('.preview-details', this.container);
+    this.downloadLinkPng = $('.preview-download-png', this.container);
+    this.downloadLinkJpg = $('.preview-download-jpg', this.container);
     this.imageContainer = $('.preview-image-container', this.container);
     this.variantsContainer = $('.preview-variants', this.container);
     this.variantTemplate = $('.preview-variant-template', this.container);
@@ -349,6 +352,8 @@ class Preview {
   show(item) {
     this.number.textContent = item.number;
     this.details.textContent = SERIES_CONVERSION[item.series];
+    this.downloadLinkPng.setAttribute('href', item.originalSrc);
+    this.downloadLinkJpg.setAttribute('href', item.imageSrc);
     
     this.variants = [
       new Frontface(item),
