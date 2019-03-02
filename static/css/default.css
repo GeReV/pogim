@@ -226,6 +226,24 @@ button {
   /* max-height: 1200px; */
   position: relative;
 }
+.preview .preview-row {
+  display: flex;
+  flex-direction: row;
+}
+.preview .preview-column {
+  display: flex;
+  flex-direction: column;
+}
+.preview .preview-flow-expand {
+  flex: 1 1 0;
+}
+.preview .preview-justify-center {
+  justify-content: center;
+}
+.preview .preview-container {
+  align-items: stretch;
+  display: flex;
+}
 .preview .preview-nav {
   border: 0;
   background: rgba(0, 0, 0, 0);
@@ -260,6 +278,22 @@ button {
   flex: 1 1 auto;
   height: 0;
   object-fit: contain;
+}
+.preview .preview-downloads {
+  padding: .5rem;
+}
+.preview .preview-downloads > * + * {
+  margin-right: .5rem;
+}
+.preview .preview-downloads > a {
+  border: 1px solid #aaa;
+  border-radius: 4px;
+  padding: .5rem;
+  transition: background-color ease-in-out 200ms;
+  text-decoration: none;
+}
+.preview .preview-downloads > a:hover {
+  background-color: #bbb;
 }
 .preview .preview-variants {
   flex: 0 0 8rem;
