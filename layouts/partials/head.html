@@ -7,8 +7,7 @@
 <meta name="author" content="{{ with .Site.Params.author }}{{ . }}{{ end }}" />
 <link rel="icon" href="favicon.ico" />
 <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Alef">
-<link rel="stylesheet" type="text/css" href="css/normalize.css" />
-<link rel="stylesheet" type="text/css" href="css/default.css" />
-{{ range .Site.Params.custom_css }}
-<link rel="stylesheet" href="{{ . }}">
+{{ $stylesheet := .Site.Data.webpack.main }}
+{{ with $stylesheet.css }}
+  <link href="{{ relURL . }}" type="text/css" rel="stylesheet">
 {{ end }}
