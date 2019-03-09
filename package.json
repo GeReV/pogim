@@ -7,11 +7,11 @@
   "scripts": {
     "lint": "eslint src",
     "start": "run-p start:**",
-    "start:hugo": "hugo -d public -vw",
+    "start:hugo": "hugo -vw",
     "start:webpack": "webpack-dev-server --config webpack.dev.js",
     "prebuild": "rimraf public",
     "build": "npm run build:webpack && npm run build:hugo",
-    "build:hugo": "hugo -d public -v",
+    "build:hugo": "hugo -v",
     "build:webpack": "cross-env NODE_ENV=production webpack --config webpack.prod.js --hot --inline"
   },
   "author": "",
