@@ -1,5 +1,5 @@
 const merge = require("webpack-merge");
-const UglifyJsPlugin = require("uglifyjs-webpack-plugin");
+const TerserPlugin = require("terser-webpack-plugin");
 const OptimizeCSSAssetsPlugin = require("optimize-css-assets-webpack-plugin");
 const MiniCssExtractPlugin = require("mini-css-extract-plugin");
 
@@ -25,18 +25,46 @@ module.exports = merge(common, {
 
   optimization: {
     minimizer: [
-      new UglifyJsPlugin({
+      new TerserPlugin({
+        terserOptions: {
+          parse: {
+            ecma: 8,
+          },
+          compress: {
+            ecma: 6,
+            warnings: false,
+            // Disabled because of an issue with Uglify breaking seemingly valid code:
+            // https://github.com/facebook/create-react-app/issues/2376
+            // Pending further investigation:
+            // https://github.com/mishoo/UglifyJS2/issues/2011
+            comparisons: false,
+            // Disabled because of an issue with Terser breaking valid code:
+            // https://github.com/facebook/create-react-app/issues/5250
+            // Pending futher investigation:
+            // https://github.com/terser-js/terser/issues/120
+            inline: 2,
+          },
+          output: {
+            ecma: 6,
+            comments: false,
+            // Turned on because emoji and regex is not minified properly using default
+            // https://github.com/facebook/create-react-app/issues/2488
+            ascii_only: true,
+          },
+},
         cache: true,
         parallel: true,
         sourceMap: true
       }),
 
-      new MiniCssExtractPlugin({
-        filename: "[name].[hash:5].css",
-        chunkFilename: "[id].[hash:5].css"
-      }),
-
       new OptimizeCSSAssetsPlugin({})
     ]
-  }
+  },
+
+  plugins: [
+    new MiniCssExtractPlugin({
+      filename: "[name].[hash:5].css",
+      chunkFilename: "[id].[hash:5].css"
+    })
+  ]
 });
