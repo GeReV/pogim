@@ -22,12 +22,6 @@ module.exports = {
         query: {
           cacheDirectory: true
         }
-      },
-
-      {
-        test: /\.(sc|c)ss$/,
-        exclude: /node_modules/,
-        use: ["style-loader", MiniCssExtractPlugin.loader, "css-loader", "postcss-loader", "sass-loader"]
       }
     ]
   },

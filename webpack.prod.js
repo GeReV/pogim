@@ -13,6 +13,16 @@ module.exports = merge(common, {
     chunkFilename: "[id].[hash:5].css"
   },
 
+  module: {
+    rules: [
+      {
+        test: /\.(sc|c)ss$/,
+        exclude: /node_modules/,
+        use: [MiniCssExtractPlugin.loader, "css-loader", "postcss-loader", "sass-loader"]
+      }
+    ]
+  },
+
   optimization: {
     minimizer: [
       new UglifyJsPlugin({

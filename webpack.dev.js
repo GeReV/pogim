@@ -13,6 +13,16 @@ module.exports = merge(common, {
     chunkFilename: "[id].css"
   },
 
+  module: {
+    rules: [
+      {
+        test: /\.(sc|c)ss$/,
+        exclude: /node_modules/,
+        use: ["style-loader", MiniCssExtractPlugin.loader, "css-loader", "postcss-loader", "sass-loader"]
+      }
+    ]
+  },
+
   devServer: {
     publicPath: '/pogim/',
     port: process.env.PORT || 3000,
