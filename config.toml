@@ -26,6 +26,3 @@ disableKinds = ["RSS", "taxonomy", "taxonomyTerm"]
 
     # Footer text
     footertext = " נבנה על-ידי [אמיר גרוצקי](https://github.com/GeReV) &bull; [קוד מקור](https://github.com/GeReV/pogim) &bull; תוכן האתר מוגש בכפוף לרישיון [Creative Commons BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0)"
-
-    # add extra-css
-    # custom_css = ['css/extra1.css', 'css/extra2.css']
