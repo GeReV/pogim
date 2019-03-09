@@ -1,6 +1,7 @@
 # Site settings
 baseurl = "https://gerev.github.io/pogim/"
 languageCode = "he-IL"
+languageLang = "he"
 title = "Pogim"
 # Enter your tracking code to enable Google Analytics
 googleAnalytics = "UA-42446296-3"
@@ -9,6 +10,11 @@ contentdir = "content"
 datadir = "data"
 layoutdir = "layouts"
 publishdir = "public"
+
+# RSS, categories and tags disabled for an easy start
+# See configuration options for more details: 
+# https://gohugo.io/getting-started/configuration/#toml-configuration
+disableKinds = ["RSS", "taxonomy", "taxonomyTerm"]
 
 [params]
     # Meta
