@@ -5,8 +5,16 @@
 <meta name="description" content="{{ with .Site.Params.description }}{{ . }}{{ end }}" />
 <meta name="keywords" content="{{ with .Site.Params.keywords }}{{ . }}{{ end }}" />
 <meta name="author" content="{{ with .Site.Params.author }}{{ . }}{{ end }}" />
-<link rel="icon" href="favicon.ico" />
-<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Alef">
+
+<meta property="og:title" content="{{ .Site.Title }}" />
+<meta property="og:description" content="{{ .Site.Params.description }}" />
+<meta property="og:type" content="website" />
+<meta property="og:url" content="{{ .Site.BaseURL }}" />
+<meta property="og:image" content="https://pogim.net/images/og_image.png" />
+
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Alef" />
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto" />
+
 {{ $assets := .Site.Data.webpack.main }}
 {{ if .Site.IsServer }}
   {{ with $assets.css }}

@@ -87,6 +87,10 @@ button {
   color: transparent; */
 }
 
+.pog-number {
+  font-family: "Roboto", “Helvetica Neue”, Helvetica, Arial, sans-serif;
+}
+
 .pog-red {
   background-color: #e53922;
 }
