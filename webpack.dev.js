@@ -24,7 +24,6 @@ module.exports = merge(common, {
   },
 
   devServer: {
-    publicPath: '/pogim/',
     port: process.env.PORT || 3000,
     contentBase: path.join(process.cwd(), "./public"),
     watchContentBase: true,
