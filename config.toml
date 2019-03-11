@@ -1,5 +1,5 @@
 # Site settings
-baseurl = "//pogim.net"
+baseurl = "https://pogim.net"
 languageCode = "he-IL"
 languageLang = "he"
 title = "פוגים.נט"
