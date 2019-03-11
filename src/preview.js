@@ -102,14 +102,13 @@ export default class Preview {
 
     this.variantsContainer.children.item(variantIndex).classList.add('preview-variant-selected');
 
-    this.variants[variantIndex].show()
-      .then(preview => {
-        if (this.imageContainer.childElementCount) {
-          this.imageContainer.firstElementChild.replaceWith(preview);
-        } else {
-          this.imageContainer.appendChild(preview);
-        }
-      });    
+    const preview = this.variants[variantIndex].show();
+
+    if (this.imageContainer.childElementCount) {
+      this.imageContainer.firstElementChild.replaceWith(preview);
+    } else {
+      this.imageContainer.appendChild(preview);
+    }
   }
 
   handleKeyUp(evt) {

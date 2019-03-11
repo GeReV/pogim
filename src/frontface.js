@@ -11,7 +11,7 @@ export default class Frontface {
     this.imgThumbnail.src = item.thumbnailSrc;
   }
 
-  async show() {
+  show() {
     return this.imgFull;
   }
 

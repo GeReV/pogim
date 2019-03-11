@@ -65,6 +65,10 @@ export default class Gallery {
   }
 
   step(offset) {
+    if (!this.preview.isOpen) {
+      return;
+    }
+
     this.pendingStep = this.pendingStep
       .then(() => {
         const nextIndex = (this.currentIndex + offset + this.items.length) % this.items.length;

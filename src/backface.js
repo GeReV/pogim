@@ -24,7 +24,7 @@ export default class Backface {
     this.svgThumnbail.classList.add('preview-variant-backface');
   }
 
-  async show() {
+  show() {
     return this.svg;
   }
 
