@@ -7,7 +7,19 @@
 <meta name="author" content="{{ with .Site.Params.author }}{{ . }}{{ end }}" />
 <link rel="icon" href="favicon.ico" />
 <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Alef">
-{{ $stylesheet := .Site.Data.webpack.main }}
-{{ with $stylesheet.css }}
-  <link href="{{ relURL . }}" type="text/css" rel="stylesheet">
+{{ $assets := .Site.Data.webpack.main }}
+{{ if .Site.IsServer }}
+  {{ with $assets.css }}
+    <link href="{{ relURL . }}" type="text/css" rel="stylesheet">
+  {{ end }}
+  {{ with $assets.js }}
+    <script src="{{ relURL . }}" defer></script>
+  {{ end }}
+{{ else }}
+  {{ with resources.Get $assets.css | resources.Fingerprint }}
+    <link href="{{ .RelPermalink }}" type="text/css" rel="stylesheet">
+  {{ end }}
+  {{ with resources.Get $assets.js | resources.Fingerprint }}
+    <script src="{{ .RelPermalink }}" integrity="{{ .Data.Integrity }}" defer></script>
+  {{ end }}
 {{ end }}
