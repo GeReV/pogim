@@ -1,8 +1,8 @@
 # Site settings
-baseurl = "https://gerev.github.io/pogim/"
+baseurl = "//pogim.net"
 languageCode = "he-IL"
 languageLang = "he"
-title = "Pogim"
+title = "פוגים.נט"
 # Enter your tracking code to enable Google Analytics
 googleAnalytics = "UA-42446296-3"
 
@@ -18,7 +18,7 @@ disableKinds = ["RSS", "taxonomy", "taxonomyTerm"]
 
 [params]
     # Meta
-    title = "פוגים"
+    title = "פוגים.נט"
     subtitle = ""
     author = "אמיר גרוצקי"
     description = ""
