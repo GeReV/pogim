@@ -114,6 +114,11 @@ export default class Preview {
   handleKeyUp(evt) {
     const prevVariantIndex = this.currentVariantIndex;
 
+    if (evt.key === 'Escape') {
+      this.close();
+      return;
+    }
+
     if (evt.key === 'ArrowDown') {
       this.currentVariantIndex = Math.min(this.currentVariantIndex + 1, this.maxVariantIndex);
     }

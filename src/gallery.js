@@ -58,10 +58,6 @@ export default class Gallery {
     if (e.key === 'ArrowRight') {
       this.step(-1);
     }
-
-    if (e.key === 'Escape') {
-      this.preview.close();
-    }
   }
 
   step(offset) {
