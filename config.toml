@@ -4,7 +4,7 @@ languageCode = "he-IL"
 languageLang = "he"
 title = "פוגים.נט"
 # Enter your tracking code to enable Google Analytics
-googleAnalytics = "UA-42446296-3"
+googleAnalytics = "UA-136114685-1"
 
 contentdir = "content"
 datadir = "data"
