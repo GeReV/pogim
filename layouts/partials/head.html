@@ -13,20 +13,33 @@
 <meta property="og:url" content="{{ .Site.BaseURL }}" />
 <meta property="og:image" content="https://pogim.net/images/logo.png" />
 
+<link rel="apple-touch-icon-precomposed" href="/apple-touch-icon-precomposed.png" />
+<link rel="apple-touch-icon" sizes="57x57" href="/apple-touch-icon-57x57.png" />
+<link rel="apple-touch-icon" sizes="60x60" href="/apple-touch-icon-60x60.png" />
+<link rel="apple-touch-icon" sizes="72x72" href="/apple-touch-icon-72x72.png" />
+<link rel="apple-touch-icon" sizes="76x76" href="/apple-touch-icon-76x76.png" />
+<link rel="apple-touch-icon" sizes="114x114" href="/apple-touch-icon-114x114.png" />
+<link rel="apple-touch-icon" sizes="120x120" href="/apple-touch-icon-120x120.png" />
+<link rel="apple-touch-icon" sizes="144x144" href="/apple-touch-icon-144x144.png" />
+<link rel="apple-touch-icon" sizes="152x152" href="/apple-touch-icon-152x152.png" />
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon-180x180.png" />
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png" />
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png" />
+
 <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Alef" />
 <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto" />
 
 {{ $assets := .Site.Data.webpack.main }}
 {{ if .Site.IsServer }}
   {{ with $assets.css }}
-    <link href="{{ relURL . }}" type="text/css" rel="stylesheet">
+    <link href="{{ relURL . }}" type="text/css" rel="stylesheet" />
   {{ end }}
   {{ with $assets.js }}
     <script src="{{ relURL . }}" defer></script>
   {{ end }}
 {{ else }}
   {{ with resources.Get $assets.css | resources.Fingerprint }}
-    <link href="{{ .RelPermalink }}" type="text/css" rel="stylesheet">
+    <link href="{{ .RelPermalink }}" type="text/css" rel="stylesheet" />
   {{ end }}
   {{ with resources.Get $assets.js | resources.Fingerprint }}
     <script src="{{ .RelPermalink }}" integrity="{{ .Data.Integrity }}" defer></script>
