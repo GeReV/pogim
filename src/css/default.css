@@ -28,17 +28,32 @@ button {
 }
 
 #header {
-  padding: 2rem 4rem;
+  padding: 2rem 4rem 1rem;
   font-size: 2rem;
 }
 
 #header > h1 {
   margin: 0;
 }
+#header > h1::before {
+  background: url('/images/logo.png') #fff no-repeat center center;
+  background-size: 100%;
+  border-radius: 50%;
+  box-shadow: 0 0 3px rgba(0, 0, 0, 0.5);
+  content: '';
+  display: inline-block;
+  vertical-align: middle;
+  height: 1.25em;
+  width: 1.25em;
+}
 
 #main {
   flex: 1 0 0;
-  padding: 2rem 4rem;
+  padding: 1rem 4rem 2rem;
+}
+
+#main h2 {
+  margin: 0 0 1rem;
 }
 
 #footer {
