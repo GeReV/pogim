@@ -10,8 +10,10 @@
   <div id="container">
     {{ partial "header.html" . }}
     <main id="main">
+      {{ $items := $.Site.Data.items.items }}
+      <h2>באוסף ישנם {{ len $items }} מתוך 1030 פוגים</h2>
       <ul id="pogs" class="gallery">
-        {{ range $.Site.Data.items.items }}
+        {{ range $items }}
         <li class="gallery-item">
           <a href="images/pogs/{{.original}}" class="pog pog-{{.series}}" data-image="images/pogs/{{.preview}}"
             data-thumbnail="images/pogs/thumbs/{{.original}}" data-shiny="{{.shiny}}" data-number="{{.number}}"
