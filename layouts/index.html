@@ -10,6 +10,9 @@
   <div id="container">
     {{ partial "header.html" . }}
     <main id="main">
+      <article id="intro">
+        {{ partial "intro.md" | markdownify }}
+      </article>
       {{ $items := $.Site.Data.items.items }}
       <h2>באוסף ישנם {{ len $items }} מתוך 1030 פוגים</h2>
       <ul id="pogs" class="gallery">

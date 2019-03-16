@@ -21,6 +21,15 @@ button {
   cursor: pointer;
 }
 
+p {
+  font-size: 1.25rem;
+  margin: 0;
+}
+
+p + p {
+  margin-top: .75rem;
+}
+
 #container {  
   display: flex;
   flex-direction: column;
@@ -35,6 +44,7 @@ button {
 #header > h1 {
   margin: 0;
 }
+
 #header > h1::before {
   background: url('/images/logo.png') #fff no-repeat center center;
   background-size: 100%;
@@ -52,8 +62,12 @@ button {
   padding: 1rem 4rem 2rem;
 }
 
-#main h2 {
-  margin: 0 0 1rem;
+#main > * {
+  margin: 0;
+}
+
+#main > * + * {
+  margin-top: 1em;
 }
 
 #footer {
