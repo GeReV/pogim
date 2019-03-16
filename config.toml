@@ -19,9 +19,8 @@ disableKinds = ["RSS", "taxonomy", "taxonomyTerm"]
 [params]
     # Meta
     title = "פוגים.נט"
-    subtitle = ""
     author = "אמיר גרוצקי"
-    description = ""
+    description = "פוגים.נט הוא אתר לשימור הפוגים, דיסקיות הקרטון הצבעוניות שהיו אולי השיגעון הגדול ביותר של שנות ה-90 בארץ"
     keywords = "פוגים, פוג, ניינטיז, נוסטלגיה"
 
     # Footer text
