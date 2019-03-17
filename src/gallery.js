@@ -1,4 +1,4 @@
-import { $, $$, on, throttle } from './utils';
+import { $, $$, on, throttle, pushHistory } from './utils';
 
 export default class Gallery {
   constructor(gallery, preview) {
@@ -15,12 +15,20 @@ export default class Gallery {
 
     on(document, 'keydown', this.handleKeyDown);
 
+    on(window, 'popstate', this.handleHistoryPopState.bind(this));
+
     // TODO: Find a better place for these.
     on($('.preview-image-container'), 'click', e => this.step(1));
 
     on($('.preview-next'), 'click', e => this.step(1));
 
     on($('.preview-prev'), 'click', e => this.step(-1));
+
+    this.handleStartupUrl();
+  }
+
+  get currentItem() {
+    return this.items[this.currentIndex];
   }
 
   buildItems(nodes) {
@@ -35,6 +43,39 @@ export default class Gallery {
     }));
   }
 
+  findItemIndex(number) {
+    return this.items.findIndex(item => item.number === number);
+  }
+
+  handleStartupUrl() {
+    const number = new URLSearchParams(window.location.search).get('pog');
+
+    if (!number) {
+      return;
+    }
+
+    this.currentIndex = this.findItemIndex(number);
+
+    this.preview.show(this.currentItem);
+  }
+
+  handleHistoryPopState(e) {
+    e.preventDefault();
+    e.stopPropagation();
+
+    const number = new URLSearchParams(window.location.search).get('pog');
+
+    if (!number) {
+      this.preview.close();
+
+      return;
+    }
+
+    this.currentIndex = this.findItemIndex(number);
+
+    this.preview.show(this.currentItem);
+  }
+
   handleImageClick(e) {
     const pog = e.target.closest('.pog');
 
@@ -45,9 +86,13 @@ export default class Gallery {
     e.preventDefault();
     e.stopPropagation();
 
-    this.currentIndex = this.items.findIndex(item => item.number === pog.getAttribute('data-number'));
+    this.currentIndex = this.findItemIndex(pog.getAttribute('data-number'));
 
-    this.preview.show(this.items[this.currentIndex]);
+    const item = this.currentItem;
+
+    pushHistory(item.number);
+
+    this.preview.show(item, true);
   }
 
   handleKeyDown(e) {
@@ -71,7 +116,11 @@ export default class Gallery {
 
         this.currentIndex = nextIndex;
 
-        return this.preview.show(this.items[this.currentIndex]);
+        const item = this.currentItem;
+
+        pushHistory(item.number);
+
+        return this.preview.show(item);
       });
   }
 }

@@ -1,4 +1,4 @@
-import { $, on, off, clearChildren } from './utils';
+import { $, on, off, clearChildren, pushHistory } from './utils';
 
 import Backface from './backface';
 import Frontface from './frontface';
@@ -31,13 +31,15 @@ export default class Preview {
 
     on(this.variantsContainer, 'click', this.handleVariantClick.bind(this));
 
-    on($('.close', this.container), 'click', this.close);
+    on($('.close', this.container), 'click', this.handleCloseClick.bind(this));
 
     on($('.overlay'), 'click', e => {
-        e.stopPropagation();
+      e.stopPropagation();
 
-        this.close();
-      });
+      pushHistory(null);
+
+      this.close();
+    });
   }
 
   open() {
@@ -60,6 +62,15 @@ export default class Preview {
     }
 
     this.isOpen = false;
+  }
+
+  handleCloseClick(e) {
+    e.stopPropagation();
+    e.preventDefault();
+
+    pushHistory(null);
+
+    this.close();
   }
 
   handleVariantClick(e) {
@@ -115,7 +126,10 @@ export default class Preview {
     const prevVariantIndex = this.currentVariantIndex;
 
     if (evt.key === 'Escape') {
+      pushHistory(null);
+
       this.close();
+
       return;
     }
 
@@ -138,19 +152,23 @@ export default class Preview {
     }
   }
 
-  show(item) {
+  show(item, resetSelectedVariant = false) {
     this.number.textContent = item.number;
     this.details.textContent = SERIES_CONVERSION[item.series];
     this.downloadLinkPng.setAttribute('href', item.originalSrc);
     this.downloadLinkJpg.setAttribute('href', item.imageSrc);
-    
+
     this.variants = [
       new Frontface(item),
       new Backface(item),
     ];
 
     this.addVariants(this.variants);
-    
+
+    if (resetSelectedVariant) {
+      this.currentVariantIndex = 0;
+    }
+
     this.selectVariant(this.currentVariantIndex);
 
     this.open();

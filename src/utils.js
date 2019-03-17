@@ -43,15 +43,37 @@ export function imageLoad(img, src) {
 
     img.src = src;
   })
-  .then(() => {
-    clearLoad();
-    clearError();
-  })
-  .then(() => img);
+    .then(() => {
+      clearLoad();
+      clearError();
+    })
+    .then(() => img);
 }
 
 export function clearChildren(el) {
   while (el.lastChild) {
     el.removeChild(el.lastChild);
   }
+}
+
+export function trackPageView() {
+  if (window.ga) {
+    ga('set', 'page', window.location.pathname + window.location.search);
+    ga('send', 'pageview');
+  }
+}
+
+export function pushHistory(number) {
+  const url = new URL(window.location.href);
+
+  url.searchParams
+    .forEach((_, key) => url.searchParams.delete(key));
+
+  if (number) {
+    url.searchParams.set('pog', number);
+  }
+
+  window.history.pushState(null, '', url.toString());
+
+  trackPageView();
 }
