@@ -234,7 +234,7 @@ p + p {
   pointer-events: none;
 }
 .drawer.drawer-closed .drawer-panel {
-  transform: translate3d(-100%, 0, 0);
+  transform: translate3d(-105%, 0, 0);
 }
 
 .preview {
