@@ -17,16 +17,73 @@ a {
   color: inherit;
 }
 
+p, 
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+figure {
+  margin: 0;
+}
+
+article {
+  font-size: 1.25rem;
+}
+
+article > * + * {
+  margin-top: .75em;
+}
+
+article > ol,
+article > ul {
+  padding: 0;
+}
+
+article > ul {
+  list-style-type: none;
+}
+
+article > ul > li {
+  padding-right: 1.25rem;
+  position: relative;
+}
+
+article li + li {
+  margin-top: .75em;
+}
+
+article > ul > li::before {
+  content: '\25cf';
+  position: absolute;
+  right: 0;
+}
+
+article li > aside {
+  margin-top: .25em;
+  color: #666;
+}
+
 button {
   cursor: pointer;
 }
 
-p {
-  margin: 0;
+figure {
+  text-align: center;
 }
 
-p + p {
-  margin-top: .75rem;
+figure > img {
+  border: 1px solid #ccc;
+}
+
+figure > figcaption {
+  color: #888;
+  font-size: .8em;
+}
+
+figure > figcaption > h4 {
+  font-weight: normal;
 }
 
 #container {  
@@ -56,6 +113,10 @@ p + p {
   width: 1.25em;
 }
 
+#header > h1 > a {
+  text-decoration: none;
+}
+
 #main {
   flex: 1 0 0;
   padding: 1rem 4rem 2rem;
@@ -67,10 +128,6 @@ p + p {
 
 #main > * + * {
   margin-top: 1em;
-}
-
-#intro {
-  font-size: 1.25rem;
 }
 
 #footer {
@@ -369,6 +426,10 @@ p + p {
     font-size: 14px;
   }
 
+  article {
+    font-size: 1.15rem;
+  }
+
   #header {
     font-size: 1.5rem;
     padding: 2rem 2rem 1rem;
@@ -376,10 +437,6 @@ p + p {
 
   #main {
     padding: 1rem 2rem 2rem;
-  }
-
-  #intro {
-    font-size: 1.15rem;
   }
 
   .pog {

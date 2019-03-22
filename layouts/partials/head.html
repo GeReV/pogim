@@ -34,14 +34,8 @@
   {{ with $assets.css }}
     <link href="{{ relURL . }}" type="text/css" rel="stylesheet" />
   {{ end }}
-  {{ with $assets.js }}
-    <script src="{{ relURL . }}" defer></script>
-  {{ end }}
 {{ else }}
   {{ with resources.Get $assets.css | resources.Fingerprint }}
     <link href="{{ .RelPermalink }}" type="text/css" rel="stylesheet" />
-  {{ end }}
-  {{ with resources.Get $assets.js | resources.Fingerprint }}
-    <script src="{{ .RelPermalink }}" integrity="{{ .Data.Integrity }}" defer></script>
   {{ end }}
 {{ end }}

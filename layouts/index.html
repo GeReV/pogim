@@ -1,41 +1,37 @@
-<!DOCTYPE html>
-<html lang="{{ with .Site.LanguageCode }}{{ . }}{{ else }}en-US{{ end }}">
+{{ define "main" }}
+  <article id="intro">
+    {{ partial "intro.md" . | markdownify }}
+  </article>
+  {{ $items := $.Site.Data.items.items }}
+  <h2>באוסף ישנם {{ len $items }} מתוך 1030 פוגים</h2>
+  <ul id="pogs" class="gallery">
+    {{ range $items }}
+    <li class="gallery-item">
+      <a href="images/pogs/{{.original}}" class="pog pog-{{.series}}" data-image="images/pogs/{{.preview}}"
+        data-thumbnail="images/pogs/thumbs/{{.original}}" data-shiny="{{.shiny}}" data-number="{{.number}}"
+        data-series="{{.series}}" data-backface="{{.backface}}">
+        <img src="images/pogs/thumbs/{{.original}}" alt="פוג {{.number}}" />
+      </a>
+      <span class="pog-number">
+        {{.number}}
+      </span>
+      {{ if eq .shiny true }}
+      <span class="pog-shiny" title="מבריק">&starf;</span>
+      {{ end }}
+    </li>
+    {{ end }}
+  </ul>
+  
+  {{ partial "preview.html" . }}
 
-<head>
-  {{ partial "head.html" . }}
-  {{ template "_internal/google_analytics.html" . }}
-</head>
-
-<body>
-  <div id="container">
-    {{ partial "header.html" . }}
-    <main id="main">
-      <article id="intro">
-        {{ partial "intro.md" | markdownify }}
-      </article>
-      {{ $items := $.Site.Data.items.items }}
-      <h2>באוסף ישנם {{ len $items }} מתוך 1030 פוגים</h2>
-      <ul id="pogs" class="gallery">
-        {{ range $items }}
-        <li class="gallery-item">
-          <a href="images/pogs/{{.original}}" class="pog pog-{{.series}}" data-image="images/pogs/{{.preview}}"
-            data-thumbnail="images/pogs/thumbs/{{.original}}" data-shiny="{{.shiny}}" data-number="{{.number}}"
-            data-series="{{.series}}" data-backface="{{.backface}}">
-            <img src="images/pogs/thumbs/{{.original}}" alt="פוג {{.number}}" />
-          </a>
-          <span class="pog-number">
-            {{.number}}
-          </span>
-          {{ if eq .shiny true }}
-          <span class="pog-shiny" title="מבריק">&starf;</span>
-          {{ end }}
-        </li>
-        {{ end }}
-      </ul>
-    </main>
-    {{ partial "footer.html" . }}
-    {{ partial "preview.html" . }}
-  </div>
-</body>
-
-</html>
+  {{ $assets := .Site.Data.webpack.main }}
+  {{ if .Site.IsServer }}
+    {{ with $assets.js }}
+      <script src="{{ relURL . }}" defer></script>
+    {{ end }}
+  {{ else }}
+    {{ with resources.Get $assets.js | resources.Fingerprint }}
+      <script src="{{ .RelPermalink }}" integrity="{{ .Data.Integrity }}" defer></script>
+    {{ end }}
+  {{ end }}
+{{ end }}
