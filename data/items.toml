@@ -312,6 +312,14 @@ original = "pog_0039.png"
 
 [[items]]
 series = "green"
+number = 40
+backface = "default"
+preview = "pog_0040.jpg"
+shiny = false
+original = "pog_0040.png"
+
+[[items]]
+series = "green"
 number = 41
 backface = "default"
 preview = "pog_0041.jpg"
@@ -549,6 +557,14 @@ backface = "default"
 preview = "pog_0070.jpg"
 shiny = false
 original = "pog_0070.png"
+
+[[items]]
+series = "blue"
+number = 71
+backface = "default"
+preview = "pog_0071.jpg"
+shiny = false
+original = "pog_0071.png"
 
 [[items]]
 series = "blue"
