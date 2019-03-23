@@ -38,6 +38,7 @@ def main():
                 continue
 
             output_filename = 'pog_%04d%s' % (num, path.splitext(filename)[1])
+            preview_filename = 'pog_%04d.jpg' % num
 
             output_path = path.join(args.output, output_filename)
 
@@ -47,7 +48,8 @@ def main():
             )
 
             output_dict['items'].append({
-                "filename": output_filename,
+                "original": output_filename,
+                "preview": preview_filename,
                 "number": num,
                 "series": row['series'],
                 "backface": row['backface'] or 'default',
