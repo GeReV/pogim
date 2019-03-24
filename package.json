@@ -4,6 +4,10 @@
   "description": "",
   "repository": "gerev/pogim",
   "main": "index.js",
+  "engineStrict": true,
+  "engines": {
+    "node": ">=10.0.0"
+  },
   "scripts": {
     "lint": "eslint src",
     "start": "run-p start:**",
