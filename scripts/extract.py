@@ -55,13 +55,13 @@ def extract_pogs(filename):
 
     inv_mask = cv.bitwise_not(mask)
 
-    image, contours, hierarchy = cv.findContours(
+    contours, hierarchy = cv.findContours(
         inv_mask, cv.RETR_EXTERNAL, cv.CHAIN_APPROX_SIMPLE)
 
-    contours = filter(
+    contours = list(filter(
         lambda cnt: cv.contourArea(cnt) > (img.size // 500),
         contours
-    )
+    ))
 
     print("Extracting {} Pogs...".format(len(contours)))
 
