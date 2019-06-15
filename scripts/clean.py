@@ -3,17 +3,80 @@ import cv2 as cv
 import sys
 from os import path
 
+WINDOW_NAME = "Mask Editor"
+
+l_value = (0, 255)
+a_value = (0, 255)
+b_value = (0, 255)
+
 
 def extract_mask(img):
     img = cv.medianBlur(img, 5)
     lab = cv.cvtColor(img, cv.COLOR_BGR2Lab)
 
-    pad = 5
+    lab_resize = cv.resize(lab, None, fx=0.5, fy=0.5)
 
-    lower = np.array([128, 128 - pad, 128 - pad])
-    upper = np.array([255, 128 + pad, 128 + pad])
+    cv.namedWindow(WINDOW_NAME)
 
-    return cv.inRange(lab, lower, upper)
+    def mask(src):
+        global l_value
+
+        lower = np.array([l_value[0], a_value[0], b_value[0]])
+        upper = np.array([l_value[1], a_value[1], b_value[1]])
+
+        return cv.inRange(src, lower, upper)
+
+    def on_l_trackbar_min(val):
+        global l_value
+        l_value = (val, l_value[1])
+        cv.imshow(WINDOW_NAME, mask(lab_resize))
+
+    def on_l_trackbar_max(val):
+        global l_value
+        l_value = (l_value[0], val)
+        cv.imshow(WINDOW_NAME, mask(lab_resize))
+
+    def on_a_trackbar_min(val):
+        global a_value
+        a_value = (val, a_value[1])
+        cv.imshow(WINDOW_NAME, mask(lab_resize))
+
+    def on_a_trackbar_max(val):
+        global a_value
+        a_value = (a_value[0], val)
+        cv.imshow(WINDOW_NAME, mask(lab_resize))
+
+    def on_b_trackbar_min(val):
+        global b_value
+        b_value = (val, b_value[1])
+        cv.imshow(WINDOW_NAME, mask(lab_resize))
+
+    def on_b_trackbar_max(val):
+        global b_value
+        b_value = (b_value[0], val)
+        cv.imshow(WINDOW_NAME, mask(lab_resize))
+
+    cv.createTrackbar("L Value MIN", WINDOW_NAME, l_value[0],
+                      255, on_l_trackbar_min)
+    cv.createTrackbar("L Value MAX", WINDOW_NAME, l_value[1],
+                      255, on_l_trackbar_max)
+
+    cv.createTrackbar("A Value MIN", WINDOW_NAME, a_value[0],
+                      255, on_a_trackbar_min)
+    cv.createTrackbar("A Value MAX", WINDOW_NAME, a_value[1],
+                      255, on_a_trackbar_max)
+
+    cv.createTrackbar("B Value MIN", WINDOW_NAME, b_value[0],
+                      255, on_b_trackbar_min)
+    cv.createTrackbar("B Value MAX", WINDOW_NAME, b_value[1],
+                      255, on_b_trackbar_max)
+
+    cv.imshow(WINDOW_NAME, mask(lab_resize))
+
+    cv.waitKey(0)
+    cv.destroyAllWindows()
+
+    return mask(lab)
 
 
 def blend(a, b, alpha):
@@ -35,13 +98,13 @@ def clean_pog(filename):
 
     inv_mask = cv.bitwise_not(mask)
 
-    image, contours, hierarchy = cv.findContours(
+    contours, hierarchy = cv.findContours(
         inv_mask, cv.RETR_EXTERNAL, cv.CHAIN_APPROX_SIMPLE)
 
-    contours = filter(
+    contours = list(filter(
         lambda cnt: cv.contourArea(cnt) > (img.size // 500),
         contours
-    )
+    ))
 
     alpha = np.zeros(img.shape)
 
