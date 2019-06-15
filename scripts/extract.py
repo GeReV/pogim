@@ -77,19 +77,19 @@ def extract_mask(img, pad=3):
         b_value = (b_value[0], val)
         cv.imshow(WINDOW_NAME, mask(lab_resize))
 
-    cv.createTrackbar("L Value MIN: {}".format(l_value[0]), WINDOW_NAME, l_value[0],
+    cv.createTrackbar("L Value MIN", WINDOW_NAME, l_value[0],
                       255, on_l_trackbar_min)
-    cv.createTrackbar("L Value MAX: {}".format(l_value[1]), WINDOW_NAME, l_value[1],
+    cv.createTrackbar("L Value MAX", WINDOW_NAME, l_value[1],
                       255, on_l_trackbar_max)
 
-    cv.createTrackbar("A Value MIN: {}".format(a_value[0]), WINDOW_NAME, a_value[0],
+    cv.createTrackbar("A Value MIN", WINDOW_NAME, a_value[0],
                       255, on_a_trackbar_min)
-    cv.createTrackbar("A Value MAX: {}".format(a_value[1]), WINDOW_NAME, a_value[1],
+    cv.createTrackbar("A Value MAX", WINDOW_NAME, a_value[1],
                       255, on_a_trackbar_max)
 
-    cv.createTrackbar("B Value MIN: {}".format(b_value[0]), WINDOW_NAME, b_value[0],
+    cv.createTrackbar("B Value MIN", WINDOW_NAME, b_value[0],
                       255, on_b_trackbar_min)
-    cv.createTrackbar("B Value MAX: {}".format(b_value[1]), WINDOW_NAME, b_value[1],
+    cv.createTrackbar("B Value MAX", WINDOW_NAME, b_value[1],
                       255, on_b_trackbar_max)
 
     cv.imshow(WINDOW_NAME, mask(lab_resize))
