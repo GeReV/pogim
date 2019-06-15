@@ -3,6 +3,12 @@ import cv2 as cv
 import sys
 from os import path
 
+WINDOW_NAME = "Mask Editor"
+
+
+def clamp(value, a, b):
+    return max(a, min(value, b))
+
 
 def extract_regions(filename, img, contours, pad=30):
     for index, cnt in enumerate(contours):
@@ -20,16 +26,78 @@ def extract_regions(filename, img, contours, pad=30):
         cv.imwrite(out_filename, region)
 
 
-def extract_mask(img):
+l_value = (0, 255)
+a_value = (0, 255)
+b_value = (0, 255)
+
+
+def extract_mask(img, pad=3):
     img = cv.medianBlur(img, 5)
     lab = cv.cvtColor(img, cv.COLOR_BGR2Lab)
 
-    pad = 3
+    lab_resize = cv.resize(lab, None, fx=0.15, fy=0.15)
 
-    lower = np.array([128, 128 - pad, 128 - pad])
-    upper = np.array([255, 128 + pad, 128 + pad])
+    cv.namedWindow(WINDOW_NAME)
 
-    return cv.inRange(lab, lower, upper)
+    def mask(src):
+        global l_value
+
+        lower = np.array([l_value[0], a_value[0], b_value[0]])
+        upper = np.array([l_value[1], a_value[1], b_value[1]])
+
+        return cv.inRange(src, lower, upper)
+
+    def on_l_trackbar_min(val):
+        global l_value
+        l_value = (val, l_value[1])
+        cv.imshow(WINDOW_NAME, mask(lab_resize))
+
+    def on_l_trackbar_max(val):
+        global l_value
+        l_value = (l_value[0], val)
+        cv.imshow(WINDOW_NAME, mask(lab_resize))
+
+    def on_a_trackbar_min(val):
+        global a_value
+        a_value = (val, a_value[1])
+        cv.imshow(WINDOW_NAME, mask(lab_resize))
+
+    def on_a_trackbar_max(val):
+        global a_value
+        a_value = (a_value[0], val)
+        cv.imshow(WINDOW_NAME, mask(lab_resize))
+
+    def on_b_trackbar_min(val):
+        global b_value
+        b_value = (val, b_value[1])
+        cv.imshow(WINDOW_NAME, mask(lab_resize))
+
+    def on_b_trackbar_max(val):
+        global b_value
+        b_value = (b_value[0], val)
+        cv.imshow(WINDOW_NAME, mask(lab_resize))
+
+    cv.createTrackbar("L Value MIN: {}".format(l_value[0]), WINDOW_NAME, l_value[0],
+                      255, on_l_trackbar_min)
+    cv.createTrackbar("L Value MAX: {}".format(l_value[1]), WINDOW_NAME, l_value[1],
+                      255, on_l_trackbar_max)
+
+    cv.createTrackbar("A Value MIN: {}".format(a_value[0]), WINDOW_NAME, a_value[0],
+                      255, on_a_trackbar_min)
+    cv.createTrackbar("A Value MAX: {}".format(a_value[1]), WINDOW_NAME, a_value[1],
+                      255, on_a_trackbar_max)
+
+    cv.createTrackbar("B Value MIN: {}".format(b_value[0]), WINDOW_NAME, b_value[0],
+                      255, on_b_trackbar_min)
+    cv.createTrackbar("B Value MAX: {}".format(b_value[1]), WINDOW_NAME, b_value[1],
+                      255, on_b_trackbar_max)
+
+    cv.imshow(WINDOW_NAME, mask(lab_resize))
+
+    cv.waitKey(0)
+    cv.destroyAllWindows()
+
+    return mask(lab)
 
 
 def draw_debug(img, contours, pad=30):
@@ -41,7 +109,7 @@ def draw_debug(img, contours, pad=30):
 
     img = cv.drawContours(img, contours, -1, (128, 64, 0), 1)
 
-    img = cv.resize(img, None, fx=0.1, fy=0.1)
+    img = cv.resize(img, None, fx=0.15, fy=0.15)
 
     cv.imshow('image', img)
     cv.waitKey(0)
@@ -68,10 +136,9 @@ def extract_pogs(filename):
     pad = img.shape[0] // 180
 
     extract_regions(filename, img, contours, pad=pad)
+    # draw_debug(img, contours, pad=pad)
 
     print("Done.\n")
-
-    # draw_debug(img, contours, pad=pad)
 
 
 def main():
