@@ -2903,7 +2903,7 @@ shiny = false
 original = "pog_0651.png"
 
 [[items]]
-series = "bushido"
+series = "bushido-green"
 number = 752
 backface = "uwf"
 preview = "pog_0752.jpg"
@@ -2911,7 +2911,7 @@ shiny = false
 original = "pog_0752.png"
 
 [[items]]
-series = "bushido"
+series = "bushido-green"
 number = 754
 backface = "uwf"
 preview = "pog_0754.jpg"
@@ -2919,7 +2919,7 @@ shiny = false
 original = "pog_0754.png"
 
 [[items]]
-series = "bushido"
+series = "bushido-green"
 number = 774
 backface = "uwf"
 preview = "pog_0774.jpg"
