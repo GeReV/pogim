@@ -1727,6 +1727,14 @@ shiny = false
 original = "pog_0232.png"
 
 [[items]]
+original = "pog_0233.png"
+preview = "pog_0233.jpg"
+number = 233
+series = "brown"
+backface = "default"
+shiny = false
+
+[[items]]
 series = "brown"
 number = 234
 backface = "default"
@@ -2735,6 +2743,94 @@ shiny = false
 original = "pog_0360.png"
 
 [[items]]
+original = "pog_0361.png"
+preview = "pog_0361.jpg"
+number = 361
+series = "gold"
+backface = "buddy"
+shiny = true
+
+[[items]]
+original = "pog_0362.png"
+preview = "pog_0362.jpg"
+number = 362
+series = "gold"
+backface = "buddy"
+shiny = true
+
+[[items]]
+original = "pog_0363.png"
+preview = "pog_0363.jpg"
+number = 363
+series = "gold"
+backface = "buddy"
+shiny = true
+
+[[items]]
+original = "pog_0364.png"
+preview = "pog_0364.jpg"
+number = 364
+series = "gold"
+backface = "buddy"
+shiny = true
+
+[[items]]
+original = "pog_0365.png"
+preview = "pog_0365.jpg"
+number = 365
+series = "gold"
+backface = "buddy"
+shiny = true
+
+[[items]]
+original = "pog_0367.png"
+preview = "pog_0367.jpg"
+number = 367
+series = "gold"
+backface = "buddy"
+shiny = true
+
+[[items]]
+original = "pog_0368.png"
+preview = "pog_0368.jpg"
+number = 368
+series = "gold"
+backface = "buddy"
+shiny = true
+
+[[items]]
+original = "pog_0369.png"
+preview = "pog_0369.jpg"
+number = 369
+series = "gold"
+backface = "buddy"
+shiny = true
+
+[[items]]
+original = "pog_0370.png"
+preview = "pog_0370.jpg"
+number = 370
+series = "gold"
+backface = "buddy"
+shiny = true
+
+[[items]]
+original = "pog_0371.png"
+preview = "pog_0371.jpg"
+number = 371
+series = "gold"
+backface = "buddy"
+shiny = true
+
+[[items]]
+original = "pog_0372.png"
+preview = "pog_0372.jpg"
+number = 372
+series = "gold"
+backface = "buddy"
+shiny = true
+
+[[items]]
 series = "gold"
 number = 373
 backface = "buddy"
@@ -2751,12 +2847,132 @@ shiny = true
 original = "pog_0374.png"
 
 [[items]]
+original = "pog_0375.png"
+preview = "pog_0375.jpg"
+number = 375
+series = "gold"
+backface = "buddy"
+shiny = true
+
+[[items]]
+original = "pog_0376.png"
+preview = "pog_0376.jpg"
+number = 376
+series = "gold"
+backface = "buddy"
+shiny = true
+
+[[items]]
+original = "pog_0378.png"
+preview = "pog_0378.jpg"
+number = 378
+series = "gold"
+backface = "buddy"
+shiny = true
+
+[[items]]
+original = "pog_0379.png"
+preview = "pog_0379.jpg"
+number = 379
+series = "gold"
+backface = "buddy"
+shiny = true
+
+[[items]]
+original = "pog_0380.png"
+preview = "pog_0380.jpg"
+number = 380
+series = "gold"
+backface = "buddy"
+shiny = true
+
+[[items]]
+original = "pog_0381.png"
+preview = "pog_0381.jpg"
+number = 381
+series = "gold"
+backface = "buddy"
+shiny = true
+
+[[items]]
+original = "pog_0382.png"
+preview = "pog_0382.jpg"
+number = 382
+series = "gold"
+backface = "buddy"
+shiny = true
+
+[[items]]
+original = "pog_0384.png"
+preview = "pog_0384.jpg"
+number = 384
+series = "gold"
+backface = "buddy"
+shiny = true
+
+[[items]]
+original = "pog_0385.png"
+preview = "pog_0385.jpg"
+number = 385
+series = "gold"
+backface = "buddy"
+shiny = true
+
+[[items]]
+original = "pog_0386.png"
+preview = "pog_0386.jpg"
+number = 386
+series = "gold"
+backface = "buddy"
+shiny = true
+
+[[items]]
+original = "pog_0387.png"
+preview = "pog_0387.jpg"
+number = 387
+series = "gold"
+backface = "buddy"
+shiny = true
+
+[[items]]
+original = "pog_0388.png"
+preview = "pog_0388.jpg"
+number = 388
+series = "gold"
+backface = "buddy"
+shiny = true
+
+[[items]]
+original = "pog_0389.png"
+preview = "pog_0389.jpg"
+number = 389
+series = "gold"
+backface = "buddy"
+shiny = true
+
+[[items]]
+original = "pog_0390.png"
+preview = "pog_0390.jpg"
+number = 390
+series = "gold"
+backface = "buddy"
+shiny = true
+
+[[items]]
 series = "dominos"
 number = 391
 backface = "dominos"
 preview = "pog_0391.jpg"
 shiny = false
 original = "pog_0391.png"
+
+[[items]]
+original = "pog_0392.png"
+preview = "pog_0392.jpg"
+number = 392
+series = "dominos"
+backface = "dominos"
+shiny = false
 
 [[items]]
 series = "dominos"
@@ -2775,12 +2991,52 @@ shiny = false
 original = "pog_0394.png"
 
 [[items]]
+original = "pog_0395.png"
+preview = "pog_0395.jpg"
+number = 395
+series = "dominos"
+backface = "dominos"
+shiny = false
+
+[[items]]
+original = "pog_0396.png"
+preview = "pog_0396.jpg"
+number = 396
+series = "dominos"
+backface = "dominos"
+shiny = false
+
+[[items]]
+original = "pog_0397.png"
+preview = "pog_0397.jpg"
+number = 397
+series = "dominos"
+backface = "dominos"
+shiny = false
+
+[[items]]
 series = "dominos"
 number = 398
 backface = "dominos"
 preview = "pog_0398.jpg"
 shiny = false
 original = "pog_0398.png"
+
+[[items]]
+original = "pog_0399.png"
+preview = "pog_0399.jpg"
+number = 399
+series = "dominos"
+backface = "dominos"
+shiny = false
+
+[[items]]
+original = "pog_0400.png"
+preview = "pog_0400.jpg"
+number = 400
+series = "dominos"
+backface = "dominos"
+shiny = false
 
 [[items]]
 series = "dominos"
@@ -2799,12 +3055,52 @@ shiny = false
 original = "pog_0402.png"
 
 [[items]]
+original = "pog_0403.png"
+preview = "pog_0403.jpg"
+number = 403
+series = "dominos"
+backface = "dominos"
+shiny = false
+
+[[items]]
+original = "pog_0404.png"
+preview = "pog_0404.jpg"
+number = 404
+series = "dominos"
+backface = "dominos"
+shiny = false
+
+[[items]]
 series = "dominos"
 number = 405
 backface = "dominos"
 preview = "pog_0405.jpg"
 shiny = false
 original = "pog_0405.png"
+
+[[items]]
+original = "pog_0411.png"
+preview = "pog_0411.jpg"
+number = 411
+series = "dominos"
+backface = "dominos"
+shiny = false
+
+[[items]]
+original = "pog_0419.png"
+preview = "pog_0419.jpg"
+number = 419
+series = "dominos"
+backface = "dominos"
+shiny = false
+
+[[items]]
+original = "pog_0451.png"
+preview = "pog_0451.jpg"
+number = 451
+series = "comedy-store"
+backface = "default"
+shiny = false
 
 [[items]]
 series = "comedy-store"
@@ -2815,12 +3111,52 @@ shiny = false
 original = "pog_0452.png"
 
 [[items]]
+original = "pog_0453.png"
+preview = "pog_0453.jpg"
+number = 453
+series = "comedy-store"
+backface = "default"
+shiny = false
+
+[[items]]
+original = "pog_0454.png"
+preview = "pog_0454.jpg"
+number = 454
+series = "comedy-store"
+backface = "default"
+shiny = false
+
+[[items]]
+original = "pog_0455.png"
+preview = "pog_0455.jpg"
+number = 455
+series = "comedy-store"
+backface = "default"
+shiny = false
+
+[[items]]
 series = "comedy-store"
 number = 456
 backface = "default"
 preview = "pog_0456.jpg"
 shiny = false
 original = "pog_0456.png"
+
+[[items]]
+original = "pog_0457.png"
+preview = "pog_0457.jpg"
+number = 457
+series = "comedy-store"
+backface = "default"
+shiny = false
+
+[[items]]
+original = "pog_0458.png"
+preview = "pog_0458.jpg"
+number = 458
+series = "comedy-store"
+backface = "default"
+shiny = false
 
 [[items]]
 series = "comedy-store"
@@ -2847,12 +3183,116 @@ shiny = false
 original = "pog_0461.png"
 
 [[items]]
+original = "pog_0462.png"
+preview = "pog_0462.jpg"
+number = 462
+series = "comedy-store"
+backface = "default"
+shiny = false
+
+[[items]]
+original = "pog_0463.png"
+preview = "pog_0463.jpg"
+number = 463
+series = "comedy-store"
+backface = "default"
+shiny = false
+
+[[items]]
+original = "pog_0464.png"
+preview = "pog_0464.jpg"
+number = 464
+series = "comedy-store"
+backface = "default"
+shiny = false
+
+[[items]]
+original = "pog_0465.png"
+preview = "pog_0465.jpg"
+number = 465
+series = "comedy-store"
+backface = "default"
+shiny = false
+
+[[items]]
+original = "pog_0466.png"
+preview = "pog_0466.jpg"
+number = 466
+series = "comedy-store"
+backface = "default"
+shiny = false
+
+[[items]]
+original = "pog_0467.png"
+preview = "pog_0467.jpg"
+number = 467
+series = "comedy-store"
+backface = "default"
+shiny = false
+
+[[items]]
+original = "pog_0468.png"
+preview = "pog_0468.jpg"
+number = 468
+series = "comedy-store"
+backface = "default"
+shiny = false
+
+[[items]]
+original = "pog_0469.png"
+preview = "pog_0469.jpg"
+number = 469
+series = "comedy-store"
+backface = "default"
+shiny = false
+
+[[items]]
+original = "pog_0470.png"
+preview = "pog_0470.jpg"
+number = 470
+series = "comedy-store"
+backface = "default"
+shiny = false
+
+[[items]]
 series = "comedy-store"
 number = 471
 backface = "default"
 preview = "pog_0471.jpg"
 shiny = false
 original = "pog_0471.png"
+
+[[items]]
+original = "pog_0472.png"
+preview = "pog_0472.jpg"
+number = 472
+series = "comedy-store"
+backface = "default"
+shiny = false
+
+[[items]]
+original = "pog_0473.png"
+preview = "pog_0473.jpg"
+number = 473
+series = "comedy-store"
+backface = "default"
+shiny = false
+
+[[items]]
+original = "pog_0474.png"
+preview = "pog_0474.jpg"
+number = 474
+series = "comedy-store"
+backface = "default"
+shiny = false
+
+[[items]]
+original = "pog_0475.png"
+preview = "pog_0475.jpg"
+number = 475
+series = "comedy-store"
+backface = "default"
+shiny = false
 
 [[items]]
 series = "comedy-store"
@@ -2863,12 +3303,68 @@ shiny = false
 original = "pog_0476.png"
 
 [[items]]
+original = "pog_0477.png"
+preview = "pog_0477.jpg"
+number = 477
+series = "comedy-store"
+backface = "default"
+shiny = false
+
+[[items]]
+original = "pog_0478.png"
+preview = "pog_0478.jpg"
+number = 478
+series = "comedy-store"
+backface = "default"
+shiny = false
+
+[[items]]
+original = "pog_0479.png"
+preview = "pog_0479.jpg"
+number = 479
+series = "comedy-store"
+backface = "default"
+shiny = false
+
+[[items]]
 series = "comedy-store"
 number = 480
 backface = "default"
 preview = "pog_0480.jpg"
 shiny = false
 original = "pog_0480.png"
+
+[[items]]
+original = "pog_0481.png"
+preview = "pog_0481.jpg"
+number = 481
+series = "comedy-store-yellow"
+backface = "default"
+shiny = false
+
+[[items]]
+original = "pog_0482.png"
+preview = "pog_0482.jpg"
+number = 482
+series = "comedy-store-yellow"
+backface = "default"
+shiny = false
+
+[[items]]
+original = "pog_0483.png"
+preview = "pog_0483.jpg"
+number = 483
+series = "comedy-store-yellow"
+backface = "default"
+shiny = false
+
+[[items]]
+original = "pog_0485.png"
+preview = "pog_0485.jpg"
+number = 485
+series = "comedy-store-yellow"
+backface = "default"
+shiny = false
 
 [[items]]
 series = "comedy-store-yellow"
@@ -2879,12 +3375,108 @@ shiny = false
 original = "pog_0486.png"
 
 [[items]]
+original = "pog_0487.png"
+preview = "pog_0487.jpg"
+number = 487
+series = "comedy-store-yellow"
+backface = "default"
+shiny = false
+
+[[items]]
+original = "pog_0488.png"
+preview = "pog_0488.jpg"
+number = 488
+series = "comedy-store-yellow"
+backface = "default"
+shiny = false
+
+[[items]]
+original = "pog_0489.png"
+preview = "pog_0489.jpg"
+number = 489
+series = "comedy-store-yellow"
+backface = "default"
+shiny = false
+
+[[items]]
+original = "pog_0490.png"
+preview = "pog_0490.jpg"
+number = 490
+series = "comedy-store-yellow"
+backface = "default"
+shiny = false
+
+[[items]]
 series = "comedy-store-yellow"
 number = 491
 backface = "default"
 preview = "pog_0491.jpg"
 shiny = false
 original = "pog_0491.png"
+
+[[items]]
+original = "pog_0492.png"
+preview = "pog_0492.jpg"
+number = 492
+series = "comedy-store-yellow"
+backface = "default"
+shiny = false
+
+[[items]]
+original = "pog_0493.png"
+preview = "pog_0493.jpg"
+number = 493
+series = "comedy-store-yellow"
+backface = "default"
+shiny = false
+
+[[items]]
+original = "pog_0494.png"
+preview = "pog_0494.jpg"
+number = 494
+series = "comedy-store-yellow"
+backface = "default"
+shiny = false
+
+[[items]]
+original = "pog_0495.png"
+preview = "pog_0495.jpg"
+number = 495
+series = "comedy-store-yellow"
+backface = "default"
+shiny = false
+
+[[items]]
+original = "pog_0496.png"
+preview = "pog_0496.jpg"
+number = 496
+series = "comedy-store-yellow"
+backface = "default"
+shiny = false
+
+[[items]]
+original = "pog_0497.png"
+preview = "pog_0497.jpg"
+number = 497
+series = "comedy-store-yellow"
+backface = "default"
+shiny = false
+
+[[items]]
+original = "pog_0498.png"
+preview = "pog_0498.jpg"
+number = 498
+series = "comedy-store-yellow"
+backface = "default"
+shiny = false
+
+[[items]]
+original = "pog_0499.png"
+preview = "pog_0499.jpg"
+number = 499
+series = "comedy-store-yellow"
+backface = "default"
+shiny = false
 
 [[items]]
 series = "comedy-store-yellow"
@@ -2895,12 +3487,420 @@ shiny = false
 original = "pog_0501.png"
 
 [[items]]
+original = "pog_0503.png"
+preview = "pog_0503.jpg"
+number = 503
+series = "comedy-store-yellow"
+backface = "default"
+shiny = false
+
+[[items]]
+original = "pog_0505.png"
+preview = "pog_0505.jpg"
+number = 505
+series = "comedy-store-yellow"
+backface = "default"
+shiny = false
+
+[[items]]
+original = "pog_0506.png"
+preview = "pog_0506.jpg"
+number = 506
+series = "comedy-store-yellow"
+backface = "default"
+shiny = false
+
+[[items]]
+original = "pog_0507.png"
+preview = "pog_0507.jpg"
+number = 507
+series = "comedy-store-yellow"
+backface = "default"
+shiny = false
+
+[[items]]
+original = "pog_0508.png"
+preview = "pog_0508.jpg"
+number = 508
+series = "comedy-store-yellow"
+backface = "default"
+shiny = false
+
+[[items]]
+original = "pog_0509.png"
+preview = "pog_0509.jpg"
+number = 509
+series = "comedy-store-yellow"
+backface = "default"
+shiny = false
+
+[[items]]
+original = "pog_0510.png"
+preview = "pog_0510.jpg"
+number = 510
+series = "comedy-store-yellow"
+backface = "default"
+shiny = false
+
+[[items]]
+original = "pog_0511.png"
+preview = "pog_0511.jpg"
+number = 511
+series = "psycho-blue-white"
+backface = "default"
+shiny = false
+
+[[items]]
+original = "pog_0512.png"
+preview = "pog_0512.jpg"
+number = 512
+series = "psycho-blue-white"
+backface = "default"
+shiny = false
+
+[[items]]
+original = "pog_0513.png"
+preview = "pog_0513.jpg"
+number = 513
+series = "psycho-blue-white"
+backface = "default"
+shiny = false
+
+[[items]]
+original = "pog_0514.png"
+preview = "pog_0514.jpg"
+number = 514
+series = "psycho-blue-white"
+backface = "default"
+shiny = false
+
+[[items]]
+original = "pog_0515.png"
+preview = "pog_0515.jpg"
+number = 515
+series = "psycho-blue-white"
+backface = "default"
+shiny = false
+
+[[items]]
+original = "pog_0516.png"
+preview = "pog_0516.jpg"
+number = 516
+series = "psycho-blue-white"
+backface = "default"
+shiny = false
+
+[[items]]
+original = "pog_0517.png"
+preview = "pog_0517.jpg"
+number = 517
+series = "psycho-blue-white"
+backface = "default"
+shiny = false
+
+[[items]]
+original = "pog_0518.png"
+preview = "pog_0518.jpg"
+number = 518
+series = "psycho-blue-white"
+backface = "default"
+shiny = false
+
+[[items]]
+original = "pog_0520.png"
+preview = "pog_0520.jpg"
+number = 520
+series = "psycho-blue-white"
+backface = "default"
+shiny = false
+
+[[items]]
+original = "pog_0521.png"
+preview = "pog_0521.jpg"
+number = 521
+series = "psycho-blue-white"
+backface = "default"
+shiny = false
+
+[[items]]
+original = "pog_0522.png"
+preview = "pog_0522.jpg"
+number = 522
+series = "psycho-blue-white"
+backface = "default"
+shiny = false
+
+[[items]]
+original = "pog_0523.png"
+preview = "pog_0523.jpg"
+number = 523
+series = "psycho-blue-white"
+backface = "default"
+shiny = false
+
+[[items]]
+original = "pog_0524.png"
+preview = "pog_0524.jpg"
+number = 524
+series = "psycho-blue-white"
+backface = "default"
+shiny = false
+
+[[items]]
+original = "pog_0527.png"
+preview = "pog_0527.jpg"
+number = 527
+series = "psycho-blue-white"
+backface = "default"
+shiny = false
+
+[[items]]
+original = "pog_0528.png"
+preview = "pog_0528.jpg"
+number = 528
+series = "psycho-blue-white"
+backface = "default"
+shiny = false
+
+[[items]]
+original = "pog_0529.png"
+preview = "pog_0529.jpg"
+number = 529
+series = "psycho-blue-white"
+backface = "default"
+shiny = false
+
+[[items]]
+original = "pog_0531.png"
+preview = "pog_0531.jpg"
+number = 531
+series = "psycho-blue-white"
+backface = "default"
+shiny = false
+
+[[items]]
+original = "pog_0532.png"
+preview = "pog_0532.jpg"
+number = 532
+series = "psycho-blue-white"
+backface = "default"
+shiny = false
+
+[[items]]
+original = "pog_0533.png"
+preview = "pog_0533.jpg"
+number = 533
+series = "psycho-blue-white"
+backface = "default"
+shiny = false
+
+[[items]]
+original = "pog_0534.png"
+preview = "pog_0534.jpg"
+number = 534
+series = "psycho-blue-white"
+backface = "default"
+shiny = false
+
+[[items]]
+original = "pog_0535.png"
+preview = "pog_0535.jpg"
+number = 535
+series = "psycho-blue-white"
+backface = "default"
+shiny = false
+
+[[items]]
+original = "pog_0536.png"
+preview = "pog_0536.jpg"
+number = 536
+series = "psycho-blue-white"
+backface = "default"
+shiny = false
+
+[[items]]
+original = "pog_0604.png"
+preview = "pog_0604.jpg"
+number = 604
+series = "hologram"
+backface = "default"
+shiny = true
+
+[[items]]
+original = "pog_0608.png"
+preview = "pog_0608.jpg"
+number = 608
+series = "hologram"
+backface = "default"
+shiny = true
+
+[[items]]
+original = "pog_0616.png"
+preview = "pog_0616.jpg"
+number = 616
+series = "hologram"
+backface = "default"
+shiny = true
+
+[[items]]
+original = "pog_0617.png"
+preview = "pog_0617.jpg"
+number = 617
+series = "hologram"
+backface = "default"
+shiny = true
+
+[[items]]
+original = "pog_0618.png"
+preview = "pog_0618.jpg"
+number = 618
+series = "hologram"
+backface = "default"
+shiny = true
+
+[[items]]
+original = "pog_0619.png"
+preview = "pog_0619.jpg"
+number = 619
+series = "hologram"
+backface = "default"
+shiny = true
+
+[[items]]
+original = "pog_0633.png"
+preview = "pog_0633.jpg"
+number = 633
+series = "crazies"
+backface = "default"
+shiny = false
+
+[[items]]
+original = "pog_0638.png"
+preview = "pog_0638.jpg"
+number = 638
+series = "crazies"
+backface = "default"
+shiny = false
+
+[[items]]
+original = "pog_0642.png"
+preview = "pog_0642.jpg"
+number = 642
+series = "crazies"
+backface = "default"
+shiny = false
+
+[[items]]
 series = "crazies"
 number = 651
 backface = "default"
 preview = "pog_0651.jpg"
 shiny = false
 original = "pog_0651.png"
+
+[[items]]
+original = "pog_0721.png"
+preview = "pog_0721.jpg"
+number = 721
+series = "bushido-purple"
+backface = "uwf"
+shiny = false
+
+[[items]]
+original = "pog_0722.png"
+preview = "pog_0722.jpg"
+number = 722
+series = "bushido-purple"
+backface = "uwf"
+shiny = false
+
+[[items]]
+original = "pog_0724.png"
+preview = "pog_0724.jpg"
+number = 724
+series = "bushido-purple"
+backface = "uwf"
+shiny = false
+
+[[items]]
+original = "pog_0733.png"
+preview = "pog_0733.jpg"
+number = 733
+series = "bushido-purple"
+backface = "uwf"
+shiny = false
+
+[[items]]
+original = "pog_0734.png"
+preview = "pog_0734.jpg"
+number = 734
+series = "bushido-purple"
+backface = "uwf"
+shiny = false
+
+[[items]]
+original = "pog_0735.png"
+preview = "pog_0735.jpg"
+number = 735
+series = "bushido-purple"
+backface = "uwf"
+shiny = false
+
+[[items]]
+original = "pog_0736.png"
+preview = "pog_0736.jpg"
+number = 736
+series = "bushido-purple"
+backface = "uwf"
+shiny = false
+
+[[items]]
+original = "pog_0739.png"
+preview = "pog_0739.jpg"
+number = 739
+series = "bushido-purple"
+backface = "uwf"
+shiny = false
+
+[[items]]
+original = "pog_0740.png"
+preview = "pog_0740.jpg"
+number = 740
+series = "bushido-purple"
+backface = "uwf"
+shiny = false
+
+[[items]]
+original = "pog_0744.png"
+preview = "pog_0744.jpg"
+number = 744
+series = "bushido-purple"
+backface = "uwf"
+shiny = false
+
+[[items]]
+original = "pog_0745.png"
+preview = "pog_0745.jpg"
+number = 745
+series = "bushido-purple"
+backface = "uwf"
+shiny = false
+
+[[items]]
+original = "pog_0746.png"
+preview = "pog_0746.jpg"
+number = 746
+series = "bushido-purple"
+backface = "uwf"
+shiny = false
+
+[[items]]
+original = "pog_0751.png"
+preview = "pog_0751.jpg"
+number = 751
+series = "bushido-green"
+backface = "uwf"
+shiny = false
 
 [[items]]
 series = "bushido-green"
@@ -2919,6 +3919,86 @@ shiny = false
 original = "pog_0754.png"
 
 [[items]]
+original = "pog_0756.png"
+preview = "pog_0756.jpg"
+number = 756
+series = "bushido-green"
+backface = "uwf"
+shiny = false
+
+[[items]]
+original = "pog_0760.png"
+preview = "pog_0760.jpg"
+number = 760
+series = "bushido-green"
+backface = "uwf"
+shiny = false
+
+[[items]]
+original = "pog_0761.png"
+preview = "pog_0761.jpg"
+number = 761
+series = "bushido-green"
+backface = "uwf"
+shiny = false
+
+[[items]]
+original = "pog_0764.png"
+preview = "pog_0764.jpg"
+number = 764
+series = "bushido-green"
+backface = "uwf"
+shiny = false
+
+[[items]]
+original = "pog_0765.png"
+preview = "pog_0765.jpg"
+number = 765
+series = "bushido-green"
+backface = "uwf"
+shiny = false
+
+[[items]]
+original = "pog_0766.png"
+preview = "pog_0766.jpg"
+number = 766
+series = "bushido-green"
+backface = "uwf"
+shiny = false
+
+[[items]]
+original = "pog_0767.png"
+preview = "pog_0767.jpg"
+number = 767
+series = "bushido-green"
+backface = "uwf"
+shiny = false
+
+[[items]]
+original = "pog_0768.png"
+preview = "pog_0768.jpg"
+number = 768
+series = "bushido-green"
+backface = "uwf"
+shiny = false
+
+[[items]]
+original = "pog_0770.png"
+preview = "pog_0770.jpg"
+number = 770
+series = "bushido-green"
+backface = "uwf"
+shiny = false
+
+[[items]]
+original = "pog_0773.png"
+preview = "pog_0773.jpg"
+number = 773
+series = "bushido-green"
+backface = "uwf"
+shiny = false
+
+[[items]]
 series = "bushido-green"
 number = 774
 backface = "uwf"
@@ -2927,12 +4007,60 @@ shiny = false
 original = "pog_0774.png"
 
 [[items]]
+original = "pog_0776.png"
+preview = "pog_0776.jpg"
+number = 776
+series = "bushido-green"
+backface = "uwf"
+shiny = false
+
+[[items]]
+original = "pog_0779.png"
+preview = "pog_0779.jpg"
+number = 779
+series = "bushido-green"
+backface = "uwf"
+shiny = false
+
+[[items]]
+original = "pog_0782.png"
+preview = "pog_0782.jpg"
+number = 782
+series = "yellow"
+backface = "default"
+shiny = false
+
+[[items]]
+original = "pog_0825.png"
+preview = "pog_0825.jpg"
+number = 825
+series = "yellow"
+backface = "default"
+shiny = false
+
+[[items]]
+original = "pog_0827.png"
+preview = "pog_0827.jpg"
+number = 827
+series = "yellow"
+backface = "default"
+shiny = false
+
+[[items]]
 series = "yellow"
 number = 828
 backface = "default"
 preview = "pog_0828.jpg"
 shiny = false
 original = "pog_0828.png"
+
+[[items]]
+original = "pog_0829.png"
+preview = "pog_0829.jpg"
+number = 829
+series = "yellow"
+backface = "default"
+shiny = false
 
 [[items]]
 series = "yellow"
@@ -2949,6 +4077,94 @@ backface = "default"
 preview = "pog_0836.jpg"
 shiny = false
 original = "pog_0836.png"
+
+[[items]]
+original = "pog_1001.png"
+preview = "pog_1001.jpg"
+number = 1001
+series = "horospog"
+backface = "horospog"
+shiny = false
+
+[[items]]
+original = "pog_1002.png"
+preview = "pog_1002.jpg"
+number = 1002
+series = "horospog"
+backface = "horospog"
+shiny = false
+
+[[items]]
+original = "pog_1003.png"
+preview = "pog_1003.jpg"
+number = 1003
+series = "horospog"
+backface = "horospog"
+shiny = false
+
+[[items]]
+original = "pog_1004.png"
+preview = "pog_1004.jpg"
+number = 1004
+series = "horospog"
+backface = "horospog"
+shiny = false
+
+[[items]]
+original = "pog_1005.png"
+preview = "pog_1005.jpg"
+number = 1005
+series = "horospog"
+backface = "horospog"
+shiny = false
+
+[[items]]
+original = "pog_1006.png"
+preview = "pog_1006.jpg"
+number = 1006
+series = "horospog"
+backface = "horospog"
+shiny = false
+
+[[items]]
+original = "pog_1007.png"
+preview = "pog_1007.jpg"
+number = 1007
+series = "horospog"
+backface = "horospog"
+shiny = false
+
+[[items]]
+original = "pog_1008.png"
+preview = "pog_1008.jpg"
+number = 1008
+series = "horospog"
+backface = "horospog"
+shiny = false
+
+[[items]]
+original = "pog_1009.png"
+preview = "pog_1009.jpg"
+number = 1009
+series = "horospog"
+backface = "horospog"
+shiny = false
+
+[[items]]
+original = "pog_1010.png"
+preview = "pog_1010.jpg"
+number = 1010
+series = "horospog"
+backface = "horospog"
+shiny = false
+
+[[items]]
+original = "pog_1011.png"
+preview = "pog_1011.jpg"
+number = 1011
+series = "horospog"
+backface = "horospog"
+shiny = false
 
 [[items]]
 series = "horospog"
@@ -2983,6 +4199,22 @@ shiny = false
 original = "pog_1015.png"
 
 [[items]]
+original = "pog_1016.png"
+preview = "pog_1016.jpg"
+number = 1016
+series = "horospog"
+backface = "horospog"
+shiny = false
+
+[[items]]
+original = "pog_1017.png"
+preview = "pog_1017.jpg"
+number = 1017
+series = "horospog"
+backface = "horospog"
+shiny = false
+
+[[items]]
 series = "horospog"
 number = 1018
 backface = "horospog"
@@ -3007,10 +4239,82 @@ shiny = false
 original = "pog_1020.png"
 
 [[items]]
+original = "pog_1021.png"
+preview = "pog_1021.jpg"
+number = 1021
+series = "horospog"
+backface = "horospog"
+shiny = false
+
+[[items]]
 series = "horospog"
 number = 1022
 backface = "horospog"
 preview = "pog_1022.jpg"
 shiny = false
 original = "pog_1022.png"
+
+[[items]]
+original = "pog_1023.png"
+preview = "pog_1023.jpg"
+number = 1023
+series = "horospog"
+backface = "horospog"
+shiny = false
+
+[[items]]
+original = "pog_1024.png"
+preview = "pog_1024.jpg"
+number = 1024
+series = "horospog"
+backface = "horospog"
+shiny = false
+
+[[items]]
+original = "pog_1025.png"
+preview = "pog_1025.jpg"
+number = 1025
+series = "horospog"
+backface = "horospog"
+shiny = false
+
+[[items]]
+original = "pog_1026.png"
+preview = "pog_1026.jpg"
+number = 1026
+series = "horospog"
+backface = "horospog"
+shiny = false
+
+[[items]]
+original = "pog_1027.png"
+preview = "pog_1027.jpg"
+number = 1027
+series = "horospog"
+backface = "horospog"
+shiny = false
+
+[[items]]
+original = "pog_1028.png"
+preview = "pog_1028.jpg"
+number = 1028
+series = "horospog"
+backface = "horospog"
+shiny = false
+
+[[items]]
+original = "pog_1029.png"
+preview = "pog_1029.jpg"
+number = 1029
+series = "horospog"
+backface = "horospog"
+shiny = false
+
+[[items]]
+original = "pog_1030.png"
+preview = "pog_1030.jpg"
+number = 1030
+series = "horospog"
+backface = "horospog"
+shiny = false
 
