@@ -4,10 +4,12 @@
   
   <url>
     <loc>https://pogim.net/contrib/</loc>
+    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://pogim.net/in-depth/</loc>
+    <priority>0</priority>
   </url>
   
   <url>
