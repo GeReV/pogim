@@ -231,7 +231,10 @@ figure > figcaption > h4 {
 .pog-crazies {
   background-color: #80752b;
 }
-.pog-bushido {
+.pog-bushido-green {
+  background: repeating-linear-gradient(135deg, #007c3d, #007c3d 10px, #222 10px, #222 15px, #007c3d 15px);
+}
+.pog-bushido-purple {
   background: repeating-linear-gradient(135deg, #007c3d, #007c3d 10px, #222 10px, #222 15px, #007c3d 15px);
 }
 .pog-yellow {
