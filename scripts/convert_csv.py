@@ -25,7 +25,7 @@ def main():
 
     basepath = path.dirname(args.file)
 
-    with open(args.file, 'rb') as csv_file:
+    with open(args.file, 'rt') as csv_file:
         reader = csv.DictReader(csv_file)
 
         for row in reader:
@@ -56,7 +56,7 @@ def main():
                 "shiny": row['shiny'] == 'y'
             })
 
-    with open(path.join(args.output, 'items.toml'), 'wb') as toml_file:
+    with open(path.join(args.output, 'items.toml'), 'wt') as toml_file:
         toml.dump(output_dict, toml_file)
 
 
