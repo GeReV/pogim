@@ -216,6 +216,9 @@ figure > figcaption > h4 {
 .pog-psycho {
   background-color: #1d2278;
 }
+.pog-psycho-blue-white {
+  background: repeating-linear-gradient(135deg, #279eb0, #279eb0 10px, #faeed3 10px, #faeed3 15px, #279eb0 15px);
+}
 .pog-gold {
   background: linear-gradient(135deg, #bf9b30, #ffcf40 50%, #bf9b30);  
 }
@@ -242,6 +245,9 @@ figure > figcaption > h4 {
 }
 .pog-horospog {
   background: repeating-linear-gradient(135deg, #ea3835, #ea3835 10px, #eee 10px, #eee 15px, #ea3835 15px);
+}
+.pog-hologram {
+  background: #f7eede;
 }
 
 .drawer {
