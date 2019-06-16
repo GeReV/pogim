@@ -11,14 +11,17 @@ const SERIES_CONVERSION = {
   gray: 'הסדרה האפורה',
   turquoise: 'סדרת הטורקיז',
   psycho: 'פסיכי בריבוע',
+  'psycho-blue-white': 'פסיכי בריבוע',
   gold: 'סדרת הזהב (באדי תנובה)',
   dominos: 'הסדרה האמריקאית (דומינו\'ס פיצה)',
-  "comedy-store": 'הקומדי סטור',
-  "comedy-store-yellow": 'הקומדי סטור (סדרה צהובה)',
+  'comedy-store': 'הקומדי סטור',
+  'comedy-store-yellow': 'הקומדי סטור (סדרה צהובה)',
   crazies: 'סדרת המוטרפים',
-  bushido: 'ענקי הבושידו',
+  'bushido-green': 'ענקי הבושידו',
+  'bushido-purple': 'ענקי הבושידו',
   yellow: 'הסדרה הצהובה',
   horospog: 'הורוספוג',
+  hologram: 'סדרת היקרים',
 };
 
 export default SERIES_CONVERSION;
