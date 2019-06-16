@@ -11,7 +11,7 @@ def merge(files):
     number_set = set()
 
     for file in files:
-        with open(file, 'rb') as toml_file:
+        with open(file, 'rt') as toml_file:
             data = toml.load(toml_file)
 
             item_lists.append(data['items'])
@@ -31,7 +31,7 @@ def merge(files):
         "items": result_list
     }
 
-    with open('merged.toml', 'wb') as toml_file:
+    with open('merged.toml', 'wt') as toml_file:
         toml.dump(output_dict, toml_file)
 
 
