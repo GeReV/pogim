@@ -40,6 +40,7 @@ export default class Gallery {
       number: node.getAttribute('data-number'),
       backface: node.getAttribute('data-backface'),
       shiny: node.getAttribute('data-shiny'),
+      missing: node.getAttribute('data-missing'),
     }));
   }
 

@@ -4,6 +4,10 @@
 
 כדי לתרום, אנא צרו קשר בעזרת הטופס למטה לפני שתתחילו לסרוק.
 
+### יצירת קשר
+
+ליצירת קשר, מלאו את <a href="https://goo.gl/forms/mOk7zfC5rEJm7nfi2" target="_blank">הטופס כאן</a>.
+
 <!-- לסקרנים, הנה [הסבר טכני מפורט על התהליך]({{< relref "/in-depth/index.md" >}}).-->
 
 ### תהליך הסריקה
@@ -28,7 +32,3 @@
 {{< figure src="example.jpg" title="דוגמת סריקה מסורק בעל משטח בגודל A3" height="700" >}}
 
 {{< figure src="bad_example.jpg" title="דוגמה לזוג פוגים שהונחו קרוב מדי" >}}
-
-## יצירת קשר
-
-ליצירת קשר בנושאים אחרים, מלאו את <a href="https://goo.gl/forms/mOk7zfC5rEJm7nfi2" target="_blank">הטופס כאן</a>.

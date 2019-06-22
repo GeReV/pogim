@@ -23,6 +23,7 @@ export default class Preview {
 
     this.number = $('.preview-number', this.container);
     this.details = $('.preview-details', this.container);
+    this.missingDetails = $('.preview-missing-details', this.container);
     this.downloadLinkPng = $('.preview-download-png', this.container);
     this.downloadLinkJpg = $('.preview-download-jpg', this.container);
     this.imageContainer = $('.preview-image-container', this.container);
@@ -153,8 +154,16 @@ export default class Preview {
   }
 
   show(item, resetSelectedVariant = false) {
-    this.number.textContent = item.number;
+    let number = String(item.number);
+
+    if (item.missing) {
+      number += ' (חסר)';
+    }
+
+    this.number.textContent = number;
+
     this.details.textContent = SERIES_CONVERSION[item.series];
+    this.missingDetails.classList.toggle('invisible', !item.missing);
     this.downloadLinkPng.setAttribute('href', item.originalSrc);
     this.downloadLinkJpg.setAttribute('href', item.imageSrc);
 

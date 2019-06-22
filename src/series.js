@@ -1,4 +1,5 @@
 const SERIES_CONVERSION = {
+  missing: 'לא ידוע',
   green: 'הסדרה הירוקה',
   red: 'הסדרה האדומה',
   blue: 'הסדרה הכחולה',

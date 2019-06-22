@@ -1487,12 +1487,57 @@ shiny = false
 original = "pog_0186.png"
 
 [[items]]
+number = 187
+series = "poalim"
+backface = "poalim"
+preview = "missing.svg"
+shiny = false
+original = "missing.svg"
+missing = true
+
+[[items]]
+number = 188
+series = "poalim"
+backface = "poalim"
+preview = "missing.svg"
+shiny = false
+original = "missing.svg"
+missing = true
+
+[[items]]
+number = 189
+series = "poalim"
+backface = "poalim"
+preview = "missing.svg"
+shiny = false
+original = "missing.svg"
+missing = true
+
+[[items]]
+number = 190
+series = "poalim"
+backface = "poalim"
+preview = "missing.svg"
+shiny = false
+original = "missing.svg"
+missing = true
+
+[[items]]
 series = "poalim"
 number = 191
 backface = "poalim"
 preview = "pog_0191.jpg"
 shiny = false
 original = "pog_0191.png"
+
+[[items]]
+number = 192
+series = "poalim"
+backface = "poalim"
+preview = "missing.svg"
+shiny = false
+original = "missing.svg"
+missing = true
 
 [[items]]
 series = "poalim"
@@ -1503,6 +1548,15 @@ shiny = false
 original = "pog_0193.png"
 
 [[items]]
+number = 194
+series = "poalim"
+backface = "poalim"
+preview = "missing.svg"
+shiny = false
+original = "missing.svg"
+missing = true
+
+[[items]]
 series = "poalim"
 number = 195
 backface = "poalim"
@@ -1511,12 +1565,30 @@ shiny = false
 original = "pog_0195.png"
 
 [[items]]
+number = 196
+series = "poalim"
+backface = "poalim"
+preview = "missing.svg"
+shiny = false
+original = "missing.svg"
+missing = true
+
+[[items]]
 series = "poalim"
 number = 197
 backface = "poalim"
 preview = "pog_0197.jpg"
 shiny = false
 original = "pog_0197.png"
+
+[[items]]
+number = 198
+series = "poalim"
+backface = "poalim"
+preview = "missing.svg"
+shiny = false
+original = "missing.svg"
+missing = true
 
 [[items]]
 series = "poalim"
@@ -1549,6 +1621,78 @@ backface = "poalim"
 preview = "pog_0202.jpg"
 shiny = false
 original = "pog_0202.png"
+
+[[items]]
+number = 203
+series = "poalim"
+backface = "poalim"
+preview = "missing.svg"
+shiny = false
+original = "missing.svg"
+missing = true
+
+[[items]]
+number = 204
+series = "poalim"
+backface = "poalim"
+preview = "missing.svg"
+shiny = false
+original = "missing.svg"
+missing = true
+
+[[items]]
+number = 205
+series = "poalim"
+backface = "poalim"
+preview = "missing.svg"
+shiny = false
+original = "missing.svg"
+missing = true
+
+[[items]]
+number = 206
+series = "poalim"
+backface = "poalim"
+preview = "missing.svg"
+shiny = false
+original = "missing.svg"
+missing = true
+
+[[items]]
+number = 207
+series = "poalim"
+backface = "poalim"
+preview = "missing.svg"
+shiny = false
+original = "missing.svg"
+missing = true
+
+[[items]]
+number = 208
+series = "poalim"
+backface = "poalim"
+preview = "missing.svg"
+shiny = false
+original = "missing.svg"
+missing = true
+
+[[items]]
+number = 209
+series = "poalim"
+backface = "poalim"
+preview = "missing.svg"
+shiny = false
+original = "missing.svg"
+missing = true
+
+[[items]]
+number = 210
+series = "poalim"
+backface = "poalim"
+preview = "missing.svg"
+shiny = false
+original = "missing.svg"
+missing = true
 
 [[items]]
 series = "brown"
@@ -2551,6 +2695,15 @@ shiny = false
 original = "pog_0335.png"
 
 [[items]]
+number = 336
+series = "psycho"
+backface = "default"
+preview = "missing.svg"
+shiny = false
+original = "missing.svg"
+missing = true
+
+[[items]]
 series = "psycho"
 number = 337
 backface = "default"
@@ -2783,6 +2936,15 @@ backface = "buddy"
 shiny = true
 
 [[items]]
+number = 366
+series = "gold"
+backface = "buddy"
+preview = "missing.svg"
+shiny = false
+original = "missing.svg"
+missing = true
+
+[[items]]
 original = "pog_0367.png"
 preview = "pog_0367.jpg"
 number = 367
@@ -2863,6 +3025,15 @@ backface = "buddy"
 shiny = true
 
 [[items]]
+number = 377
+series = "gold"
+backface = "buddy"
+preview = "missing.svg"
+shiny = false
+original = "missing.svg"
+missing = true
+
+[[items]]
 original = "pog_0378.png"
 preview = "pog_0378.jpg"
 number = 378
@@ -2901,6 +3072,15 @@ number = 382
 series = "gold"
 backface = "buddy"
 shiny = true
+
+[[items]]
+number = 383
+series = "gold"
+backface = "buddy"
+preview = "missing.svg"
+shiny = false
+original = "missing.svg"
+missing = true
 
 [[items]]
 original = "pog_0384.png"
@@ -3079,6 +3259,51 @@ shiny = false
 original = "pog_0405.png"
 
 [[items]]
+number = 406
+series = "dominos"
+backface = "dominos"
+preview = "missing.svg"
+shiny = false
+original = "missing.svg"
+missing = true
+
+[[items]]
+number = 407
+series = "dominos"
+backface = "dominos"
+preview = "missing.svg"
+shiny = false
+original = "missing.svg"
+missing = true
+
+[[items]]
+number = 408
+series = "dominos"
+backface = "dominos"
+preview = "missing.svg"
+shiny = false
+original = "missing.svg"
+missing = true
+
+[[items]]
+number = 409
+series = "dominos"
+backface = "dominos"
+preview = "missing.svg"
+shiny = false
+original = "missing.svg"
+missing = true
+
+[[items]]
+number = 410
+series = "dominos"
+backface = "dominos"
+preview = "missing.svg"
+shiny = false
+original = "missing.svg"
+missing = true
+
+[[items]]
 original = "pog_0411.png"
 preview = "pog_0411.jpg"
 number = 411
@@ -3087,12 +3312,354 @@ backface = "dominos"
 shiny = false
 
 [[items]]
+number = 412
+series = "dominos"
+backface = "dominos"
+preview = "missing.svg"
+shiny = false
+original = "missing.svg"
+missing = true
+
+[[items]]
+number = 413
+series = "dominos"
+backface = "dominos"
+preview = "missing.svg"
+shiny = false
+original = "missing.svg"
+missing = true
+
+[[items]]
+number = 414
+series = "dominos"
+backface = "dominos"
+preview = "missing.svg"
+shiny = false
+original = "missing.svg"
+missing = true
+
+[[items]]
+number = 415
+series = "dominos"
+backface = "dominos"
+preview = "missing.svg"
+shiny = false
+original = "missing.svg"
+missing = true
+
+[[items]]
+number = 416
+series = "dominos"
+backface = "dominos"
+preview = "missing.svg"
+shiny = false
+original = "missing.svg"
+missing = true
+
+[[items]]
+number = 417
+series = "dominos"
+backface = "dominos"
+preview = "missing.svg"
+shiny = false
+original = "missing.svg"
+missing = true
+
+[[items]]
+number = 418
+series = "dominos"
+backface = "dominos"
+preview = "missing.svg"
+shiny = false
+original = "missing.svg"
+missing = true
+
+[[items]]
 original = "pog_0419.png"
 preview = "pog_0419.jpg"
 number = 419
 series = "dominos"
 backface = "dominos"
 shiny = false
+
+[[items]]
+number = 420
+series = "dominos"
+backface = "dominos"
+preview = "missing.svg"
+shiny = false
+original = "missing.svg"
+missing = true
+
+[[items]]
+number = 421
+series = "missing"
+backface = "default"
+preview = "missing.svg"
+shiny = false
+original = "missing.svg"
+missing = true
+
+[[items]]
+number = 422
+series = "missing"
+backface = "default"
+preview = "missing.svg"
+shiny = false
+original = "missing.svg"
+missing = true
+
+[[items]]
+number = 423
+series = "missing"
+backface = "default"
+preview = "missing.svg"
+shiny = false
+original = "missing.svg"
+missing = true
+
+[[items]]
+number = 424
+series = "missing"
+backface = "default"
+preview = "missing.svg"
+shiny = false
+original = "missing.svg"
+missing = true
+
+[[items]]
+number = 425
+series = "missing"
+backface = "default"
+preview = "missing.svg"
+shiny = false
+original = "missing.svg"
+missing = true
+
+[[items]]
+number = 426
+series = "missing"
+backface = "default"
+preview = "missing.svg"
+shiny = false
+original = "missing.svg"
+missing = true
+
+[[items]]
+number = 427
+series = "missing"
+backface = "default"
+preview = "missing.svg"
+shiny = false
+original = "missing.svg"
+missing = true
+
+[[items]]
+number = 428
+series = "missing"
+backface = "default"
+preview = "missing.svg"
+shiny = false
+original = "missing.svg"
+missing = true
+
+[[items]]
+number = 429
+series = "missing"
+backface = "default"
+preview = "missing.svg"
+shiny = false
+original = "missing.svg"
+missing = true
+
+[[items]]
+number = 430
+series = "missing"
+backface = "default"
+preview = "missing.svg"
+shiny = false
+original = "missing.svg"
+missing = true
+
+[[items]]
+number = 431
+series = "missing"
+backface = "default"
+preview = "missing.svg"
+shiny = false
+original = "missing.svg"
+missing = true
+
+[[items]]
+number = 432
+series = "missing"
+backface = "default"
+preview = "missing.svg"
+shiny = false
+original = "missing.svg"
+missing = true
+
+[[items]]
+number = 433
+series = "missing"
+backface = "default"
+preview = "missing.svg"
+shiny = false
+original = "missing.svg"
+missing = true
+
+[[items]]
+number = 434
+series = "missing"
+backface = "default"
+preview = "missing.svg"
+shiny = false
+original = "missing.svg"
+missing = true
+
+[[items]]
+number = 435
+series = "missing"
+backface = "default"
+preview = "missing.svg"
+shiny = false
+original = "missing.svg"
+missing = true
+
+[[items]]
+number = 436
+series = "missing"
+backface = "default"
+preview = "missing.svg"
+shiny = false
+original = "missing.svg"
+missing = true
+
+[[items]]
+number = 437
+series = "missing"
+backface = "default"
+preview = "missing.svg"
+shiny = false
+original = "missing.svg"
+missing = true
+
+[[items]]
+number = 438
+series = "missing"
+backface = "default"
+preview = "missing.svg"
+shiny = false
+original = "missing.svg"
+missing = true
+
+[[items]]
+number = 439
+series = "missing"
+backface = "default"
+preview = "missing.svg"
+shiny = false
+original = "missing.svg"
+missing = true
+
+[[items]]
+number = 440
+series = "missing"
+backface = "default"
+preview = "missing.svg"
+shiny = false
+original = "missing.svg"
+missing = true
+
+[[items]]
+number = 441
+series = "missing"
+backface = "default"
+preview = "missing.svg"
+shiny = false
+original = "missing.svg"
+missing = true
+
+[[items]]
+number = 442
+series = "missing"
+backface = "default"
+preview = "missing.svg"
+shiny = false
+original = "missing.svg"
+missing = true
+
+[[items]]
+number = 443
+series = "missing"
+backface = "default"
+preview = "missing.svg"
+shiny = false
+original = "missing.svg"
+missing = true
+
+[[items]]
+number = 444
+series = "missing"
+backface = "default"
+preview = "missing.svg"
+shiny = false
+original = "missing.svg"
+missing = true
+
+[[items]]
+number = 445
+series = "missing"
+backface = "default"
+preview = "missing.svg"
+shiny = false
+original = "missing.svg"
+missing = true
+
+[[items]]
+number = 446
+series = "missing"
+backface = "default"
+preview = "missing.svg"
+shiny = false
+original = "missing.svg"
+missing = true
+
+[[items]]
+number = 447
+series = "missing"
+backface = "default"
+preview = "missing.svg"
+shiny = false
+original = "missing.svg"
+missing = true
+
+[[items]]
+number = 448
+series = "missing"
+backface = "default"
+preview = "missing.svg"
+shiny = false
+original = "missing.svg"
+missing = true
+
+[[items]]
+number = 449
+series = "missing"
+backface = "default"
+preview = "missing.svg"
+shiny = false
+original = "missing.svg"
+missing = true
+
+[[items]]
+number = 450
+series = "missing"
+backface = "default"
+preview = "missing.svg"
+shiny = false
+original = "missing.svg"
+missing = true
 
 [[items]]
 original = "pog_0451.png"
@@ -3359,6 +3926,15 @@ backface = "default"
 shiny = false
 
 [[items]]
+number = 484
+series = "comedy-store-yellow"
+backface = "default"
+preview = "missing.svg"
+shiny = false
+original = "missing.svg"
+missing = true
+
+[[items]]
 original = "pog_0485.png"
 preview = "pog_0485.jpg"
 number = 485
@@ -3479,6 +4055,15 @@ backface = "default"
 shiny = false
 
 [[items]]
+number = 500
+series = "comedy-store-yellow"
+backface = "default"
+preview = "missing.svg"
+shiny = false
+original = "missing.svg"
+missing = true
+
+[[items]]
 series = "comedy-store-yellow"
 number = 501
 backface = "default"
@@ -3487,12 +4072,30 @@ shiny = false
 original = "pog_0501.png"
 
 [[items]]
+number = 502
+series = "comedy-store-yellow"
+backface = "default"
+preview = "missing.svg"
+shiny = false
+original = "missing.svg"
+missing = true
+
+[[items]]
 original = "pog_0503.png"
 preview = "pog_0503.jpg"
 number = 503
 series = "comedy-store-yellow"
 backface = "default"
 shiny = false
+
+[[items]]
+number = 504
+series = "comedy-store-yellow"
+backface = "default"
+preview = "missing.svg"
+shiny = false
+original = "missing.svg"
+missing = true
 
 [[items]]
 original = "pog_0505.png"
@@ -3607,6 +4210,15 @@ backface = "default"
 shiny = false
 
 [[items]]
+number = 519
+series = "psycho-blue-white"
+backface = "default"
+preview = "missing.svg"
+shiny = false
+original = "missing.svg"
+missing = true
+
+[[items]]
 original = "pog_0520.png"
 preview = "pog_0520.jpg"
 number = 520
@@ -3647,6 +4259,24 @@ backface = "default"
 shiny = false
 
 [[items]]
+number = 525
+series = "psycho-blue-white"
+backface = "default"
+preview = "missing.svg"
+shiny = false
+original = "missing.svg"
+missing = true
+
+[[items]]
+number = 526
+series = "psycho-blue-white"
+backface = "default"
+preview = "missing.svg"
+shiny = false
+original = "missing.svg"
+missing = true
+
+[[items]]
 original = "pog_0527.png"
 preview = "pog_0527.jpg"
 number = 527
@@ -3669,6 +4299,15 @@ number = 529
 series = "psycho-blue-white"
 backface = "default"
 shiny = false
+
+[[items]]
+number = 530
+series = "psycho-blue-white"
+backface = "default"
+preview = "missing.svg"
+shiny = false
+original = "missing.svg"
+missing = true
 
 [[items]]
 original = "pog_0531.png"
@@ -3719,6 +4358,69 @@ backface = "default"
 shiny = false
 
 [[items]]
+number = 537
+series = "psycho-blue-white"
+backface = "default"
+preview = "missing.svg"
+shiny = false
+original = "missing.svg"
+missing = true
+
+[[items]]
+number = 538
+series = "psycho-blue-white"
+backface = "default"
+preview = "missing.svg"
+shiny = false
+original = "missing.svg"
+missing = true
+
+[[items]]
+number = 539
+series = "psycho-blue-white"
+backface = "default"
+preview = "missing.svg"
+shiny = false
+original = "missing.svg"
+missing = true
+
+[[items]]
+number = 540
+series = "psycho-blue-white"
+backface = "default"
+preview = "missing.svg"
+shiny = false
+original = "missing.svg"
+missing = true
+
+[[items]]
+number = 601
+series = "hologram"
+backface = "default"
+preview = "missing.svg"
+shiny = false
+original = "missing.svg"
+missing = true
+
+[[items]]
+number = 602
+series = "hologram"
+backface = "default"
+preview = "missing.svg"
+shiny = false
+original = "missing.svg"
+missing = true
+
+[[items]]
+number = 603
+series = "hologram"
+backface = "default"
+preview = "missing.svg"
+shiny = false
+original = "missing.svg"
+missing = true
+
+[[items]]
 original = "pog_0604.png"
 preview = "pog_0604.jpg"
 number = 604
@@ -3727,12 +4429,102 @@ backface = "default"
 shiny = true
 
 [[items]]
+number = 605
+series = "hologram"
+backface = "default"
+preview = "missing.svg"
+shiny = false
+original = "missing.svg"
+missing = true
+
+[[items]]
+number = 606
+series = "hologram"
+backface = "default"
+preview = "missing.svg"
+shiny = false
+original = "missing.svg"
+missing = true
+
+[[items]]
+number = 607
+series = "hologram"
+backface = "default"
+preview = "missing.svg"
+shiny = false
+original = "missing.svg"
+missing = true
+
+[[items]]
 original = "pog_0608.png"
 preview = "pog_0608.jpg"
 number = 608
 series = "hologram"
 backface = "default"
 shiny = true
+
+[[items]]
+number = 609
+series = "hologram"
+backface = "default"
+preview = "missing.svg"
+shiny = false
+original = "missing.svg"
+missing = true
+
+[[items]]
+number = 610
+series = "hologram"
+backface = "default"
+preview = "missing.svg"
+shiny = false
+original = "missing.svg"
+missing = true
+
+[[items]]
+number = 611
+series = "hologram"
+backface = "default"
+preview = "missing.svg"
+shiny = false
+original = "missing.svg"
+missing = true
+
+[[items]]
+number = 612
+series = "hologram"
+backface = "default"
+preview = "missing.svg"
+shiny = false
+original = "missing.svg"
+missing = true
+
+[[items]]
+number = 613
+series = "hologram"
+backface = "default"
+preview = "missing.svg"
+shiny = false
+original = "missing.svg"
+missing = true
+
+[[items]]
+number = 614
+series = "hologram"
+backface = "default"
+preview = "missing.svg"
+shiny = false
+original = "missing.svg"
+missing = true
+
+[[items]]
+number = 615
+series = "hologram"
+backface = "default"
+preview = "missing.svg"
+shiny = false
+original = "missing.svg"
+missing = true
 
 [[items]]
 original = "pog_0616.png"
@@ -3767,12 +4559,165 @@ backface = "default"
 shiny = true
 
 [[items]]
+number = 620
+series = "hologram"
+backface = "default"
+preview = "missing.svg"
+shiny = false
+original = "missing.svg"
+missing = true
+
+[[items]]
+number = 621
+series = "hologram"
+backface = "default"
+preview = "missing.svg"
+shiny = false
+original = "missing.svg"
+missing = true
+
+[[items]]
+number = 622
+series = "hologram"
+backface = "default"
+preview = "missing.svg"
+shiny = false
+original = "missing.svg"
+missing = true
+
+[[items]]
+number = 623
+series = "hologram"
+backface = "default"
+preview = "missing.svg"
+shiny = false
+original = "missing.svg"
+missing = true
+
+[[items]]
+number = 624
+series = "hologram"
+backface = "default"
+preview = "missing.svg"
+shiny = false
+original = "missing.svg"
+missing = true
+
+[[items]]
+number = 625
+series = "hologram"
+backface = "default"
+preview = "missing.svg"
+shiny = false
+original = "missing.svg"
+missing = true
+
+[[items]]
+number = 626
+series = "hologram"
+backface = "default"
+preview = "missing.svg"
+shiny = false
+original = "missing.svg"
+missing = true
+
+[[items]]
+number = 627
+series = "hologram"
+backface = "default"
+preview = "missing.svg"
+shiny = false
+original = "missing.svg"
+missing = true
+
+[[items]]
+number = 628
+series = "hologram"
+backface = "default"
+preview = "missing.svg"
+shiny = false
+original = "missing.svg"
+missing = true
+
+[[items]]
+number = 629
+series = "hologram"
+backface = "default"
+preview = "missing.svg"
+shiny = false
+original = "missing.svg"
+missing = true
+
+[[items]]
+number = 630
+series = "hologram"
+backface = "default"
+preview = "missing.svg"
+shiny = false
+original = "missing.svg"
+missing = true
+
+[[items]]
+number = 631
+series = "crazies"
+backface = "default"
+preview = "missing.svg"
+shiny = false
+original = "missing.svg"
+missing = true
+
+[[items]]
+number = 632
+series = "crazies"
+backface = "default"
+preview = "missing.svg"
+shiny = false
+original = "missing.svg"
+missing = true
+
+[[items]]
 original = "pog_0633.png"
 preview = "pog_0633.jpg"
 number = 633
 series = "crazies"
 backface = "default"
 shiny = false
+
+[[items]]
+number = 634
+series = "crazies"
+backface = "default"
+preview = "missing.svg"
+shiny = false
+original = "missing.svg"
+missing = true
+
+[[items]]
+number = 635
+series = "crazies"
+backface = "default"
+preview = "missing.svg"
+shiny = false
+original = "missing.svg"
+missing = true
+
+[[items]]
+number = 636
+series = "crazies"
+backface = "default"
+preview = "missing.svg"
+shiny = false
+original = "missing.svg"
+missing = true
+
+[[items]]
+number = 637
+series = "crazies"
+backface = "default"
+preview = "missing.svg"
+shiny = false
+original = "missing.svg"
+missing = true
 
 [[items]]
 original = "pog_0638.png"
@@ -3783,6 +4728,33 @@ backface = "default"
 shiny = false
 
 [[items]]
+number = 639
+series = "crazies"
+backface = "default"
+preview = "missing.svg"
+shiny = false
+original = "missing.svg"
+missing = true
+
+[[items]]
+number = 640
+series = "crazies"
+backface = "default"
+preview = "missing.svg"
+shiny = false
+original = "missing.svg"
+missing = true
+
+[[items]]
+number = 641
+series = "crazies"
+backface = "default"
+preview = "missing.svg"
+shiny = false
+original = "missing.svg"
+missing = true
+
+[[items]]
 original = "pog_0642.png"
 preview = "pog_0642.jpg"
 number = 642
@@ -3791,12 +4763,165 @@ backface = "default"
 shiny = false
 
 [[items]]
+number = 643
+series = "crazies"
+backface = "default"
+preview = "missing.svg"
+shiny = false
+original = "missing.svg"
+missing = true
+
+[[items]]
+number = 644
+series = "crazies"
+backface = "default"
+preview = "missing.svg"
+shiny = false
+original = "missing.svg"
+missing = true
+
+[[items]]
+number = 645
+series = "crazies"
+backface = "default"
+preview = "missing.svg"
+shiny = false
+original = "missing.svg"
+missing = true
+
+[[items]]
+number = 646
+series = "crazies"
+backface = "default"
+preview = "missing.svg"
+shiny = false
+original = "missing.svg"
+missing = true
+
+[[items]]
+number = 647
+series = "crazies"
+backface = "default"
+preview = "missing.svg"
+shiny = false
+original = "missing.svg"
+missing = true
+
+[[items]]
+number = 648
+series = "crazies"
+backface = "default"
+preview = "missing.svg"
+shiny = false
+original = "missing.svg"
+missing = true
+
+[[items]]
+number = 649
+series = "crazies"
+backface = "default"
+preview = "missing.svg"
+shiny = false
+original = "missing.svg"
+missing = true
+
+[[items]]
+number = 650
+series = "crazies"
+backface = "default"
+preview = "missing.svg"
+shiny = false
+original = "missing.svg"
+missing = true
+
+[[items]]
 series = "crazies"
 number = 651
 backface = "default"
 preview = "pog_0651.jpg"
 shiny = false
 original = "pog_0651.png"
+
+[[items]]
+number = 652
+series = "crazies"
+backface = "default"
+preview = "missing.svg"
+shiny = false
+original = "missing.svg"
+missing = true
+
+[[items]]
+number = 653
+series = "crazies"
+backface = "default"
+preview = "missing.svg"
+shiny = false
+original = "missing.svg"
+missing = true
+
+[[items]]
+number = 654
+series = "crazies"
+backface = "default"
+preview = "missing.svg"
+shiny = false
+original = "missing.svg"
+missing = true
+
+[[items]]
+number = 655
+series = "crazies"
+backface = "default"
+preview = "missing.svg"
+shiny = false
+original = "missing.svg"
+missing = true
+
+[[items]]
+number = 656
+series = "crazies"
+backface = "default"
+preview = "missing.svg"
+shiny = false
+original = "missing.svg"
+missing = true
+
+[[items]]
+number = 657
+series = "crazies"
+backface = "default"
+preview = "missing.svg"
+shiny = false
+original = "missing.svg"
+missing = true
+
+[[items]]
+number = 658
+series = "crazies"
+backface = "default"
+preview = "missing.svg"
+shiny = false
+original = "missing.svg"
+missing = true
+
+[[items]]
+number = 659
+series = "crazies"
+backface = "default"
+preview = "missing.svg"
+shiny = false
+original = "missing.svg"
+missing = true
+
+[[items]]
+number = 660
+series = "crazies"
+backface = "default"
+preview = "missing.svg"
+shiny = false
+original = "missing.svg"
+missing = true
 
 [[items]]
 original = "pog_0721.png"
@@ -3815,12 +4940,93 @@ backface = "uwf"
 shiny = false
 
 [[items]]
+number = 723
+series = "bushido-purple"
+backface = "uwf"
+preview = "missing.svg"
+shiny = false
+original = "missing.svg"
+missing = true
+
+[[items]]
 original = "pog_0724.png"
 preview = "pog_0724.jpg"
 number = 724
 series = "bushido-purple"
 backface = "uwf"
 shiny = false
+
+[[items]]
+number = 725
+series = "bushido-purple"
+backface = "uwf"
+preview = "missing.svg"
+shiny = false
+original = "missing.svg"
+missing = true
+
+[[items]]
+number = 726
+series = "bushido-purple"
+backface = "uwf"
+preview = "missing.svg"
+shiny = false
+original = "missing.svg"
+missing = true
+
+[[items]]
+number = 727
+series = "bushido-purple"
+backface = "uwf"
+preview = "missing.svg"
+shiny = false
+original = "missing.svg"
+missing = true
+
+[[items]]
+number = 728
+series = "bushido-purple"
+backface = "uwf"
+preview = "missing.svg"
+shiny = false
+original = "missing.svg"
+missing = true
+
+[[items]]
+number = 729
+series = "bushido-purple"
+backface = "uwf"
+preview = "missing.svg"
+shiny = false
+original = "missing.svg"
+missing = true
+
+[[items]]
+number = 730
+series = "bushido-purple"
+backface = "uwf"
+preview = "missing.svg"
+shiny = false
+original = "missing.svg"
+missing = true
+
+[[items]]
+number = 731
+series = "bushido-purple"
+backface = "uwf"
+preview = "missing.svg"
+shiny = false
+original = "missing.svg"
+missing = true
+
+[[items]]
+number = 732
+series = "bushido-purple"
+backface = "uwf"
+preview = "missing.svg"
+shiny = false
+original = "missing.svg"
+missing = true
 
 [[items]]
 original = "pog_0733.png"
@@ -3855,6 +5061,24 @@ backface = "uwf"
 shiny = false
 
 [[items]]
+number = 737
+series = "bushido-purple"
+backface = "uwf"
+preview = "missing.svg"
+shiny = false
+original = "missing.svg"
+missing = true
+
+[[items]]
+number = 738
+series = "bushido-purple"
+backface = "uwf"
+preview = "missing.svg"
+shiny = false
+original = "missing.svg"
+missing = true
+
+[[items]]
 original = "pog_0739.png"
 preview = "pog_0739.jpg"
 number = 739
@@ -3869,6 +5093,33 @@ number = 740
 series = "bushido-purple"
 backface = "uwf"
 shiny = false
+
+[[items]]
+number = 741
+series = "bushido-purple"
+backface = "uwf"
+preview = "missing.svg"
+shiny = false
+original = "missing.svg"
+missing = true
+
+[[items]]
+number = 742
+series = "bushido-purple"
+backface = "uwf"
+preview = "missing.svg"
+shiny = false
+original = "missing.svg"
+missing = true
+
+[[items]]
+number = 743
+series = "bushido-purple"
+backface = "uwf"
+preview = "missing.svg"
+shiny = false
+original = "missing.svg"
+missing = true
 
 [[items]]
 original = "pog_0744.png"
@@ -3895,6 +5146,42 @@ backface = "uwf"
 shiny = false
 
 [[items]]
+number = 747
+series = "bushido-purple"
+backface = "uwf"
+preview = "missing.svg"
+shiny = false
+original = "missing.svg"
+missing = true
+
+[[items]]
+number = 748
+series = "bushido-purple"
+backface = "uwf"
+preview = "missing.svg"
+shiny = false
+original = "missing.svg"
+missing = true
+
+[[items]]
+number = 749
+series = "bushido-purple"
+backface = "uwf"
+preview = "missing.svg"
+shiny = false
+original = "missing.svg"
+missing = true
+
+[[items]]
+number = 750
+series = "bushido-purple"
+backface = "uwf"
+preview = "missing.svg"
+shiny = false
+original = "missing.svg"
+missing = true
+
+[[items]]
 original = "pog_0751.png"
 preview = "pog_0751.jpg"
 number = 751
@@ -3911,6 +5198,15 @@ shiny = false
 original = "pog_0752.png"
 
 [[items]]
+number = 753
+series = "bushido-green"
+backface = "uwf"
+preview = "missing.svg"
+shiny = false
+original = "missing.svg"
+missing = true
+
+[[items]]
 series = "bushido-green"
 number = 754
 backface = "uwf"
@@ -3919,12 +5215,48 @@ shiny = false
 original = "pog_0754.png"
 
 [[items]]
+number = 755
+series = "bushido-green"
+backface = "uwf"
+preview = "missing.svg"
+shiny = false
+original = "missing.svg"
+missing = true
+
+[[items]]
 original = "pog_0756.png"
 preview = "pog_0756.jpg"
 number = 756
 series = "bushido-green"
 backface = "uwf"
 shiny = false
+
+[[items]]
+number = 757
+series = "bushido-green"
+backface = "uwf"
+preview = "missing.svg"
+shiny = false
+original = "missing.svg"
+missing = true
+
+[[items]]
+number = 758
+series = "bushido-green"
+backface = "uwf"
+preview = "missing.svg"
+shiny = false
+original = "missing.svg"
+missing = true
+
+[[items]]
+number = 759
+series = "bushido-green"
+backface = "uwf"
+preview = "missing.svg"
+shiny = false
+original = "missing.svg"
+missing = true
 
 [[items]]
 original = "pog_0760.png"
@@ -3941,6 +5273,24 @@ number = 761
 series = "bushido-green"
 backface = "uwf"
 shiny = false
+
+[[items]]
+number = 762
+series = "bushido-green"
+backface = "uwf"
+preview = "missing.svg"
+shiny = false
+original = "missing.svg"
+missing = true
+
+[[items]]
+number = 763
+series = "bushido-green"
+backface = "uwf"
+preview = "missing.svg"
+shiny = false
+original = "missing.svg"
+missing = true
 
 [[items]]
 original = "pog_0764.png"
@@ -3983,12 +5333,39 @@ backface = "uwf"
 shiny = false
 
 [[items]]
+number = 769
+series = "bushido-green"
+backface = "uwf"
+preview = "missing.svg"
+shiny = false
+original = "missing.svg"
+missing = true
+
+[[items]]
 original = "pog_0770.png"
 preview = "pog_0770.jpg"
 number = 770
 series = "bushido-green"
 backface = "uwf"
 shiny = false
+
+[[items]]
+number = 771
+series = "bushido-green"
+backface = "uwf"
+preview = "missing.svg"
+shiny = false
+original = "missing.svg"
+missing = true
+
+[[items]]
+number = 772
+series = "bushido-green"
+backface = "uwf"
+preview = "missing.svg"
+shiny = false
+original = "missing.svg"
+missing = true
 
 [[items]]
 original = "pog_0773.png"
@@ -4007,12 +5384,39 @@ shiny = false
 original = "pog_0774.png"
 
 [[items]]
+number = 775
+series = "bushido-green"
+backface = "uwf"
+preview = "missing.svg"
+shiny = false
+original = "missing.svg"
+missing = true
+
+[[items]]
 original = "pog_0776.png"
 preview = "pog_0776.jpg"
 number = 776
 series = "bushido-green"
 backface = "uwf"
 shiny = false
+
+[[items]]
+number = 777
+series = "bushido-green"
+backface = "uwf"
+preview = "missing.svg"
+shiny = false
+original = "missing.svg"
+missing = true
+
+[[items]]
+number = 778
+series = "bushido-green"
+backface = "uwf"
+preview = "missing.svg"
+shiny = false
+original = "missing.svg"
+missing = true
 
 [[items]]
 original = "pog_0779.png"
@@ -4023,6 +5427,24 @@ backface = "uwf"
 shiny = false
 
 [[items]]
+number = 780
+series = "bushido-green"
+backface = "uwf"
+preview = "missing.svg"
+shiny = false
+original = "missing.svg"
+missing = true
+
+[[items]]
+number = 781
+series = "missing"
+backface = "uwf"
+preview = "missing.svg"
+shiny = false
+original = "missing.svg"
+missing = true
+
+[[items]]
 original = "pog_0782.png"
 preview = "pog_0782.jpg"
 number = 782
@@ -4031,12 +5453,399 @@ backface = "default"
 shiny = false
 
 [[items]]
+number = 783
+series = "missing"
+backface = "default"
+preview = "missing.svg"
+shiny = false
+original = "missing.svg"
+missing = true
+
+[[items]]
+number = 784
+series = "missing"
+backface = "default"
+preview = "missing.svg"
+shiny = false
+original = "missing.svg"
+missing = true
+
+[[items]]
+number = 785
+series = "missing"
+backface = "default"
+preview = "missing.svg"
+shiny = false
+original = "missing.svg"
+missing = true
+
+[[items]]
+number = 786
+series = "missing"
+backface = "default"
+preview = "missing.svg"
+shiny = false
+original = "missing.svg"
+missing = true
+
+[[items]]
+number = 787
+series = "missing"
+backface = "default"
+preview = "missing.svg"
+shiny = false
+original = "missing.svg"
+missing = true
+
+[[items]]
+number = 788
+series = "missing"
+backface = "default"
+preview = "missing.svg"
+shiny = false
+original = "missing.svg"
+missing = true
+
+[[items]]
+number = 789
+series = "missing"
+backface = "default"
+preview = "missing.svg"
+shiny = false
+original = "missing.svg"
+missing = true
+
+[[items]]
+number = 790
+series = "missing"
+backface = "default"
+preview = "missing.svg"
+shiny = false
+original = "missing.svg"
+missing = true
+
+[[items]]
+number = 791
+series = "missing"
+backface = "default"
+preview = "missing.svg"
+shiny = false
+original = "missing.svg"
+missing = true
+
+[[items]]
+number = 792
+series = "missing"
+backface = "default"
+preview = "missing.svg"
+shiny = false
+original = "missing.svg"
+missing = true
+
+[[items]]
+number = 793
+series = "missing"
+backface = "default"
+preview = "missing.svg"
+shiny = false
+original = "missing.svg"
+missing = true
+
+[[items]]
+number = 794
+series = "missing"
+backface = "default"
+preview = "missing.svg"
+shiny = false
+original = "missing.svg"
+missing = true
+
+[[items]]
+number = 795
+series = "missing"
+backface = "default"
+preview = "missing.svg"
+shiny = false
+original = "missing.svg"
+missing = true
+
+[[items]]
+number = 796
+series = "missing"
+backface = "default"
+preview = "missing.svg"
+shiny = false
+original = "missing.svg"
+missing = true
+
+[[items]]
+number = 797
+series = "missing"
+backface = "default"
+preview = "missing.svg"
+shiny = false
+original = "missing.svg"
+missing = true
+
+[[items]]
+number = 798
+series = "missing"
+backface = "default"
+preview = "missing.svg"
+shiny = false
+original = "missing.svg"
+missing = true
+
+[[items]]
+number = 799
+series = "missing"
+backface = "default"
+preview = "missing.svg"
+shiny = false
+original = "missing.svg"
+missing = true
+
+[[items]]
+number = 800
+series = "missing"
+backface = "default"
+preview = "missing.svg"
+shiny = false
+original = "missing.svg"
+missing = true
+
+[[items]]
+number = 801
+series = "missing"
+backface = "default"
+preview = "missing.svg"
+shiny = false
+original = "missing.svg"
+missing = true
+
+[[items]]
+number = 802
+series = "missing"
+backface = "default"
+preview = "missing.svg"
+shiny = false
+original = "missing.svg"
+missing = true
+
+[[items]]
+number = 803
+series = "missing"
+backface = "default"
+preview = "missing.svg"
+shiny = false
+original = "missing.svg"
+missing = true
+
+[[items]]
+number = 804
+series = "missing"
+backface = "default"
+preview = "missing.svg"
+shiny = false
+original = "missing.svg"
+missing = true
+
+[[items]]
+number = 805
+series = "missing"
+backface = "default"
+preview = "missing.svg"
+shiny = false
+original = "missing.svg"
+missing = true
+
+[[items]]
+number = 806
+series = "missing"
+backface = "default"
+preview = "missing.svg"
+shiny = false
+original = "missing.svg"
+missing = true
+
+[[items]]
+number = 807
+series = "missing"
+backface = "default"
+preview = "missing.svg"
+shiny = false
+original = "missing.svg"
+missing = true
+
+[[items]]
+number = 808
+series = "missing"
+backface = "default"
+preview = "missing.svg"
+shiny = false
+original = "missing.svg"
+missing = true
+
+[[items]]
+number = 809
+series = "missing"
+backface = "default"
+preview = "missing.svg"
+shiny = false
+original = "missing.svg"
+missing = true
+
+[[items]]
+number = 810
+series = "missing"
+backface = "default"
+preview = "missing.svg"
+shiny = false
+original = "missing.svg"
+missing = true
+
+[[items]]
+number = 811
+series = "missing"
+backface = "default"
+preview = "missing.svg"
+shiny = false
+original = "missing.svg"
+missing = true
+
+[[items]]
+number = 812
+series = "missing"
+backface = "default"
+preview = "missing.svg"
+shiny = false
+original = "missing.svg"
+missing = true
+
+[[items]]
+number = 813
+series = "missing"
+backface = "default"
+preview = "missing.svg"
+shiny = false
+original = "missing.svg"
+missing = true
+
+[[items]]
+number = 814
+series = "missing"
+backface = "default"
+preview = "missing.svg"
+shiny = false
+original = "missing.svg"
+missing = true
+
+[[items]]
+number = 815
+series = "missing"
+backface = "default"
+preview = "missing.svg"
+shiny = false
+original = "missing.svg"
+missing = true
+
+[[items]]
+number = 816
+series = "missing"
+backface = "default"
+preview = "missing.svg"
+shiny = false
+original = "missing.svg"
+missing = true
+
+[[items]]
+number = 817
+series = "missing"
+backface = "default"
+preview = "missing.svg"
+shiny = false
+original = "missing.svg"
+missing = true
+
+[[items]]
+number = 818
+series = "missing"
+backface = "default"
+preview = "missing.svg"
+shiny = false
+original = "missing.svg"
+missing = true
+
+[[items]]
+number = 819
+series = "missing"
+backface = "default"
+preview = "missing.svg"
+shiny = false
+original = "missing.svg"
+missing = true
+
+[[items]]
+number = 820
+series = "missing"
+backface = "default"
+preview = "missing.svg"
+shiny = false
+original = "missing.svg"
+missing = true
+
+[[items]]
+number = 821
+series = "missing"
+backface = "default"
+preview = "missing.svg"
+shiny = false
+original = "missing.svg"
+missing = true
+
+[[items]]
+number = 822
+series = "missing"
+backface = "default"
+preview = "missing.svg"
+shiny = false
+original = "missing.svg"
+missing = true
+
+[[items]]
+number = 823
+series = "missing"
+backface = "default"
+preview = "missing.svg"
+shiny = false
+original = "missing.svg"
+missing = true
+
+[[items]]
+number = 824
+series = "missing"
+backface = "default"
+preview = "missing.svg"
+shiny = false
+original = "missing.svg"
+missing = true
+
+[[items]]
 original = "pog_0825.png"
 preview = "pog_0825.jpg"
 number = 825
 series = "yellow"
 backface = "default"
 shiny = false
+
+[[items]]
+number = 826
+series = "yellow"
+backface = "default"
+preview = "missing.svg"
+shiny = false
+original = "missing.svg"
+missing = true
 
 [[items]]
 original = "pog_0827.png"
@@ -4063,6 +5872,33 @@ backface = "default"
 shiny = false
 
 [[items]]
+number = 830
+series = "yellow"
+backface = "default"
+preview = "missing.svg"
+shiny = false
+original = "missing.svg"
+missing = true
+
+[[items]]
+number = 831
+series = "yellow"
+backface = "default"
+preview = "missing.svg"
+shiny = false
+original = "missing.svg"
+missing = true
+
+[[items]]
+number = 832
+series = "yellow"
+backface = "default"
+preview = "missing.svg"
+shiny = false
+original = "missing.svg"
+missing = true
+
+[[items]]
 series = "yellow"
 number = 833
 backface = "default"
@@ -4071,12 +5907,66 @@ shiny = false
 original = "pog_0833.png"
 
 [[items]]
+number = 834
+series = "yellow"
+backface = "default"
+preview = "missing.svg"
+shiny = false
+original = "missing.svg"
+missing = true
+
+[[items]]
+number = 835
+series = "yellow"
+backface = "default"
+preview = "missing.svg"
+shiny = false
+original = "missing.svg"
+missing = true
+
+[[items]]
 series = "yellow"
 number = 836
 backface = "default"
 preview = "pog_0836.jpg"
 shiny = false
 original = "pog_0836.png"
+
+[[items]]
+number = 837
+series = "yellow"
+backface = "default"
+preview = "missing.svg"
+shiny = false
+original = "missing.svg"
+missing = true
+
+[[items]]
+number = 838
+series = "yellow"
+backface = "default"
+preview = "missing.svg"
+shiny = false
+original = "missing.svg"
+missing = true
+
+[[items]]
+number = 839
+series = "yellow"
+backface = "default"
+preview = "missing.svg"
+shiny = false
+original = "missing.svg"
+missing = true
+
+[[items]]
+number = 840
+series = "yellow"
+backface = "default"
+preview = "missing.svg"
+shiny = false
+original = "missing.svg"
+missing = true
 
 [[items]]
 original = "pog_1001.png"
