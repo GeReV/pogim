@@ -21,6 +21,7 @@ const SERIES_CONVERSION = {
   'bushido-green': 'ענקי הבושידו',
   'bushido-purple': 'ענקי הבושידו',
   yellow: 'הסדרה הצהובה',
+  'road-safety': 'זהירות בדרכים',
   horospog: 'הורוספוג',
   hologram: 'סדרת היקרים',
 };

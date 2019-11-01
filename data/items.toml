@@ -5706,7 +5706,7 @@ missing = true
 original = "pog_0815.png"
 preview = "pog_0815.jpg"
 number = 815
-series = "yellow"
+series = "road-safety"
 backface = "default"
 shiny = false
 
@@ -5714,7 +5714,7 @@ shiny = false
 original = "pog_0816.png"
 preview = "pog_0816.jpg"
 number = 816
-series = "yellow"
+series = "road-safety"
 backface = "default"
 shiny = false
 
@@ -5722,13 +5722,13 @@ shiny = false
 original = "pog_0817.png"
 preview = "pog_0817.jpg"
 number = 817
-series = "yellow"
+series = "road-safety"
 backface = "default"
 shiny = false
 
 [[items]]
 number = 817
-series = "missing"
+series = "road-safety"
 backface = "default"
 preview = "missing.svg"
 shiny = false
@@ -5737,7 +5737,7 @@ missing = true
 
 [[items]]
 number = 818
-series = "missing"
+series = "road-safety"
 backface = "default"
 preview = "missing.svg"
 shiny = false
@@ -5746,7 +5746,7 @@ missing = true
 
 [[items]]
 number = 819
-series = "missing"
+series = "road-safety"
 backface = "default"
 preview = "missing.svg"
 shiny = false
@@ -5755,7 +5755,7 @@ missing = true
 
 [[items]]
 number = 820
-series = "missing"
+series = "road-safety"
 backface = "default"
 preview = "missing.svg"
 shiny = false
@@ -5766,13 +5766,13 @@ missing = true
 original = "pog_0821.png"
 preview = "pog_0821.jpg"
 number = 821
-series = "yellow"
+series = "road-safety"
 backface = "default"
 shiny = false
 
 [[items]]
 number = 822
-series = "missing"
+series = "road-safety"
 backface = "default"
 preview = "missing.svg"
 shiny = false
@@ -5781,7 +5781,7 @@ missing = true
 
 [[items]]
 number = 823
-series = "missing"
+series = "road-safety"
 backface = "default"
 preview = "missing.svg"
 shiny = false
@@ -5790,7 +5790,7 @@ missing = true
 
 [[items]]
 number = 824
-series = "missing"
+series = "road-safety"
 backface = "default"
 preview = "missing.svg"
 shiny = false
@@ -5801,7 +5801,7 @@ missing = true
 original = "pog_0825.png"
 preview = "pog_0825.jpg"
 number = 825
-series = "yellow"
+series = "road-safety"
 backface = "default"
 shiny = false
 
@@ -5809,7 +5809,7 @@ shiny = false
 original = "pog_0826.png"
 preview = "pog_0826.jpg"
 number = 826
-series = "yellow"
+series = "road-safety"
 backface = "default"
 shiny = false
 
@@ -5817,12 +5817,12 @@ shiny = false
 original = "pog_0827.png"
 preview = "pog_0827.jpg"
 number = 827
-series = "yellow"
+series = "road-safety"
 backface = "default"
 shiny = false
 
 [[items]]
-series = "yellow"
+series = "road-safety"
 number = 828
 backface = "default"
 preview = "pog_0828.jpg"
@@ -5833,13 +5833,13 @@ original = "pog_0828.png"
 original = "pog_0829.png"
 preview = "pog_0829.jpg"
 number = 829
-series = "yellow"
+series = "road-safety"
 backface = "default"
 shiny = false
 
 [[items]]
 number = 830
-series = "yellow"
+series = "road-safety"
 backface = "default"
 preview = "missing.svg"
 shiny = false
@@ -5848,7 +5848,7 @@ missing = true
 
 [[items]]
 number = 831
-series = "yellow"
+series = "road-safety"
 backface = "default"
 preview = "missing.svg"
 shiny = false
@@ -5857,7 +5857,7 @@ missing = true
 
 [[items]]
 number = 832
-series = "yellow"
+series = "road-safety"
 backface = "default"
 preview = "missing.svg"
 shiny = false
@@ -5865,7 +5865,7 @@ original = "missing.svg"
 missing = true
 
 [[items]]
-series = "yellow"
+series = "road-safety"
 number = 833
 backface = "default"
 preview = "pog_0833.jpg"
@@ -5874,7 +5874,7 @@ original = "pog_0833.png"
 
 [[items]]
 number = 834
-series = "yellow"
+series = "road-safety"
 backface = "default"
 preview = "missing.svg"
 shiny = false
@@ -5883,7 +5883,7 @@ missing = true
 
 [[items]]
 number = 835
-series = "yellow"
+series = "road-safety"
 backface = "default"
 preview = "missing.svg"
 shiny = false
@@ -5891,7 +5891,7 @@ original = "missing.svg"
 missing = true
 
 [[items]]
-series = "yellow"
+series = "road-safety"
 number = 836
 backface = "default"
 preview = "pog_0836.jpg"
@@ -5900,7 +5900,7 @@ original = "pog_0836.png"
 
 [[items]]
 number = 837
-series = "yellow"
+series = "road-safety"
 backface = "default"
 preview = "missing.svg"
 shiny = false
@@ -5909,7 +5909,7 @@ missing = true
 
 [[items]]
 number = 838
-series = "yellow"
+series = "road-safety"
 backface = "default"
 preview = "missing.svg"
 shiny = false
@@ -5918,7 +5918,7 @@ missing = true
 
 [[items]]
 number = 839
-series = "yellow"
+series = "road-safety"
 backface = "default"
 preview = "missing.svg"
 shiny = false
@@ -5927,7 +5927,7 @@ missing = true
 
 [[items]]
 number = 840
-series = "yellow"
+series = "road-safety"
 backface = "default"
 preview = "missing.svg"
 shiny = false
