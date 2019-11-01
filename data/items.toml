@@ -3021,13 +3021,12 @@ backface = "buddy"
 shiny = true
 
 [[items]]
+original = "pog_0377.png"
+preview = "pog_0377.jpg"
 number = 377
 series = "gold"
 backface = "buddy"
-preview = "missing.svg"
-shiny = false
-original = "missing.svg"
-missing = true
+shiny = true
 
 [[items]]
 original = "pog_0378.png"
@@ -3070,13 +3069,12 @@ backface = "buddy"
 shiny = true
 
 [[items]]
+original = "pog_0383.png"
+preview = "pog_0383.jpg"
 number = 383
 series = "gold"
 backface = "buddy"
-preview = "missing.svg"
-shiny = false
-original = "missing.svg"
-missing = true
+shiny = true
 
 [[items]]
 original = "pog_0384.png"
@@ -4246,22 +4244,20 @@ backface = "default"
 shiny = false
 
 [[items]]
+original = "pog_0525.png"
+preview = "pog_0525.jpg"
 number = 525
 series = "psycho-blue-white"
 backface = "default"
-preview = "missing.svg"
 shiny = false
-original = "missing.svg"
-missing = true
 
 [[items]]
+original = "pog_0526.png"
+preview = "pog_0526.jpg"
 number = 526
 series = "psycho-blue-white"
 backface = "default"
-preview = "missing.svg"
 shiny = false
-original = "missing.svg"
-missing = true
 
 [[items]]
 original = "pog_0527.png"
@@ -4508,7 +4504,6 @@ series = "hologram"
 backface = "default"
 shiny = true
 
-
 [[items]]
 original = "pog_0616.png"
 preview = "pog_0616.jpg"
@@ -4737,7 +4732,6 @@ original = "missing.svg"
 missing = true
 
 [[items]]
-
 original = "pog_0642.png"
 preview = "pog_0642.jpg"
 number = 642
@@ -4808,13 +4802,12 @@ original = "missing.svg"
 missing = true
 
 [[items]]
+original = "pog_0650.png"
+preview = "pog_0650.jpg"
 number = 650
 series = "crazies"
 backface = "default"
-preview = "missing.svg"
 shiny = false
-original = "missing.svg"
-missing = true
 
 [[items]]
 series = "crazies"
@@ -4825,13 +4818,12 @@ shiny = false
 original = "pog_0651.png"
 
 [[items]]
+original = "pog_0652.png"
+preview = "pog_0652.jpg"
 number = 652
 series = "crazies"
 backface = "default"
-preview = "missing.svg"
 shiny = false
-original = "missing.svg"
-missing = true
 
 [[items]]
 original = "pog_0653.png"
@@ -5141,13 +5133,12 @@ original = "missing.svg"
 missing = true
 
 [[items]]
+original = "pog_0749.png"
+preview = "pog_0749.jpg"
 number = 749
 series = "bushido-purple"
 backface = "uwf"
-preview = "missing.svg"
 shiny = false
-original = "missing.svg"
-missing = true
 
 [[items]]
 original = "pog_0750.png"
@@ -5578,13 +5569,12 @@ original = "missing.svg"
 missing = true
 
 [[items]]
+original = "pog_0800.png"
+preview = "pog_0800.jpg"
 number = 800
-series = "missing"
+series = "yellow"
 backface = "default"
-preview = "missing.svg"
 shiny = false
-original = "missing.svg"
-missing = true
 
 [[items]]
 number = 801
