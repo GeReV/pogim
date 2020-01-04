@@ -37,7 +37,8 @@ def extract_mask(img, pad=3):
 
     lab_resize = cv.resize(lab, None, fx=0.15, fy=0.15)
 
-    cv.namedWindow(WINDOW_NAME)
+    cv.namedWindow(WINDOW_NAME, cv.WINDOW_NORMAL)
+    cv.resizeWindow(WINDOW_NAME, 600, 600)
 
     def mask(src):
         global l_value
