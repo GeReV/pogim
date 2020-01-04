@@ -1508,10 +1508,10 @@ missing = true
 number = 189
 series = "poalim"
 backface = "poalim"
-preview = "missing.svg"
+preview = "pog_0189.jpg"
 shiny = false
-original = "missing.svg"
-missing = true
+original = "pog_0189.png"
+missing = false
 
 [[items]]
 number = 190
@@ -5377,10 +5377,10 @@ shiny = false
 number = 778
 series = "bushido-green"
 backface = "uwf"
-preview = "missing.svg"
+preview = "pog_0778.jpg"
 shiny = false
-original = "missing.svg"
-missing = true
+original = "pog_0778.png"
+missing = false
 
 [[items]]
 original = "pog_0779.png"
@@ -5911,10 +5911,10 @@ missing = true
 number = 839
 series = "road-safety"
 backface = "default"
-preview = "missing.svg"
+preview = "pog_0839.jpg"
 shiny = false
-original = "missing.svg"
-missing = true
+original = "pog_0839.png"
+missing = false
 
 [[items]]
 number = 840
