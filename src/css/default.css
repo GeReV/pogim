@@ -497,6 +497,110 @@ figure>figcaption>h4 {
     height: 100%;
 }
 
+.missing-number {
+    text-shadow: 0 1px 1px rgba(0, 0, 0, 0.75);
+}
+.missing-number::after {
+    content: ', ';
+    color: #222;
+    text-shadow: none;
+}
+.missing-number:last-of-type:after {
+    content: none;
+}
+
+.missing-red {
+    color: #e53922;
+}
+
+.missing-green {
+    color: #029542;
+}
+
+.missing-blue {
+    color: #01a2b6;
+}
+
+.missing-purple {
+    color: #8b68a9;
+}
+
+.missing-orange {
+    color: #f8612a;
+}
+
+.missing-pink {
+    color: #f40e91;
+}
+
+.missing-poalim {
+    color: #e9b62a;
+}
+
+.missing-brown {
+    color: #ac4d29;
+}
+
+.missing-black {
+    color: #222;
+}
+
+.missing-gray {
+    color: #636459;
+}
+
+.missing-turquoise {
+    color: #009674;
+}
+
+.missing-psycho {
+    color: #1d2278;
+}
+
+.missing-psycho-blue-white {
+    color: #279eb0;
+}
+
+.missing-gold {
+    color: #bf9b30;
+}
+
+.missing-dominos {
+    color: #107da4;
+}
+
+.missing-comedy-store {
+    color: #d90021;
+}
+
+.missing-comedy-store-yellow {
+    color: #e7c500;
+}
+
+.missing-crazies {
+    color: #868824;
+}
+
+.missing-bushido-green {
+    color: #007c3d;
+}
+
+.missing-bushido-purple {
+    color: #d42a73;
+}
+
+.missing-yellow {
+    color: #e7c500;
+}
+
+.missing-road-safety {
+    color: #ff9c07;
+}
+
+.missing-hologram {
+    color: #a9a295;
+}
+
 @media (max-width: 420px) {
     body {
         font-size: 14px;

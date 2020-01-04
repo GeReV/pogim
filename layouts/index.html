@@ -24,6 +24,14 @@
 <article>
   {{ partial "thanks.md" . | markdownify }}
 </article>
+<article>
+  <h2>החסרים</h2>
+  {{ range where $items "missing" "==" true }}
+  {{ if ne .series "missing" }}
+  <span class="missing-number missing-{{.series}}">{{.number}}</span>
+  {{ end }}
+  {{ end }}
+</article>
 
 {{ partial "preview.html" . }}
 
