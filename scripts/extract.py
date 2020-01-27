@@ -13,10 +13,11 @@ def clamp(value, a, b):
 def extract_regions(filename, img, contours, pad=30):
     for index, cnt in enumerate(contours):
         (x, y, w, h) = cv.boundingRect(cnt)
-        top = y - pad
+        top = max(y - pad, 0)
         bottom = y + h + pad
-        left = x - pad
+        left = max(x - pad, 0)
         right = x + w + pad
+
 
         region = img[top:bottom, left:right]
 
