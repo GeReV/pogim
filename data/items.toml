@@ -3240,13 +3240,12 @@ shiny = false
 original = "pog_0405.png"
 
 [[items]]
+original = "pog_0406.png"
+preview = "pog_0406.jpg"
 number = 406
 series = "dominos"
 backface = "dominos"
-preview = "missing.svg"
 shiny = false
-original = "missing.svg"
-missing = true
 
 [[items]]
 original = "pog_0407.png"
@@ -3273,13 +3272,12 @@ backface = "dominos"
 shiny = false
 
 [[items]]
+original = "pog_0410.png"
+preview = "pog_0410.jpg"
 number = 410
 series = "dominos"
 backface = "dominos"
-preview = "missing.svg"
 shiny = false
-original = "missing.svg"
-missing = true
 
 [[items]]
 original = "pog_0411.png"
@@ -3330,13 +3328,12 @@ backface = "dominos"
 shiny = false
 
 [[items]]
+original = "pog_0417.png"
+preview = "pog_0417.jpg"
 number = 417
 series = "dominos"
 backface = "dominos"
-preview = "missing.svg"
 shiny = false
-original = "missing.svg"
-missing = true
 
 [[items]]
 original = "pog_0418.png"
@@ -3355,13 +3352,12 @@ backface = "dominos"
 shiny = false
 
 [[items]]
+original = "pog_0420.png"
+preview = "pog_0420.jpg"
 number = 420
 series = "dominos"
 backface = "dominos"
-preview = "missing.svg"
 shiny = false
-original = "missing.svg"
-missing = true
 
 [[items]]
 number = 421
@@ -3898,13 +3894,12 @@ backface = "default"
 shiny = false
 
 [[items]]
+original = "pog_0484.png"
+preview = "pog_0484.jpg"
 number = 484
 series = "comedy-store-yellow"
 backface = "default"
-preview = "missing.svg"
 shiny = false
-original = "missing.svg"
-missing = true
 
 [[items]]
 original = "pog_0485.png"
@@ -4638,13 +4633,12 @@ backface = "default"
 shiny = false
 
 [[items]]
+original = "pog_0634.png"
+preview = "pog_0634.jpg"
 number = 634
 series = "crazies"
 backface = "default"
-preview = "missing.svg"
 shiny = false
-original = "missing.svg"
-missing = true
 
 [[items]]
 original = "pog_0635.png"
@@ -4663,13 +4657,12 @@ backface = "default"
 shiny = false
 
 [[items]]
+original = "pog_0637.png"
+preview = "pog_0637.jpg"
 number = 637
 series = "crazies"
 backface = "default"
-preview = "missing.svg"
 shiny = false
-original = "missing.svg"
-missing = true
 
 [[items]]
 original = "pog_0638.png"
@@ -4697,13 +4690,12 @@ backface = "default"
 shiny = false
 
 [[items]]
+original = "pog_0641.png"
+preview = "pog_0641.jpg"
 number = 641
 series = "crazies"
 backface = "default"
-preview = "missing.svg"
 shiny = false
-original = "missing.svg"
-missing = true
 
 [[items]]
 original = "pog_0642.png"
@@ -4722,22 +4714,20 @@ backface = "default"
 shiny = false
 
 [[items]]
+original = "pog_0644.png"
+preview = "pog_0644.jpg"
 number = 644
 series = "crazies"
 backface = "default"
-preview = "missing.svg"
 shiny = false
-original = "missing.svg"
-missing = true
 
 [[items]]
+original = "pog_0645.png"
+preview = "pog_0645.jpg"
 number = 645
 series = "crazies"
 backface = "default"
-preview = "missing.svg"
 shiny = false
-original = "missing.svg"
-missing = true
 
 [[items]]
 number = 646
@@ -4749,13 +4739,12 @@ original = "missing.svg"
 missing = true
 
 [[items]]
+original = "pog_0647.png"
+preview = "pog_0647.jpg"
 number = 647
 series = "crazies"
 backface = "default"
-preview = "missing.svg"
 shiny = false
-original = "missing.svg"
-missing = true
 
 [[items]]
 original = "pog_0648.png"
@@ -4766,13 +4755,12 @@ backface = "default"
 shiny = false
 
 [[items]]
+original = "pog_0649.png"
+preview = "pog_0649.jpg"
 number = 649
 series = "crazies"
 backface = "default"
-preview = "missing.svg"
 shiny = false
-original = "missing.svg"
-missing = true
 
 [[items]]
 original = "pog_0650.png"
@@ -4824,13 +4812,12 @@ original = "missing.svg"
 missing = true
 
 [[items]]
+original = "pog_0656.png"
+preview = "pog_0656.jpg"
 number = 656
 series = "crazies"
 backface = "default"
-preview = "missing.svg"
 shiny = false
-original = "missing.svg"
-missing = true
 
 [[items]]
 original = "pog_0657.png"
@@ -4841,13 +4828,12 @@ backface = "default"
 shiny = false
 
 [[items]]
+original = "pog_0658.png"
+preview = "pog_0658.jpg"
 number = 658
 series = "crazies"
 backface = "default"
-preview = "missing.svg"
 shiny = false
-original = "missing.svg"
-missing = true
 
 [[items]]
 original = "pog_0659.png"
