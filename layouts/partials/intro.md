@@ -5,7 +5,7 @@
 
 לתרומות לאתר, היכנסו ל[עמוד התרומות]({{ relref . "/contrib" }}).
 
-עוד על הפוגים <a href="https://he.wikipedia.org/wiki/%D7%A4%D7%95%D7%92%D7%99%D7%9D" target="_blank">בוויקיפדיה</a>.
+עוד על הפוגים <a href="https://he.wikipedia.org/wiki/%D7%A4%D7%95%D7%92%D7%99%D7%9D" target="_blank" rel="noopener">בוויקיפדיה</a>.
 
 ### עדכונים
 

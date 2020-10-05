@@ -6,7 +6,7 @@
 
 ### יצירת קשר
 
-ליצירת קשר, מלאו את <a href="https://goo.gl/forms/mOk7zfC5rEJm7nfi2" target="_blank">הטופס כאן</a>.
+ליצירת קשר, מלאו את <a href="https://goo.gl/forms/mOk7zfC5rEJm7nfi2" target="_blank" rel="noopener">הטופס כאן</a>.
 
 <!-- לסקרנים, הנה [הסבר טכני מפורט על התהליך]({{< relref "/in-depth/index.md" >}}).-->
 
