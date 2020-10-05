@@ -4443,13 +4443,12 @@ original = "missing.svg"
 missing = true
 
 [[items]]
+original = "pog_0612.png"
+preview = "pog_0612.jpg"
 number = 612
 series = "hologram"
 backface = "default"
-preview = "missing.svg"
-shiny = false
-original = "missing.svg"
-missing = true
+shiny = true
 
 [[items]]
 number = 613
@@ -4519,13 +4518,12 @@ original = "missing.svg"
 missing = true
 
 [[items]]
+original = "pog_0621.png"
+preview = "pog_0621.jpg"
 number = 621
 series = "hologram"
 backface = "default"
-preview = "missing.svg"
-shiny = false
-original = "missing.svg"
-missing = true
+shiny = true
 
 [[items]]
 number = 622
@@ -4673,13 +4671,12 @@ backface = "default"
 shiny = false
 
 [[items]]
+original = "pog_0639.png"
+preview = "pog_0639.jpg"
 number = 639
 series = "crazies"
 backface = "default"
-preview = "missing.svg"
 shiny = false
-original = "missing.svg"
-missing = true
 
 [[items]]
 original = "pog_0640.png"
@@ -4730,13 +4727,12 @@ backface = "default"
 shiny = false
 
 [[items]]
+original = "pog_0646.png"
+preview = "pog_0646.jpg"
 number = 646
 series = "crazies"
 backface = "default"
-preview = "missing.svg"
 shiny = false
-original = "missing.svg"
-missing = true
 
 [[items]]
 original = "pog_0647.png"
@@ -4803,13 +4799,12 @@ backface = "default"
 shiny = false
 
 [[items]]
+original = "pog_0655.png"
+preview = "pog_0655.jpg"
 number = 655
 series = "crazies"
 backface = "default"
-preview = "missing.svg"
 shiny = false
-original = "missing.svg"
-missing = true
 
 [[items]]
 original = "pog_0656.png"
@@ -4910,13 +4905,12 @@ backface = "uwf"
 shiny = false
 
 [[items]]
+original = "pog_0728.png"
+preview = "pog_0728.jpg"
 number = 728
 series = "bushido-purple"
 backface = "uwf"
-preview = "missing.svg"
 shiny = false
-original = "missing.svg"
-missing = true
 
 [[items]]
 original = "pog_0729.png"
@@ -4944,13 +4938,12 @@ backface = "uwf"
 shiny = false
 
 [[items]]
+original = "pog_0732.png"
+preview = "pog_0732.jpg"
 number = 732
 series = "bushido-purple"
 backface = "uwf"
-preview = "missing.svg"
 shiny = false
-original = "missing.svg"
-missing = true
 
 [[items]]
 original = "pog_0733.png"
@@ -5131,13 +5124,12 @@ shiny = false
 preview = "pog_0754.jpg"
 
 [[items]]
+original = "pog_0755.png"
+preview = "pog_0755.jpg"
 number = 755
 series = "bushido-green"
 backface = "uwf"
-preview = "missing.svg"
 shiny = false
-original = "missing.svg"
-missing = true
 
 [[items]]
 original = "pog_0756.png"
@@ -5197,13 +5189,12 @@ original = "missing.svg"
 missing = true
 
 [[items]]
+original = "pog_0763.png"
+preview = "pog_0763.jpg"
 number = 763
 series = "bushido-green"
 backface = "uwf"
-preview = "missing.svg"
 shiny = false
-original = "missing.svg"
-missing = true
 
 [[items]]
 original = "pog_0764.png"
@@ -5262,22 +5253,20 @@ backface = "uwf"
 shiny = false
 
 [[items]]
+original = "pog_0771.png"
+preview = "pog_0771.jpg"
 number = 771
 series = "bushido-green"
 backface = "uwf"
-preview = "missing.svg"
 shiny = false
-original = "missing.svg"
-missing = true
 
 [[items]]
+original = "pog_0772.png"
+preview = "pog_0772.jpg"
 number = 772
 series = "bushido-green"
 backface = "uwf"
-preview = "missing.svg"
 shiny = false
-original = "missing.svg"
-missing = true
 
 [[items]]
 original = "pog_0773.png"
@@ -5370,13 +5359,12 @@ backface = "default"
 shiny = false
 
 [[items]]
+original = "pog_0784.png"
+preview = "pog_0784.jpg"
 number = 784
 series = "yellow"
 backface = "default"
-preview = "missing.svg"
 shiny = false
-original = "missing.svg"
-missing = true
 
 [[items]]
 original = "pog_0785.png"
@@ -5459,22 +5447,20 @@ original = "missing.svg"
 missing = true
 
 [[items]]
+original = "pog_0794.png"
+preview = "pog_0794.jpg"
 number = 794
 series = "yellow"
 backface = "default"
-preview = "missing.svg"
 shiny = false
-original = "missing.svg"
-missing = true
 
 [[items]]
+original = "pog_0795.png"
+preview = "pog_0795.jpg"
 number = 795
 series = "yellow"
 backface = "default"
-preview = "missing.svg"
 shiny = false
-original = "missing.svg"
-missing = true
 
 [[items]]
 number = 796
@@ -5495,22 +5481,20 @@ original = "missing.svg"
 missing = true
 
 [[items]]
+original = "pog_0798.png"
+preview = "pog_0798.jpg"
 number = 798
 series = "yellow"
 backface = "default"
-preview = "missing.svg"
 shiny = false
-original = "missing.svg"
-missing = true
 
 [[items]]
+original = "pog_0799.png"
+preview = "pog_0799.jpg"
 number = 799
 series = "yellow"
 backface = "default"
-preview = "missing.svg"
 shiny = false
-original = "missing.svg"
-missing = true
 
 [[items]]
 original = "pog_0800.png"
@@ -5521,22 +5505,20 @@ backface = "default"
 shiny = false
 
 [[items]]
+original = "pog_0801.png"
+preview = "pog_0801.jpg"
 number = 801
 series = "yellow"
 backface = "default"
-preview = "missing.svg"
 shiny = false
-original = "missing.svg"
-missing = true
 
 [[items]]
+original = "pog_0802.png"
+preview = "pog_0802.jpg"
 number = 802
 series = "yellow"
 backface = "default"
-preview = "missing.svg"
 shiny = false
-original = "missing.svg"
-missing = true
 
 [[items]]
 number = 803
@@ -5557,13 +5539,12 @@ original = "missing.svg"
 missing = true
 
 [[items]]
+original = "pog_0805.png"
+preview = "pog_0805.jpg"
 number = 805
 series = "yellow"
 backface = "default"
-preview = "missing.svg"
 shiny = false
-original = "missing.svg"
-missing = true
 
 [[items]]
 number = 806
@@ -5575,13 +5556,12 @@ original = "missing.svg"
 missing = true
 
 [[items]]
+original = "pog_0807.png"
+preview = "pog_0807.jpg"
 number = 807
 series = "yellow"
 backface = "default"
-preview = "missing.svg"
 shiny = false
-original = "missing.svg"
-missing = true
 
 [[items]]
 number = 808
@@ -5635,13 +5615,12 @@ backface = "default"
 shiny = false
 
 [[items]]
+original = "pog_0814.png"
+preview = "pog_0814.jpg"
 number = 814
 series = "road-safety"
 backface = "default"
-preview = "missing.svg"
 shiny = false
-original = "missing.svg"
-missing = true
 
 [[items]]
 original = "pog_0815.png"
@@ -5668,13 +5647,12 @@ backface = "default"
 shiny = false
 
 [[items]]
+original = "pog_0818.png"
+preview = "pog_0818.jpg"
 number = 818
 series = "road-safety"
 backface = "default"
-preview = "missing.svg"
 shiny = false
-original = "missing.svg"
-missing = true
 
 [[items]]
 original = "pog_0819.png"
@@ -5717,13 +5695,12 @@ backface = "default"
 shiny = false
 
 [[items]]
+original = "pog_0824.png"
+preview = "pog_0824.jpg"
 number = 824
 series = "road-safety"
 backface = "default"
-preview = "missing.svg"
 shiny = false
-original = "missing.svg"
-missing = true
 
 [[items]]
 original = "pog_0825.png"
@@ -5774,13 +5751,12 @@ backface = "default"
 shiny = false
 
 [[items]]
+original = "pog_0831.png"
+preview = "pog_0831.jpg"
 number = 831
 series = "road-safety"
 backface = "default"
-preview = "missing.svg"
 shiny = false
-original = "missing.svg"
-missing = true
 
 [[items]]
 number = 832
@@ -5792,30 +5768,28 @@ original = "missing.svg"
 missing = true
 
 [[items]]
-series = "road-safety"
-number = 833
-backface = "default"
-preview = "pog_0833.jpg"
-shiny = false
 original = "pog_0833.png"
+preview = "pog_0833.jpg"
+number = 833
+series = "road-safety"
+backface = "default"
+shiny = false
 
 [[items]]
+original = "pog_0834.png"
+preview = "pog_0834.jpg"
 number = 834
 series = "road-safety"
 backface = "default"
-preview = "missing.svg"
 shiny = false
-original = "missing.svg"
-missing = true
 
 [[items]]
+original = "pog_0835.png"
+preview = "pog_0835.jpg"
 number = 835
 series = "road-safety"
 backface = "default"
-preview = "missing.svg"
 shiny = false
-original = "missing.svg"
-missing = true
 
 [[items]]
 series = "road-safety"
@@ -5826,22 +5800,20 @@ shiny = false
 original = "pog_0836.png"
 
 [[items]]
+original = "pog_0837.png"
+preview = "pog_0837.jpg"
 number = 837
 series = "road-safety"
 backface = "default"
-preview = "missing.svg"
 shiny = false
-original = "missing.svg"
-missing = true
 
 [[items]]
+original = "pog_0838.png"
+preview = "pog_0838.jpg"
 number = 838
 series = "road-safety"
 backface = "default"
-preview = "missing.svg"
 shiny = false
-original = "missing.svg"
-missing = true
 
 [[items]]
 number = 839
@@ -5853,13 +5825,12 @@ original = "pog_0839.png"
 missing = false
 
 [[items]]
+original = "pog_0840.png"
+preview = "pog_0840.jpg"
 number = 840
 series = "road-safety"
 backface = "default"
-preview = "missing.svg"
 shiny = false
-original = "missing.svg"
-missing = true
 
 [[items]]
 original = "pog_1001.png"
