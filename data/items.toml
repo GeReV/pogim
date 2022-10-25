@@ -4449,6 +4449,14 @@ backface = "default"
 shiny = true
 
 [[items]]
+original = "pog_0613.png"
+preview = "pog_0613.jpg"
+number = 613
+series = "hologram"
+backface = "default"
+shiny = true
+
+[[items]]
 number = 613
 series = "hologram"
 backface = "default"
@@ -4567,6 +4575,14 @@ preview = "missing.svg"
 shiny = false
 original = "missing.svg"
 missing = true
+
+[[items]]
+original = "pog_0627.png"
+preview = "pog_0627.jpg"
+number = 627
+series = "hologram"
+backface = "default"
+shiny = true
 
 [[items]]
 number = 627
@@ -5378,6 +5394,14 @@ original = "missing.svg"
 missing = true
 
 [[items]]
+original = "pog_0787.png"
+preview = "pog_0787.jpg"
+number = 787
+series = "yellow"
+backface = "default"
+shiny = false
+
+[[items]]
 number = 787
 series = "yellow"
 backface = "default"
@@ -5414,6 +5438,14 @@ original = "missing.svg"
 missing = true
 
 [[items]]
+original = "pog_0791.png"
+preview = "pog_0791.jpg"
+number = 791
+series = "yellow"
+backface = "default"
+shiny = false
+
+[[items]]
 number = 791
 series = "yellow"
 backface = "default"
@@ -5430,6 +5462,14 @@ preview = "missing.svg"
 shiny = false
 original = "missing.svg"
 missing = true
+
+[[items]]
+original = "pog_0793.png"
+preview = "pog_0793.jpg"
+number = 793
+series = "yellow"
+backface = "default"
+shiny = false
 
 [[items]]
 number = 793
@@ -5452,6 +5492,14 @@ shiny = false
 original = "pog_0795.png"
 preview = "pog_0795.jpg"
 number = 795
+series = "yellow"
+backface = "default"
+shiny = false
+
+[[items]]
+original = "pog_0796.png"
+preview = "pog_0796.jpg"
+number = 796
 series = "yellow"
 backface = "default"
 shiny = false
@@ -5540,6 +5588,14 @@ backface = "default"
 shiny = false
 
 [[items]]
+original = "pog_0806.png"
+preview = "pog_0806.jpg"
+number = 806
+series = "yellow"
+backface = "default"
+shiny = false
+
+[[items]]
 number = 806
 series = "yellow"
 backface = "default"
@@ -5573,6 +5629,14 @@ preview = "missing.svg"
 shiny = false
 original = "missing.svg"
 missing = true
+
+[[items]]
+original = "pog_0810.png"
+preview = "pog_0810.jpg"
+number = 810
+series = "yellow"
+backface = "default"
+shiny = false
 
 [[items]]
 number = 810
