@@ -4457,15 +4457,6 @@ backface = "default"
 shiny = true
 
 [[items]]
-number = 613
-series = "hologram"
-backface = "default"
-preview = "missing.svg"
-shiny = false
-original = "missing.svg"
-missing = true
-
-[[items]]
 number = 614
 series = "hologram"
 backface = "default"
@@ -4583,15 +4574,6 @@ number = 627
 series = "hologram"
 backface = "default"
 shiny = true
-
-[[items]]
-number = 627
-series = "hologram"
-backface = "default"
-preview = "missing.svg"
-shiny = false
-original = "missing.svg"
-missing = true
 
 [[items]]
 original = "pog_0628.png"
@@ -5402,15 +5384,6 @@ backface = "default"
 shiny = false
 
 [[items]]
-number = 787
-series = "yellow"
-backface = "default"
-preview = "missing.svg"
-shiny = false
-original = "missing.svg"
-missing = true
-
-[[items]]
 number = 788
 series = "yellow"
 backface = "default"
@@ -5446,15 +5419,6 @@ backface = "default"
 shiny = false
 
 [[items]]
-number = 791
-series = "yellow"
-backface = "default"
-preview = "missing.svg"
-shiny = false
-original = "missing.svg"
-missing = true
-
-[[items]]
 number = 792
 series = "yellow"
 backface = "default"
@@ -5470,15 +5434,6 @@ number = 793
 series = "yellow"
 backface = "default"
 shiny = false
-
-[[items]]
-number = 793
-series = "yellow"
-backface = "default"
-preview = "missing.svg"
-shiny = false
-original = "missing.svg"
-missing = true
 
 [[items]]
 original = "pog_0794.png"
@@ -5503,15 +5458,6 @@ number = 796
 series = "yellow"
 backface = "default"
 shiny = false
-
-[[items]]
-number = 796
-series = "yellow"
-backface = "default"
-preview = "missing.svg"
-shiny = false
-original = "missing.svg"
-missing = true
 
 [[items]]
 number = 797
@@ -5596,15 +5542,6 @@ backface = "default"
 shiny = false
 
 [[items]]
-number = 806
-series = "yellow"
-backface = "default"
-preview = "missing.svg"
-shiny = false
-original = "missing.svg"
-missing = true
-
-[[items]]
 original = "pog_0807.png"
 preview = "pog_0807.jpg"
 number = 807
@@ -5637,15 +5574,6 @@ number = 810
 series = "yellow"
 backface = "default"
 shiny = false
-
-[[items]]
-number = 810
-series = "yellow"
-backface = "default"
-preview = "missing.svg"
-shiny = false
-original = "missing.svg"
-missing = true
 
 [[items]]
 original = "pog_0811.png"
