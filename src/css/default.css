@@ -149,6 +149,10 @@ figure > figcaption > h4 {
   visibility: hidden;
 }
 
+#pogs.gallery {
+  margin: 0 -0.5rem;
+}
+
 .gallery {
   display: flex;
   flex-wrap: wrap;
