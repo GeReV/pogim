@@ -4881,13 +4881,12 @@ backface = "uwf"
 shiny = false
 
 [[items]]
+original = "pog_0726.png"
+preview = "pog_0726.jpg"
 number = 726
 series = "bushido-purple"
 backface = "uwf"
-preview = "missing.svg"
 shiny = false
-original = "missing.svg"
-missing = true
 
 [[items]]
 original = "pog_0727.png"
@@ -4914,13 +4913,12 @@ backface = "uwf"
 shiny = false
 
 [[items]]
+original = "pog_0730.png"
+preview = "pog_0730.jpg"
 number = 730
 series = "bushido-purple"
 backface = "uwf"
-preview = "missing.svg"
 shiny = false
-original = "missing.svg"
-missing = true
 
 [[items]]
 original = "pog_0731.png"
