@@ -1,8 +1,4 @@
 # -*- coding: utf-8 -*-
-import sdl2
-import sdl2.ext
-import sdl2.mouse
-import ctypes
 import sys
 from subprocess import call
 from os import path
@@ -12,8 +8,10 @@ from datetime import datetime
 
 def rotate_image(filename, angle):
     fullpath = path.abspath(filename)
+    basename = path.basename(filename)
+    (basename, ext) = path.splitext(basename)
 
-    return call(["convert", fullpath, "-distort", "SRT", "1 %f" % angle, fullpath])
+    return call(["convert", fullpath, "-distort", "SRT", "1 %f" % angle, basename + "_rot" + ext])
 
 def main():
     if len(sys.argv) == 1:
