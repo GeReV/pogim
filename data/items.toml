@@ -1203,7 +1203,7 @@ series = "pink"
 number = 151
 backface = "default"
 preview = "pog_0151.jpg"
-shiny = false
+shiny = true
 original = "pog_0151.png"
 
 [[items]]
