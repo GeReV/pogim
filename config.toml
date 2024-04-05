@@ -3,8 +3,9 @@ baseurl = "https://pogim.net"
 languageCode = "he-IL"
 languageLang = "he"
 title = "פוגים.נט"
+
 # Enter your tracking code to enable Google Analytics
-googleAnalytics = "UA-136114685-1"
+googleAnalytics = "G-8459CWCMM5"
 
 contentdir = "content"
 datadir = "data"
@@ -20,6 +21,10 @@ disableKinds = ["RSS", "taxonomy", "taxonomyTerm"]
     [markup.goldmark]
         [markup.goldmark.renderer]
             unsafe = true
+
+[privacy]
+  [privacy.googleAnalytics]
+    respectDoNotTrack = true
 
 [params]
     # Meta
