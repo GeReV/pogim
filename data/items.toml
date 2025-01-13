@@ -4969,13 +4969,12 @@ backface = "uwf"
 shiny = false
 
 [[items]]
+original = "pog_0737.png"
+preview = "pog_0737.jpg"
 number = 737
 series = "bushido-purple"
 backface = "uwf"
-preview = "missing.svg"
 shiny = false
-original = "missing.svg"
-missing = true
 
 [[items]]
 original = "pog_0738.png"
@@ -5170,13 +5169,12 @@ backface = "uwf"
 shiny = false
 
 [[items]]
+original = "pog_0762.png"
+preview = "pog_0762.jpg"
 number = 762
 series = "bushido-green"
 backface = "uwf"
-preview = "missing.svg"
 shiny = false
-original = "missing.svg"
-missing = true
 
 [[items]]
 original = "pog_0763.png"
@@ -5742,13 +5740,12 @@ backface = "default"
 shiny = false
 
 [[items]]
+original = "pog_0832.png"
+preview = "pog_0832.jpg"
 number = 832
 series = "road-safety"
 backface = "default"
-preview = "missing.svg"
 shiny = false
-original = "missing.svg"
-missing = true
 
 [[items]]
 original = "pog_0833.png"
