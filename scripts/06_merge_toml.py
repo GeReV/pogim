@@ -27,18 +27,20 @@ def merge(files):
 
     for items in item_lists:
         for item in items:
-            if item["number"] in number_set and ("missing" not in item or item["missing"] != True):
-                # Replace missing item if new one isn't missing.
-                missing_item_index = next(i for i, v in enumerate(
-                    result_list) if v["number"] == item["number"])
+            if item["number"] in number_set:
+                if "missing" not in item or item["missing"] != True:
+                    # Replace missing item if new one isn't missing.
+                    missing_item_index = next(i for i, v in enumerate(
+                        result_list) if v["number"] == item["number"] and "missing" in v and v["missing"] == True)
 
-                result_list[missing_item_index] = item
+                    result_list[missing_item_index] = item
+                else:
+                    # This is a prior missing item. Skip it.
+                    continue
+            else:
+                number_set.add(item["number"])
 
-                continue
-
-            number_set.add(item["number"])
-
-            result_list.append(item)
+                result_list.append(item)
 
     missing_numbers = base_list.difference(number_set)
 

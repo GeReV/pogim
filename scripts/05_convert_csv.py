@@ -1,14 +1,14 @@
 import argparse
 import sys
+import csv
+import toml
 from os import path, makedirs
 from shutil import copyfile
 
-import csv
-import toml
 
 
 def main():
-    parser = argparse.ArgumentParser(description='Process some integers.')
+    parser = argparse.ArgumentParser(description='Convert pogim.net metadata CSV file.')
     parser.add_argument('file', metavar='FILE', type=str,
                         help='CSV file to process')
     parser.add_argument('-o', '--output', dest='output', action='store', default='.',

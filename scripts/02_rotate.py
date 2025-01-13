@@ -9,7 +9,6 @@ from os import path
 from math import atan2, pi, sin, cos
 from datetime import datetime
 
-
 def rotate_image(filename, angle):
     fullpath = path.abspath(filename)
 
@@ -36,8 +35,12 @@ def rotate_pog(filename, renderer, width, height, rotations_file):
     factory = sdl2.ext.SpriteFactory(sdl2.ext.TEXTURE, renderer=renderer)
     sprite = factory.from_image(filename)
 
+    kb_modifiers = sdl2.KMOD_NONE
+
     angle = 0
     angle_rad = 0
+
+    ruler_y = 0
 
     running = True
 
@@ -45,6 +48,8 @@ def rotate_pog(filename, renderer, width, height, rotations_file):
 
     while running:
         while sdl2.SDL_PollEvent(ctypes.byref(event)) != 0:
+            if event.type == sdl2.SDL_KEYDOWN or event.type == sdl2.SDL_KEYUP:
+                kb_modifiers = event.key.keysym.mod
             if event.type == sdl2.SDL_QUIT:
                 running = False
                 return False
@@ -68,8 +73,11 @@ def rotate_pog(filename, renderer, width, height, rotations_file):
         )
 
         if buttonstate & sdl2.SDL_BUTTON(sdl2.SDL_BUTTON_LEFT):
-            angle_rad = atan2(y.value - height / 2, x.value - width / 2)
-            angle = angle_rad * 180 / pi
+            if kb_modifiers & sdl2.KMOD_CTRL:
+                ruler_y = y.value
+            else:
+                angle_rad = atan2(y.value - height / 2, x.value - width / 2)
+                angle = angle_rad * 180 / pi
 
         renderer.clear(sdl2.ext.Color())
         renderer.copy(sprite, angle=angle)
@@ -82,6 +90,13 @@ def rotate_pog(filename, renderer, width, height, rotations_file):
             ),
             sdl2.ext.Color(0, 255, 255)
         )
+
+        if ruler_y != 0:
+            renderer.draw_line(
+                (0, ruler_y, width, ruler_y),
+                sdl2.ext.Color(0, 255, 255)
+            )
+
         renderer.present()
 
     return True
