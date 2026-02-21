@@ -1,0 +1,14 @@
+[project]
+name = "pogim"
+version = "1.0.14"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "argparse>=1.4.0",
+    "numpy>=2.4.2",
+    "opencv-python>=4.13.0.92",
+    "pysdl2>=0.9.17",
+    "pysdl2-dll>=2.32.0",
+    "toml>=0.10.2",
+]

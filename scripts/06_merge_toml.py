@@ -7,6 +7,14 @@ def irange(start, end):
     return range(start, end + 1)
 
 
+def find_index(list, predicate):
+    for i, v in enumerate(list):
+        if predicate(v):
+            return i
+
+    return None
+
+
 def merge(files):
     base_list = set(irange(1, 1030))
     base_list = base_list.difference(irange(541, 600))
@@ -28,19 +36,22 @@ def merge(files):
     for items in item_lists:
         for item in items:
             if item["number"] in number_set:
+                # Found a duplicate number. Check if this new item is the "missing" entry. If not, replace the existing entry with this one.
                 if "missing" not in item or item["missing"] != True:
-                    # Replace missing item if new one isn't missing.
-                    missing_item_index = next(i for i, v in enumerate(
-                        result_list) if v["number"] == item["number"] and "missing" in v and v["missing"] == True)
+                    missing_item_index = find_index(result_list, lambda v: v["number"] == item["number"])
 
-                    result_list[missing_item_index] = item
+                    if missing_item_index is not None:
+                        result_list[missing_item_index] = item
                 else:
                     # This is a prior missing item. Skip it.
                     continue
             else:
+                if "note" not in item:
+                    item["note"] = ""
+
                 number_set.add(item["number"])
 
-                result_list.append(item)
+            result_list.append(item)
 
     missing_numbers = base_list.difference(number_set)
 
@@ -51,6 +62,7 @@ def merge(files):
         "preview": "missing.svg",
         "shiny": False,
         "original": "missing.svg",
+        "note": "",
         "missing": True,
     }, missing_numbers))
 
@@ -66,11 +78,13 @@ def merge(files):
 
 def main():
     if len(sys.argv) < 3:
-        print("Usage: {} FILE FILE".format(sys.argv[0]))
+        print("Usage: {} ORIGINAL NEW".format(sys.argv[0]))
         exit(1)
 
     print("Merging...")
     merge(sys.argv[1:])
+
+    print("Created merged.toml")
 
 
 if __name__ == "__main__":

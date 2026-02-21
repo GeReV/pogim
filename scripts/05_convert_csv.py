@@ -23,7 +23,7 @@ def main():
         "items": []
     }
 
-    basepath = path.dirname(args.file)
+    # basepath = path.dirname(args.file)
 
     with open(args.file, 'rt') as csv_file:
         reader = csv.DictReader(csv_file)
@@ -40,12 +40,12 @@ def main():
             output_filename = 'pog_%04d%s' % (num, path.splitext(filename)[1])
             preview_filename = 'pog_%04d.jpg' % num
 
-            output_path = path.join(args.output, output_filename)
+            # output_path = path.join(args.output, output_filename)
 
-            copyfile(
-                path.realpath(path.join(basepath, filename)),
-                output_path
-            )
+            # copyfile(
+            #     path.realpath(path.join(basepath, filename)),
+            #     output_path
+            # )
 
             output_dict['items'].append({
                 "original": output_filename,
@@ -53,7 +53,8 @@ def main():
                 "number": num,
                 "series": row['series'],
                 "backface": row['backface'] or 'default',
-                "shiny": row['shiny'] == 'y'
+                "shiny": row['shiny'] == 'y',
+                "note": row['note'] if row['note'] else ""
             })
 
     with open(path.join(args.output, 'items.toml'), 'wt') as toml_file:
