@@ -41,6 +41,7 @@ export default class Gallery {
       backface: node.getAttribute('data-backface'),
       shiny: node.getAttribute('data-shiny'),
       missing: node.getAttribute('data-missing'),
+      note: node.getAttribute('data-note'),
     }));
   }
 

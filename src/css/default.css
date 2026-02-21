@@ -145,6 +145,10 @@ figure > figcaption > h4 {
   padding: 1.5rem 2rem;
 }
 
+.hidden {
+  display: none;
+}
+
 .invisible {
   visibility: hidden;
 }

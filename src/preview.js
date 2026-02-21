@@ -23,6 +23,8 @@ export default class Preview {
 
     this.number = $('.preview-number', this.container);
     this.details = $('.preview-details', this.container);
+    this.series = $('.preview-series', this.container);
+    this.note = $('.preview-note', this.container);
     this.missingDetails = $('.preview-missing-details', this.container);
     this.downloadLinkPng = $('.preview-download-png', this.container);
     this.downloadLinkJpg = $('.preview-download-jpg', this.container);
@@ -161,9 +163,26 @@ export default class Preview {
     }
 
     this.number.textContent = number;
+    this.note.textContent = item.note;
+    this.series.textContent = SERIES_CONVERSION[item.series];
 
-    this.details.textContent = SERIES_CONVERSION[item.series];
+
+    if (item.note) {
+      this.note.innerHTML = parseNote(item.note);
+
+      this.note.classList.remove('invisible', 'hidden');
+
+      this.missingDetails.classList.add('hidden');
+    } else {
+      this.note.textContent = '';
+
+      this.note.classList.add('hidden');
+
+      this.missingDetails.classList.remove('hidden');
+    }
+
     this.missingDetails.classList.toggle('invisible', !item.missing);
+
     this.downloadLinkPng.setAttribute('href', item.originalSrc);
     this.downloadLinkJpg.setAttribute('href', item.imageSrc);
 
@@ -182,4 +201,8 @@ export default class Preview {
 
     this.open();
   }
+}
+
+function parseNote(note) {
+  return note.replace(/\*\*(.*?)\*\*/g, '<strong>$1</strong>');
 }
