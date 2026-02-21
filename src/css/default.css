@@ -189,6 +189,14 @@ figure > figcaption > h4 {
   height: 100%;
 }
 
+.pog-icon {
+  cursor: default;
+}
+
+.pog-icon[title] {
+  cursor: help;
+}
+
 .pog-shiny {
   /* background: linear-gradient(135deg, #bf9b30, #ffcf40 50%, #bf9b30); */
   /* background-clip: -webkit-text;
