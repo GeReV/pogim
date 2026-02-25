@@ -38,6 +38,7 @@ export default class Gallery {
       originalSrc: node.getAttribute('href'),
       series: node.getAttribute('data-series'),
       number: node.getAttribute('data-number'),
+      numberOverride: node.getAttribute('data-number-override'),
       backface: node.getAttribute('data-backface'),
       shiny: node.getAttribute('data-shiny'),
       missing: node.getAttribute('data-missing'),

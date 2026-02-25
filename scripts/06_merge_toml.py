@@ -49,6 +49,9 @@ def merge(files):
                 if "note" not in item:
                     item["note"] = ""
 
+                if "number_override" not in item:
+                    item["number_override"] = None
+
                 number_set.add(item["number"])
 
                 result_list.append(item)
@@ -63,6 +66,7 @@ def merge(files):
         "shiny": False,
         "original": "missing.svg",
         "note": "",
+        "number_override": None,
         "missing": True,
     }, missing_numbers))
 

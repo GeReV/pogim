@@ -13,7 +13,7 @@ export default class Backface {
 
     const text = $('text', this.svg);
 
-    text.textContent = item.number;
+    text.textContent = item.numberOverride || item.number;
 
     const numberLength = String(item.number).length;
     const fontSize = BACKFACE_FONT_SIZES[numberLength - 1];

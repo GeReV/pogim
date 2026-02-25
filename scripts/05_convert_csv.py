@@ -54,7 +54,8 @@ def main():
                 "series": row['series'],
                 "backface": row['backface'] or 'default',
                 "shiny": row['shiny'] == 'y',
-                "note": row['note'] if row['note'] else ""
+                "note": row['note'] if row['note'] else "",
+                "number_override": int(row['number_override']) if row['number_override'] else None
             })
 
     with open(path.join(args.output, 'items.toml'), 'wt') as toml_file:
