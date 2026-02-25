@@ -6,6 +6,7 @@ preview = "pog_0001.jpg"
 shiny = false
 original = "pog_0001.png"
 note = ""
+number_override = ""
 
 [[items]]
 series = "red"
@@ -15,6 +16,7 @@ preview = "pog_0002.jpg"
 shiny = false
 original = "pog_0002.png"
 note = ""
+number_override = ""
 
 [[items]]
 series = "red"
@@ -24,6 +26,7 @@ preview = "pog_0003.jpg"
 shiny = false
 original = "pog_0003.png"
 note = ""
+number_override = ""
 
 [[items]]
 series = "red"
@@ -33,6 +36,7 @@ preview = "pog_0004.jpg"
 shiny = false
 original = "pog_0004.png"
 note = ""
+number_override = ""
 
 [[items]]
 series = "red"
@@ -42,6 +46,7 @@ preview = "pog_0005.jpg"
 shiny = false
 original = "pog_0005.png"
 note = ""
+number_override = ""
 
 [[items]]
 series = "red"
@@ -51,6 +56,7 @@ preview = "pog_0006.jpg"
 shiny = false
 original = "pog_0006.png"
 note = ""
+number_override = ""
 
 [[items]]
 series = "red"
@@ -60,6 +66,7 @@ preview = "pog_0007.jpg"
 shiny = false
 original = "pog_0007.png"
 note = ""
+number_override = ""
 
 [[items]]
 series = "red"
@@ -69,6 +76,7 @@ preview = "pog_0008.jpg"
 shiny = false
 original = "pog_0008.png"
 note = ""
+number_override = ""
 
 [[items]]
 series = "red"
@@ -78,6 +86,7 @@ preview = "pog_0009.jpg"
 shiny = false
 original = "pog_0009.png"
 note = ""
+number_override = ""
 
 [[items]]
 series = "red"
@@ -87,6 +96,7 @@ preview = "pog_0010.jpg"
 shiny = false
 original = "pog_0010.png"
 note = ""
+number_override = ""
 
 [[items]]
 series = "red"
@@ -96,6 +106,7 @@ preview = "pog_0011.jpg"
 shiny = false
 original = "pog_0011.png"
 note = ""
+number_override = ""
 
 [[items]]
 series = "red"
@@ -105,6 +116,7 @@ preview = "pog_0012.jpg"
 shiny = false
 original = "pog_0012.png"
 note = ""
+number_override = ""
 
 [[items]]
 series = "red"
@@ -114,6 +126,7 @@ preview = "pog_0013.jpg"
 shiny = false
 original = "pog_0013.png"
 note = ""
+number_override = ""
 
 [[items]]
 series = "red"
@@ -123,6 +136,7 @@ preview = "pog_0014.jpg"
 shiny = false
 original = "pog_0014.png"
 note = ""
+number_override = ""
 
 [[items]]
 series = "red"
@@ -132,6 +146,7 @@ preview = "pog_0015.jpg"
 shiny = false
 original = "pog_0015.png"
 note = ""
+number_override = ""
 
 [[items]]
 series = "red"
@@ -141,6 +156,7 @@ preview = "pog_0016.jpg"
 shiny = false
 original = "pog_0016.png"
 note = ""
+number_override = ""
 
 [[items]]
 series = "red"
@@ -150,6 +166,7 @@ preview = "pog_0017.jpg"
 shiny = false
 original = "pog_0017.png"
 note = ""
+number_override = ""
 
 [[items]]
 series = "red"
@@ -159,6 +176,7 @@ preview = "pog_0018.jpg"
 shiny = false
 original = "pog_0018.png"
 note = ""
+number_override = ""
 
 [[items]]
 series = "red"
@@ -168,6 +186,7 @@ preview = "pog_0019.jpg"
 shiny = true
 original = "pog_0019.png"
 note = ""
+number_override = ""
 
 [[items]]
 series = "red"
@@ -177,6 +196,7 @@ preview = "pog_0020.jpg"
 shiny = false
 original = "pog_0020.png"
 note = ""
+number_override = ""
 
 [[items]]
 series = "red"
@@ -186,6 +206,7 @@ preview = "pog_0021.jpg"
 shiny = false
 original = "pog_0021.png"
 note = ""
+number_override = ""
 
 [[items]]
 series = "red"
@@ -195,6 +216,7 @@ preview = "pog_0022.jpg"
 shiny = false
 original = "pog_0022.png"
 note = ""
+number_override = ""
 
 [[items]]
 series = "red"
@@ -204,6 +226,7 @@ preview = "pog_0023.jpg"
 shiny = false
 original = "pog_0023.png"
 note = ""
+number_override = ""
 
 [[items]]
 series = "red"
@@ -213,6 +236,7 @@ preview = "pog_0024.jpg"
 shiny = false
 original = "pog_0024.png"
 note = ""
+number_override = ""
 
 [[items]]
 series = "red"
@@ -222,6 +246,7 @@ preview = "pog_0025.jpg"
 shiny = false
 original = "pog_0025.png"
 note = ""
+number_override = ""
 
 [[items]]
 series = "red"
@@ -231,6 +256,7 @@ preview = "pog_0026.jpg"
 shiny = false
 original = "pog_0026.png"
 note = ""
+number_override = ""
 
 [[items]]
 series = "red"
@@ -240,6 +266,7 @@ preview = "pog_0027.jpg"
 shiny = false
 original = "pog_0027.png"
 note = ""
+number_override = ""
 
 [[items]]
 series = "red"
@@ -249,6 +276,7 @@ preview = "pog_0028.jpg"
 shiny = true
 original = "pog_0028.png"
 note = ""
+number_override = ""
 
 [[items]]
 series = "red"
@@ -258,6 +286,7 @@ preview = "pog_0029.jpg"
 shiny = true
 original = "pog_0029.png"
 note = ""
+number_override = ""
 
 [[items]]
 series = "red"
@@ -267,6 +296,7 @@ preview = "pog_0030.jpg"
 shiny = true
 original = "pog_0030.png"
 note = ""
+number_override = ""
 
 [[items]]
 series = "green"
@@ -276,6 +306,7 @@ preview = "pog_0031.jpg"
 shiny = false
 original = "pog_0031.png"
 note = ""
+number_override = ""
 
 [[items]]
 series = "green"
@@ -285,6 +316,7 @@ preview = "pog_0032.jpg"
 shiny = false
 original = "pog_0032.png"
 note = ""
+number_override = ""
 
 [[items]]
 series = "green"
@@ -294,6 +326,7 @@ preview = "pog_0033.jpg"
 shiny = false
 original = "pog_0033.png"
 note = ""
+number_override = ""
 
 [[items]]
 series = "green"
@@ -303,6 +336,7 @@ preview = "pog_0034.jpg"
 shiny = false
 original = "pog_0034.png"
 note = ""
+number_override = ""
 
 [[items]]
 series = "green"
@@ -312,6 +346,7 @@ preview = "pog_0035.jpg"
 shiny = false
 original = "pog_0035.png"
 note = ""
+number_override = ""
 
 [[items]]
 series = "green"
@@ -321,6 +356,7 @@ preview = "pog_0036.jpg"
 shiny = false
 original = "pog_0036.png"
 note = ""
+number_override = ""
 
 [[items]]
 series = "green"
@@ -330,6 +366,7 @@ preview = "pog_0037.jpg"
 shiny = false
 original = "pog_0037.png"
 note = ""
+number_override = ""
 
 [[items]]
 series = "green"
@@ -339,6 +376,7 @@ preview = "pog_0038.jpg"
 shiny = false
 original = "pog_0038.png"
 note = ""
+number_override = ""
 
 [[items]]
 series = "green"
@@ -348,6 +386,7 @@ preview = "pog_0039.jpg"
 shiny = false
 original = "pog_0039.png"
 note = ""
+number_override = ""
 
 [[items]]
 series = "green"
@@ -357,6 +396,7 @@ preview = "pog_0040.jpg"
 shiny = false
 original = "pog_0040.png"
 note = ""
+number_override = ""
 
 [[items]]
 series = "green"
@@ -366,6 +406,7 @@ preview = "pog_0041.jpg"
 shiny = false
 original = "pog_0041.png"
 note = ""
+number_override = ""
 
 [[items]]
 series = "green"
@@ -375,6 +416,7 @@ preview = "pog_0042.jpg"
 shiny = false
 original = "pog_0042.png"
 note = ""
+number_override = ""
 
 [[items]]
 series = "green"
@@ -384,6 +426,7 @@ preview = "pog_0043.jpg"
 shiny = false
 original = "pog_0043.png"
 note = ""
+number_override = ""
 
 [[items]]
 series = "green"
@@ -393,6 +436,7 @@ preview = "pog_0044.jpg"
 shiny = false
 original = "pog_0044.png"
 note = ""
+number_override = ""
 
 [[items]]
 series = "green"
@@ -402,6 +446,7 @@ preview = "pog_0045.jpg"
 shiny = false
 original = "pog_0045.png"
 note = ""
+number_override = ""
 
 [[items]]
 series = "green"
@@ -411,6 +456,7 @@ preview = "pog_0046.jpg"
 shiny = false
 original = "pog_0046.png"
 note = ""
+number_override = ""
 
 [[items]]
 series = "green"
@@ -420,6 +466,7 @@ preview = "pog_0047.jpg"
 shiny = false
 original = "pog_0047.png"
 note = ""
+number_override = ""
 
 [[items]]
 series = "green"
@@ -429,6 +476,7 @@ preview = "pog_0048.jpg"
 shiny = false
 original = "pog_0048.png"
 note = ""
+number_override = ""
 
 [[items]]
 series = "green"
@@ -438,6 +486,7 @@ preview = "pog_0049.jpg"
 shiny = false
 original = "pog_0049.png"
 note = ""
+number_override = ""
 
 [[items]]
 series = "green"
@@ -447,6 +496,7 @@ preview = "pog_0050.jpg"
 shiny = false
 original = "pog_0050.png"
 note = ""
+number_override = ""
 
 [[items]]
 series = "green"
@@ -456,6 +506,7 @@ preview = "pog_0051.jpg"
 shiny = false
 original = "pog_0051.png"
 note = ""
+number_override = ""
 
 [[items]]
 series = "green"
@@ -465,6 +516,7 @@ preview = "pog_0052.jpg"
 shiny = false
 original = "pog_0052.png"
 note = ""
+number_override = ""
 
 [[items]]
 series = "green"
@@ -474,6 +526,7 @@ preview = "pog_0053.jpg"
 shiny = false
 original = "pog_0053.png"
 note = ""
+number_override = ""
 
 [[items]]
 series = "green"
@@ -483,6 +536,7 @@ preview = "pog_0054.jpg"
 shiny = false
 original = "pog_0054.png"
 note = ""
+number_override = ""
 
 [[items]]
 series = "green"
@@ -492,6 +546,7 @@ preview = "pog_0055.jpg"
 shiny = false
 original = "pog_0055.png"
 note = ""
+number_override = ""
 
 [[items]]
 series = "green"
@@ -501,6 +556,7 @@ preview = "pog_0056.jpg"
 shiny = false
 original = "pog_0056.png"
 note = ""
+number_override = ""
 
 [[items]]
 series = "green"
@@ -510,6 +566,7 @@ preview = "pog_0057.jpg"
 shiny = true
 original = "pog_0057.png"
 note = ""
+number_override = ""
 
 [[items]]
 series = "green"
@@ -519,6 +576,7 @@ preview = "pog_0058.jpg"
 shiny = true
 original = "pog_0058.png"
 note = ""
+number_override = ""
 
 [[items]]
 series = "green"
@@ -528,6 +586,7 @@ preview = "pog_0059.jpg"
 shiny = true
 original = "pog_0059.png"
 note = ""
+number_override = ""
 
 [[items]]
 series = "green"
@@ -537,6 +596,7 @@ preview = "pog_0060.jpg"
 shiny = false
 original = "pog_0060.png"
 note = ""
+number_override = ""
 
 [[items]]
 series = "blue"
@@ -546,6 +606,7 @@ preview = "pog_0061.jpg"
 shiny = false
 original = "pog_0061.png"
 note = ""
+number_override = ""
 
 [[items]]
 series = "blue"
@@ -555,6 +616,7 @@ preview = "pog_0062.jpg"
 shiny = false
 original = "pog_0062.png"
 note = ""
+number_override = ""
 
 [[items]]
 series = "blue"
@@ -564,6 +626,7 @@ preview = "pog_0063.jpg"
 shiny = false
 original = "pog_0063.png"
 note = ""
+number_override = ""
 
 [[items]]
 series = "blue"
@@ -573,6 +636,7 @@ preview = "pog_0064.jpg"
 shiny = false
 original = "pog_0064.png"
 note = ""
+number_override = ""
 
 [[items]]
 series = "blue"
@@ -582,6 +646,7 @@ preview = "pog_0065.jpg"
 shiny = false
 original = "pog_0065.png"
 note = ""
+number_override = ""
 
 [[items]]
 series = "blue"
@@ -591,6 +656,7 @@ preview = "pog_0066.jpg"
 shiny = false
 original = "pog_0066.png"
 note = ""
+number_override = ""
 
 [[items]]
 series = "blue"
@@ -600,6 +666,7 @@ preview = "pog_0067.jpg"
 shiny = false
 original = "pog_0067.png"
 note = ""
+number_override = ""
 
 [[items]]
 series = "blue"
@@ -609,6 +676,7 @@ preview = "pog_0068.jpg"
 shiny = false
 original = "pog_0068.png"
 note = ""
+number_override = ""
 
 [[items]]
 series = "blue"
@@ -618,6 +686,7 @@ preview = "pog_0069.jpg"
 shiny = false
 original = "pog_0069.png"
 note = ""
+number_override = ""
 
 [[items]]
 series = "blue"
@@ -627,6 +696,7 @@ preview = "pog_0070.jpg"
 shiny = false
 original = "pog_0070.png"
 note = ""
+number_override = ""
 
 [[items]]
 series = "blue"
@@ -636,6 +706,7 @@ preview = "pog_0071.jpg"
 shiny = false
 original = "pog_0071.png"
 note = ""
+number_override = ""
 
 [[items]]
 series = "blue"
@@ -645,6 +716,7 @@ preview = "pog_0072.jpg"
 shiny = false
 original = "pog_0072.png"
 note = ""
+number_override = ""
 
 [[items]]
 series = "blue"
@@ -654,6 +726,7 @@ preview = "pog_0073.jpg"
 shiny = false
 original = "pog_0073.png"
 note = ""
+number_override = ""
 
 [[items]]
 series = "blue"
@@ -663,6 +736,7 @@ preview = "pog_0074.jpg"
 shiny = false
 original = "pog_0074.png"
 note = ""
+number_override = ""
 
 [[items]]
 series = "blue"
@@ -672,6 +746,7 @@ preview = "pog_0075.jpg"
 shiny = false
 original = "pog_0075.png"
 note = ""
+number_override = ""
 
 [[items]]
 series = "blue"
@@ -681,6 +756,7 @@ preview = "pog_0076.jpg"
 shiny = false
 original = "pog_0076.png"
 note = ""
+number_override = ""
 
 [[items]]
 series = "blue"
@@ -690,6 +766,7 @@ preview = "pog_0077.jpg"
 shiny = false
 original = "pog_0077.png"
 note = ""
+number_override = ""
 
 [[items]]
 series = "blue"
@@ -699,6 +776,7 @@ preview = "pog_0078.jpg"
 shiny = false
 original = "pog_0078.png"
 note = ""
+number_override = ""
 
 [[items]]
 series = "blue"
@@ -708,6 +786,7 @@ preview = "pog_0079.jpg"
 shiny = false
 original = "pog_0079.png"
 note = ""
+number_override = ""
 
 [[items]]
 series = "blue"
@@ -717,6 +796,7 @@ preview = "pog_0080.jpg"
 shiny = false
 original = "pog_0080.png"
 note = ""
+number_override = ""
 
 [[items]]
 series = "blue"
@@ -726,6 +806,7 @@ preview = "pog_0081.jpg"
 shiny = false
 original = "pog_0081.png"
 note = ""
+number_override = ""
 
 [[items]]
 series = "blue"
@@ -735,6 +816,7 @@ preview = "pog_0082.jpg"
 shiny = false
 original = "pog_0082.png"
 note = ""
+number_override = ""
 
 [[items]]
 series = "blue"
@@ -744,6 +826,7 @@ preview = "pog_0083.jpg"
 shiny = false
 original = "pog_0083.png"
 note = ""
+number_override = ""
 
 [[items]]
 series = "blue"
@@ -753,6 +836,7 @@ preview = "pog_0084.jpg"
 shiny = false
 original = "pog_0084.png"
 note = ""
+number_override = ""
 
 [[items]]
 series = "blue"
@@ -762,6 +846,7 @@ preview = "pog_0085.jpg"
 shiny = false
 original = "pog_0085.png"
 note = ""
+number_override = ""
 
 [[items]]
 series = "blue"
@@ -771,6 +856,7 @@ preview = "pog_0086.jpg"
 shiny = false
 original = "pog_0086.png"
 note = ""
+number_override = ""
 
 [[items]]
 series = "blue"
@@ -780,6 +866,7 @@ preview = "pog_0087.jpg"
 shiny = false
 original = "pog_0087.png"
 note = ""
+number_override = ""
 
 [[items]]
 series = "blue"
@@ -789,6 +876,7 @@ preview = "pog_0088.jpg"
 shiny = true
 original = "pog_0088.png"
 note = ""
+number_override = ""
 
 [[items]]
 series = "blue"
@@ -798,6 +886,7 @@ preview = "pog_0089.jpg"
 shiny = true
 original = "pog_0089.png"
 note = ""
+number_override = ""
 
 [[items]]
 series = "blue"
@@ -807,6 +896,7 @@ preview = "pog_0090.jpg"
 shiny = true
 original = "pog_0090.png"
 note = ""
+number_override = ""
 
 [[items]]
 series = "purple"
@@ -816,6 +906,7 @@ preview = "pog_0091.jpg"
 shiny = false
 original = "pog_0091.png"
 note = ""
+number_override = ""
 
 [[items]]
 series = "purple"
@@ -825,6 +916,7 @@ preview = "pog_0092.jpg"
 shiny = false
 original = "pog_0092.png"
 note = ""
+number_override = ""
 
 [[items]]
 series = "purple"
@@ -834,6 +926,7 @@ preview = "pog_0093.jpg"
 shiny = false
 original = "pog_0093.png"
 note = ""
+number_override = ""
 
 [[items]]
 series = "purple"
@@ -843,6 +936,7 @@ preview = "pog_0094.jpg"
 shiny = false
 original = "pog_0094.png"
 note = ""
+number_override = ""
 
 [[items]]
 series = "purple"
@@ -852,6 +946,7 @@ preview = "pog_0095.jpg"
 shiny = false
 original = "pog_0095.png"
 note = ""
+number_override = ""
 
 [[items]]
 series = "purple"
@@ -861,6 +956,7 @@ preview = "pog_0096.jpg"
 shiny = false
 original = "pog_0096.png"
 note = ""
+number_override = ""
 
 [[items]]
 series = "purple"
@@ -870,6 +966,7 @@ preview = "pog_0097.jpg"
 shiny = false
 original = "pog_0097.png"
 note = ""
+number_override = ""
 
 [[items]]
 series = "purple"
@@ -879,6 +976,7 @@ preview = "pog_0098.jpg"
 shiny = false
 original = "pog_0098.png"
 note = ""
+number_override = ""
 
 [[items]]
 series = "purple"
@@ -888,6 +986,7 @@ preview = "pog_0099.jpg"
 shiny = false
 original = "pog_0099.png"
 note = ""
+number_override = ""
 
 [[items]]
 series = "purple"
@@ -897,6 +996,7 @@ preview = "pog_0100.jpg"
 shiny = false
 original = "pog_0100.png"
 note = ""
+number_override = ""
 
 [[items]]
 series = "purple"
@@ -906,6 +1006,7 @@ preview = "pog_0101.jpg"
 shiny = false
 original = "pog_0101.png"
 note = ""
+number_override = ""
 
 [[items]]
 series = "purple"
@@ -915,6 +1016,7 @@ preview = "pog_0102.jpg"
 shiny = false
 original = "pog_0102.png"
 note = ""
+number_override = ""
 
 [[items]]
 series = "purple"
@@ -924,6 +1026,7 @@ preview = "pog_0103.jpg"
 shiny = false
 original = "pog_0103.png"
 note = ""
+number_override = ""
 
 [[items]]
 series = "purple"
@@ -933,6 +1036,7 @@ preview = "pog_0104.jpg"
 shiny = false
 original = "pog_0104.png"
 note = ""
+number_override = ""
 
 [[items]]
 series = "purple"
@@ -942,6 +1046,7 @@ preview = "pog_0105.jpg"
 shiny = false
 original = "pog_0105.png"
 note = ""
+number_override = ""
 
 [[items]]
 series = "purple"
@@ -951,6 +1056,7 @@ preview = "pog_0106.jpg"
 shiny = false
 original = "pog_0106.png"
 note = ""
+number_override = ""
 
 [[items]]
 series = "purple"
@@ -960,6 +1066,7 @@ preview = "pog_0107.jpg"
 shiny = false
 original = "pog_0107.png"
 note = ""
+number_override = ""
 
 [[items]]
 series = "purple"
@@ -969,6 +1076,7 @@ preview = "pog_0108.jpg"
 shiny = false
 original = "pog_0108.png"
 note = ""
+number_override = ""
 
 [[items]]
 series = "purple"
@@ -978,6 +1086,7 @@ preview = "pog_0109.jpg"
 shiny = false
 original = "pog_0109.png"
 note = ""
+number_override = ""
 
 [[items]]
 series = "purple"
@@ -987,6 +1096,7 @@ preview = "pog_0110.jpg"
 shiny = false
 original = "pog_0110.png"
 note = ""
+number_override = ""
 
 [[items]]
 series = "purple"
@@ -996,6 +1106,7 @@ preview = "pog_0111.jpg"
 shiny = false
 original = "pog_0111.png"
 note = ""
+number_override = ""
 
 [[items]]
 series = "purple"
@@ -1005,6 +1116,7 @@ preview = "pog_0112.jpg"
 shiny = false
 original = "pog_0112.png"
 note = ""
+number_override = ""
 
 [[items]]
 series = "purple"
@@ -1014,6 +1126,7 @@ preview = "pog_0113.jpg"
 shiny = false
 original = "pog_0113.png"
 note = ""
+number_override = ""
 
 [[items]]
 series = "purple"
@@ -1023,6 +1136,7 @@ preview = "pog_0114.jpg"
 shiny = false
 original = "pog_0114.png"
 note = ""
+number_override = ""
 
 [[items]]
 series = "purple"
@@ -1032,6 +1146,7 @@ preview = "pog_0115.jpg"
 shiny = false
 original = "pog_0115.png"
 note = ""
+number_override = ""
 
 [[items]]
 series = "purple"
@@ -1041,6 +1156,7 @@ preview = "pog_0116.jpg"
 shiny = false
 original = "pog_0116.png"
 note = ""
+number_override = ""
 
 [[items]]
 series = "purple"
@@ -1050,6 +1166,7 @@ preview = "pog_0117.jpg"
 shiny = true
 original = "pog_0117.png"
 note = ""
+number_override = ""
 
 [[items]]
 series = "purple"
@@ -1059,6 +1176,7 @@ preview = "pog_0118.jpg"
 shiny = true
 original = "pog_0118.png"
 note = ""
+number_override = ""
 
 [[items]]
 series = "purple"
@@ -1068,6 +1186,7 @@ preview = "pog_0119.jpg"
 shiny = true
 original = "pog_0119.png"
 note = ""
+number_override = ""
 
 [[items]]
 series = "purple"
@@ -1077,6 +1196,7 @@ preview = "pog_0120.jpg"
 shiny = true
 original = "pog_0120.png"
 note = ""
+number_override = ""
 
 [[items]]
 series = "orange"
@@ -1086,6 +1206,7 @@ preview = "pog_0121.jpg"
 shiny = true
 original = "pog_0121.png"
 note = ""
+number_override = ""
 
 [[items]]
 series = "orange"
@@ -1095,6 +1216,7 @@ preview = "pog_0122.jpg"
 shiny = true
 original = "pog_0122.png"
 note = ""
+number_override = ""
 
 [[items]]
 series = "orange"
@@ -1104,6 +1226,7 @@ preview = "pog_0123.jpg"
 shiny = true
 original = "pog_0123.png"
 note = ""
+number_override = ""
 
 [[items]]
 series = "orange"
@@ -1113,6 +1236,7 @@ preview = "pog_0124.jpg"
 shiny = true
 original = "pog_0124.png"
 note = ""
+number_override = ""
 
 [[items]]
 series = "orange"
@@ -1122,6 +1246,7 @@ preview = "pog_0125.jpg"
 shiny = false
 original = "pog_0125.png"
 note = ""
+number_override = ""
 
 [[items]]
 series = "orange"
@@ -1131,6 +1256,7 @@ preview = "pog_0126.jpg"
 shiny = false
 original = "pog_0126.png"
 note = ""
+number_override = ""
 
 [[items]]
 series = "orange"
@@ -1140,6 +1266,7 @@ preview = "pog_0127.jpg"
 shiny = false
 original = "pog_0127.png"
 note = ""
+number_override = ""
 
 [[items]]
 series = "orange"
@@ -1149,6 +1276,7 @@ preview = "pog_0128.jpg"
 shiny = false
 original = "pog_0128.png"
 note = ""
+number_override = ""
 
 [[items]]
 series = "orange"
@@ -1158,6 +1286,7 @@ preview = "pog_0129.jpg"
 shiny = false
 original = "pog_0129.png"
 note = ""
+number_override = ""
 
 [[items]]
 series = "orange"
@@ -1167,6 +1296,7 @@ preview = "pog_0130.jpg"
 shiny = false
 original = "pog_0130.png"
 note = ""
+number_override = ""
 
 [[items]]
 series = "orange"
@@ -1176,6 +1306,7 @@ preview = "pog_0131.jpg"
 shiny = false
 original = "pog_0131.png"
 note = ""
+number_override = ""
 
 [[items]]
 series = "orange"
@@ -1185,6 +1316,7 @@ preview = "pog_0132.jpg"
 shiny = false
 original = "pog_0132.png"
 note = ""
+number_override = ""
 
 [[items]]
 series = "orange"
@@ -1194,6 +1326,7 @@ preview = "pog_0133.jpg"
 shiny = false
 original = "pog_0133.png"
 note = ""
+number_override = ""
 
 [[items]]
 series = "orange"
@@ -1203,6 +1336,7 @@ preview = "pog_0134.jpg"
 shiny = false
 original = "pog_0134.png"
 note = ""
+number_override = ""
 
 [[items]]
 series = "orange"
@@ -1212,6 +1346,7 @@ preview = "pog_0135.jpg"
 shiny = false
 original = "pog_0135.png"
 note = ""
+number_override = ""
 
 [[items]]
 series = "orange"
@@ -1221,6 +1356,7 @@ preview = "pog_0136.jpg"
 shiny = false
 original = "pog_0136.png"
 note = ""
+number_override = ""
 
 [[items]]
 series = "orange"
@@ -1230,6 +1366,7 @@ preview = "pog_0137.jpg"
 shiny = false
 original = "pog_0137.png"
 note = ""
+number_override = ""
 
 [[items]]
 series = "orange"
@@ -1239,6 +1376,7 @@ preview = "pog_0138.jpg"
 shiny = false
 original = "pog_0138.png"
 note = ""
+number_override = ""
 
 [[items]]
 series = "orange"
@@ -1248,6 +1386,7 @@ preview = "pog_0139.jpg"
 shiny = false
 original = "pog_0139.png"
 note = ""
+number_override = ""
 
 [[items]]
 series = "orange"
@@ -1257,6 +1396,7 @@ preview = "pog_0140.jpg"
 shiny = false
 original = "pog_0140.png"
 note = ""
+number_override = ""
 
 [[items]]
 series = "orange"
@@ -1266,6 +1406,7 @@ preview = "pog_0141.jpg"
 shiny = false
 original = "pog_0141.png"
 note = ""
+number_override = ""
 
 [[items]]
 series = "orange"
@@ -1275,6 +1416,7 @@ preview = "pog_0142.jpg"
 shiny = false
 original = "pog_0142.png"
 note = ""
+number_override = ""
 
 [[items]]
 series = "orange"
@@ -1284,6 +1426,7 @@ preview = "pog_0143.jpg"
 shiny = false
 original = "pog_0143.png"
 note = ""
+number_override = ""
 
 [[items]]
 series = "orange"
@@ -1293,6 +1436,7 @@ preview = "pog_0144.jpg"
 shiny = false
 original = "pog_0144.png"
 note = ""
+number_override = ""
 
 [[items]]
 series = "orange"
@@ -1302,6 +1446,7 @@ preview = "pog_0145.jpg"
 shiny = false
 original = "pog_0145.png"
 note = ""
+number_override = ""
 
 [[items]]
 series = "orange"
@@ -1311,6 +1456,7 @@ preview = "pog_0146.jpg"
 shiny = false
 original = "pog_0146.png"
 note = ""
+number_override = ""
 
 [[items]]
 series = "orange"
@@ -1320,6 +1466,7 @@ preview = "pog_0147.jpg"
 shiny = false
 original = "pog_0147.png"
 note = ""
+number_override = ""
 
 [[items]]
 series = "orange"
@@ -1329,6 +1476,7 @@ preview = "pog_0148.jpg"
 shiny = false
 original = "pog_0148.png"
 note = ""
+number_override = ""
 
 [[items]]
 series = "orange"
@@ -1338,6 +1486,7 @@ preview = "pog_0149.jpg"
 shiny = false
 original = "pog_0149.png"
 note = ""
+number_override = ""
 
 [[items]]
 series = "orange"
@@ -1347,6 +1496,7 @@ preview = "pog_0150.jpg"
 shiny = false
 original = "pog_0150.png"
 note = ""
+number_override = ""
 
 [[items]]
 series = "pink"
@@ -1356,6 +1506,7 @@ preview = "pog_0151.jpg"
 shiny = true
 original = "pog_0151.png"
 note = ""
+number_override = ""
 
 [[items]]
 series = "pink"
@@ -1365,6 +1516,7 @@ preview = "pog_0152.jpg"
 shiny = true
 original = "pog_0152.png"
 note = ""
+number_override = ""
 
 [[items]]
 series = "pink"
@@ -1374,6 +1526,7 @@ preview = "pog_0153.jpg"
 shiny = true
 original = "pog_0153.png"
 note = ""
+number_override = ""
 
 [[items]]
 series = "pink"
@@ -1383,6 +1536,7 @@ preview = "pog_0154.jpg"
 shiny = true
 original = "pog_0154.png"
 note = ""
+number_override = ""
 
 [[items]]
 series = "pink"
@@ -1392,6 +1546,7 @@ preview = "pog_0155.jpg"
 shiny = false
 original = "pog_0155.png"
 note = ""
+number_override = ""
 
 [[items]]
 series = "pink"
@@ -1401,6 +1556,7 @@ preview = "pog_0156.jpg"
 shiny = false
 original = "pog_0156.png"
 note = ""
+number_override = ""
 
 [[items]]
 series = "pink"
@@ -1410,6 +1566,7 @@ preview = "pog_0157.jpg"
 shiny = false
 original = "pog_0157.png"
 note = ""
+number_override = ""
 
 [[items]]
 series = "pink"
@@ -1419,6 +1576,7 @@ preview = "pog_0158.jpg"
 shiny = false
 original = "pog_0158.png"
 note = ""
+number_override = ""
 
 [[items]]
 series = "pink"
@@ -1428,6 +1586,7 @@ preview = "pog_0159.jpg"
 shiny = false
 original = "pog_0159.png"
 note = ""
+number_override = ""
 
 [[items]]
 series = "pink"
@@ -1437,6 +1596,7 @@ preview = "pog_0160.jpg"
 shiny = false
 original = "pog_0160.png"
 note = ""
+number_override = ""
 
 [[items]]
 series = "pink"
@@ -1446,6 +1606,7 @@ preview = "pog_0161.jpg"
 shiny = false
 original = "pog_0161.png"
 note = ""
+number_override = ""
 
 [[items]]
 series = "pink"
@@ -1455,6 +1616,7 @@ preview = "pog_0162.jpg"
 shiny = false
 original = "pog_0162.png"
 note = ""
+number_override = ""
 
 [[items]]
 series = "pink"
@@ -1464,6 +1626,7 @@ preview = "pog_0163.jpg"
 shiny = false
 original = "pog_0163.png"
 note = ""
+number_override = ""
 
 [[items]]
 series = "pink"
@@ -1473,6 +1636,7 @@ preview = "pog_0164.jpg"
 shiny = false
 original = "pog_0164.png"
 note = ""
+number_override = ""
 
 [[items]]
 series = "pink"
@@ -1482,6 +1646,7 @@ preview = "pog_0165.jpg"
 shiny = false
 original = "pog_0165.png"
 note = ""
+number_override = ""
 
 [[items]]
 series = "pink"
@@ -1491,6 +1656,7 @@ preview = "pog_0166.jpg"
 shiny = false
 original = "pog_0166.png"
 note = ""
+number_override = ""
 
 [[items]]
 series = "pink"
@@ -1500,6 +1666,7 @@ preview = "pog_0167.jpg"
 shiny = false
 original = "pog_0167.png"
 note = ""
+number_override = ""
 
 [[items]]
 series = "pink"
@@ -1509,6 +1676,7 @@ preview = "pog_0168.jpg"
 shiny = false
 original = "pog_0168.png"
 note = ""
+number_override = ""
 
 [[items]]
 series = "pink"
@@ -1518,6 +1686,7 @@ preview = "pog_0169.jpg"
 shiny = false
 original = "pog_0169.png"
 note = ""
+number_override = ""
 
 [[items]]
 series = "pink"
@@ -1527,6 +1696,7 @@ preview = "pog_0170.jpg"
 shiny = false
 original = "pog_0170.png"
 note = ""
+number_override = ""
 
 [[items]]
 series = "pink"
@@ -1536,6 +1706,7 @@ preview = "pog_0171.jpg"
 shiny = false
 original = "pog_0171.png"
 note = ""
+number_override = ""
 
 [[items]]
 series = "pink"
@@ -1545,6 +1716,7 @@ preview = "pog_0172.jpg"
 shiny = false
 original = "pog_0172.png"
 note = ""
+number_override = ""
 
 [[items]]
 series = "pink"
@@ -1554,6 +1726,7 @@ preview = "pog_0173.jpg"
 shiny = false
 original = "pog_0173.png"
 note = ""
+number_override = ""
 
 [[items]]
 series = "pink"
@@ -1563,6 +1736,7 @@ preview = "pog_0174.jpg"
 shiny = false
 original = "pog_0174.png"
 note = ""
+number_override = ""
 
 [[items]]
 series = "pink"
@@ -1572,6 +1746,7 @@ preview = "pog_0175.jpg"
 shiny = false
 original = "pog_0175.png"
 note = ""
+number_override = ""
 
 [[items]]
 series = "pink"
@@ -1581,6 +1756,7 @@ preview = "pog_0176.jpg"
 shiny = false
 original = "pog_0176.png"
 note = ""
+number_override = ""
 
 [[items]]
 series = "pink"
@@ -1590,6 +1766,7 @@ preview = "pog_0177.jpg"
 shiny = false
 original = "pog_0177.png"
 note = ""
+number_override = ""
 
 [[items]]
 series = "pink"
@@ -1599,6 +1776,7 @@ preview = "pog_0178.jpg"
 shiny = false
 original = "pog_0178.png"
 note = ""
+number_override = ""
 
 [[items]]
 series = "pink"
@@ -1608,6 +1786,7 @@ preview = "pog_0179.jpg"
 shiny = false
 original = "pog_0179.png"
 note = ""
+number_override = ""
 
 [[items]]
 series = "pink"
@@ -1617,6 +1796,7 @@ preview = "pog_0180.jpg"
 shiny = false
 original = "pog_0180.png"
 note = ""
+number_override = ""
 
 [[items]]
 series = "poalim"
@@ -1626,6 +1806,7 @@ preview = "pog_0181.jpg"
 shiny = false
 original = "pog_0181.png"
 note = ""
+number_override = ""
 
 [[items]]
 series = "poalim"
@@ -1635,6 +1816,7 @@ preview = "pog_0182.jpg"
 shiny = false
 original = "pog_0182.png"
 note = ""
+number_override = ""
 
 [[items]]
 series = "poalim"
@@ -1644,6 +1826,7 @@ preview = "pog_0183.jpg"
 shiny = false
 original = "pog_0183.png"
 note = ""
+number_override = ""
 
 [[items]]
 series = "poalim"
@@ -1653,6 +1836,7 @@ preview = "pog_0184.jpg"
 shiny = false
 original = "pog_0184.png"
 note = ""
+number_override = ""
 
 [[items]]
 series = "poalim"
@@ -1662,6 +1846,7 @@ preview = "pog_0185.jpg"
 shiny = false
 original = "pog_0185.png"
 note = ""
+number_override = ""
 
 [[items]]
 series = "poalim"
@@ -1671,6 +1856,7 @@ preview = "pog_0186.jpg"
 shiny = false
 original = "pog_0186.png"
 note = ""
+number_override = ""
 
 [[items]]
 original = "pog_0187.png"
@@ -1680,6 +1866,7 @@ series = "poalim"
 backface = "poalim"
 shiny = false
 note = ""
+number_override = ""
 
 [[items]]
 original = "pog_0188.png"
@@ -1689,6 +1876,7 @@ series = "poalim"
 backface = "poalim"
 shiny = false
 note = ""
+number_override = ""
 
 [[items]]
 number = 189
@@ -1699,6 +1887,7 @@ shiny = false
 original = "pog_0189.png"
 missing = false
 note = ""
+number_override = ""
 
 [[items]]
 original = "pog_0190.png"
@@ -1708,6 +1897,7 @@ series = "poalim"
 backface = "poalim"
 shiny = false
 note = ""
+number_override = ""
 
 [[items]]
 series = "poalim"
@@ -1717,6 +1907,7 @@ preview = "pog_0191.jpg"
 shiny = false
 original = "pog_0191.png"
 note = ""
+number_override = ""
 
 [[items]]
 original = "pog_0192.png"
@@ -1726,6 +1917,7 @@ series = "poalim"
 backface = "poalim"
 shiny = false
 note = ""
+number_override = ""
 
 [[items]]
 series = "poalim"
@@ -1735,6 +1927,7 @@ preview = "pog_0193.jpg"
 shiny = false
 original = "pog_0193.png"
 note = ""
+number_override = ""
 
 [[items]]
 original = "pog_0194.png"
@@ -1744,6 +1937,7 @@ series = "poalim"
 backface = "poalim"
 shiny = false
 note = ""
+number_override = ""
 
 [[items]]
 series = "poalim"
@@ -1753,6 +1947,7 @@ preview = "pog_0195.jpg"
 shiny = false
 original = "pog_0195.png"
 note = ""
+number_override = ""
 
 [[items]]
 original = "pog_0196.png"
@@ -1762,6 +1957,7 @@ series = "poalim"
 backface = "poalim"
 shiny = false
 note = ""
+number_override = ""
 
 [[items]]
 series = "poalim"
@@ -1771,6 +1967,7 @@ preview = "pog_0197.jpg"
 shiny = false
 original = "pog_0197.png"
 note = ""
+number_override = ""
 
 [[items]]
 original = "pog_0198.png"
@@ -1780,6 +1977,7 @@ series = "poalim"
 backface = "poalim"
 shiny = false
 note = ""
+number_override = ""
 
 [[items]]
 series = "poalim"
@@ -1789,6 +1987,7 @@ preview = "pog_0199.jpg"
 shiny = false
 original = "pog_0199.png"
 note = ""
+number_override = ""
 
 [[items]]
 series = "poalim"
@@ -1798,6 +1997,7 @@ preview = "pog_0200.jpg"
 shiny = false
 original = "pog_0200.png"
 note = ""
+number_override = ""
 
 [[items]]
 series = "poalim"
@@ -1807,6 +2007,7 @@ preview = "pog_0201.jpg"
 shiny = false
 original = "pog_0201.png"
 note = ""
+number_override = ""
 
 [[items]]
 series = "poalim"
@@ -1816,6 +2017,7 @@ preview = "pog_0202.jpg"
 shiny = false
 original = "pog_0202.png"
 note = ""
+number_override = ""
 
 [[items]]
 original = "pog_0203.png"
@@ -1825,6 +2027,7 @@ series = "poalim"
 backface = "poalim"
 shiny = false
 note = ""
+number_override = ""
 
 [[items]]
 original = "pog_0204.png"
@@ -1834,6 +2037,7 @@ series = "poalim"
 backface = "poalim"
 shiny = false
 note = ""
+number_override = ""
 
 [[items]]
 original = "pog_0205.png"
@@ -1843,6 +2047,7 @@ series = "poalim"
 backface = "poalim"
 shiny = false
 note = ""
+number_override = ""
 
 [[items]]
 original = "pog_0206.png"
@@ -1852,6 +2057,7 @@ series = "poalim"
 backface = "poalim"
 shiny = false
 note = ""
+number_override = ""
 
 [[items]]
 original = "pog_0207.png"
@@ -1861,6 +2067,7 @@ series = "poalim"
 backface = "poalim"
 shiny = true
 note = ""
+number_override = ""
 
 [[items]]
 original = "pog_0208.png"
@@ -1870,6 +2077,7 @@ series = "poalim"
 backface = "poalim"
 shiny = true
 note = ""
+number_override = ""
 
 [[items]]
 original = "pog_0209.png"
@@ -1879,6 +2087,7 @@ series = "poalim"
 backface = "poalim"
 shiny = true
 note = ""
+number_override = ""
 
 [[items]]
 original = "pog_0210.png"
@@ -1888,6 +2097,7 @@ series = "poalim"
 backface = "poalim"
 shiny = true
 note = ""
+number_override = ""
 
 [[items]]
 series = "brown"
@@ -1897,6 +2107,7 @@ preview = "pog_0211.jpg"
 shiny = true
 original = "pog_0211.png"
 note = ""
+number_override = ""
 
 [[items]]
 series = "brown"
@@ -1906,6 +2117,7 @@ preview = "pog_0212.jpg"
 shiny = true
 original = "pog_0212.png"
 note = ""
+number_override = ""
 
 [[items]]
 series = "brown"
@@ -1915,6 +2127,7 @@ preview = "pog_0213.jpg"
 shiny = false
 original = "pog_0213.png"
 note = ""
+number_override = ""
 
 [[items]]
 series = "brown"
@@ -1924,6 +2137,7 @@ preview = "pog_0214.jpg"
 shiny = false
 original = "pog_0214.png"
 note = ""
+number_override = ""
 
 [[items]]
 series = "brown"
@@ -1933,6 +2147,7 @@ preview = "pog_0215.jpg"
 shiny = false
 original = "pog_0215.png"
 note = ""
+number_override = ""
 
 [[items]]
 series = "brown"
@@ -1942,6 +2157,7 @@ preview = "pog_0216.jpg"
 shiny = false
 original = "pog_0216.png"
 note = ""
+number_override = ""
 
 [[items]]
 series = "brown"
@@ -1951,6 +2167,7 @@ preview = "pog_0217.jpg"
 shiny = false
 original = "pog_0217.png"
 note = ""
+number_override = ""
 
 [[items]]
 series = "brown"
@@ -1960,6 +2177,7 @@ preview = "pog_0218.jpg"
 shiny = false
 original = "pog_0218.png"
 note = ""
+number_override = ""
 
 [[items]]
 series = "brown"
@@ -1969,6 +2187,7 @@ preview = "pog_0219.jpg"
 shiny = false
 original = "pog_0219.png"
 note = ""
+number_override = ""
 
 [[items]]
 series = "brown"
@@ -1978,6 +2197,7 @@ preview = "pog_0220.jpg"
 shiny = false
 original = "pog_0220.png"
 note = ""
+number_override = ""
 
 [[items]]
 series = "brown"
@@ -1987,6 +2207,7 @@ preview = "pog_0221.jpg"
 shiny = false
 original = "pog_0221.png"
 note = ""
+number_override = ""
 
 [[items]]
 series = "brown"
@@ -1996,6 +2217,7 @@ preview = "pog_0222.jpg"
 shiny = false
 original = "pog_0222.png"
 note = ""
+number_override = ""
 
 [[items]]
 series = "brown"
@@ -2005,6 +2227,7 @@ preview = "pog_0223.jpg"
 shiny = false
 original = "pog_0223.png"
 note = ""
+number_override = ""
 
 [[items]]
 series = "brown"
@@ -2014,6 +2237,7 @@ preview = "pog_0224.jpg"
 shiny = false
 original = "pog_0224.png"
 note = ""
+number_override = ""
 
 [[items]]
 series = "brown"
@@ -2023,6 +2247,7 @@ preview = "pog_0225.jpg"
 shiny = false
 original = "pog_0225.png"
 note = ""
+number_override = ""
 
 [[items]]
 series = "brown"
@@ -2032,6 +2257,7 @@ preview = "pog_0226.jpg"
 shiny = false
 original = "pog_0226.png"
 note = ""
+number_override = ""
 
 [[items]]
 series = "brown"
@@ -2041,6 +2267,7 @@ preview = "pog_0227.jpg"
 shiny = false
 original = "pog_0227.png"
 note = ""
+number_override = ""
 
 [[items]]
 series = "brown"
@@ -2050,6 +2277,7 @@ preview = "pog_0228.jpg"
 shiny = false
 original = "pog_0228.png"
 note = ""
+number_override = ""
 
 [[items]]
 series = "brown"
@@ -2059,6 +2287,7 @@ preview = "pog_0229.jpg"
 shiny = false
 original = "pog_0229.png"
 note = ""
+number_override = ""
 
 [[items]]
 series = "brown"
@@ -2068,6 +2297,7 @@ preview = "pog_0230.jpg"
 shiny = false
 original = "pog_0230.png"
 note = ""
+number_override = ""
 
 [[items]]
 series = "brown"
@@ -2077,6 +2307,7 @@ preview = "pog_0231.jpg"
 shiny = false
 original = "pog_0231.png"
 note = ""
+number_override = ""
 
 [[items]]
 series = "brown"
@@ -2086,6 +2317,7 @@ preview = "pog_0232.jpg"
 shiny = false
 original = "pog_0232.png"
 note = ""
+number_override = ""
 
 [[items]]
 original = "pog_0233.png"
@@ -2095,6 +2327,7 @@ series = "brown"
 backface = "default"
 shiny = false
 note = ""
+number_override = ""
 
 [[items]]
 series = "brown"
@@ -2104,6 +2337,7 @@ preview = "pog_0234.jpg"
 shiny = false
 original = "pog_0234.png"
 note = ""
+number_override = ""
 
 [[items]]
 series = "brown"
@@ -2113,6 +2347,7 @@ preview = "pog_0235.jpg"
 shiny = false
 original = "pog_0235.png"
 note = ""
+number_override = ""
 
 [[items]]
 series = "brown"
@@ -2122,6 +2357,7 @@ preview = "pog_0236.jpg"
 shiny = false
 original = "pog_0236.png"
 note = ""
+number_override = ""
 
 [[items]]
 series = "brown"
@@ -2131,6 +2367,7 @@ preview = "pog_0237.jpg"
 shiny = false
 original = "pog_0237.png"
 note = ""
+number_override = ""
 
 [[items]]
 series = "brown"
@@ -2140,6 +2377,7 @@ preview = "pog_0238.jpg"
 shiny = false
 original = "pog_0238.png"
 note = ""
+number_override = ""
 
 [[items]]
 series = "brown"
@@ -2149,6 +2387,7 @@ preview = "pog_0239.jpg"
 shiny = false
 original = "pog_0239.png"
 note = ""
+number_override = ""
 
 [[items]]
 series = "brown"
@@ -2158,6 +2397,7 @@ preview = "pog_0240.jpg"
 shiny = false
 original = "pog_0240.png"
 note = ""
+number_override = ""
 
 [[items]]
 series = "black"
@@ -2167,6 +2407,7 @@ preview = "pog_0241.jpg"
 shiny = true
 original = "pog_0241.png"
 note = ""
+number_override = ""
 
 [[items]]
 series = "black"
@@ -2176,6 +2417,7 @@ preview = "pog_0242.jpg"
 shiny = true
 original = "pog_0242.png"
 note = ""
+number_override = ""
 
 [[items]]
 series = "black"
@@ -2185,6 +2427,7 @@ preview = "pog_0243.jpg"
 shiny = false
 original = "pog_0243.png"
 note = ""
+number_override = ""
 
 [[items]]
 series = "black"
@@ -2194,6 +2437,7 @@ preview = "pog_0244.jpg"
 shiny = false
 original = "pog_0244.png"
 note = ""
+number_override = ""
 
 [[items]]
 series = "black"
@@ -2203,6 +2447,7 @@ preview = "pog_0245.jpg"
 shiny = false
 original = "pog_0245.png"
 note = ""
+number_override = ""
 
 [[items]]
 series = "black"
@@ -2212,6 +2457,7 @@ preview = "pog_0246.jpg"
 shiny = false
 original = "pog_0246.png"
 note = ""
+number_override = ""
 
 [[items]]
 series = "black"
@@ -2221,6 +2467,7 @@ preview = "pog_0247.jpg"
 shiny = false
 original = "pog_0247.png"
 note = ""
+number_override = ""
 
 [[items]]
 series = "black"
@@ -2230,6 +2477,7 @@ preview = "pog_0248.jpg"
 shiny = false
 original = "pog_0248.png"
 note = ""
+number_override = ""
 
 [[items]]
 series = "black"
@@ -2239,6 +2487,7 @@ preview = "pog_0249.jpg"
 shiny = false
 original = "pog_0249.png"
 note = ""
+number_override = ""
 
 [[items]]
 series = "black"
@@ -2248,6 +2497,7 @@ preview = "pog_0250.jpg"
 shiny = false
 original = "pog_0250.png"
 note = ""
+number_override = ""
 
 [[items]]
 series = "black"
@@ -2257,6 +2507,7 @@ preview = "pog_0251.jpg"
 shiny = false
 original = "pog_0251.png"
 note = ""
+number_override = ""
 
 [[items]]
 series = "black"
@@ -2266,6 +2517,7 @@ preview = "pog_0252.jpg"
 shiny = false
 original = "pog_0252.png"
 note = ""
+number_override = ""
 
 [[items]]
 series = "black"
@@ -2275,6 +2527,7 @@ preview = "pog_0253.jpg"
 shiny = false
 original = "pog_0253.png"
 note = ""
+number_override = ""
 
 [[items]]
 series = "black"
@@ -2284,6 +2537,7 @@ preview = "pog_0254.jpg"
 shiny = false
 original = "pog_0254.png"
 note = ""
+number_override = ""
 
 [[items]]
 series = "black"
@@ -2293,6 +2547,7 @@ preview = "pog_0255.jpg"
 shiny = false
 original = "pog_0255.png"
 note = ""
+number_override = ""
 
 [[items]]
 series = "black"
@@ -2302,6 +2557,7 @@ preview = "pog_0256.jpg"
 shiny = false
 original = "pog_0256.png"
 note = ""
+number_override = ""
 
 [[items]]
 series = "black"
@@ -2311,6 +2567,7 @@ preview = "pog_0257.jpg"
 shiny = false
 original = "pog_0257.png"
 note = ""
+number_override = ""
 
 [[items]]
 series = "black"
@@ -2320,6 +2577,7 @@ preview = "pog_0258.jpg"
 shiny = false
 original = "pog_0258.png"
 note = ""
+number_override = ""
 
 [[items]]
 series = "black"
@@ -2329,6 +2587,7 @@ preview = "pog_0259.jpg"
 shiny = false
 original = "pog_0259.png"
 note = ""
+number_override = ""
 
 [[items]]
 series = "black"
@@ -2338,6 +2597,7 @@ preview = "pog_0260.jpg"
 shiny = false
 original = "pog_0260.png"
 note = ""
+number_override = ""
 
 [[items]]
 series = "black"
@@ -2347,6 +2607,7 @@ preview = "pog_0261.jpg"
 shiny = false
 original = "pog_0261.png"
 note = ""
+number_override = ""
 
 [[items]]
 series = "black"
@@ -2356,6 +2617,7 @@ preview = "pog_0262.jpg"
 shiny = false
 original = "pog_0262.png"
 note = ""
+number_override = ""
 
 [[items]]
 series = "black"
@@ -2365,6 +2627,7 @@ preview = "pog_0263.jpg"
 shiny = false
 original = "pog_0263.png"
 note = ""
+number_override = ""
 
 [[items]]
 series = "black"
@@ -2374,6 +2637,7 @@ preview = "pog_0264.jpg"
 shiny = false
 original = "pog_0264.png"
 note = ""
+number_override = ""
 
 [[items]]
 series = "black"
@@ -2383,6 +2647,7 @@ preview = "pog_0265.jpg"
 shiny = false
 original = "pog_0265.png"
 note = ""
+number_override = ""
 
 [[items]]
 series = "black"
@@ -2392,6 +2657,7 @@ preview = "pog_0266.jpg"
 shiny = false
 original = "pog_0266.png"
 note = ""
+number_override = ""
 
 [[items]]
 series = "black"
@@ -2401,6 +2667,7 @@ preview = "pog_0267.jpg"
 shiny = false
 original = "pog_0267.png"
 note = ""
+number_override = ""
 
 [[items]]
 series = "black"
@@ -2410,6 +2677,7 @@ preview = "pog_0268.jpg"
 shiny = false
 original = "pog_0268.png"
 note = ""
+number_override = ""
 
 [[items]]
 series = "black"
@@ -2419,6 +2687,7 @@ preview = "pog_0269.jpg"
 shiny = false
 original = "pog_0269.png"
 note = ""
+number_override = ""
 
 [[items]]
 series = "black"
@@ -2428,6 +2697,7 @@ preview = "pog_0270.jpg"
 shiny = false
 original = "pog_0270.png"
 note = ""
+number_override = ""
 
 [[items]]
 series = "gray"
@@ -2437,6 +2707,7 @@ preview = "pog_0271.jpg"
 shiny = true
 original = "pog_0271.png"
 note = ""
+number_override = ""
 
 [[items]]
 series = "gray"
@@ -2446,6 +2717,7 @@ preview = "pog_0272.jpg"
 shiny = true
 original = "pog_0272.png"
 note = ""
+number_override = ""
 
 [[items]]
 series = "gray"
@@ -2455,6 +2727,7 @@ preview = "pog_0273.jpg"
 shiny = false
 original = "pog_0273.png"
 note = ""
+number_override = ""
 
 [[items]]
 series = "gray"
@@ -2464,6 +2737,7 @@ preview = "pog_0274.jpg"
 shiny = false
 original = "pog_0274.png"
 note = ""
+number_override = ""
 
 [[items]]
 series = "gray"
@@ -2473,6 +2747,7 @@ preview = "pog_0275.jpg"
 shiny = false
 original = "pog_0275.png"
 note = ""
+number_override = ""
 
 [[items]]
 series = "gray"
@@ -2482,6 +2757,7 @@ preview = "pog_0276.jpg"
 shiny = false
 original = "pog_0276.png"
 note = ""
+number_override = ""
 
 [[items]]
 series = "gray"
@@ -2491,6 +2767,7 @@ preview = "pog_0277.jpg"
 shiny = false
 original = "pog_0277.png"
 note = ""
+number_override = ""
 
 [[items]]
 series = "gray"
@@ -2500,6 +2777,7 @@ preview = "pog_0278.jpg"
 shiny = false
 original = "pog_0278.png"
 note = ""
+number_override = ""
 
 [[items]]
 series = "gray"
@@ -2509,6 +2787,7 @@ preview = "pog_0279.jpg"
 shiny = false
 original = "pog_0279.png"
 note = ""
+number_override = ""
 
 [[items]]
 series = "gray"
@@ -2518,6 +2797,7 @@ preview = "pog_0280.jpg"
 shiny = false
 original = "pog_0280.png"
 note = ""
+number_override = ""
 
 [[items]]
 series = "gray"
@@ -2527,6 +2807,7 @@ preview = "pog_0281.jpg"
 shiny = false
 original = "pog_0281.png"
 note = ""
+number_override = ""
 
 [[items]]
 series = "gray"
@@ -2536,6 +2817,7 @@ preview = "pog_0282.jpg"
 shiny = false
 original = "pog_0282.png"
 note = ""
+number_override = ""
 
 [[items]]
 series = "gray"
@@ -2545,6 +2827,7 @@ preview = "pog_0283.jpg"
 shiny = false
 original = "pog_0283.png"
 note = ""
+number_override = ""
 
 [[items]]
 series = "gray"
@@ -2554,6 +2837,7 @@ preview = "pog_0284.jpg"
 shiny = false
 original = "pog_0284.png"
 note = ""
+number_override = ""
 
 [[items]]
 series = "gray"
@@ -2563,6 +2847,7 @@ preview = "pog_0285.jpg"
 shiny = false
 original = "pog_0285.png"
 note = ""
+number_override = ""
 
 [[items]]
 series = "gray"
@@ -2572,6 +2857,7 @@ preview = "pog_0286.jpg"
 shiny = false
 original = "pog_0286.png"
 note = ""
+number_override = ""
 
 [[items]]
 series = "gray"
@@ -2581,6 +2867,7 @@ preview = "pog_0287.jpg"
 shiny = false
 original = "pog_0287.png"
 note = ""
+number_override = ""
 
 [[items]]
 series = "gray"
@@ -2590,6 +2877,7 @@ preview = "pog_0288.jpg"
 shiny = false
 original = "pog_0288.png"
 note = ""
+number_override = ""
 
 [[items]]
 series = "gray"
@@ -2599,6 +2887,7 @@ preview = "pog_0289.jpg"
 shiny = false
 original = "pog_0289.png"
 note = ""
+number_override = ""
 
 [[items]]
 series = "gray"
@@ -2608,6 +2897,7 @@ preview = "pog_0290.jpg"
 shiny = false
 original = "pog_0290.png"
 note = ""
+number_override = ""
 
 [[items]]
 series = "gray"
@@ -2617,6 +2907,7 @@ preview = "pog_0291.jpg"
 shiny = false
 original = "pog_0291.png"
 note = ""
+number_override = ""
 
 [[items]]
 series = "gray"
@@ -2626,6 +2917,7 @@ preview = "pog_0292.jpg"
 shiny = false
 original = "pog_0292.png"
 note = ""
+number_override = ""
 
 [[items]]
 series = "gray"
@@ -2635,6 +2927,7 @@ preview = "pog_0293.jpg"
 shiny = false
 original = "pog_0293.png"
 note = ""
+number_override = ""
 
 [[items]]
 series = "gray"
@@ -2644,6 +2937,7 @@ preview = "pog_0294.jpg"
 shiny = false
 original = "pog_0294.png"
 note = ""
+number_override = ""
 
 [[items]]
 series = "gray"
@@ -2653,6 +2947,7 @@ preview = "pog_0295.jpg"
 shiny = false
 original = "pog_0295.png"
 note = ""
+number_override = ""
 
 [[items]]
 series = "gray"
@@ -2662,6 +2957,7 @@ preview = "pog_0296.jpg"
 shiny = false
 original = "pog_0296.png"
 note = ""
+number_override = ""
 
 [[items]]
 series = "gray"
@@ -2671,6 +2967,7 @@ preview = "pog_0297.jpg"
 shiny = false
 original = "pog_0297.png"
 note = ""
+number_override = ""
 
 [[items]]
 series = "gray"
@@ -2680,6 +2977,7 @@ preview = "pog_0298.jpg"
 shiny = false
 original = "pog_0298.png"
 note = ""
+number_override = ""
 
 [[items]]
 series = "gray"
@@ -2689,6 +2987,7 @@ preview = "pog_0299.jpg"
 shiny = false
 original = "pog_0299.png"
 note = ""
+number_override = ""
 
 [[items]]
 series = "gray"
@@ -2698,6 +2997,7 @@ preview = "pog_0300.jpg"
 shiny = false
 original = "pog_0300.png"
 note = ""
+number_override = ""
 
 [[items]]
 series = "turquoise"
@@ -2707,6 +3007,7 @@ preview = "pog_0301.jpg"
 shiny = true
 original = "pog_0301.png"
 note = ""
+number_override = ""
 
 [[items]]
 series = "turquoise"
@@ -2716,6 +3017,7 @@ preview = "pog_0302.jpg"
 shiny = true
 original = "pog_0302.png"
 note = ""
+number_override = ""
 
 [[items]]
 series = "turquoise"
@@ -2725,6 +3027,7 @@ preview = "pog_0303.jpg"
 shiny = false
 original = "pog_0303.png"
 note = ""
+number_override = ""
 
 [[items]]
 series = "turquoise"
@@ -2734,6 +3037,7 @@ preview = "pog_0304.jpg"
 shiny = false
 original = "pog_0304.png"
 note = ""
+number_override = ""
 
 [[items]]
 series = "turquoise"
@@ -2743,6 +3047,7 @@ preview = "pog_0305.jpg"
 shiny = false
 original = "pog_0305.png"
 note = ""
+number_override = ""
 
 [[items]]
 series = "turquoise"
@@ -2752,6 +3057,7 @@ preview = "pog_0306.jpg"
 shiny = false
 original = "pog_0306.png"
 note = ""
+number_override = ""
 
 [[items]]
 series = "turquoise"
@@ -2761,6 +3067,7 @@ preview = "pog_0307.jpg"
 shiny = false
 original = "pog_0307.png"
 note = ""
+number_override = ""
 
 [[items]]
 series = "turquoise"
@@ -2770,6 +3077,7 @@ preview = "pog_0308.jpg"
 shiny = false
 original = "pog_0308.png"
 note = ""
+number_override = ""
 
 [[items]]
 series = "turquoise"
@@ -2779,6 +3087,7 @@ preview = "pog_0309.jpg"
 shiny = false
 original = "pog_0309.png"
 note = ""
+number_override = ""
 
 [[items]]
 series = "turquoise"
@@ -2788,6 +3097,7 @@ preview = "pog_0310.jpg"
 shiny = false
 original = "pog_0310.png"
 note = ""
+number_override = ""
 
 [[items]]
 series = "turquoise"
@@ -2797,6 +3107,7 @@ preview = "pog_0311.jpg"
 shiny = false
 original = "pog_0311.png"
 note = ""
+number_override = ""
 
 [[items]]
 series = "turquoise"
@@ -2806,6 +3117,7 @@ preview = "pog_0312.jpg"
 shiny = false
 original = "pog_0312.png"
 note = ""
+number_override = ""
 
 [[items]]
 series = "turquoise"
@@ -2815,6 +3127,7 @@ preview = "pog_0313.jpg"
 shiny = false
 original = "pog_0313.png"
 note = ""
+number_override = ""
 
 [[items]]
 series = "turquoise"
@@ -2824,6 +3137,7 @@ preview = "pog_0314.jpg"
 shiny = false
 original = "pog_0314.png"
 note = ""
+number_override = ""
 
 [[items]]
 series = "turquoise"
@@ -2833,6 +3147,7 @@ preview = "pog_0315.jpg"
 shiny = false
 original = "pog_0315.png"
 note = ""
+number_override = ""
 
 [[items]]
 series = "turquoise"
@@ -2842,6 +3157,7 @@ preview = "pog_0316.jpg"
 shiny = false
 original = "pog_0316.png"
 note = ""
+number_override = ""
 
 [[items]]
 series = "turquoise"
@@ -2851,6 +3167,7 @@ preview = "pog_0317.jpg"
 shiny = false
 original = "pog_0317.png"
 note = ""
+number_override = ""
 
 [[items]]
 series = "turquoise"
@@ -2860,6 +3177,7 @@ preview = "pog_0318.jpg"
 shiny = false
 original = "pog_0318.png"
 note = ""
+number_override = ""
 
 [[items]]
 series = "turquoise"
@@ -2869,6 +3187,7 @@ preview = "pog_0319.jpg"
 shiny = false
 original = "pog_0319.png"
 note = ""
+number_override = ""
 
 [[items]]
 series = "turquoise"
@@ -2878,6 +3197,7 @@ preview = "pog_0320.jpg"
 shiny = false
 original = "pog_0320.png"
 note = ""
+number_override = ""
 
 [[items]]
 series = "turquoise"
@@ -2887,6 +3207,7 @@ preview = "pog_0321.jpg"
 shiny = false
 original = "pog_0321.png"
 note = ""
+number_override = ""
 
 [[items]]
 series = "turquoise"
@@ -2896,6 +3217,7 @@ preview = "pog_0322.jpg"
 shiny = false
 original = "pog_0322.png"
 note = ""
+number_override = ""
 
 [[items]]
 series = "turquoise"
@@ -2905,6 +3227,7 @@ preview = "pog_0323.jpg"
 shiny = false
 original = "pog_0323.png"
 note = ""
+number_override = ""
 
 [[items]]
 series = "turquoise"
@@ -2914,6 +3237,7 @@ preview = "pog_0324.jpg"
 shiny = false
 original = "pog_0324.png"
 note = ""
+number_override = ""
 
 [[items]]
 series = "turquoise"
@@ -2923,6 +3247,7 @@ preview = "pog_0325.jpg"
 shiny = false
 original = "pog_0325.png"
 note = ""
+number_override = ""
 
 [[items]]
 series = "turquoise"
@@ -2932,6 +3257,7 @@ preview = "pog_0326.jpg"
 shiny = false
 original = "pog_0326.png"
 note = ""
+number_override = ""
 
 [[items]]
 series = "turquoise"
@@ -2941,6 +3267,7 @@ preview = "pog_0327.jpg"
 shiny = false
 original = "pog_0327.png"
 note = ""
+number_override = ""
 
 [[items]]
 series = "turquoise"
@@ -2950,6 +3277,7 @@ preview = "pog_0328.jpg"
 shiny = false
 original = "pog_0328.png"
 note = ""
+number_override = ""
 
 [[items]]
 series = "turquoise"
@@ -2959,6 +3287,7 @@ preview = "pog_0329.jpg"
 shiny = false
 original = "pog_0329.png"
 note = ""
+number_override = ""
 
 [[items]]
 series = "turquoise"
@@ -2968,6 +3297,7 @@ preview = "pog_0330.jpg"
 shiny = false
 original = "pog_0330.png"
 note = ""
+number_override = ""
 
 [[items]]
 series = "psycho"
@@ -2977,6 +3307,7 @@ preview = "pog_0331.jpg"
 shiny = true
 original = "pog_0331.png"
 note = ""
+number_override = ""
 
 [[items]]
 series = "psycho"
@@ -2986,6 +3317,7 @@ preview = "pog_0332.jpg"
 shiny = true
 original = "pog_0332.png"
 note = ""
+number_override = ""
 
 [[items]]
 series = "psycho"
@@ -2995,6 +3327,7 @@ preview = "pog_0333.jpg"
 shiny = false
 original = "pog_0333.png"
 note = ""
+number_override = ""
 
 [[items]]
 series = "psycho"
@@ -3004,6 +3337,7 @@ preview = "pog_0334.jpg"
 shiny = false
 original = "pog_0334.png"
 note = ""
+number_override = ""
 
 [[items]]
 series = "psycho"
@@ -3013,6 +3347,7 @@ preview = "pog_0335.jpg"
 shiny = false
 original = "pog_0335.png"
 note = ""
+number_override = ""
 
 [[items]]
 original = "pog_0336.png"
@@ -3022,6 +3357,7 @@ series = "psycho"
 backface = "default"
 shiny = false
 note = ""
+number_override = ""
 
 [[items]]
 series = "psycho"
@@ -3031,6 +3367,7 @@ preview = "pog_0337.jpg"
 shiny = false
 original = "pog_0337.png"
 note = ""
+number_override = ""
 
 [[items]]
 series = "psycho"
@@ -3040,6 +3377,7 @@ preview = "pog_0338.jpg"
 shiny = false
 original = "pog_0338.png"
 note = ""
+number_override = ""
 
 [[items]]
 series = "psycho"
@@ -3049,6 +3387,7 @@ preview = "pog_0339.jpg"
 shiny = false
 original = "pog_0339.png"
 note = ""
+number_override = ""
 
 [[items]]
 series = "psycho"
@@ -3058,6 +3397,7 @@ preview = "pog_0340.jpg"
 shiny = false
 original = "pog_0340.png"
 note = ""
+number_override = ""
 
 [[items]]
 series = "psycho"
@@ -3067,6 +3407,7 @@ preview = "pog_0341.jpg"
 shiny = false
 original = "pog_0341.png"
 note = ""
+number_override = ""
 
 [[items]]
 series = "psycho"
@@ -3076,6 +3417,7 @@ preview = "pog_0342.jpg"
 shiny = false
 original = "pog_0342.png"
 note = ""
+number_override = ""
 
 [[items]]
 series = "psycho"
@@ -3085,6 +3427,7 @@ preview = "pog_0343.jpg"
 shiny = false
 original = "pog_0343.png"
 note = ""
+number_override = ""
 
 [[items]]
 series = "psycho"
@@ -3094,6 +3437,7 @@ preview = "pog_0344.jpg"
 shiny = false
 original = "pog_0344.png"
 note = ""
+number_override = ""
 
 [[items]]
 series = "psycho"
@@ -3103,6 +3447,7 @@ preview = "pog_0345.jpg"
 shiny = false
 original = "pog_0345.png"
 note = ""
+number_override = ""
 
 [[items]]
 series = "psycho"
@@ -3112,6 +3457,7 @@ preview = "pog_0346.jpg"
 shiny = false
 original = "pog_0346.png"
 note = ""
+number_override = ""
 
 [[items]]
 series = "psycho"
@@ -3121,6 +3467,7 @@ preview = "pog_0347.jpg"
 shiny = false
 original = "pog_0347.png"
 note = ""
+number_override = ""
 
 [[items]]
 series = "psycho"
@@ -3130,6 +3477,7 @@ preview = "pog_0348.jpg"
 shiny = false
 original = "pog_0348.png"
 note = ""
+number_override = ""
 
 [[items]]
 series = "psycho"
@@ -3139,6 +3487,7 @@ preview = "pog_0349.jpg"
 shiny = false
 original = "pog_0349.png"
 note = ""
+number_override = ""
 
 [[items]]
 series = "psycho"
@@ -3148,6 +3497,7 @@ preview = "pog_0350.jpg"
 shiny = false
 original = "pog_0350.png"
 note = ""
+number_override = ""
 
 [[items]]
 series = "psycho"
@@ -3157,6 +3507,7 @@ preview = "pog_0351.jpg"
 shiny = false
 original = "pog_0351.png"
 note = ""
+number_override = ""
 
 [[items]]
 series = "psycho"
@@ -3166,6 +3517,7 @@ preview = "pog_0352.jpg"
 shiny = false
 original = "pog_0352.png"
 note = ""
+number_override = ""
 
 [[items]]
 series = "psycho"
@@ -3175,6 +3527,7 @@ preview = "pog_0353.jpg"
 shiny = false
 original = "pog_0353.png"
 note = ""
+number_override = ""
 
 [[items]]
 series = "psycho"
@@ -3184,6 +3537,7 @@ preview = "pog_0354.jpg"
 shiny = false
 original = "pog_0354.png"
 note = ""
+number_override = ""
 
 [[items]]
 series = "psycho"
@@ -3193,6 +3547,7 @@ preview = "pog_0355.jpg"
 shiny = false
 original = "pog_0355.png"
 note = ""
+number_override = ""
 
 [[items]]
 series = "psycho"
@@ -3202,6 +3557,7 @@ preview = "pog_0356.jpg"
 shiny = false
 original = "pog_0356.png"
 note = ""
+number_override = ""
 
 [[items]]
 series = "psycho"
@@ -3211,6 +3567,7 @@ preview = "pog_0357.jpg"
 shiny = false
 original = "pog_0357.png"
 note = ""
+number_override = ""
 
 [[items]]
 series = "psycho"
@@ -3220,6 +3577,7 @@ preview = "pog_0358.jpg"
 shiny = false
 original = "pog_0358.png"
 note = ""
+number_override = ""
 
 [[items]]
 series = "psycho"
@@ -3229,6 +3587,7 @@ preview = "pog_0359.jpg"
 shiny = false
 original = "pog_0359.png"
 note = ""
+number_override = ""
 
 [[items]]
 series = "psycho"
@@ -3238,6 +3597,7 @@ preview = "pog_0360.jpg"
 shiny = false
 original = "pog_0360.png"
 note = ""
+number_override = ""
 
 [[items]]
 original = "pog_0361.png"
@@ -3247,6 +3607,7 @@ series = "gold"
 backface = "buddy"
 shiny = true
 note = ""
+number_override = ""
 
 [[items]]
 original = "pog_0362.png"
@@ -3256,6 +3617,7 @@ series = "gold"
 backface = "buddy"
 shiny = true
 note = ""
+number_override = ""
 
 [[items]]
 original = "pog_0363.png"
@@ -3265,6 +3627,7 @@ series = "gold"
 backface = "buddy"
 shiny = true
 note = ""
+number_override = ""
 
 [[items]]
 original = "pog_0364.png"
@@ -3274,6 +3637,7 @@ series = "gold"
 backface = "buddy"
 shiny = true
 note = ""
+number_override = ""
 
 [[items]]
 original = "pog_0365.png"
@@ -3283,6 +3647,7 @@ series = "gold"
 backface = "buddy"
 shiny = true
 note = ""
+number_override = ""
 
 [[items]]
 original = "pog_0366.png"
@@ -3292,6 +3657,7 @@ series = "gold"
 backface = "buddy"
 shiny = true
 note = ""
+number_override = ""
 
 [[items]]
 original = "pog_0367.png"
@@ -3301,6 +3667,7 @@ series = "gold"
 backface = "buddy"
 shiny = true
 note = ""
+number_override = ""
 
 [[items]]
 original = "pog_0368.png"
@@ -3310,6 +3677,7 @@ series = "gold"
 backface = "buddy"
 shiny = true
 note = ""
+number_override = ""
 
 [[items]]
 original = "pog_0369.png"
@@ -3319,6 +3687,7 @@ series = "gold"
 backface = "buddy"
 shiny = true
 note = ""
+number_override = ""
 
 [[items]]
 original = "pog_0370.png"
@@ -3328,6 +3697,7 @@ series = "gold"
 backface = "buddy"
 shiny = true
 note = ""
+number_override = ""
 
 [[items]]
 original = "pog_0371.png"
@@ -3337,6 +3707,7 @@ series = "gold"
 backface = "buddy"
 shiny = true
 note = ""
+number_override = ""
 
 [[items]]
 original = "pog_0372.png"
@@ -3346,6 +3717,7 @@ series = "gold"
 backface = "buddy"
 shiny = true
 note = ""
+number_override = ""
 
 [[items]]
 series = "gold"
@@ -3355,6 +3727,7 @@ preview = "pog_0373.jpg"
 shiny = true
 original = "pog_0373.png"
 note = ""
+number_override = ""
 
 [[items]]
 series = "gold"
@@ -3364,6 +3737,7 @@ preview = "pog_0374.jpg"
 shiny = true
 original = "pog_0374.png"
 note = ""
+number_override = ""
 
 [[items]]
 original = "pog_0375.png"
@@ -3373,6 +3747,7 @@ series = "gold"
 backface = "buddy"
 shiny = true
 note = ""
+number_override = ""
 
 [[items]]
 original = "pog_0376.png"
@@ -3382,6 +3757,7 @@ series = "gold"
 backface = "buddy"
 shiny = true
 note = ""
+number_override = ""
 
 [[items]]
 original = "pog_0377.png"
@@ -3391,6 +3767,7 @@ series = "gold"
 backface = "buddy"
 shiny = true
 note = ""
+number_override = ""
 
 [[items]]
 original = "pog_0378.png"
@@ -3400,6 +3777,7 @@ series = "gold"
 backface = "buddy"
 shiny = true
 note = ""
+number_override = ""
 
 [[items]]
 original = "pog_0379.png"
@@ -3409,6 +3787,7 @@ series = "gold"
 backface = "buddy"
 shiny = true
 note = ""
+number_override = ""
 
 [[items]]
 original = "pog_0380.png"
@@ -3418,6 +3797,7 @@ series = "gold"
 backface = "buddy"
 shiny = true
 note = ""
+number_override = ""
 
 [[items]]
 original = "pog_0381.png"
@@ -3427,6 +3807,7 @@ series = "gold"
 backface = "buddy"
 shiny = true
 note = ""
+number_override = ""
 
 [[items]]
 original = "pog_0382.png"
@@ -3436,6 +3817,7 @@ series = "gold"
 backface = "buddy"
 shiny = true
 note = ""
+number_override = ""
 
 [[items]]
 original = "pog_0383.png"
@@ -3445,6 +3827,7 @@ series = "gold"
 backface = "buddy"
 shiny = true
 note = ""
+number_override = ""
 
 [[items]]
 original = "pog_0384.png"
@@ -3454,6 +3837,7 @@ series = "gold"
 backface = "buddy"
 shiny = true
 note = ""
+number_override = ""
 
 [[items]]
 original = "pog_0385.png"
@@ -3463,6 +3847,7 @@ series = "gold"
 backface = "buddy"
 shiny = true
 note = ""
+number_override = ""
 
 [[items]]
 original = "pog_0386.png"
@@ -3472,6 +3857,7 @@ series = "gold"
 backface = "buddy"
 shiny = true
 note = ""
+number_override = ""
 
 [[items]]
 original = "pog_0387.png"
@@ -3481,6 +3867,7 @@ series = "gold"
 backface = "buddy"
 shiny = true
 note = ""
+number_override = ""
 
 [[items]]
 original = "pog_0388.png"
@@ -3490,6 +3877,7 @@ series = "gold"
 backface = "buddy"
 shiny = true
 note = ""
+number_override = ""
 
 [[items]]
 original = "pog_0389.png"
@@ -3499,6 +3887,7 @@ series = "gold"
 backface = "buddy"
 shiny = true
 note = ""
+number_override = ""
 
 [[items]]
 original = "pog_0390.png"
@@ -3508,6 +3897,7 @@ series = "gold"
 backface = "buddy"
 shiny = true
 note = ""
+number_override = ""
 
 [[items]]
 series = "dominos"
@@ -3517,6 +3907,7 @@ preview = "pog_0391.jpg"
 shiny = false
 original = "pog_0391.png"
 note = ""
+number_override = ""
 
 [[items]]
 original = "pog_0392.png"
@@ -3526,6 +3917,7 @@ series = "dominos"
 backface = "dominos"
 shiny = false
 note = ""
+number_override = ""
 
 [[items]]
 series = "dominos"
@@ -3535,6 +3927,7 @@ preview = "pog_0393.jpg"
 shiny = false
 original = "pog_0393.png"
 note = ""
+number_override = ""
 
 [[items]]
 series = "dominos"
@@ -3544,6 +3937,7 @@ preview = "pog_0394.jpg"
 shiny = false
 original = "pog_0394.png"
 note = ""
+number_override = ""
 
 [[items]]
 original = "pog_0395.png"
@@ -3553,6 +3947,7 @@ series = "dominos"
 backface = "dominos"
 shiny = false
 note = ""
+number_override = ""
 
 [[items]]
 original = "pog_0396.png"
@@ -3562,6 +3957,7 @@ series = "dominos"
 backface = "dominos"
 shiny = false
 note = ""
+number_override = ""
 
 [[items]]
 original = "pog_0397.png"
@@ -3571,6 +3967,7 @@ series = "dominos"
 backface = "dominos"
 shiny = false
 note = ""
+number_override = ""
 
 [[items]]
 series = "dominos"
@@ -3580,6 +3977,7 @@ preview = "pog_0398.jpg"
 shiny = false
 original = "pog_0398.png"
 note = ""
+number_override = ""
 
 [[items]]
 original = "pog_0399.png"
@@ -3589,6 +3987,7 @@ series = "dominos"
 backface = "dominos"
 shiny = false
 note = ""
+number_override = ""
 
 [[items]]
 original = "pog_0400.png"
@@ -3598,6 +3997,7 @@ series = "dominos"
 backface = "dominos"
 shiny = false
 note = ""
+number_override = ""
 
 [[items]]
 series = "dominos"
@@ -3607,6 +4007,7 @@ preview = "pog_0401.jpg"
 shiny = false
 original = "pog_0401.png"
 note = ""
+number_override = ""
 
 [[items]]
 series = "dominos"
@@ -3616,6 +4017,7 @@ preview = "pog_0402.jpg"
 shiny = false
 original = "pog_0402.png"
 note = ""
+number_override = ""
 
 [[items]]
 original = "pog_0403.png"
@@ -3625,6 +4027,7 @@ series = "dominos"
 backface = "dominos"
 shiny = false
 note = ""
+number_override = ""
 
 [[items]]
 original = "pog_0404.png"
@@ -3634,6 +4037,7 @@ series = "dominos"
 backface = "dominos"
 shiny = false
 note = ""
+number_override = ""
 
 [[items]]
 series = "dominos"
@@ -3643,6 +4047,7 @@ preview = "pog_0405.jpg"
 shiny = false
 original = "pog_0405.png"
 note = ""
+number_override = ""
 
 [[items]]
 original = "pog_0406.png"
@@ -3652,6 +4057,7 @@ series = "dominos"
 backface = "dominos"
 shiny = false
 note = ""
+number_override = ""
 
 [[items]]
 original = "pog_0407.png"
@@ -3661,6 +4067,7 @@ series = "dominos"
 backface = "dominos"
 shiny = false
 note = ""
+number_override = ""
 
 [[items]]
 original = "pog_0408.png"
@@ -3670,6 +4077,7 @@ series = "dominos"
 backface = "dominos"
 shiny = false
 note = ""
+number_override = ""
 
 [[items]]
 original = "pog_0409.png"
@@ -3679,6 +4087,7 @@ series = "dominos"
 backface = "dominos"
 shiny = false
 note = ""
+number_override = ""
 
 [[items]]
 original = "pog_0410.png"
@@ -3688,6 +4097,7 @@ series = "dominos"
 backface = "dominos"
 shiny = false
 note = ""
+number_override = ""
 
 [[items]]
 original = "pog_0411.png"
@@ -3697,6 +4107,7 @@ series = "dominos"
 backface = "dominos"
 shiny = false
 note = ""
+number_override = ""
 
 [[items]]
 original = "pog_0412.png"
@@ -3706,6 +4117,7 @@ series = "dominos"
 backface = "dominos"
 shiny = false
 note = ""
+number_override = ""
 
 [[items]]
 original = "pog_0413.png"
@@ -3715,6 +4127,7 @@ series = "dominos"
 backface = "dominos"
 shiny = false
 note = ""
+number_override = ""
 
 [[items]]
 original = "pog_0414.png"
@@ -3724,6 +4137,7 @@ series = "dominos"
 backface = "dominos"
 shiny = false
 note = ""
+number_override = ""
 
 [[items]]
 original = "pog_0415.png"
@@ -3733,6 +4147,7 @@ series = "dominos"
 backface = "dominos"
 shiny = false
 note = ""
+number_override = ""
 
 [[items]]
 original = "pog_0416.png"
@@ -3742,6 +4157,7 @@ series = "dominos"
 backface = "dominos"
 shiny = false
 note = ""
+number_override = ""
 
 [[items]]
 original = "pog_0417.png"
@@ -3751,6 +4167,7 @@ series = "dominos"
 backface = "dominos"
 shiny = false
 note = ""
+number_override = ""
 
 [[items]]
 original = "pog_0418.png"
@@ -3760,6 +4177,7 @@ series = "dominos"
 backface = "dominos"
 shiny = false
 note = ""
+number_override = ""
 
 [[items]]
 original = "pog_0419.png"
@@ -3769,6 +4187,7 @@ series = "dominos"
 backface = "dominos"
 shiny = false
 note = ""
+number_override = ""
 
 [[items]]
 original = "pog_0420.png"
@@ -3778,6 +4197,7 @@ series = "dominos"
 backface = "dominos"
 shiny = false
 note = ""
+number_override = ""
 
 [[items]]
 number = 421
@@ -3788,6 +4208,7 @@ shiny = false
 original = "missing.svg"
 missing = true
 note = ""
+number_override = ""
 
 [[items]]
 number = 422
@@ -3798,6 +4219,7 @@ shiny = false
 original = "missing.svg"
 missing = true
 note = ""
+number_override = ""
 
 [[items]]
 number = 423
@@ -3808,6 +4230,7 @@ shiny = false
 original = "missing.svg"
 missing = true
 note = ""
+number_override = ""
 
 [[items]]
 number = 424
@@ -3818,6 +4241,7 @@ shiny = false
 original = "missing.svg"
 missing = true
 note = ""
+number_override = ""
 
 [[items]]
 number = 425
@@ -3828,6 +4252,7 @@ shiny = false
 original = "missing.svg"
 missing = true
 note = ""
+number_override = ""
 
 [[items]]
 number = 426
@@ -3838,6 +4263,7 @@ shiny = false
 original = "missing.svg"
 missing = true
 note = ""
+number_override = ""
 
 [[items]]
 number = 427
@@ -3848,6 +4274,7 @@ shiny = false
 original = "missing.svg"
 missing = true
 note = ""
+number_override = ""
 
 [[items]]
 number = 428
@@ -3858,6 +4285,7 @@ shiny = false
 original = "missing.svg"
 missing = true
 note = ""
+number_override = ""
 
 [[items]]
 number = 429
@@ -3868,6 +4296,7 @@ shiny = false
 original = "missing.svg"
 missing = true
 note = ""
+number_override = ""
 
 [[items]]
 number = 430
@@ -3878,6 +4307,7 @@ shiny = false
 original = "missing.svg"
 missing = true
 note = ""
+number_override = ""
 
 [[items]]
 number = 431
@@ -3888,6 +4318,7 @@ shiny = false
 original = "missing.svg"
 missing = true
 note = ""
+number_override = ""
 
 [[items]]
 number = 432
@@ -3898,6 +4329,7 @@ shiny = false
 original = "missing.svg"
 missing = true
 note = ""
+number_override = ""
 
 [[items]]
 number = 433
@@ -3908,6 +4340,7 @@ shiny = false
 original = "missing.svg"
 missing = true
 note = ""
+number_override = ""
 
 [[items]]
 number = 434
@@ -3918,6 +4351,7 @@ shiny = false
 original = "missing.svg"
 missing = true
 note = ""
+number_override = ""
 
 [[items]]
 number = 435
@@ -3928,6 +4362,7 @@ shiny = false
 original = "missing.svg"
 missing = true
 note = ""
+number_override = ""
 
 [[items]]
 number = 436
@@ -3938,6 +4373,7 @@ shiny = false
 original = "missing.svg"
 missing = true
 note = ""
+number_override = ""
 
 [[items]]
 number = 437
@@ -3948,6 +4384,7 @@ shiny = false
 original = "missing.svg"
 missing = true
 note = ""
+number_override = ""
 
 [[items]]
 number = 438
@@ -3958,6 +4395,7 @@ shiny = false
 original = "missing.svg"
 missing = true
 note = ""
+number_override = ""
 
 [[items]]
 number = 439
@@ -3968,6 +4406,7 @@ shiny = false
 original = "missing.svg"
 missing = true
 note = ""
+number_override = ""
 
 [[items]]
 number = 440
@@ -3978,6 +4417,7 @@ shiny = false
 original = "missing.svg"
 missing = true
 note = ""
+number_override = ""
 
 [[items]]
 number = 441
@@ -3988,6 +4428,7 @@ shiny = false
 original = "missing.svg"
 missing = true
 note = ""
+number_override = ""
 
 [[items]]
 number = 442
@@ -3998,6 +4439,7 @@ shiny = false
 original = "missing.svg"
 missing = true
 note = ""
+number_override = ""
 
 [[items]]
 number = 443
@@ -4008,6 +4450,7 @@ shiny = false
 original = "missing.svg"
 missing = true
 note = ""
+number_override = ""
 
 [[items]]
 number = 444
@@ -4018,6 +4461,7 @@ shiny = false
 original = "missing.svg"
 missing = true
 note = ""
+number_override = ""
 
 [[items]]
 number = 445
@@ -4028,6 +4472,7 @@ shiny = false
 original = "missing.svg"
 missing = true
 note = ""
+number_override = ""
 
 [[items]]
 number = 446
@@ -4038,6 +4483,7 @@ shiny = false
 original = "missing.svg"
 missing = true
 note = ""
+number_override = ""
 
 [[items]]
 number = 447
@@ -4048,6 +4494,7 @@ shiny = false
 original = "missing.svg"
 missing = true
 note = ""
+number_override = ""
 
 [[items]]
 number = 448
@@ -4058,6 +4505,7 @@ shiny = false
 original = "missing.svg"
 missing = true
 note = ""
+number_override = ""
 
 [[items]]
 number = 449
@@ -4068,6 +4516,7 @@ shiny = false
 original = "missing.svg"
 missing = true
 note = ""
+number_override = ""
 
 [[items]]
 number = 450
@@ -4078,6 +4527,7 @@ shiny = false
 original = "missing.svg"
 missing = true
 note = ""
+number_override = ""
 
 [[items]]
 original = "pog_0451.png"
@@ -4087,6 +4537,7 @@ series = "comedy-store"
 backface = "default"
 shiny = false
 note = ""
+number_override = ""
 
 [[items]]
 series = "comedy-store"
@@ -4096,6 +4547,7 @@ preview = "pog_0452.jpg"
 shiny = false
 original = "pog_0452.png"
 note = ""
+number_override = ""
 
 [[items]]
 original = "pog_0453.png"
@@ -4105,6 +4557,7 @@ series = "comedy-store"
 backface = "default"
 shiny = false
 note = ""
+number_override = ""
 
 [[items]]
 original = "pog_0454.png"
@@ -4114,6 +4567,7 @@ series = "comedy-store"
 backface = "default"
 shiny = false
 note = ""
+number_override = ""
 
 [[items]]
 original = "pog_0455.png"
@@ -4123,6 +4577,7 @@ series = "comedy-store"
 backface = "default"
 shiny = false
 note = ""
+number_override = ""
 
 [[items]]
 series = "comedy-store"
@@ -4132,6 +4587,7 @@ preview = "pog_0456.jpg"
 shiny = false
 original = "pog_0456.png"
 note = ""
+number_override = ""
 
 [[items]]
 original = "pog_0457.png"
@@ -4141,6 +4597,7 @@ series = "comedy-store"
 backface = "default"
 shiny = false
 note = ""
+number_override = ""
 
 [[items]]
 original = "pog_0458.png"
@@ -4150,6 +4607,7 @@ series = "comedy-store"
 backface = "default"
 shiny = false
 note = ""
+number_override = ""
 
 [[items]]
 series = "comedy-store"
@@ -4159,6 +4617,7 @@ preview = "pog_0459.jpg"
 shiny = false
 original = "pog_0459.png"
 note = ""
+number_override = ""
 
 [[items]]
 series = "comedy-store"
@@ -4168,6 +4627,7 @@ preview = "pog_0460.jpg"
 shiny = false
 original = "pog_0460.png"
 note = ""
+number_override = ""
 
 [[items]]
 series = "comedy-store"
@@ -4177,6 +4637,7 @@ preview = "pog_0461.jpg"
 shiny = false
 original = "pog_0461.png"
 note = ""
+number_override = ""
 
 [[items]]
 original = "pog_0462.png"
@@ -4186,6 +4647,7 @@ series = "comedy-store"
 backface = "default"
 shiny = false
 note = ""
+number_override = ""
 
 [[items]]
 original = "pog_0463.png"
@@ -4195,6 +4657,7 @@ series = "comedy-store"
 backface = "default"
 shiny = false
 note = ""
+number_override = ""
 
 [[items]]
 original = "pog_0464.png"
@@ -4204,6 +4667,7 @@ series = "comedy-store"
 backface = "default"
 shiny = false
 note = ""
+number_override = ""
 
 [[items]]
 original = "pog_0465.png"
@@ -4213,6 +4677,7 @@ series = "comedy-store"
 backface = "default"
 shiny = false
 note = ""
+number_override = ""
 
 [[items]]
 original = "pog_0466.png"
@@ -4222,6 +4687,7 @@ series = "comedy-store"
 backface = "default"
 shiny = false
 note = ""
+number_override = ""
 
 [[items]]
 original = "pog_0467.png"
@@ -4231,6 +4697,7 @@ series = "comedy-store"
 backface = "default"
 shiny = false
 note = ""
+number_override = ""
 
 [[items]]
 original = "pog_0468.png"
@@ -4240,6 +4707,7 @@ series = "comedy-store"
 backface = "default"
 shiny = false
 note = ""
+number_override = ""
 
 [[items]]
 original = "pog_0469.png"
@@ -4249,6 +4717,7 @@ series = "comedy-store"
 backface = "default"
 shiny = false
 note = ""
+number_override = ""
 
 [[items]]
 original = "pog_0470.png"
@@ -4258,6 +4727,7 @@ series = "comedy-store"
 backface = "default"
 shiny = false
 note = ""
+number_override = ""
 
 [[items]]
 series = "comedy-store"
@@ -4267,6 +4737,7 @@ preview = "pog_0471.jpg"
 shiny = false
 original = "pog_0471.png"
 note = ""
+number_override = ""
 
 [[items]]
 original = "pog_0472.png"
@@ -4276,6 +4747,7 @@ series = "comedy-store"
 backface = "default"
 shiny = false
 note = ""
+number_override = ""
 
 [[items]]
 original = "pog_0473.png"
@@ -4285,6 +4757,7 @@ series = "comedy-store"
 backface = "default"
 shiny = false
 note = ""
+number_override = ""
 
 [[items]]
 original = "pog_0474.png"
@@ -4294,6 +4767,7 @@ series = "comedy-store"
 backface = "default"
 shiny = false
 note = ""
+number_override = ""
 
 [[items]]
 original = "pog_0475.png"
@@ -4303,6 +4777,7 @@ series = "comedy-store"
 backface = "default"
 shiny = false
 note = ""
+number_override = ""
 
 [[items]]
 series = "comedy-store"
@@ -4312,6 +4787,7 @@ preview = "pog_0476.jpg"
 shiny = false
 original = "pog_0476.png"
 note = ""
+number_override = ""
 
 [[items]]
 original = "pog_0477.png"
@@ -4321,6 +4797,7 @@ series = "comedy-store"
 backface = "default"
 shiny = false
 note = ""
+number_override = ""
 
 [[items]]
 original = "pog_0478.png"
@@ -4330,6 +4807,7 @@ series = "comedy-store"
 backface = "default"
 shiny = false
 note = ""
+number_override = ""
 
 [[items]]
 original = "pog_0479.png"
@@ -4339,6 +4817,7 @@ series = "comedy-store"
 backface = "default"
 shiny = false
 note = ""
+number_override = ""
 
 [[items]]
 series = "comedy-store"
@@ -4348,6 +4827,7 @@ preview = "pog_0480.jpg"
 shiny = false
 original = "pog_0480.png"
 note = ""
+number_override = ""
 
 [[items]]
 original = "pog_0481.png"
@@ -4357,6 +4837,7 @@ series = "comedy-store-yellow"
 backface = "default"
 shiny = false
 note = ""
+number_override = ""
 
 [[items]]
 original = "pog_0482.png"
@@ -4366,6 +4847,7 @@ series = "comedy-store-yellow"
 backface = "default"
 shiny = false
 note = ""
+number_override = ""
 
 [[items]]
 original = "pog_0483.png"
@@ -4375,6 +4857,7 @@ series = "comedy-store-yellow"
 backface = "default"
 shiny = false
 note = ""
+number_override = ""
 
 [[items]]
 original = "pog_0484.png"
@@ -4384,6 +4867,7 @@ series = "comedy-store-yellow"
 backface = "default"
 shiny = false
 note = ""
+number_override = ""
 
 [[items]]
 original = "pog_0485.png"
@@ -4393,6 +4877,7 @@ series = "comedy-store-yellow"
 backface = "default"
 shiny = false
 note = ""
+number_override = ""
 
 [[items]]
 series = "comedy-store-yellow"
@@ -4402,6 +4887,7 @@ preview = "pog_0486.jpg"
 shiny = false
 original = "pog_0486.png"
 note = ""
+number_override = ""
 
 [[items]]
 original = "pog_0487.png"
@@ -4411,6 +4897,7 @@ series = "comedy-store-yellow"
 backface = "default"
 shiny = false
 note = ""
+number_override = ""
 
 [[items]]
 original = "pog_0488.png"
@@ -4420,6 +4907,7 @@ series = "comedy-store-yellow"
 backface = "default"
 shiny = false
 note = ""
+number_override = ""
 
 [[items]]
 original = "pog_0489.png"
@@ -4429,6 +4917,7 @@ series = "comedy-store-yellow"
 backface = "default"
 shiny = false
 note = ""
+number_override = ""
 
 [[items]]
 original = "pog_0490.png"
@@ -4438,6 +4927,7 @@ series = "comedy-store-yellow"
 backface = "default"
 shiny = false
 note = ""
+number_override = ""
 
 [[items]]
 series = "comedy-store-yellow"
@@ -4447,6 +4937,7 @@ preview = "pog_0491.jpg"
 shiny = false
 original = "pog_0491.png"
 note = ""
+number_override = ""
 
 [[items]]
 original = "pog_0492.png"
@@ -4456,6 +4947,7 @@ series = "comedy-store-yellow"
 backface = "default"
 shiny = false
 note = ""
+number_override = ""
 
 [[items]]
 original = "pog_0493.png"
@@ -4465,6 +4957,7 @@ series = "comedy-store-yellow"
 backface = "default"
 shiny = false
 note = ""
+number_override = ""
 
 [[items]]
 original = "pog_0494.png"
@@ -4474,6 +4967,7 @@ series = "comedy-store-yellow"
 backface = "default"
 shiny = false
 note = ""
+number_override = ""
 
 [[items]]
 original = "pog_0495.png"
@@ -4483,6 +4977,7 @@ series = "comedy-store-yellow"
 backface = "default"
 shiny = false
 note = ""
+number_override = ""
 
 [[items]]
 original = "pog_0496.png"
@@ -4492,6 +4987,7 @@ series = "comedy-store-yellow"
 backface = "default"
 shiny = false
 note = ""
+number_override = ""
 
 [[items]]
 original = "pog_0497.png"
@@ -4501,6 +4997,7 @@ series = "comedy-store-yellow"
 backface = "default"
 shiny = false
 note = ""
+number_override = ""
 
 [[items]]
 original = "pog_0498.png"
@@ -4510,6 +5007,7 @@ series = "comedy-store-yellow"
 backface = "default"
 shiny = false
 note = ""
+number_override = ""
 
 [[items]]
 original = "pog_0499.png"
@@ -4519,6 +5017,7 @@ series = "comedy-store-yellow"
 backface = "default"
 shiny = false
 note = ""
+number_override = ""
 
 [[items]]
 original = "pog_0500.png"
@@ -4528,6 +5027,7 @@ series = "comedy-store-yellow"
 backface = "default"
 shiny = false
 note = ""
+number_override = ""
 
 [[items]]
 series = "comedy-store-yellow"
@@ -4537,6 +5037,7 @@ preview = "pog_0501.jpg"
 shiny = false
 original = "pog_0501.png"
 note = ""
+number_override = ""
 
 [[items]]
 original = "pog_0502.png"
@@ -4546,6 +5047,7 @@ series = "comedy-store-yellow"
 backface = "default"
 shiny = false
 note = ""
+number_override = ""
 
 [[items]]
 original = "pog_0503.png"
@@ -4555,6 +5057,7 @@ series = "comedy-store-yellow"
 backface = "default"
 shiny = false
 note = ""
+number_override = ""
 
 [[items]]
 original = "pog_0504.png"
@@ -4564,6 +5067,7 @@ series = "comedy-store-yellow"
 backface = "default"
 shiny = false
 note = ""
+number_override = ""
 
 [[items]]
 original = "pog_0505.png"
@@ -4573,6 +5077,7 @@ series = "comedy-store-yellow"
 backface = "default"
 shiny = false
 note = ""
+number_override = ""
 
 [[items]]
 original = "pog_0506.png"
@@ -4582,6 +5087,7 @@ series = "comedy-store-yellow"
 backface = "default"
 shiny = false
 note = ""
+number_override = ""
 
 [[items]]
 original = "pog_0507.png"
@@ -4591,6 +5097,7 @@ series = "comedy-store-yellow"
 backface = "default"
 shiny = false
 note = ""
+number_override = ""
 
 [[items]]
 original = "pog_0508.png"
@@ -4600,6 +5107,7 @@ series = "comedy-store-yellow"
 backface = "default"
 shiny = false
 note = ""
+number_override = ""
 
 [[items]]
 original = "pog_0509.png"
@@ -4609,6 +5117,7 @@ series = "comedy-store-yellow"
 backface = "default"
 shiny = false
 note = ""
+number_override = ""
 
 [[items]]
 original = "pog_0510.png"
@@ -4618,6 +5127,7 @@ series = "comedy-store-yellow"
 backface = "default"
 shiny = false
 note = ""
+number_override = ""
 
 [[items]]
 original = "pog_0511.png"
@@ -4627,6 +5137,7 @@ series = "psycho-blue-white"
 backface = "default"
 shiny = false
 note = ""
+number_override = ""
 
 [[items]]
 original = "pog_0512.png"
@@ -4636,6 +5147,7 @@ series = "psycho-blue-white"
 backface = "default"
 shiny = false
 note = ""
+number_override = ""
 
 [[items]]
 original = "pog_0513.png"
@@ -4645,6 +5157,7 @@ series = "psycho-blue-white"
 backface = "default"
 shiny = false
 note = ""
+number_override = ""
 
 [[items]]
 original = "pog_0514.png"
@@ -4654,6 +5167,7 @@ series = "psycho-blue-white"
 backface = "default"
 shiny = false
 note = ""
+number_override = ""
 
 [[items]]
 original = "pog_0515.png"
@@ -4663,6 +5177,7 @@ series = "psycho-blue-white"
 backface = "default"
 shiny = false
 note = ""
+number_override = ""
 
 [[items]]
 original = "pog_0516.png"
@@ -4672,6 +5187,7 @@ series = "psycho-blue-white"
 backface = "default"
 shiny = false
 note = ""
+number_override = ""
 
 [[items]]
 original = "pog_0517.png"
@@ -4681,6 +5197,7 @@ series = "psycho-blue-white"
 backface = "default"
 shiny = false
 note = ""
+number_override = ""
 
 [[items]]
 original = "pog_0518.png"
@@ -4690,6 +5207,7 @@ series = "psycho-blue-white"
 backface = "default"
 shiny = false
 note = ""
+number_override = ""
 
 [[items]]
 original = "pog_0519.png"
@@ -4699,6 +5217,7 @@ series = "psycho-blue-white"
 backface = "default"
 shiny = false
 note = ""
+number_override = ""
 
 [[items]]
 original = "pog_0520.png"
@@ -4708,6 +5227,7 @@ series = "psycho-blue-white"
 backface = "default"
 shiny = false
 note = ""
+number_override = ""
 
 [[items]]
 original = "pog_0521.png"
@@ -4717,6 +5237,7 @@ series = "psycho-blue-white"
 backface = "default"
 shiny = false
 note = ""
+number_override = ""
 
 [[items]]
 original = "pog_0522.png"
@@ -4726,6 +5247,7 @@ series = "psycho-blue-white"
 backface = "default"
 shiny = false
 note = ""
+number_override = ""
 
 [[items]]
 original = "pog_0523.png"
@@ -4735,6 +5257,7 @@ series = "psycho-blue-white"
 backface = "default"
 shiny = false
 note = ""
+number_override = ""
 
 [[items]]
 original = "pog_0524.png"
@@ -4744,6 +5267,7 @@ series = "psycho-blue-white"
 backface = "default"
 shiny = false
 note = ""
+number_override = ""
 
 [[items]]
 original = "pog_0525.png"
@@ -4753,6 +5277,7 @@ series = "psycho-blue-white"
 backface = "default"
 shiny = false
 note = ""
+number_override = ""
 
 [[items]]
 original = "pog_0526.png"
@@ -4762,6 +5287,7 @@ series = "psycho-blue-white"
 backface = "default"
 shiny = false
 note = ""
+number_override = ""
 
 [[items]]
 original = "pog_0527.png"
@@ -4771,6 +5297,7 @@ series = "psycho-blue-white"
 backface = "default"
 shiny = false
 note = ""
+number_override = ""
 
 [[items]]
 original = "pog_0528.png"
@@ -4780,6 +5307,7 @@ series = "psycho-blue-white"
 backface = "default"
 shiny = false
 note = ""
+number_override = ""
 
 [[items]]
 original = "pog_0529.png"
@@ -4789,6 +5317,7 @@ series = "psycho-blue-white"
 backface = "default"
 shiny = false
 note = ""
+number_override = ""
 
 [[items]]
 original = "pog_0530.png"
@@ -4798,6 +5327,7 @@ series = "psycho-blue-white"
 backface = "default"
 shiny = false
 note = ""
+number_override = ""
 
 [[items]]
 original = "pog_0531.png"
@@ -4807,6 +5337,7 @@ series = "psycho-blue-white"
 backface = "default"
 shiny = false
 note = ""
+number_override = ""
 
 [[items]]
 original = "pog_0532.png"
@@ -4816,6 +5347,7 @@ series = "psycho-blue-white"
 backface = "default"
 shiny = false
 note = ""
+number_override = ""
 
 [[items]]
 original = "pog_0533.png"
@@ -4825,6 +5357,7 @@ series = "psycho-blue-white"
 backface = "default"
 shiny = false
 note = ""
+number_override = ""
 
 [[items]]
 original = "pog_0534.png"
@@ -4834,6 +5367,7 @@ series = "psycho-blue-white"
 backface = "default"
 shiny = false
 note = ""
+number_override = ""
 
 [[items]]
 original = "pog_0535.png"
@@ -4843,6 +5377,7 @@ series = "psycho-blue-white"
 backface = "default"
 shiny = false
 note = ""
+number_override = ""
 
 [[items]]
 original = "pog_0536.png"
@@ -4852,6 +5387,7 @@ series = "psycho-blue-white"
 backface = "default"
 shiny = false
 note = ""
+number_override = ""
 
 [[items]]
 original = "pog_0537.png"
@@ -4861,6 +5397,7 @@ series = "psycho-blue-white"
 backface = "default"
 shiny = false
 note = ""
+number_override = ""
 
 [[items]]
 original = "pog_0538.png"
@@ -4870,6 +5407,7 @@ series = "psycho-blue-white"
 backface = "default"
 shiny = false
 note = ""
+number_override = ""
 
 [[items]]
 original = "pog_0539.png"
@@ -4879,6 +5417,7 @@ series = "psycho-blue-white"
 backface = "default"
 shiny = false
 note = ""
+number_override = ""
 
 [[items]]
 original = "pog_0540.png"
@@ -4888,6 +5427,7 @@ series = "psycho-blue-white"
 backface = "default"
 shiny = false
 note = ""
+number_override = ""
 
 [[items]]
 original = "pog_0601.png"
@@ -4897,6 +5437,7 @@ series = "hologram"
 backface = "default"
 shiny = true
 note = "**הערה:** בסדרת היקרים, אין סדר קבוע בין המספר לבין המדבקה שעל הפוג"
+number_override = ""
 
 [[items]]
 original = "pog_0602.png"
@@ -4906,6 +5447,7 @@ series = "hologram"
 backface = "default"
 shiny = true
 note = "**הערה:** בסדרת היקרים, אין סדר קבוע בין המספר לבין המדבקה שעל הפוג"
+number_override = ""
 
 [[items]]
 original = "pog_0603.png"
@@ -4915,6 +5457,7 @@ series = "hologram"
 backface = "default"
 shiny = true
 note = "**הערה:** בסדרת היקרים, אין סדר קבוע בין המספר לבין המדבקה שעל הפוג"
+number_override = ""
 
 [[items]]
 original = "pog_0604.png"
@@ -4924,6 +5467,7 @@ series = "hologram"
 backface = "default"
 shiny = true
 note = "**הערה:** בסדרת היקרים, אין סדר קבוע בין המספר לבין המדבקה שעל הפוג"
+number_override = ""
 
 [[items]]
 original = "pog_0605.png"
@@ -4933,6 +5477,7 @@ series = "hologram"
 backface = "default"
 shiny = true
 note = "**הערה:** בסדרת היקרים, אין סדר קבוע בין המספר לבין המדבקה שעל הפוג"
+number_override = ""
 
 [[items]]
 original = "pog_0606.png"
@@ -4942,6 +5487,7 @@ series = "hologram"
 backface = "default"
 shiny = true
 note = "**הערה:** בסדרת היקרים, אין סדר קבוע בין המספר לבין המדבקה שעל הפוג"
+number_override = ""
 
 [[items]]
 original = "pog_0607.png"
@@ -4951,6 +5497,7 @@ series = "hologram"
 backface = "default"
 shiny = true
 note = "**הערה:** בסדרת היקרים, אין סדר קבוע בין המספר לבין המדבקה שעל הפוג"
+number_override = ""
 
 [[items]]
 original = "pog_0608.png"
@@ -4960,6 +5507,7 @@ series = "hologram"
 backface = "default"
 shiny = true
 note = "**הערה:** בסדרת היקרים, אין סדר קבוע בין המספר לבין המדבקה שעל הפוג"
+number_override = ""
 
 [[items]]
 original = "pog_0609.png"
@@ -4969,6 +5517,7 @@ series = "hologram"
 backface = "default"
 shiny = true
 note = "**הערה:** בסדרת היקרים, אין סדר קבוע בין המספר לבין המדבקה שעל הפוג"
+number_override = ""
 
 [[items]]
 original = "pog_0610.png"
@@ -4978,6 +5527,7 @@ series = "hologram"
 backface = "default"
 shiny = true
 note = "**הערה:** בסדרת היקרים, אין סדר קבוע בין המספר לבין המדבקה שעל הפוג"
+number_override = ""
 
 [[items]]
 original = "pog_0611.png"
@@ -4987,6 +5537,7 @@ series = "hologram"
 backface = "default"
 shiny = true
 note = "**הערה:** בסדרת היקרים, אין סדר קבוע בין המספר לבין המדבקה שעל הפוג"
+number_override = ""
 
 [[items]]
 original = "pog_0612.png"
@@ -4996,6 +5547,7 @@ series = "hologram"
 backface = "default"
 shiny = true
 note = "**הערה:** בסדרת היקרים, אין סדר קבוע בין המספר לבין המדבקה שעל הפוג"
+number_override = ""
 
 [[items]]
 original = "pog_0613.png"
@@ -5005,6 +5557,7 @@ series = "hologram"
 backface = "default"
 shiny = true
 note = "**הערה:** בסדרת היקרים, אין סדר קבוע בין המספר לבין המדבקה שעל הפוג"
+number_override = ""
 
 [[items]]
 original = "pog_0614.png"
@@ -5014,6 +5567,7 @@ series = "hologram"
 backface = "default"
 shiny = true
 note = "**הערה:** בסדרת היקרים, אין סדר קבוע בין המספר לבין המדבקה שעל הפוג"
+number_override = ""
 
 [[items]]
 original = "pog_0615.png"
@@ -5023,6 +5577,7 @@ series = "hologram"
 backface = "default"
 shiny = true
 note = "**הערה:** בסדרת היקרים, אין סדר קבוע בין המספר לבין המדבקה שעל הפוג"
+number_override = ""
 
 [[items]]
 original = "pog_0616.png"
@@ -5032,6 +5587,7 @@ series = "hologram"
 backface = "default"
 shiny = true
 note = "**הערה:** בסדרת היקרים, אין סדר קבוע בין המספר לבין המדבקה שעל הפוג"
+number_override = ""
 
 [[items]]
 original = "pog_0617.png"
@@ -5041,6 +5597,7 @@ series = "hologram"
 backface = "default"
 shiny = true
 note = "**הערה:** בסדרת היקרים, אין סדר קבוע בין המספר לבין המדבקה שעל הפוג"
+number_override = ""
 
 [[items]]
 original = "pog_0618.png"
@@ -5050,6 +5607,7 @@ series = "hologram"
 backface = "default"
 shiny = true
 note = "**הערה:** בסדרת היקרים, אין סדר קבוע בין המספר לבין המדבקה שעל הפוג"
+number_override = ""
 
 [[items]]
 original = "pog_0619.png"
@@ -5059,6 +5617,7 @@ series = "hologram"
 backface = "default"
 shiny = true
 note = "**הערה:** בסדרת היקרים, אין סדר קבוע בין המספר לבין המדבקה שעל הפוג"
+number_override = ""
 
 [[items]]
 original = "pog_0620.png"
@@ -5068,6 +5627,7 @@ series = "hologram"
 backface = "default"
 shiny = true
 note = "**הערה:** בסדרת היקרים, אין סדר קבוע בין המספר לבין המדבקה שעל הפוג"
+number_override = ""
 
 [[items]]
 original = "pog_0621.png"
@@ -5077,6 +5637,7 @@ series = "hologram"
 backface = "default"
 shiny = true
 note = "**הערה:** בסדרת היקרים, אין סדר קבוע בין המספר לבין המדבקה שעל הפוג"
+number_override = ""
 
 [[items]]
 original = "pog_0622.png"
@@ -5086,6 +5647,7 @@ series = "hologram"
 backface = "default"
 shiny = true
 note = "**הערה:** בסדרת היקרים, אין סדר קבוע בין המספר לבין המדבקה שעל הפוג"
+number_override = ""
 
 [[items]]
 original = "pog_0623.png"
@@ -5095,6 +5657,7 @@ series = "hologram"
 backface = "default"
 shiny = true
 note = "**הערה:** בסדרת היקרים, אין סדר קבוע בין המספר לבין המדבקה שעל הפוג"
+number_override = ""
 
 [[items]]
 original = "pog_0624.png"
@@ -5104,6 +5667,7 @@ series = "hologram"
 backface = "default"
 shiny = true
 note = "**הערה:** בסדרת היקרים, אין סדר קבוע בין המספר לבין המדבקה שעל הפוג"
+number_override = ""
 
 [[items]]
 original = "pog_0625.png"
@@ -5113,6 +5677,7 @@ series = "hologram"
 backface = "default"
 shiny = true
 note = "**הערה:** בסדרת היקרים, אין סדר קבוע בין המספר לבין המדבקה שעל הפוג"
+number_override = ""
 
 [[items]]
 original = "pog_0626.png"
@@ -5122,6 +5687,7 @@ series = "hologram"
 backface = "default"
 shiny = true
 note = "**הערה:** בסדרת היקרים, אין סדר קבוע בין המספר לבין המדבקה שעל הפוג"
+number_override = ""
 
 [[items]]
 original = "pog_0627.png"
@@ -5131,6 +5697,7 @@ series = "hologram"
 backface = "default"
 shiny = true
 note = "**הערה:** בסדרת היקרים, אין סדר קבוע בין המספר לבין המדבקה שעל הפוג"
+number_override = ""
 
 [[items]]
 original = "pog_0628.png"
@@ -5140,6 +5707,7 @@ series = "hologram"
 backface = "default"
 shiny = true
 note = "**הערה:** בסדרת היקרים, אין סדר קבוע בין המספר לבין המדבקה שעל הפוג"
+number_override = ""
 
 [[items]]
 original = "pog_0629.png"
@@ -5149,6 +5717,7 @@ series = "hologram"
 backface = "default"
 shiny = true
 note = "**הערה:** בסדרת היקרים, אין סדר קבוע בין המספר לבין המדבקה שעל הפוג"
+number_override = ""
 
 [[items]]
 original = "pog_0630.png"
@@ -5158,6 +5727,7 @@ series = "hologram"
 backface = "default"
 shiny = true
 note = "**הערה:** בסדרת היקרים, אין סדר קבוע בין המספר לבין המדבקה שעל הפוג"
+number_override = ""
 
 [[items]]
 original = "pog_0631.png"
@@ -5167,6 +5737,7 @@ series = "crazies"
 backface = "default"
 shiny = false
 note = ""
+number_override = ""
 
 [[items]]
 original = "pog_0632.png"
@@ -5176,6 +5747,7 @@ series = "crazies"
 backface = "default"
 shiny = false
 note = ""
+number_override = ""
 
 [[items]]
 original = "pog_0633.png"
@@ -5185,6 +5757,7 @@ series = "crazies"
 backface = "default"
 shiny = false
 note = ""
+number_override = ""
 
 [[items]]
 original = "pog_0634.png"
@@ -5194,6 +5767,7 @@ series = "crazies"
 backface = "default"
 shiny = false
 note = ""
+number_override = ""
 
 [[items]]
 original = "pog_0635.png"
@@ -5203,6 +5777,7 @@ series = "crazies"
 backface = "default"
 shiny = false
 note = ""
+number_override = ""
 
 [[items]]
 original = "pog_0636.png"
@@ -5212,6 +5787,7 @@ series = "crazies"
 backface = "default"
 shiny = false
 note = ""
+number_override = ""
 
 [[items]]
 original = "pog_0637.png"
@@ -5221,6 +5797,7 @@ series = "crazies"
 backface = "default"
 shiny = false
 note = ""
+number_override = ""
 
 [[items]]
 original = "pog_0638.png"
@@ -5230,6 +5807,7 @@ series = "crazies"
 backface = "default"
 shiny = false
 note = ""
+number_override = ""
 
 [[items]]
 original = "pog_0639.png"
@@ -5239,6 +5817,7 @@ series = "crazies"
 backface = "default"
 shiny = false
 note = ""
+number_override = ""
 
 [[items]]
 original = "pog_0640.png"
@@ -5248,6 +5827,7 @@ series = "crazies"
 backface = "default"
 shiny = false
 note = ""
+number_override = ""
 
 [[items]]
 original = "pog_0641.png"
@@ -5257,6 +5837,7 @@ series = "crazies"
 backface = "default"
 shiny = false
 note = ""
+number_override = ""
 
 [[items]]
 original = "pog_0642.png"
@@ -5266,6 +5847,7 @@ series = "crazies"
 backface = "default"
 shiny = false
 note = ""
+number_override = ""
 
 [[items]]
 original = "pog_0643.png"
@@ -5275,6 +5857,7 @@ series = "crazies"
 backface = "default"
 shiny = false
 note = ""
+number_override = ""
 
 [[items]]
 original = "pog_0644.png"
@@ -5284,6 +5867,7 @@ series = "crazies"
 backface = "default"
 shiny = false
 note = ""
+number_override = ""
 
 [[items]]
 original = "pog_0645.png"
@@ -5293,6 +5877,7 @@ series = "crazies"
 backface = "default"
 shiny = false
 note = ""
+number_override = ""
 
 [[items]]
 original = "pog_0646.png"
@@ -5302,6 +5887,7 @@ series = "crazies"
 backface = "default"
 shiny = false
 note = ""
+number_override = ""
 
 [[items]]
 original = "pog_0647.png"
@@ -5311,6 +5897,7 @@ series = "crazies"
 backface = "default"
 shiny = false
 note = ""
+number_override = ""
 
 [[items]]
 original = "pog_0648.png"
@@ -5320,6 +5907,7 @@ series = "crazies"
 backface = "default"
 shiny = false
 note = ""
+number_override = ""
 
 [[items]]
 original = "pog_0649.png"
@@ -5329,6 +5917,7 @@ series = "crazies"
 backface = "default"
 shiny = false
 note = ""
+number_override = ""
 
 [[items]]
 original = "pog_0650.png"
@@ -5338,6 +5927,7 @@ series = "crazies"
 backface = "default"
 shiny = false
 note = ""
+number_override = ""
 
 [[items]]
 series = "crazies"
@@ -5347,6 +5937,7 @@ preview = "pog_0651.jpg"
 shiny = false
 original = "pog_0651.png"
 note = ""
+number_override = ""
 
 [[items]]
 original = "pog_0652.png"
@@ -5356,6 +5947,7 @@ series = "crazies"
 backface = "default"
 shiny = false
 note = ""
+number_override = ""
 
 [[items]]
 original = "pog_0653.png"
@@ -5365,6 +5957,7 @@ series = "crazies"
 backface = "default"
 shiny = false
 note = ""
+number_override = ""
 
 [[items]]
 original = "pog_0654.png"
@@ -5374,6 +5967,7 @@ series = "crazies"
 backface = "default"
 shiny = false
 note = ""
+number_override = ""
 
 [[items]]
 original = "pog_0655.png"
@@ -5383,6 +5977,7 @@ series = "crazies"
 backface = "default"
 shiny = false
 note = ""
+number_override = ""
 
 [[items]]
 original = "pog_0656.png"
@@ -5392,6 +5987,7 @@ series = "crazies"
 backface = "default"
 shiny = false
 note = ""
+number_override = ""
 
 [[items]]
 original = "pog_0657.png"
@@ -5401,6 +5997,7 @@ series = "crazies"
 backface = "default"
 shiny = false
 note = ""
+number_override = ""
 
 [[items]]
 original = "pog_0658.png"
@@ -5410,6 +6007,7 @@ series = "crazies"
 backface = "default"
 shiny = false
 note = ""
+number_override = ""
 
 [[items]]
 original = "pog_0659.png"
@@ -5419,6 +6017,7 @@ series = "crazies"
 backface = "default"
 shiny = false
 note = ""
+number_override = ""
 
 [[items]]
 original = "pog_0660.png"
@@ -5428,6 +6027,7 @@ series = "crazies"
 backface = "default"
 shiny = false
 note = ""
+number_override = ""
 
 [[items]]
 original = "pog_0721.png"
@@ -5437,6 +6037,7 @@ series = "bushido-purple"
 backface = "uwf"
 shiny = false
 note = ""
+number_override = ""
 
 [[items]]
 original = "pog_0722.png"
@@ -5446,6 +6047,7 @@ series = "bushido-purple"
 backface = "uwf"
 shiny = false
 note = ""
+number_override = ""
 
 [[items]]
 original = "pog_0723.png"
@@ -5455,6 +6057,7 @@ series = "bushido-purple"
 backface = "uwf"
 shiny = false
 note = ""
+number_override = ""
 
 [[items]]
 original = "pog_0724.png"
@@ -5464,6 +6067,7 @@ series = "bushido-purple"
 backface = "uwf"
 shiny = false
 note = ""
+number_override = ""
 
 [[items]]
 original = "pog_0725.png"
@@ -5473,6 +6077,7 @@ series = "bushido-purple"
 backface = "uwf"
 shiny = false
 note = ""
+number_override = ""
 
 [[items]]
 original = "pog_0726.png"
@@ -5482,6 +6087,7 @@ series = "bushido-purple"
 backface = "uwf"
 shiny = false
 note = ""
+number_override = ""
 
 [[items]]
 original = "pog_0727.png"
@@ -5491,6 +6097,7 @@ series = "bushido-purple"
 backface = "uwf"
 shiny = false
 note = ""
+number_override = ""
 
 [[items]]
 original = "pog_0728.png"
@@ -5500,6 +6107,7 @@ series = "bushido-purple"
 backface = "uwf"
 shiny = false
 note = ""
+number_override = ""
 
 [[items]]
 original = "pog_0729.png"
@@ -5509,6 +6117,7 @@ series = "bushido-purple"
 backface = "uwf"
 shiny = false
 note = ""
+number_override = ""
 
 [[items]]
 original = "pog_0730.png"
@@ -5518,6 +6127,7 @@ series = "bushido-purple"
 backface = "uwf"
 shiny = false
 note = ""
+number_override = ""
 
 [[items]]
 original = "pog_0731.png"
@@ -5527,6 +6137,7 @@ series = "bushido-purple"
 backface = "uwf"
 shiny = false
 note = ""
+number_override = ""
 
 [[items]]
 original = "pog_0732.png"
@@ -5536,6 +6147,7 @@ series = "bushido-purple"
 backface = "uwf"
 shiny = false
 note = ""
+number_override = ""
 
 [[items]]
 original = "pog_0733.png"
@@ -5545,6 +6157,7 @@ series = "bushido-purple"
 backface = "uwf"
 shiny = false
 note = ""
+number_override = ""
 
 [[items]]
 original = "pog_0734.png"
@@ -5554,6 +6167,7 @@ series = "bushido-purple"
 backface = "uwf"
 shiny = false
 note = ""
+number_override = ""
 
 [[items]]
 original = "pog_0735.png"
@@ -5563,6 +6177,7 @@ series = "bushido-purple"
 backface = "uwf"
 shiny = false
 note = ""
+number_override = ""
 
 [[items]]
 original = "pog_0736.png"
@@ -5572,6 +6187,7 @@ series = "bushido-purple"
 backface = "uwf"
 shiny = false
 note = ""
+number_override = ""
 
 [[items]]
 original = "pog_0737.png"
@@ -5581,6 +6197,7 @@ series = "bushido-purple"
 backface = "uwf"
 shiny = false
 note = ""
+number_override = ""
 
 [[items]]
 original = "pog_0738.png"
@@ -5590,6 +6207,7 @@ series = "bushido-purple"
 backface = "uwf"
 shiny = false
 note = ""
+number_override = ""
 
 [[items]]
 original = "pog_0739.png"
@@ -5599,6 +6217,7 @@ series = "bushido-purple"
 backface = "uwf"
 shiny = false
 note = ""
+number_override = ""
 
 [[items]]
 original = "pog_0740.png"
@@ -5608,6 +6227,7 @@ series = "bushido-purple"
 backface = "uwf"
 shiny = false
 note = ""
+number_override = ""
 
 [[items]]
 original = "pog_0741.png"
@@ -5617,6 +6237,7 @@ series = "bushido-purple"
 backface = "uwf"
 shiny = false
 note = ""
+number_override = ""
 
 [[items]]
 original = "pog_0742.png"
@@ -5626,6 +6247,7 @@ series = "bushido-purple"
 backface = "uwf"
 shiny = false
 note = ""
+number_override = ""
 
 [[items]]
 original = "pog_0743.png"
@@ -5635,6 +6257,7 @@ series = "bushido-purple"
 backface = "uwf"
 shiny = false
 note = ""
+number_override = ""
 
 [[items]]
 original = "pog_0744.png"
@@ -5644,6 +6267,7 @@ series = "bushido-purple"
 backface = "uwf"
 shiny = false
 note = ""
+number_override = ""
 
 [[items]]
 original = "pog_0745.png"
@@ -5653,6 +6277,7 @@ series = "bushido-purple"
 backface = "uwf"
 shiny = false
 note = ""
+number_override = ""
 
 [[items]]
 original = "pog_0746.png"
@@ -5662,6 +6287,7 @@ series = "bushido-purple"
 backface = "uwf"
 shiny = false
 note = ""
+number_override = ""
 
 [[items]]
 original = "pog_0747.png"
@@ -5671,6 +6297,7 @@ series = "bushido-purple"
 backface = "uwf"
 shiny = false
 note = ""
+number_override = ""
 
 [[items]]
 original = "pog_0748.png"
@@ -5680,6 +6307,7 @@ series = "bushido-purple"
 backface = "uwf"
 shiny = false
 note = ""
+number_override = ""
 
 [[items]]
 original = "pog_0749.png"
@@ -5689,6 +6317,7 @@ series = "bushido-purple"
 backface = "uwf"
 shiny = false
 note = ""
+number_override = ""
 
 [[items]]
 original = "pog_0750.png"
@@ -5698,6 +6327,7 @@ series = "bushido-purple"
 backface = "uwf"
 shiny = false
 note = ""
+number_override = ""
 
 [[items]]
 original = "pog_0751.png"
@@ -5707,6 +6337,7 @@ series = "bushido-green"
 backface = "uwf"
 shiny = false
 note = ""
+number_override = ""
 
 [[items]]
 series = "bushido-green"
@@ -5716,6 +6347,7 @@ preview = "pog_0752.jpg"
 shiny = false
 original = "pog_0752.png"
 note = ""
+number_override = ""
 
 [[items]]
 original = "pog_0753.png"
@@ -5725,6 +6357,7 @@ series = "bushido-green"
 backface = "uwf"
 shiny = false
 note = ""
+number_override = ""
 
 [[items]]
 series = "bushido-green"
@@ -5734,6 +6367,7 @@ original = "pog_0754.png"
 shiny = false
 preview = "pog_0754.jpg"
 note = ""
+number_override = ""
 
 [[items]]
 original = "pog_0755.png"
@@ -5743,6 +6377,7 @@ series = "bushido-green"
 backface = "uwf"
 shiny = false
 note = ""
+number_override = ""
 
 [[items]]
 original = "pog_0756.png"
@@ -5752,6 +6387,7 @@ series = "bushido-green"
 backface = "uwf"
 shiny = false
 note = ""
+number_override = ""
 
 [[items]]
 original = "pog_0757.png"
@@ -5761,6 +6397,7 @@ series = "bushido-green"
 backface = "uwf"
 shiny = false
 note = ""
+number_override = ""
 
 [[items]]
 original = "pog_0758.png"
@@ -5770,6 +6407,7 @@ series = "bushido-green"
 backface = "uwf"
 shiny = false
 note = ""
+number_override = ""
 
 [[items]]
 original = "pog_0759.png"
@@ -5779,6 +6417,7 @@ series = "bushido-green"
 backface = "uwf"
 shiny = false
 note = ""
+number_override = ""
 
 [[items]]
 original = "pog_0760.png"
@@ -5788,6 +6427,7 @@ series = "bushido-green"
 backface = "uwf"
 shiny = false
 note = ""
+number_override = ""
 
 [[items]]
 original = "pog_0761.png"
@@ -5797,6 +6437,7 @@ series = "bushido-green"
 backface = "uwf"
 shiny = false
 note = ""
+number_override = ""
 
 [[items]]
 original = "pog_0762.png"
@@ -5806,6 +6447,7 @@ series = "bushido-green"
 backface = "uwf"
 shiny = false
 note = ""
+number_override = ""
 
 [[items]]
 original = "pog_0763.png"
@@ -5815,6 +6457,7 @@ series = "bushido-green"
 backface = "uwf"
 shiny = false
 note = ""
+number_override = ""
 
 [[items]]
 original = "pog_0764.png"
@@ -5824,6 +6467,7 @@ series = "bushido-green"
 backface = "uwf"
 shiny = false
 note = ""
+number_override = ""
 
 [[items]]
 original = "pog_0765.png"
@@ -5833,6 +6477,7 @@ series = "bushido-green"
 backface = "uwf"
 shiny = false
 note = ""
+number_override = ""
 
 [[items]]
 original = "pog_0766.png"
@@ -5842,6 +6487,7 @@ series = "bushido-green"
 backface = "uwf"
 shiny = false
 note = ""
+number_override = ""
 
 [[items]]
 original = "pog_0767.png"
@@ -5851,6 +6497,7 @@ series = "bushido-green"
 backface = "uwf"
 shiny = false
 note = ""
+number_override = ""
 
 [[items]]
 original = "pog_0768.png"
@@ -5860,6 +6507,7 @@ series = "bushido-green"
 backface = "uwf"
 shiny = false
 note = ""
+number_override = ""
 
 [[items]]
 original = "pog_0769.png"
@@ -5869,6 +6517,7 @@ series = "bushido-green"
 backface = "uwf"
 shiny = false
 note = ""
+number_override = ""
 
 [[items]]
 original = "pog_0770.png"
@@ -5878,6 +6527,7 @@ series = "bushido-green"
 backface = "uwf"
 shiny = false
 note = ""
+number_override = ""
 
 [[items]]
 original = "pog_0771.png"
@@ -5887,6 +6537,7 @@ series = "bushido-green"
 backface = "uwf"
 shiny = false
 note = ""
+number_override = ""
 
 [[items]]
 original = "pog_0772.png"
@@ -5896,6 +6547,7 @@ series = "bushido-green"
 backface = "uwf"
 shiny = false
 note = ""
+number_override = ""
 
 [[items]]
 original = "pog_0773.png"
@@ -5905,6 +6557,7 @@ series = "bushido-green"
 backface = "uwf"
 shiny = false
 note = ""
+number_override = ""
 
 [[items]]
 series = "bushido-green"
@@ -5914,6 +6567,7 @@ preview = "pog_0774.jpg"
 shiny = false
 original = "pog_0774.png"
 note = ""
+number_override = ""
 
 [[items]]
 original = "pog_0775.png"
@@ -5923,6 +6577,7 @@ series = "bushido-green"
 backface = "uwf"
 shiny = false
 note = ""
+number_override = ""
 
 [[items]]
 original = "pog_0776.png"
@@ -5932,6 +6587,7 @@ series = "bushido-green"
 backface = "uwf"
 shiny = false
 note = ""
+number_override = ""
 
 [[items]]
 original = "pog_0777.png"
@@ -5941,6 +6597,7 @@ series = "bushido-green"
 backface = "uwf"
 shiny = false
 note = ""
+number_override = ""
 
 [[items]]
 number = 778
@@ -5951,6 +6608,7 @@ shiny = false
 original = "pog_0778.png"
 missing = false
 note = ""
+number_override = ""
 
 [[items]]
 original = "pog_0779.png"
@@ -5960,6 +6618,7 @@ series = "bushido-green"
 backface = "uwf"
 shiny = false
 note = ""
+number_override = ""
 
 [[items]]
 original = "pog_0780.png"
@@ -5969,15 +6628,15 @@ series = "bushido-green"
 backface = "uwf"
 shiny = false
 note = ""
+number_override = ""
 
 [[items]]
+original = "pog_0781.png"
+preview = "pog_0781.jpg"
 number = 781
 series = "yellow"
 backface = "default"
-preview = "missing.svg"
 shiny = false
-original = "missing.svg"
-missing = true
 note = ""
 
 [[items]]
@@ -5988,6 +6647,7 @@ series = "yellow"
 backface = "default"
 shiny = false
 note = ""
+number_override = ""
 
 [[items]]
 original = "pog_0783.png"
@@ -5997,6 +6657,7 @@ series = "yellow"
 backface = "default"
 shiny = false
 note = ""
+number_override = ""
 
 [[items]]
 original = "pog_0784.png"
@@ -6006,6 +6667,7 @@ series = "yellow"
 backface = "default"
 shiny = false
 note = ""
+number_override = ""
 
 [[items]]
 original = "pog_0785.png"
@@ -6015,15 +6677,15 @@ series = "yellow"
 backface = "default"
 shiny = false
 note = ""
+number_override = ""
 
 [[items]]
+original = "pog_0786.png"
+preview = "pog_0786.jpg"
 number = 786
 series = "yellow"
 backface = "default"
-preview = "missing.svg"
 shiny = false
-original = "missing.svg"
-missing = true
 note = ""
 
 [[items]]
@@ -6034,6 +6696,7 @@ series = "yellow"
 backface = "default"
 shiny = false
 note = ""
+number_override = ""
 
 [[items]]
 number = 788
@@ -6044,26 +6707,26 @@ shiny = false
 original = "missing.svg"
 missing = true
 note = ""
+number_override = ""
 
 [[items]]
+original = "pog_0789.png"
+preview = "pog_0789.jpg"
 number = 789
 series = "yellow"
 backface = "default"
-preview = "missing.svg"
 shiny = false
-original = "missing.svg"
-missing = true
 note = ""
 
 [[items]]
+original = "pog_0790.png"
+preview = "pog_0790.jpg"
 number = 790
 series = "yellow"
 backface = "default"
-preview = "missing.svg"
 shiny = false
-original = "missing.svg"
-missing = true
-note = ""
+note = "**הערה:** הטעות במספר המודפס הינה במקור"
+number_override = 710
 
 [[items]]
 original = "pog_0791.png"
@@ -6073,6 +6736,7 @@ series = "yellow"
 backface = "default"
 shiny = false
 note = ""
+number_override = ""
 
 [[items]]
 number = 792
@@ -6083,6 +6747,7 @@ shiny = false
 original = "missing.svg"
 missing = true
 note = ""
+number_override = ""
 
 [[items]]
 original = "pog_0793.png"
@@ -6092,6 +6757,7 @@ series = "yellow"
 backface = "default"
 shiny = false
 note = ""
+number_override = ""
 
 [[items]]
 original = "pog_0794.png"
@@ -6101,6 +6767,7 @@ series = "yellow"
 backface = "default"
 shiny = false
 note = ""
+number_override = ""
 
 [[items]]
 original = "pog_0795.png"
@@ -6110,6 +6777,7 @@ series = "yellow"
 backface = "default"
 shiny = false
 note = ""
+number_override = ""
 
 [[items]]
 original = "pog_0796.png"
@@ -6119,6 +6787,7 @@ series = "yellow"
 backface = "default"
 shiny = false
 note = ""
+number_override = ""
 
 [[items]]
 number = 797
@@ -6129,6 +6798,7 @@ shiny = false
 original = "missing.svg"
 missing = true
 note = ""
+number_override = ""
 
 [[items]]
 original = "pog_0798.png"
@@ -6138,6 +6808,7 @@ series = "yellow"
 backface = "default"
 shiny = false
 note = ""
+number_override = ""
 
 [[items]]
 original = "pog_0799.png"
@@ -6147,6 +6818,7 @@ series = "yellow"
 backface = "default"
 shiny = false
 note = ""
+number_override = ""
 
 [[items]]
 original = "pog_0800.png"
@@ -6156,6 +6828,7 @@ series = "yellow"
 backface = "default"
 shiny = false
 note = ""
+number_override = ""
 
 [[items]]
 original = "pog_0801.png"
@@ -6165,6 +6838,7 @@ series = "yellow"
 backface = "default"
 shiny = false
 note = ""
+number_override = ""
 
 [[items]]
 original = "pog_0802.png"
@@ -6174,6 +6848,7 @@ series = "yellow"
 backface = "default"
 shiny = false
 note = ""
+number_override = ""
 
 [[items]]
 original = "pog_0803.png"
@@ -6183,15 +6858,15 @@ series = "yellow"
 backface = "default"
 shiny = false
 note = ""
+number_override = ""
 
 [[items]]
+original = "pog_0804.png"
+preview = "pog_0804.jpg"
 number = 804
 series = "yellow"
 backface = "default"
-preview = "missing.svg"
 shiny = false
-original = "missing.svg"
-missing = true
 note = ""
 
 [[items]]
@@ -6202,6 +6877,7 @@ series = "yellow"
 backface = "default"
 shiny = false
 note = ""
+number_override = ""
 
 [[items]]
 original = "pog_0806.png"
@@ -6211,6 +6887,7 @@ series = "yellow"
 backface = "default"
 shiny = false
 note = ""
+number_override = ""
 
 [[items]]
 original = "pog_0807.png"
@@ -6220,15 +6897,15 @@ series = "yellow"
 backface = "default"
 shiny = false
 note = ""
+number_override = ""
 
 [[items]]
+original = "pog_0808.png"
+preview = "pog_0808.jpg"
 number = 808
 series = "yellow"
 backface = "default"
-preview = "missing.svg"
 shiny = false
-original = "missing.svg"
-missing = true
 note = ""
 
 [[items]]
@@ -6240,6 +6917,7 @@ shiny = false
 original = "missing.svg"
 missing = true
 note = ""
+number_override = ""
 
 [[items]]
 original = "pog_0810.png"
@@ -6249,6 +6927,7 @@ series = "yellow"
 backface = "default"
 shiny = false
 note = ""
+number_override = ""
 
 [[items]]
 original = "pog_0811.png"
@@ -6258,6 +6937,7 @@ series = "road-safety"
 backface = "default"
 shiny = false
 note = ""
+number_override = ""
 
 [[items]]
 original = "pog_0812.png"
@@ -6267,6 +6947,7 @@ series = "road-safety"
 backface = "default"
 shiny = false
 note = ""
+number_override = ""
 
 [[items]]
 original = "pog_0813.png"
@@ -6276,6 +6957,7 @@ series = "road-safety"
 backface = "default"
 shiny = false
 note = ""
+number_override = ""
 
 [[items]]
 original = "pog_0814.png"
@@ -6285,6 +6967,7 @@ series = "road-safety"
 backface = "default"
 shiny = false
 note = ""
+number_override = ""
 
 [[items]]
 original = "pog_0815.png"
@@ -6294,6 +6977,7 @@ series = "road-safety"
 backface = "default"
 shiny = false
 note = ""
+number_override = ""
 
 [[items]]
 original = "pog_0816.png"
@@ -6303,6 +6987,7 @@ series = "road-safety"
 backface = "default"
 shiny = false
 note = ""
+number_override = ""
 
 [[items]]
 original = "pog_0817.png"
@@ -6312,6 +6997,7 @@ series = "road-safety"
 backface = "default"
 shiny = false
 note = ""
+number_override = ""
 
 [[items]]
 original = "pog_0818.png"
@@ -6321,6 +7007,7 @@ series = "road-safety"
 backface = "default"
 shiny = false
 note = ""
+number_override = ""
 
 [[items]]
 original = "pog_0819.png"
@@ -6330,6 +7017,7 @@ series = "road-safety"
 backface = "default"
 shiny = false
 note = ""
+number_override = ""
 
 [[items]]
 original = "pog_0820.png"
@@ -6339,6 +7027,7 @@ series = "road-safety"
 backface = "default"
 shiny = false
 note = ""
+number_override = ""
 
 [[items]]
 original = "pog_0821.png"
@@ -6348,6 +7037,7 @@ series = "road-safety"
 backface = "default"
 shiny = false
 note = ""
+number_override = ""
 
 [[items]]
 original = "pog_0822.png"
@@ -6357,6 +7047,7 @@ series = "road-safety"
 backface = "default"
 shiny = false
 note = ""
+number_override = ""
 
 [[items]]
 original = "pog_0823.png"
@@ -6366,6 +7057,7 @@ series = "road-safety"
 backface = "default"
 shiny = false
 note = ""
+number_override = ""
 
 [[items]]
 original = "pog_0824.png"
@@ -6375,6 +7067,7 @@ series = "road-safety"
 backface = "default"
 shiny = false
 note = ""
+number_override = ""
 
 [[items]]
 original = "pog_0825.png"
@@ -6384,6 +7077,7 @@ series = "road-safety"
 backface = "default"
 shiny = false
 note = ""
+number_override = ""
 
 [[items]]
 original = "pog_0826.png"
@@ -6393,6 +7087,7 @@ series = "road-safety"
 backface = "default"
 shiny = false
 note = ""
+number_override = ""
 
 [[items]]
 original = "pog_0827.png"
@@ -6402,6 +7097,7 @@ series = "road-safety"
 backface = "default"
 shiny = false
 note = ""
+number_override = ""
 
 [[items]]
 series = "road-safety"
@@ -6411,6 +7107,7 @@ preview = "pog_0828.jpg"
 shiny = false
 original = "pog_0828.png"
 note = ""
+number_override = ""
 
 [[items]]
 original = "pog_0829.png"
@@ -6420,6 +7117,7 @@ series = "road-safety"
 backface = "default"
 shiny = false
 note = ""
+number_override = ""
 
 [[items]]
 original = "pog_0830.png"
@@ -6429,6 +7127,7 @@ series = "road-safety"
 backface = "default"
 shiny = false
 note = ""
+number_override = ""
 
 [[items]]
 original = "pog_0831.png"
@@ -6438,6 +7137,7 @@ series = "road-safety"
 backface = "default"
 shiny = false
 note = ""
+number_override = ""
 
 [[items]]
 original = "pog_0832.png"
@@ -6447,6 +7147,7 @@ series = "road-safety"
 backface = "default"
 shiny = false
 note = ""
+number_override = ""
 
 [[items]]
 original = "pog_0833.png"
@@ -6456,6 +7157,7 @@ series = "road-safety"
 backface = "default"
 shiny = false
 note = ""
+number_override = ""
 
 [[items]]
 original = "pog_0834.png"
@@ -6465,6 +7167,7 @@ series = "road-safety"
 backface = "default"
 shiny = false
 note = ""
+number_override = ""
 
 [[items]]
 original = "pog_0835.png"
@@ -6474,6 +7177,7 @@ series = "road-safety"
 backface = "default"
 shiny = false
 note = ""
+number_override = ""
 
 [[items]]
 series = "road-safety"
@@ -6483,6 +7187,7 @@ preview = "pog_0836.jpg"
 shiny = false
 original = "pog_0836.png"
 note = ""
+number_override = ""
 
 [[items]]
 original = "pog_0837.png"
@@ -6492,6 +7197,7 @@ series = "road-safety"
 backface = "default"
 shiny = false
 note = ""
+number_override = ""
 
 [[items]]
 original = "pog_0838.png"
@@ -6501,6 +7207,7 @@ series = "road-safety"
 backface = "default"
 shiny = false
 note = ""
+number_override = ""
 
 [[items]]
 number = 839
@@ -6511,6 +7218,7 @@ shiny = false
 original = "pog_0839.png"
 missing = false
 note = ""
+number_override = ""
 
 [[items]]
 original = "pog_0840.png"
@@ -6520,6 +7228,7 @@ series = "road-safety"
 backface = "default"
 shiny = false
 note = ""
+number_override = ""
 
 [[items]]
 original = "pog_1001.png"
@@ -6529,6 +7238,7 @@ series = "horospog"
 backface = "horospog"
 shiny = false
 note = ""
+number_override = ""
 
 [[items]]
 original = "pog_1002.png"
@@ -6538,6 +7248,7 @@ series = "horospog"
 backface = "horospog"
 shiny = false
 note = ""
+number_override = ""
 
 [[items]]
 original = "pog_1003.png"
@@ -6547,6 +7258,7 @@ series = "horospog"
 backface = "horospog"
 shiny = false
 note = ""
+number_override = ""
 
 [[items]]
 original = "pog_1004.png"
@@ -6556,6 +7268,7 @@ series = "horospog"
 backface = "horospog"
 shiny = false
 note = ""
+number_override = ""
 
 [[items]]
 original = "pog_1005.png"
@@ -6565,6 +7278,7 @@ series = "horospog"
 backface = "horospog"
 shiny = false
 note = ""
+number_override = ""
 
 [[items]]
 original = "pog_1006.png"
@@ -6574,6 +7288,7 @@ series = "horospog"
 backface = "horospog"
 shiny = false
 note = ""
+number_override = ""
 
 [[items]]
 original = "pog_1007.png"
@@ -6583,6 +7298,7 @@ series = "horospog"
 backface = "horospog"
 shiny = false
 note = ""
+number_override = ""
 
 [[items]]
 original = "pog_1008.png"
@@ -6592,6 +7308,7 @@ series = "horospog"
 backface = "horospog"
 shiny = false
 note = ""
+number_override = ""
 
 [[items]]
 original = "pog_1009.png"
@@ -6601,6 +7318,7 @@ series = "horospog"
 backface = "horospog"
 shiny = false
 note = ""
+number_override = ""
 
 [[items]]
 original = "pog_1010.png"
@@ -6610,6 +7328,7 @@ series = "horospog"
 backface = "horospog"
 shiny = false
 note = ""
+number_override = ""
 
 [[items]]
 original = "pog_1011.png"
@@ -6619,6 +7338,7 @@ series = "horospog"
 backface = "horospog"
 shiny = false
 note = ""
+number_override = ""
 
 [[items]]
 series = "horospog"
@@ -6628,6 +7348,7 @@ preview = "pog_1012.jpg"
 shiny = false
 original = "pog_1012.png"
 note = ""
+number_override = ""
 
 [[items]]
 series = "horospog"
@@ -6637,6 +7358,7 @@ preview = "pog_1013.jpg"
 shiny = false
 original = "pog_1013.png"
 note = ""
+number_override = ""
 
 [[items]]
 series = "horospog"
@@ -6646,6 +7368,7 @@ preview = "pog_1014.jpg"
 shiny = false
 original = "pog_1014.png"
 note = ""
+number_override = ""
 
 [[items]]
 series = "horospog"
@@ -6655,6 +7378,7 @@ preview = "pog_1015.jpg"
 shiny = false
 original = "pog_1015.png"
 note = ""
+number_override = ""
 
 [[items]]
 original = "pog_1016.png"
@@ -6664,6 +7388,7 @@ series = "horospog"
 backface = "horospog"
 shiny = false
 note = ""
+number_override = ""
 
 [[items]]
 original = "pog_1017.png"
@@ -6673,6 +7398,7 @@ series = "horospog"
 backface = "horospog"
 shiny = false
 note = ""
+number_override = ""
 
 [[items]]
 series = "horospog"
@@ -6682,6 +7408,7 @@ preview = "pog_1018.jpg"
 shiny = false
 original = "pog_1018.png"
 note = ""
+number_override = ""
 
 [[items]]
 series = "horospog"
@@ -6691,6 +7418,7 @@ preview = "pog_1019.jpg"
 shiny = false
 original = "pog_1019.png"
 note = ""
+number_override = ""
 
 [[items]]
 series = "horospog"
@@ -6700,6 +7428,7 @@ preview = "pog_1020.jpg"
 shiny = false
 original = "pog_1020.png"
 note = ""
+number_override = ""
 
 [[items]]
 original = "pog_1021.png"
@@ -6709,6 +7438,7 @@ series = "horospog"
 backface = "horospog"
 shiny = false
 note = ""
+number_override = ""
 
 [[items]]
 series = "horospog"
@@ -6718,6 +7448,7 @@ preview = "pog_1022.jpg"
 shiny = false
 original = "pog_1022.png"
 note = ""
+number_override = ""
 
 [[items]]
 original = "pog_1023.png"
@@ -6727,6 +7458,7 @@ series = "horospog"
 backface = "horospog"
 shiny = false
 note = ""
+number_override = ""
 
 [[items]]
 original = "pog_1024.png"
@@ -6736,6 +7468,7 @@ series = "horospog"
 backface = "horospog"
 shiny = false
 note = ""
+number_override = ""
 
 [[items]]
 original = "pog_1025.png"
@@ -6745,6 +7478,7 @@ series = "horospog"
 backface = "horospog"
 shiny = false
 note = ""
+number_override = ""
 
 [[items]]
 original = "pog_1026.png"
@@ -6754,6 +7488,7 @@ series = "horospog"
 backface = "horospog"
 shiny = false
 note = ""
+number_override = ""
 
 [[items]]
 original = "pog_1027.png"
@@ -6763,6 +7498,7 @@ series = "horospog"
 backface = "horospog"
 shiny = false
 note = ""
+number_override = ""
 
 [[items]]
 original = "pog_1028.png"
@@ -6772,6 +7508,7 @@ series = "horospog"
 backface = "horospog"
 shiny = false
 note = ""
+number_override = ""
 
 [[items]]
 original = "pog_1029.png"
@@ -6781,6 +7518,7 @@ series = "horospog"
 backface = "horospog"
 shiny = false
 note = ""
+number_override = ""
 
 [[items]]
 original = "pog_1030.png"
@@ -6790,4 +7528,5 @@ series = "horospog"
 backface = "horospog"
 shiny = false
 note = ""
+number_override = ""
 
