@@ -2,7 +2,7 @@
 <article id="intro">
   {{ partial "intro.md" . | markdownify }}
 </article>
-{{ $items := $.Site.Data.items.items }}
+{{ $items := hugo.Data.items.items }}
 <h2>באוסף ישנם {{ where $items "missing" "!=" true | len }} מתוך 720 פוגים</h2>
 <ul id="pogs"
     class="gallery">
