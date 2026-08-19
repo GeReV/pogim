@@ -1,4 +1,4 @@
-@import "normalize.css";
+@import "node_modules/normalize.css";
 
 * {
   box-sizing: border-box;
@@ -521,6 +521,14 @@ figure > figcaption > h4 {
 
 .preview .preview-downloads > a:hover {
   background-color: #bbb;
+}
+
+.preview .preview-downloads > a.preview-download-disabled {
+  opacity: 0.5;
+}
+
+.preview .preview-downloads > a.preview-download-disabled:hover {
+  background-color: #ddd;
 }
 
 .preview .preview-variants {

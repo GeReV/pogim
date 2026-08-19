@@ -1,0 +1,225 @@
+import { $, on, off, clearChildren, pushHistory } from './utils';
+
+import Backface from './backface';
+import Frontface from './frontface';
+
+import SERIES_CONVERSION from './series';
+
+export default class Preview {
+  constructor(drawer) {
+    this.drawer = drawer;
+    this.container = drawer.querySelector('.drawer-panel');
+    this.current = null;
+    this.isOpen = false;
+    this.isLoading = false;
+
+    this.currentVariantIndex = 0;
+
+    this.open = this.open.bind(this);
+    this.close = this.close.bind(this);
+    this.show = this.show.bind(this);
+    this.handleKeyUp = this.handleKeyUp.bind(this);
+    this.handleKeyDown = this.handleKeyDown.bind(this);
+
+    this.number = $('.preview-number', this.container);
+    this.details = $('.preview-details', this.container);
+    this.series = $('.preview-series', this.container);
+    this.note = $('.preview-note', this.container);
+    this.missingDetails = $('.preview-missing-details', this.container);
+    this.downloadLinkPng = $('.preview-download-png', this.container);
+    this.downloadLinkJpg = $('.preview-download-jpg', this.container);
+    this.imageContainer = $('.preview-image-container', this.container);
+    this.variantsContainer = $('.preview-variants', this.container);
+    this.variantTemplate = $('.preview-variant-template', this.container);
+
+    on(this.variantsContainer, 'click', this.handleVariantClick.bind(this));
+
+    on($('.close', this.container), 'click', this.handleCloseClick.bind(this));
+
+    on($('.overlay'), 'click', e => {
+      e.stopPropagation();
+
+      pushHistory(null);
+
+      this.close();
+    });
+  }
+
+  open() {
+    if (!this.isOpen) {
+      this.drawer.classList.remove('drawer-closed');
+
+      on(document, 'keyup', this.handleKeyUp);
+      on(document, 'keydown', this.handleKeyDown);
+    }
+
+    this.isOpen = true;
+  }
+
+  close() {
+    if (this.isOpen) {
+      this.drawer.classList.add('drawer-closed');
+
+      off(document, 'keyup', this.handleKeyUp);
+      off(document, 'keydown', this.handleKeyDown);
+    }
+
+    this.isOpen = false;
+  }
+
+  handleCloseClick(e) {
+    e.stopPropagation();
+    e.preventDefault();
+
+    pushHistory(null);
+
+    this.close();
+  }
+
+  handleVariantClick(e) {
+    const clickedVariant = e.target.closest('.preview-variant');
+
+    if (clickedVariant) {
+      this.currentVariantIndex = Array.prototype.indexOf.call(this.variantsContainer.children, clickedVariant);
+
+      this.selectVariant(this.currentVariantIndex);
+    }
+
+    e.preventDefault();
+    e.stopPropagation();
+  }
+
+  addVariants(variants) {
+    this.maxVariantIndex = variants.length - 1;
+
+    const fragment = document.createDocumentFragment();
+
+    variants.forEach(variant => {
+      const item = document.importNode(this.variantTemplate.content.firstElementChild);
+
+      item.appendChild(variant.thumbnail());
+
+      fragment.appendChild(item);
+    });
+
+    clearChildren(this.variantsContainer);
+
+    this.variantsContainer.appendChild(fragment);
+  }
+
+  selectVariant(variantIndex) {
+    const currentSelected = $('.preview-variant-selected', this.variantsContainer);
+
+    if (currentSelected) {
+      currentSelected.classList.remove('preview-variant-selected');
+    }
+
+    this.variantsContainer.children.item(variantIndex).classList.add('preview-variant-selected');
+
+    const variant = this.variants[variantIndex];
+
+    const preview = variant.show();
+
+    if (variant instanceof Frontface) {
+      this.downloadLinkJpg.classList.remove('preview-download-disabled');
+      this.downloadLinkPng.classList.remove('preview-download-disabled');
+
+      this.downloadLinkJpg.setAttribute('href', variant.item.imageSrc);
+      this.downloadLinkPng.setAttribute('href', variant.item.originalSrc);
+    } else {
+      this.downloadLinkJpg.classList.add('preview-download-disabled');
+      this.downloadLinkPng.classList.add('preview-download-disabled');
+
+      this.downloadLinkJpg.setAttribute('href', 'javascript:void(0);');
+      this.downloadLinkPng.setAttribute('href', 'javascript:void(0);');
+    }
+
+    if (this.imageContainer.childElementCount) {
+      this.imageContainer.firstElementChild.replaceWith(preview);
+    } else {
+      this.imageContainer.appendChild(preview);
+    }
+  }
+
+  handleKeyUp(evt) {
+    const prevVariantIndex = this.currentVariantIndex;
+
+    if (evt.key === 'Escape') {
+      pushHistory(null);
+
+      this.close();
+
+      return;
+    }
+
+    if (evt.key === 'ArrowDown') {
+      this.currentVariantIndex = Math.min(this.currentVariantIndex + 1, this.maxVariantIndex);
+    }
+
+    if (evt.key === 'ArrowUp') {
+      this.currentVariantIndex = Math.max(this.currentVariantIndex - 1, 0);
+    }
+
+    if (prevVariantIndex !== this.currentVariantIndex) {
+      this.selectVariant(this.currentVariantIndex);
+    }
+  }
+
+  handleKeyDown(evt) {
+    if (evt.key === 'ArrowDown' || evt.key === 'ArrowUp') {
+      evt.preventDefault();
+    }
+  }
+
+  show(item, resetSelectedVariant = false) {
+    let number = String(item.number);
+
+    if (item.missing) {
+      number += ' (חסר)';
+    }
+
+    this.number.textContent = number;
+    this.note.textContent = item.note;
+    this.series.textContent = SERIES_CONVERSION[item.series];
+
+
+    if (item.note) {
+      this.note.innerHTML = parseNote(item.note);
+
+      this.note.classList.remove('invisible', 'hidden');
+
+      this.missingDetails.classList.add('hidden');
+    } else {
+      this.note.textContent = '';
+
+      this.note.classList.add('hidden');
+
+      this.missingDetails.classList.remove('hidden');
+    }
+
+    this.missingDetails.classList.toggle('invisible', !item.missing);
+
+    this.downloadLinkPng.setAttribute('href', item.originalSrc);
+    this.downloadLinkJpg.setAttribute('href', item.imageSrc);
+
+    const frontfaces = item.frontfaces.map(f => new Frontface(f));
+
+    this.variants = [
+      ...frontfaces,
+      new Backface(item)
+    ];
+    this.addVariants(this.variants);
+
+    if (resetSelectedVariant) {
+      this.currentVariantIndex = 0;
+    }
+
+    this.selectVariant(this.currentVariantIndex);
+
+    this.open();
+  }
+}
+
+function parseNote(note) {
+  return note.replace(/\*\*(.*?)\*\*/g, '<strong>$1</strong>');
+}

@@ -36,6 +36,8 @@ def merge(files):
     for items in item_lists:
         for item in items:
             if item["number"] in number_set:
+                # TODO: Merge frontfaces arrays
+
                 # Found a duplicate number. Check if this new item is the "missing" entry. If not, replace the existing entry with this one.
                 if "missing" not in item or item["missing"] != True:
                     missing_item_index = find_index(result_list, lambda v: v["number"] == item["number"])
@@ -62,9 +64,13 @@ def merge(files):
         "number": x,
         "series": "missing",
         "backface": "default",
-        "preview": "missing.svg",
+        "frontfaces": [
+            {
+                "preview": "missing.svg",
+                "original": "missing.svg"
+            }
+        ],
         "shiny": False,
-        "original": "missing.svg",
         "note": "",
         "number_override": None,
         "missing": True,

@@ -10,8 +10,6 @@
   <li class="gallery-item">
     <a href="images/pogs/{{.original}}"
        class="pog pog-{{.series}}"
-       data-image="images/pogs/{{.preview}}"
-       data-thumbnail="images/pogs/thumbs/{{.original}}"
        data-shiny="{{.shiny}}"
        data-number="{{.number}}"
        data-series="{{.series}}"
@@ -19,8 +17,16 @@
        data-missing="{{.missing}}"
        data-note="{{.note}}"
        data-number-override="{{.number_override}}">
-      <img src="images/pogs/thumbs/{{.original}}"
-           alt="פוג {{.number}}" />
+      <picture>
+        {{ $srcset := slice }}
+        {{ range .frontfaces }}
+        {{   $s := printf "images/pogs/%s, images/pogs/%s, images/pogs/thumbs/%s 160" .preview .original .original }}
+        {{   $srcset = $srcset | append $s }}
+        {{ end }}
+        <source srcset="{{ delimit $srcset ", " }}" />
+        <img src="images/pogs/thumbs/{{ with index .frontfaces 0 }}{{ .original }}{{ end }}"
+             alt="פוג {{.number}}" />
+      </picture>
     </a>
     <span class="pog-number">
       {{.number}}
@@ -57,17 +63,20 @@
 
 {{ partial "preview.html" . }}
 
-{{ $assets := .Site.Data.webpack.main }}
-{{ if .Site.IsServer }}
-{{ with $assets.js }}
-<script src="{{ relURL . }}"
-        defer></script>
+{{ with resources.Get "js/index.js" }}
+  {{ $opts := dict
+    "minify" (cond hugo.IsDevelopment false true)
+    "sourceMap" (cond hugo.IsDevelopment "linked" "none")
+  }}
+  {{ with . | js.Build $opts }}
+    {{ if hugo.IsDevelopment }}
+      <script src="{{ .RelPermalink }}"></script>
+    {{ else }}
+      {{ with . | fingerprint }}
+        <script src="{{ .RelPermalink }}" integrity="{{ .Data.Integrity }}" crossorigin="anonymous"></script>
+      {{ end }}
+    {{ end }}
+  {{ end }}
 {{ end }}
-{{ else }}
-{{ with resources.Get $assets.js | resources.Fingerprint }}
-<script src="{{ .RelPermalink }}"
-        integrity="{{ .Data.Integrity }}"
-        defer></script>
-{{ end }}
-{{ end }}
+
 {{ end }}

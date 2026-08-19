@@ -1,6 +1,6 @@
 {
   "name": "pogim",
-  "version": "1.0.14",
+  "version": "1.0.15",
   "description": "",
   "repository": "gerev/pogim",
   "main": "index.js",
@@ -10,62 +10,24 @@
   },
   "scripts": {
     "lint": "eslint src",
-    "start": "run-p start:**",
-    "start:hugo": "hugo -vw",
-    "start:webpack": "webpack-dev-server --config webpack.dev.js",
-    "prebuild": "rimraf public/* && rimraf assets",
-    "build": "yarn build:webpack && yarn build:hugo",
-    "build:hugo": "hugo -v",
-    "build:webpack": "cross-env NODE_ENV=production NODE_OPTIONS=--openssl-legacy-provider webpack --config webpack.prod.js",
+    "start": "hugo server -w",
+    "prebuild": "rimraf public/*",
+    "build": "hugo",
     "deploy": "scripts/deploy.sh"
   },
   "author": "Amir Grozki",
   "license": "MIT",
   "devDependencies": {
-    "@babel/core": "^7.4.5",
-    "@babel/plugin-proposal-object-rest-spread": "^7.4.4",
-    "@babel/plugin-syntax-object-rest-spread": "^7.2.0",
-    "@babel/plugin-transform-async-to-generator": "^7.4.4",
-    "@babel/plugin-transform-runtime": "^7.4.4",
-    "@babel/preset-env": "^7.4.5",
-    "@babel/register": "^7.4.4",
-    "assets-webpack-plugin": "^3.9.10",
-    "babel-eslint": "^10.0.1",
-    "babel-loader": "^8.0.6",
-    "clean-webpack-plugin": "^3.0.0",
-    "copy-webpack-plugin": "^5.0.3",
-    "cross-env": "^7.0.0",
-    "css-loader": "^3.0.0",
+    "cross-env": "^10.1.0",
     "eslint": "^6.8.0",
     "eslint-plugin-import": "^2.17.3",
-    "exports-loader": "^0.7.0",
-    "fancy-log": "^1.3.3",
-    "file-loader": "^5.0.2",
-    "hugo-bin": "^0.63.1",
-    "imports-loader": "^0.8.0",
-    "mini-css-extract-plugin": "^0.9.0",
-    "npm-run-all": "^4.1.5",
-    "optimize-css-assets-webpack-plugin": "^5.0.1",
-    "plugin-error": "^1.0.1",
-    "postcss-import": "^12.0.1",
-    "postcss-loader": "^3.0.0",
-    "postcss-preset-env": "^6.6.0",
-    "rimraf": "^3.0.1",
-    "sass": "^1.32.8",
-    "sass-loader": "^10.4.1",
-    "style-loader": "^1.1.3",
-    "terser-webpack-plugin": "^2.3.4",
-    "url-loader": "^3.0.0",
-    "webpack": "^4.34.0",
-    "webpack-cli": "^3.3.4",
-    "webpack-dev-server": "^3.7.1",
-    "webpack-merge": "^4.2.1"
-  },
-  "resolutions": {
-    "natives": "1.1.6"
+    "hugo-bin": "^0.162.0",
+    "rimraf": "^6.1.3"
   },
   "dependencies": {
-    "@babel/runtime": "^7.4.5",
     "normalize.css": "^8.0.1"
+  },
+  "hugo-bin": {
+    "buildTags": "extended"
   }
 }

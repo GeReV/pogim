@@ -1,5 +1,3 @@
-import "./css/default.css";
-
 import { $, on, trackPageView } from './utils';
 
 import Preview from './preview';

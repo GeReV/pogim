@@ -7,6 +7,10 @@ shiny = false
 original = "pog_0001.png"
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0001.jpg"
+original = "pog_0001.png"
+
 
 [[items]]
 series = "red"
@@ -17,6 +21,10 @@ shiny = false
 original = "pog_0002.png"
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0002.jpg"
+original = "pog_0002.png"
+
 
 [[items]]
 series = "red"
@@ -27,6 +35,10 @@ shiny = false
 original = "pog_0003.png"
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0003.jpg"
+original = "pog_0003.png"
+
 
 [[items]]
 series = "red"
@@ -37,6 +49,10 @@ shiny = false
 original = "pog_0004.png"
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0004.jpg"
+original = "pog_0004.png"
+
 
 [[items]]
 series = "red"
@@ -47,6 +63,10 @@ shiny = false
 original = "pog_0005.png"
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0005.jpg"
+original = "pog_0005.png"
+
 
 [[items]]
 series = "red"
@@ -57,6 +77,10 @@ shiny = false
 original = "pog_0006.png"
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0006.jpg"
+original = "pog_0006.png"
+
 
 [[items]]
 series = "red"
@@ -67,6 +91,10 @@ shiny = false
 original = "pog_0007.png"
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0007.jpg"
+original = "pog_0007.png"
+
 
 [[items]]
 series = "red"
@@ -77,6 +105,10 @@ shiny = false
 original = "pog_0008.png"
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0008.jpg"
+original = "pog_0008.png"
+
 
 [[items]]
 series = "red"
@@ -87,6 +119,10 @@ shiny = false
 original = "pog_0009.png"
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0009.jpg"
+original = "pog_0009.png"
+
 
 [[items]]
 series = "red"
@@ -97,6 +133,10 @@ shiny = false
 original = "pog_0010.png"
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0010.jpg"
+original = "pog_0010.png"
+
 
 [[items]]
 series = "red"
@@ -107,6 +147,10 @@ shiny = false
 original = "pog_0011.png"
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0011.jpg"
+original = "pog_0011.png"
+
 
 [[items]]
 series = "red"
@@ -117,6 +161,10 @@ shiny = false
 original = "pog_0012.png"
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0012.jpg"
+original = "pog_0012.png"
+
 
 [[items]]
 series = "red"
@@ -127,6 +175,10 @@ shiny = false
 original = "pog_0013.png"
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0013.jpg"
+original = "pog_0013.png"
+
 
 [[items]]
 series = "red"
@@ -137,6 +189,10 @@ shiny = false
 original = "pog_0014.png"
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0014.jpg"
+original = "pog_0014.png"
+
 
 [[items]]
 series = "red"
@@ -147,6 +203,10 @@ shiny = false
 original = "pog_0015.png"
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0015.jpg"
+original = "pog_0015.png"
+
 
 [[items]]
 series = "red"
@@ -157,6 +217,10 @@ shiny = false
 original = "pog_0016.png"
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0016.jpg"
+original = "pog_0016.png"
+
 
 [[items]]
 series = "red"
@@ -167,6 +231,10 @@ shiny = false
 original = "pog_0017.png"
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0017.jpg"
+original = "pog_0017.png"
+
 
 [[items]]
 series = "red"
@@ -177,6 +245,10 @@ shiny = false
 original = "pog_0018.png"
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0018.jpg"
+original = "pog_0018.png"
+
 
 [[items]]
 series = "red"
@@ -187,6 +259,10 @@ shiny = true
 original = "pog_0019.png"
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0019.jpg"
+original = "pog_0019.png"
+
 
 [[items]]
 series = "red"
@@ -197,6 +273,10 @@ shiny = false
 original = "pog_0020.png"
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0020.jpg"
+original = "pog_0020.png"
+
 
 [[items]]
 series = "red"
@@ -207,6 +287,10 @@ shiny = false
 original = "pog_0021.png"
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0021.jpg"
+original = "pog_0021.png"
+
 
 [[items]]
 series = "red"
@@ -217,6 +301,10 @@ shiny = false
 original = "pog_0022.png"
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0022.jpg"
+original = "pog_0022.png"
+
 
 [[items]]
 series = "red"
@@ -227,6 +315,10 @@ shiny = false
 original = "pog_0023.png"
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0023.jpg"
+original = "pog_0023.png"
+
 
 [[items]]
 series = "red"
@@ -237,6 +329,10 @@ shiny = false
 original = "pog_0024.png"
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0024.jpg"
+original = "pog_0024.png"
+
 
 [[items]]
 series = "red"
@@ -247,6 +343,10 @@ shiny = false
 original = "pog_0025.png"
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0025.jpg"
+original = "pog_0025.png"
+
 
 [[items]]
 series = "red"
@@ -257,6 +357,10 @@ shiny = false
 original = "pog_0026.png"
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0026.jpg"
+original = "pog_0026.png"
+
 
 [[items]]
 series = "red"
@@ -267,6 +371,10 @@ shiny = false
 original = "pog_0027.png"
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0027.jpg"
+original = "pog_0027.png"
+
 
 [[items]]
 series = "red"
@@ -277,6 +385,10 @@ shiny = true
 original = "pog_0028.png"
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0028.jpg"
+original = "pog_0028.png"
+
 
 [[items]]
 series = "red"
@@ -287,6 +399,10 @@ shiny = true
 original = "pog_0029.png"
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0029.jpg"
+original = "pog_0029.png"
+
 
 [[items]]
 series = "red"
@@ -297,6 +413,10 @@ shiny = true
 original = "pog_0030.png"
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0030.jpg"
+original = "pog_0030.png"
+
 
 [[items]]
 series = "green"
@@ -307,6 +427,10 @@ shiny = false
 original = "pog_0031.png"
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0031.jpg"
+original = "pog_0031.png"
+
 
 [[items]]
 series = "green"
@@ -317,6 +441,10 @@ shiny = false
 original = "pog_0032.png"
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0032.jpg"
+original = "pog_0032.png"
+
 
 [[items]]
 series = "green"
@@ -327,6 +455,10 @@ shiny = false
 original = "pog_0033.png"
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0033.jpg"
+original = "pog_0033.png"
+
 
 [[items]]
 series = "green"
@@ -337,6 +469,10 @@ shiny = false
 original = "pog_0034.png"
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0034.jpg"
+original = "pog_0034.png"
+
 
 [[items]]
 series = "green"
@@ -347,6 +483,10 @@ shiny = false
 original = "pog_0035.png"
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0035.jpg"
+original = "pog_0035.png"
+
 
 [[items]]
 series = "green"
@@ -357,6 +497,10 @@ shiny = false
 original = "pog_0036.png"
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0036.jpg"
+original = "pog_0036.png"
+
 
 [[items]]
 series = "green"
@@ -367,6 +511,10 @@ shiny = false
 original = "pog_0037.png"
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0037.jpg"
+original = "pog_0037.png"
+
 
 [[items]]
 series = "green"
@@ -377,6 +525,10 @@ shiny = false
 original = "pog_0038.png"
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0038.jpg"
+original = "pog_0038.png"
+
 
 [[items]]
 series = "green"
@@ -387,6 +539,10 @@ shiny = false
 original = "pog_0039.png"
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0039.jpg"
+original = "pog_0039.png"
+
 
 [[items]]
 series = "green"
@@ -397,6 +553,10 @@ shiny = false
 original = "pog_0040.png"
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0040.jpg"
+original = "pog_0040.png"
+
 
 [[items]]
 series = "green"
@@ -407,6 +567,10 @@ shiny = false
 original = "pog_0041.png"
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0041.jpg"
+original = "pog_0041.png"
+
 
 [[items]]
 series = "green"
@@ -417,6 +581,10 @@ shiny = false
 original = "pog_0042.png"
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0042.jpg"
+original = "pog_0042.png"
+
 
 [[items]]
 series = "green"
@@ -427,6 +595,10 @@ shiny = false
 original = "pog_0043.png"
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0043.jpg"
+original = "pog_0043.png"
+
 
 [[items]]
 series = "green"
@@ -437,6 +609,10 @@ shiny = false
 original = "pog_0044.png"
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0044.jpg"
+original = "pog_0044.png"
+
 
 [[items]]
 series = "green"
@@ -447,6 +623,10 @@ shiny = false
 original = "pog_0045.png"
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0045.jpg"
+original = "pog_0045.png"
+
 
 [[items]]
 series = "green"
@@ -457,6 +637,10 @@ shiny = false
 original = "pog_0046.png"
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0046.jpg"
+original = "pog_0046.png"
+
 
 [[items]]
 series = "green"
@@ -467,6 +651,10 @@ shiny = false
 original = "pog_0047.png"
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0047.jpg"
+original = "pog_0047.png"
+
 
 [[items]]
 series = "green"
@@ -477,6 +665,10 @@ shiny = false
 original = "pog_0048.png"
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0048.jpg"
+original = "pog_0048.png"
+
 
 [[items]]
 series = "green"
@@ -487,6 +679,10 @@ shiny = false
 original = "pog_0049.png"
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0049.jpg"
+original = "pog_0049.png"
+
 
 [[items]]
 series = "green"
@@ -497,6 +693,10 @@ shiny = false
 original = "pog_0050.png"
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0050.jpg"
+original = "pog_0050.png"
+
 
 [[items]]
 series = "green"
@@ -507,6 +707,10 @@ shiny = false
 original = "pog_0051.png"
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0051.jpg"
+original = "pog_0051.png"
+
 
 [[items]]
 series = "green"
@@ -517,6 +721,10 @@ shiny = false
 original = "pog_0052.png"
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0052.jpg"
+original = "pog_0052.png"
+
 
 [[items]]
 series = "green"
@@ -527,6 +735,10 @@ shiny = false
 original = "pog_0053.png"
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0053.jpg"
+original = "pog_0053.png"
+
 
 [[items]]
 series = "green"
@@ -537,6 +749,10 @@ shiny = false
 original = "pog_0054.png"
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0054.jpg"
+original = "pog_0054.png"
+
 
 [[items]]
 series = "green"
@@ -547,6 +763,10 @@ shiny = false
 original = "pog_0055.png"
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0055.jpg"
+original = "pog_0055.png"
+
 
 [[items]]
 series = "green"
@@ -557,6 +777,10 @@ shiny = false
 original = "pog_0056.png"
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0056.jpg"
+original = "pog_0056.png"
+
 
 [[items]]
 series = "green"
@@ -567,6 +791,10 @@ shiny = true
 original = "pog_0057.png"
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0057.jpg"
+original = "pog_0057.png"
+
 
 [[items]]
 series = "green"
@@ -577,6 +805,10 @@ shiny = true
 original = "pog_0058.png"
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0058.jpg"
+original = "pog_0058.png"
+
 
 [[items]]
 series = "green"
@@ -587,6 +819,10 @@ shiny = true
 original = "pog_0059.png"
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0059.jpg"
+original = "pog_0059.png"
+
 
 [[items]]
 series = "green"
@@ -597,6 +833,10 @@ shiny = false
 original = "pog_0060.png"
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0060.jpg"
+original = "pog_0060.png"
+
 
 [[items]]
 series = "blue"
@@ -607,6 +847,10 @@ shiny = false
 original = "pog_0061.png"
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0061.jpg"
+original = "pog_0061.png"
+
 
 [[items]]
 series = "blue"
@@ -617,6 +861,10 @@ shiny = false
 original = "pog_0062.png"
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0062.jpg"
+original = "pog_0062.png"
+
 
 [[items]]
 series = "blue"
@@ -627,6 +875,10 @@ shiny = false
 original = "pog_0063.png"
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0063.jpg"
+original = "pog_0063.png"
+
 
 [[items]]
 series = "blue"
@@ -637,6 +889,10 @@ shiny = false
 original = "pog_0064.png"
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0064.jpg"
+original = "pog_0064.png"
+
 
 [[items]]
 series = "blue"
@@ -647,6 +903,10 @@ shiny = false
 original = "pog_0065.png"
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0065.jpg"
+original = "pog_0065.png"
+
 
 [[items]]
 series = "blue"
@@ -657,6 +917,10 @@ shiny = false
 original = "pog_0066.png"
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0066.jpg"
+original = "pog_0066.png"
+
 
 [[items]]
 series = "blue"
@@ -667,6 +931,10 @@ shiny = false
 original = "pog_0067.png"
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0067.jpg"
+original = "pog_0067.png"
+
 
 [[items]]
 series = "blue"
@@ -677,6 +945,10 @@ shiny = false
 original = "pog_0068.png"
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0068.jpg"
+original = "pog_0068.png"
+
 
 [[items]]
 series = "blue"
@@ -687,6 +959,10 @@ shiny = false
 original = "pog_0069.png"
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0069.jpg"
+original = "pog_0069.png"
+
 
 [[items]]
 series = "blue"
@@ -697,6 +973,10 @@ shiny = false
 original = "pog_0070.png"
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0070.jpg"
+original = "pog_0070.png"
+
 
 [[items]]
 series = "blue"
@@ -707,6 +987,10 @@ shiny = false
 original = "pog_0071.png"
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0071.jpg"
+original = "pog_0071.png"
+
 
 [[items]]
 series = "blue"
@@ -717,6 +1001,10 @@ shiny = false
 original = "pog_0072.png"
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0072.jpg"
+original = "pog_0072.png"
+
 
 [[items]]
 series = "blue"
@@ -727,6 +1015,10 @@ shiny = false
 original = "pog_0073.png"
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0073.jpg"
+original = "pog_0073.png"
+
 
 [[items]]
 series = "blue"
@@ -737,6 +1029,10 @@ shiny = false
 original = "pog_0074.png"
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0074.jpg"
+original = "pog_0074.png"
+
 
 [[items]]
 series = "blue"
@@ -747,6 +1043,10 @@ shiny = false
 original = "pog_0075.png"
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0075.jpg"
+original = "pog_0075.png"
+
 
 [[items]]
 series = "blue"
@@ -757,6 +1057,10 @@ shiny = false
 original = "pog_0076.png"
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0076.jpg"
+original = "pog_0076.png"
+
 
 [[items]]
 series = "blue"
@@ -767,6 +1071,10 @@ shiny = false
 original = "pog_0077.png"
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0077.jpg"
+original = "pog_0077.png"
+
 
 [[items]]
 series = "blue"
@@ -777,6 +1085,10 @@ shiny = false
 original = "pog_0078.png"
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0078.jpg"
+original = "pog_0078.png"
+
 
 [[items]]
 series = "blue"
@@ -787,6 +1099,10 @@ shiny = false
 original = "pog_0079.png"
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0079.jpg"
+original = "pog_0079.png"
+
 
 [[items]]
 series = "blue"
@@ -797,6 +1113,10 @@ shiny = false
 original = "pog_0080.png"
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0080.jpg"
+original = "pog_0080.png"
+
 
 [[items]]
 series = "blue"
@@ -807,6 +1127,10 @@ shiny = false
 original = "pog_0081.png"
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0081.jpg"
+original = "pog_0081.png"
+
 
 [[items]]
 series = "blue"
@@ -817,6 +1141,10 @@ shiny = false
 original = "pog_0082.png"
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0082.jpg"
+original = "pog_0082.png"
+
 
 [[items]]
 series = "blue"
@@ -827,6 +1155,10 @@ shiny = false
 original = "pog_0083.png"
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0083.jpg"
+original = "pog_0083.png"
+
 
 [[items]]
 series = "blue"
@@ -837,6 +1169,10 @@ shiny = false
 original = "pog_0084.png"
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0084.jpg"
+original = "pog_0084.png"
+
 
 [[items]]
 series = "blue"
@@ -847,6 +1183,10 @@ shiny = false
 original = "pog_0085.png"
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0085.jpg"
+original = "pog_0085.png"
+
 
 [[items]]
 series = "blue"
@@ -857,6 +1197,10 @@ shiny = false
 original = "pog_0086.png"
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0086.jpg"
+original = "pog_0086.png"
+
 
 [[items]]
 series = "blue"
@@ -867,6 +1211,10 @@ shiny = false
 original = "pog_0087.png"
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0087.jpg"
+original = "pog_0087.png"
+
 
 [[items]]
 series = "blue"
@@ -877,6 +1225,10 @@ shiny = true
 original = "pog_0088.png"
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0088.jpg"
+original = "pog_0088.png"
+
 
 [[items]]
 series = "blue"
@@ -887,6 +1239,10 @@ shiny = true
 original = "pog_0089.png"
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0089.jpg"
+original = "pog_0089.png"
+
 
 [[items]]
 series = "blue"
@@ -897,6 +1253,10 @@ shiny = true
 original = "pog_0090.png"
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0090.jpg"
+original = "pog_0090.png"
+
 
 [[items]]
 series = "purple"
@@ -907,6 +1267,10 @@ shiny = false
 original = "pog_0091.png"
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0091.jpg"
+original = "pog_0091.png"
+
 
 [[items]]
 series = "purple"
@@ -917,6 +1281,10 @@ shiny = false
 original = "pog_0092.png"
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0092.jpg"
+original = "pog_0092.png"
+
 
 [[items]]
 series = "purple"
@@ -927,6 +1295,10 @@ shiny = false
 original = "pog_0093.png"
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0093.jpg"
+original = "pog_0093.png"
+
 
 [[items]]
 series = "purple"
@@ -937,6 +1309,10 @@ shiny = false
 original = "pog_0094.png"
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0094.jpg"
+original = "pog_0094.png"
+
 
 [[items]]
 series = "purple"
@@ -947,6 +1323,10 @@ shiny = false
 original = "pog_0095.png"
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0095.jpg"
+original = "pog_0095.png"
+
 
 [[items]]
 series = "purple"
@@ -957,6 +1337,10 @@ shiny = false
 original = "pog_0096.png"
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0096.jpg"
+original = "pog_0096.png"
+
 
 [[items]]
 series = "purple"
@@ -967,6 +1351,10 @@ shiny = false
 original = "pog_0097.png"
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0097.jpg"
+original = "pog_0097.png"
+
 
 [[items]]
 series = "purple"
@@ -977,6 +1365,10 @@ shiny = false
 original = "pog_0098.png"
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0098.jpg"
+original = "pog_0098.png"
+
 
 [[items]]
 series = "purple"
@@ -987,6 +1379,10 @@ shiny = false
 original = "pog_0099.png"
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0099.jpg"
+original = "pog_0099.png"
+
 
 [[items]]
 series = "purple"
@@ -997,6 +1393,10 @@ shiny = false
 original = "pog_0100.png"
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0100.jpg"
+original = "pog_0100.png"
+
 
 [[items]]
 series = "purple"
@@ -1007,6 +1407,10 @@ shiny = false
 original = "pog_0101.png"
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0101.jpg"
+original = "pog_0101.png"
+
 
 [[items]]
 series = "purple"
@@ -1017,6 +1421,10 @@ shiny = false
 original = "pog_0102.png"
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0102.jpg"
+original = "pog_0102.png"
+
 
 [[items]]
 series = "purple"
@@ -1027,6 +1435,10 @@ shiny = false
 original = "pog_0103.png"
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0103.jpg"
+original = "pog_0103.png"
+
 
 [[items]]
 series = "purple"
@@ -1037,6 +1449,10 @@ shiny = false
 original = "pog_0104.png"
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0104.jpg"
+original = "pog_0104.png"
+
 
 [[items]]
 series = "purple"
@@ -1047,6 +1463,10 @@ shiny = false
 original = "pog_0105.png"
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0105.jpg"
+original = "pog_0105.png"
+
 
 [[items]]
 series = "purple"
@@ -1057,6 +1477,10 @@ shiny = false
 original = "pog_0106.png"
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0106.jpg"
+original = "pog_0106.png"
+
 
 [[items]]
 series = "purple"
@@ -1067,6 +1491,10 @@ shiny = false
 original = "pog_0107.png"
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0107.jpg"
+original = "pog_0107.png"
+
 
 [[items]]
 series = "purple"
@@ -1077,6 +1505,10 @@ shiny = false
 original = "pog_0108.png"
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0108.jpg"
+original = "pog_0108.png"
+
 
 [[items]]
 series = "purple"
@@ -1087,6 +1519,10 @@ shiny = false
 original = "pog_0109.png"
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0109.jpg"
+original = "pog_0109.png"
+
 
 [[items]]
 series = "purple"
@@ -1097,6 +1533,10 @@ shiny = false
 original = "pog_0110.png"
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0110.jpg"
+original = "pog_0110.png"
+
 
 [[items]]
 series = "purple"
@@ -1107,6 +1547,10 @@ shiny = false
 original = "pog_0111.png"
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0111.jpg"
+original = "pog_0111.png"
+
 
 [[items]]
 series = "purple"
@@ -1117,6 +1561,10 @@ shiny = false
 original = "pog_0112.png"
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0112.jpg"
+original = "pog_0112.png"
+
 
 [[items]]
 series = "purple"
@@ -1127,6 +1575,10 @@ shiny = false
 original = "pog_0113.png"
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0113.jpg"
+original = "pog_0113.png"
+
 
 [[items]]
 series = "purple"
@@ -1137,6 +1589,10 @@ shiny = false
 original = "pog_0114.png"
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0114.jpg"
+original = "pog_0114.png"
+
 
 [[items]]
 series = "purple"
@@ -1147,6 +1603,10 @@ shiny = false
 original = "pog_0115.png"
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0115.jpg"
+original = "pog_0115.png"
+
 
 [[items]]
 series = "purple"
@@ -1157,6 +1617,10 @@ shiny = false
 original = "pog_0116.png"
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0116.jpg"
+original = "pog_0116.png"
+
 
 [[items]]
 series = "purple"
@@ -1167,6 +1631,10 @@ shiny = true
 original = "pog_0117.png"
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0117.jpg"
+original = "pog_0117.png"
+
 
 [[items]]
 series = "purple"
@@ -1177,6 +1645,10 @@ shiny = true
 original = "pog_0118.png"
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0118.jpg"
+original = "pog_0118.png"
+
 
 [[items]]
 series = "purple"
@@ -1187,6 +1659,10 @@ shiny = true
 original = "pog_0119.png"
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0119.jpg"
+original = "pog_0119.png"
+
 
 [[items]]
 series = "purple"
@@ -1197,6 +1673,10 @@ shiny = true
 original = "pog_0120.png"
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0120.jpg"
+original = "pog_0120.png"
+
 
 [[items]]
 series = "orange"
@@ -1207,6 +1687,10 @@ shiny = true
 original = "pog_0121.png"
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0121.jpg"
+original = "pog_0121.png"
+
 
 [[items]]
 series = "orange"
@@ -1217,6 +1701,10 @@ shiny = true
 original = "pog_0122.png"
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0122.jpg"
+original = "pog_0122.png"
+
 
 [[items]]
 series = "orange"
@@ -1227,6 +1715,10 @@ shiny = true
 original = "pog_0123.png"
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0123.jpg"
+original = "pog_0123.png"
+
 
 [[items]]
 series = "orange"
@@ -1237,6 +1729,10 @@ shiny = true
 original = "pog_0124.png"
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0124.jpg"
+original = "pog_0124.png"
+
 
 [[items]]
 series = "orange"
@@ -1247,6 +1743,10 @@ shiny = false
 original = "pog_0125.png"
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0125.jpg"
+original = "pog_0125.png"
+
 
 [[items]]
 series = "orange"
@@ -1257,6 +1757,10 @@ shiny = false
 original = "pog_0126.png"
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0126.jpg"
+original = "pog_0126.png"
+
 
 [[items]]
 series = "orange"
@@ -1267,6 +1771,10 @@ shiny = false
 original = "pog_0127.png"
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0127.jpg"
+original = "pog_0127.png"
+
 
 [[items]]
 series = "orange"
@@ -1277,6 +1785,10 @@ shiny = false
 original = "pog_0128.png"
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0128.jpg"
+original = "pog_0128.png"
+
 
 [[items]]
 series = "orange"
@@ -1287,6 +1799,10 @@ shiny = false
 original = "pog_0129.png"
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0129.jpg"
+original = "pog_0129.png"
+
 
 [[items]]
 series = "orange"
@@ -1297,6 +1813,10 @@ shiny = false
 original = "pog_0130.png"
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0130.jpg"
+original = "pog_0130.png"
+
 
 [[items]]
 series = "orange"
@@ -1307,6 +1827,10 @@ shiny = false
 original = "pog_0131.png"
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0131.jpg"
+original = "pog_0131.png"
+
 
 [[items]]
 series = "orange"
@@ -1317,6 +1841,10 @@ shiny = false
 original = "pog_0132.png"
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0132.jpg"
+original = "pog_0132.png"
+
 
 [[items]]
 series = "orange"
@@ -1327,6 +1855,10 @@ shiny = false
 original = "pog_0133.png"
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0133.jpg"
+original = "pog_0133.png"
+
 
 [[items]]
 series = "orange"
@@ -1337,6 +1869,10 @@ shiny = false
 original = "pog_0134.png"
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0134.jpg"
+original = "pog_0134.png"
+
 
 [[items]]
 series = "orange"
@@ -1347,6 +1883,10 @@ shiny = false
 original = "pog_0135.png"
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0135.jpg"
+original = "pog_0135.png"
+
 
 [[items]]
 series = "orange"
@@ -1357,6 +1897,10 @@ shiny = false
 original = "pog_0136.png"
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0136.jpg"
+original = "pog_0136.png"
+
 
 [[items]]
 series = "orange"
@@ -1367,6 +1911,10 @@ shiny = false
 original = "pog_0137.png"
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0137.jpg"
+original = "pog_0137.png"
+
 
 [[items]]
 series = "orange"
@@ -1377,6 +1925,10 @@ shiny = false
 original = "pog_0138.png"
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0138.jpg"
+original = "pog_0138.png"
+
 
 [[items]]
 series = "orange"
@@ -1387,6 +1939,10 @@ shiny = false
 original = "pog_0139.png"
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0139.jpg"
+original = "pog_0139.png"
+
 
 [[items]]
 series = "orange"
@@ -1397,6 +1953,10 @@ shiny = false
 original = "pog_0140.png"
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0140.jpg"
+original = "pog_0140.png"
+
 
 [[items]]
 series = "orange"
@@ -1407,6 +1967,10 @@ shiny = false
 original = "pog_0141.png"
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0141.jpg"
+original = "pog_0141.png"
+
 
 [[items]]
 series = "orange"
@@ -1417,6 +1981,10 @@ shiny = false
 original = "pog_0142.png"
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0142.jpg"
+original = "pog_0142.png"
+
 
 [[items]]
 series = "orange"
@@ -1427,6 +1995,10 @@ shiny = false
 original = "pog_0143.png"
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0143.jpg"
+original = "pog_0143.png"
+
 
 [[items]]
 series = "orange"
@@ -1437,6 +2009,10 @@ shiny = false
 original = "pog_0144.png"
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0144.jpg"
+original = "pog_0144.png"
+
 
 [[items]]
 series = "orange"
@@ -1447,6 +2023,10 @@ shiny = false
 original = "pog_0145.png"
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0145.jpg"
+original = "pog_0145.png"
+
 
 [[items]]
 series = "orange"
@@ -1457,6 +2037,10 @@ shiny = false
 original = "pog_0146.png"
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0146.jpg"
+original = "pog_0146.png"
+
 
 [[items]]
 series = "orange"
@@ -1467,6 +2051,10 @@ shiny = false
 original = "pog_0147.png"
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0147.jpg"
+original = "pog_0147.png"
+
 
 [[items]]
 series = "orange"
@@ -1477,6 +2065,10 @@ shiny = false
 original = "pog_0148.png"
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0148.jpg"
+original = "pog_0148.png"
+
 
 [[items]]
 series = "orange"
@@ -1487,6 +2079,10 @@ shiny = false
 original = "pog_0149.png"
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0149.jpg"
+original = "pog_0149.png"
+
 
 [[items]]
 series = "orange"
@@ -1497,6 +2093,10 @@ shiny = false
 original = "pog_0150.png"
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0150.jpg"
+original = "pog_0150.png"
+
 
 [[items]]
 series = "pink"
@@ -1507,6 +2107,10 @@ shiny = true
 original = "pog_0151.png"
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0151.jpg"
+original = "pog_0151.png"
+
 
 [[items]]
 series = "pink"
@@ -1517,6 +2121,10 @@ shiny = true
 original = "pog_0152.png"
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0152.jpg"
+original = "pog_0152.png"
+
 
 [[items]]
 series = "pink"
@@ -1527,6 +2135,10 @@ shiny = true
 original = "pog_0153.png"
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0153.jpg"
+original = "pog_0153.png"
+
 
 [[items]]
 series = "pink"
@@ -1537,6 +2149,10 @@ shiny = true
 original = "pog_0154.png"
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0154.jpg"
+original = "pog_0154.png"
+
 
 [[items]]
 series = "pink"
@@ -1547,6 +2163,10 @@ shiny = false
 original = "pog_0155.png"
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0155.jpg"
+original = "pog_0155.png"
+
 
 [[items]]
 series = "pink"
@@ -1557,6 +2177,10 @@ shiny = false
 original = "pog_0156.png"
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0156.jpg"
+original = "pog_0156.png"
+
 
 [[items]]
 series = "pink"
@@ -1567,6 +2191,10 @@ shiny = false
 original = "pog_0157.png"
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0157.jpg"
+original = "pog_0157.png"
+
 
 [[items]]
 series = "pink"
@@ -1577,6 +2205,10 @@ shiny = false
 original = "pog_0158.png"
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0158.jpg"
+original = "pog_0158.png"
+
 
 [[items]]
 series = "pink"
@@ -1587,6 +2219,10 @@ shiny = false
 original = "pog_0159.png"
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0159.jpg"
+original = "pog_0159.png"
+
 
 [[items]]
 series = "pink"
@@ -1597,6 +2233,10 @@ shiny = false
 original = "pog_0160.png"
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0160.jpg"
+original = "pog_0160.png"
+
 
 [[items]]
 series = "pink"
@@ -1607,6 +2247,10 @@ shiny = false
 original = "pog_0161.png"
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0161.jpg"
+original = "pog_0161.png"
+
 
 [[items]]
 series = "pink"
@@ -1617,6 +2261,10 @@ shiny = false
 original = "pog_0162.png"
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0162.jpg"
+original = "pog_0162.png"
+
 
 [[items]]
 series = "pink"
@@ -1627,6 +2275,10 @@ shiny = false
 original = "pog_0163.png"
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0163.jpg"
+original = "pog_0163.png"
+
 
 [[items]]
 series = "pink"
@@ -1637,6 +2289,10 @@ shiny = false
 original = "pog_0164.png"
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0164.jpg"
+original = "pog_0164.png"
+
 
 [[items]]
 series = "pink"
@@ -1647,6 +2303,10 @@ shiny = false
 original = "pog_0165.png"
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0165.jpg"
+original = "pog_0165.png"
+
 
 [[items]]
 series = "pink"
@@ -1657,6 +2317,10 @@ shiny = false
 original = "pog_0166.png"
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0166.jpg"
+original = "pog_0166.png"
+
 
 [[items]]
 series = "pink"
@@ -1667,6 +2331,10 @@ shiny = false
 original = "pog_0167.png"
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0167.jpg"
+original = "pog_0167.png"
+
 
 [[items]]
 series = "pink"
@@ -1677,6 +2345,10 @@ shiny = false
 original = "pog_0168.png"
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0168.jpg"
+original = "pog_0168.png"
+
 
 [[items]]
 series = "pink"
@@ -1687,6 +2359,10 @@ shiny = false
 original = "pog_0169.png"
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0169.jpg"
+original = "pog_0169.png"
+
 
 [[items]]
 series = "pink"
@@ -1697,6 +2373,10 @@ shiny = false
 original = "pog_0170.png"
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0170.jpg"
+original = "pog_0170.png"
+
 
 [[items]]
 series = "pink"
@@ -1707,6 +2387,10 @@ shiny = false
 original = "pog_0171.png"
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0171.jpg"
+original = "pog_0171.png"
+
 
 [[items]]
 series = "pink"
@@ -1717,6 +2401,10 @@ shiny = false
 original = "pog_0172.png"
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0172.jpg"
+original = "pog_0172.png"
+
 
 [[items]]
 series = "pink"
@@ -1727,6 +2415,10 @@ shiny = false
 original = "pog_0173.png"
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0173.jpg"
+original = "pog_0173.png"
+
 
 [[items]]
 series = "pink"
@@ -1737,6 +2429,10 @@ shiny = false
 original = "pog_0174.png"
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0174.jpg"
+original = "pog_0174.png"
+
 
 [[items]]
 series = "pink"
@@ -1747,6 +2443,10 @@ shiny = false
 original = "pog_0175.png"
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0175.jpg"
+original = "pog_0175.png"
+
 
 [[items]]
 series = "pink"
@@ -1757,6 +2457,10 @@ shiny = false
 original = "pog_0176.png"
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0176.jpg"
+original = "pog_0176.png"
+
 
 [[items]]
 series = "pink"
@@ -1767,6 +2471,10 @@ shiny = false
 original = "pog_0177.png"
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0177.jpg"
+original = "pog_0177.png"
+
 
 [[items]]
 series = "pink"
@@ -1777,6 +2485,10 @@ shiny = false
 original = "pog_0178.png"
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0178.jpg"
+original = "pog_0178.png"
+
 
 [[items]]
 series = "pink"
@@ -1787,6 +2499,10 @@ shiny = false
 original = "pog_0179.png"
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0179.jpg"
+original = "pog_0179.png"
+
 
 [[items]]
 series = "pink"
@@ -1797,6 +2513,10 @@ shiny = false
 original = "pog_0180.png"
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0180.jpg"
+original = "pog_0180.png"
+
 
 [[items]]
 series = "poalim"
@@ -1807,6 +2527,10 @@ shiny = false
 original = "pog_0181.png"
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0181.jpg"
+original = "pog_0181.png"
+
 
 [[items]]
 series = "poalim"
@@ -1817,6 +2541,10 @@ shiny = false
 original = "pog_0182.png"
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0182.jpg"
+original = "pog_0182.png"
+
 
 [[items]]
 series = "poalim"
@@ -1827,6 +2555,10 @@ shiny = false
 original = "pog_0183.png"
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0183.jpg"
+original = "pog_0183.png"
+
 
 [[items]]
 series = "poalim"
@@ -1837,6 +2569,10 @@ shiny = false
 original = "pog_0184.png"
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0184.jpg"
+original = "pog_0184.png"
+
 
 [[items]]
 series = "poalim"
@@ -1847,6 +2583,10 @@ shiny = false
 original = "pog_0185.png"
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0185.jpg"
+original = "pog_0185.png"
+
 
 [[items]]
 series = "poalim"
@@ -1857,6 +2597,10 @@ shiny = false
 original = "pog_0186.png"
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0186.jpg"
+original = "pog_0186.png"
+
 
 [[items]]
 original = "pog_0187.png"
@@ -1867,6 +2611,10 @@ backface = "poalim"
 shiny = false
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0187.jpg"
+original = "pog_0187.png"
+
 
 [[items]]
 original = "pog_0188.png"
@@ -1877,6 +2625,10 @@ backface = "poalim"
 shiny = false
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0188.jpg"
+original = "pog_0188.png"
+
 
 [[items]]
 number = 189
@@ -1888,6 +2640,10 @@ original = "pog_0189.png"
 missing = false
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0189.jpg"
+original = "pog_0189.png"
+
 
 [[items]]
 original = "pog_0190.png"
@@ -1898,6 +2654,10 @@ backface = "poalim"
 shiny = false
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0190.jpg"
+original = "pog_0190.png"
+
 
 [[items]]
 series = "poalim"
@@ -1908,6 +2668,10 @@ shiny = false
 original = "pog_0191.png"
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0191.jpg"
+original = "pog_0191.png"
+
 
 [[items]]
 original = "pog_0192.png"
@@ -1918,6 +2682,10 @@ backface = "poalim"
 shiny = false
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0192.jpg"
+original = "pog_0192.png"
+
 
 [[items]]
 series = "poalim"
@@ -1928,6 +2696,10 @@ shiny = false
 original = "pog_0193.png"
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0193.jpg"
+original = "pog_0193.png"
+
 
 [[items]]
 original = "pog_0194.png"
@@ -1938,6 +2710,10 @@ backface = "poalim"
 shiny = false
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0194.jpg"
+original = "pog_0194.png"
+
 
 [[items]]
 series = "poalim"
@@ -1948,6 +2724,10 @@ shiny = false
 original = "pog_0195.png"
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0195.jpg"
+original = "pog_0195.png"
+
 
 [[items]]
 original = "pog_0196.png"
@@ -1958,6 +2738,10 @@ backface = "poalim"
 shiny = false
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0196.jpg"
+original = "pog_0196.png"
+
 
 [[items]]
 series = "poalim"
@@ -1968,6 +2752,10 @@ shiny = false
 original = "pog_0197.png"
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0197.jpg"
+original = "pog_0197.png"
+
 
 [[items]]
 original = "pog_0198.png"
@@ -1978,6 +2766,10 @@ backface = "poalim"
 shiny = false
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0198.jpg"
+original = "pog_0198.png"
+
 
 [[items]]
 series = "poalim"
@@ -1988,6 +2780,10 @@ shiny = false
 original = "pog_0199.png"
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0199.jpg"
+original = "pog_0199.png"
+
 
 [[items]]
 series = "poalim"
@@ -1998,6 +2794,10 @@ shiny = false
 original = "pog_0200.png"
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0200.jpg"
+original = "pog_0200.png"
+
 
 [[items]]
 series = "poalim"
@@ -2008,6 +2808,10 @@ shiny = false
 original = "pog_0201.png"
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0201.jpg"
+original = "pog_0201.png"
+
 
 [[items]]
 series = "poalim"
@@ -2018,6 +2822,10 @@ shiny = false
 original = "pog_0202.png"
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0202.jpg"
+original = "pog_0202.png"
+
 
 [[items]]
 original = "pog_0203.png"
@@ -2028,6 +2836,10 @@ backface = "poalim"
 shiny = false
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0203.jpg"
+original = "pog_0203.png"
+
 
 [[items]]
 original = "pog_0204.png"
@@ -2038,6 +2850,10 @@ backface = "poalim"
 shiny = false
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0204.jpg"
+original = "pog_0204.png"
+
 
 [[items]]
 original = "pog_0205.png"
@@ -2048,6 +2864,10 @@ backface = "poalim"
 shiny = false
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0205.jpg"
+original = "pog_0205.png"
+
 
 [[items]]
 original = "pog_0206.png"
@@ -2058,6 +2878,10 @@ backface = "poalim"
 shiny = false
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0206.jpg"
+original = "pog_0206.png"
+
 
 [[items]]
 original = "pog_0207.png"
@@ -2068,6 +2892,10 @@ backface = "poalim"
 shiny = true
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0207.jpg"
+original = "pog_0207.png"
+
 
 [[items]]
 original = "pog_0208.png"
@@ -2078,6 +2906,10 @@ backface = "poalim"
 shiny = true
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0208.jpg"
+original = "pog_0208.png"
+
 
 [[items]]
 original = "pog_0209.png"
@@ -2088,6 +2920,10 @@ backface = "poalim"
 shiny = true
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0209.jpg"
+original = "pog_0209.png"
+
 
 [[items]]
 original = "pog_0210.png"
@@ -2098,6 +2934,10 @@ backface = "poalim"
 shiny = true
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0210.jpg"
+original = "pog_0210.png"
+
 
 [[items]]
 series = "brown"
@@ -2108,6 +2948,10 @@ shiny = true
 original = "pog_0211.png"
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0211.jpg"
+original = "pog_0211.png"
+
 
 [[items]]
 series = "brown"
@@ -2118,6 +2962,10 @@ shiny = true
 original = "pog_0212.png"
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0212.jpg"
+original = "pog_0212.png"
+
 
 [[items]]
 series = "brown"
@@ -2128,6 +2976,10 @@ shiny = false
 original = "pog_0213.png"
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0213.jpg"
+original = "pog_0213.png"
+
 
 [[items]]
 series = "brown"
@@ -2138,6 +2990,10 @@ shiny = false
 original = "pog_0214.png"
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0214.jpg"
+original = "pog_0214.png"
+
 
 [[items]]
 series = "brown"
@@ -2148,6 +3004,10 @@ shiny = false
 original = "pog_0215.png"
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0215.jpg"
+original = "pog_0215.png"
+
 
 [[items]]
 series = "brown"
@@ -2158,6 +3018,10 @@ shiny = false
 original = "pog_0216.png"
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0216.jpg"
+original = "pog_0216.png"
+
 
 [[items]]
 series = "brown"
@@ -2168,6 +3032,10 @@ shiny = false
 original = "pog_0217.png"
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0217.jpg"
+original = "pog_0217.png"
+
 
 [[items]]
 series = "brown"
@@ -2178,6 +3046,10 @@ shiny = false
 original = "pog_0218.png"
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0218.jpg"
+original = "pog_0218.png"
+
 
 [[items]]
 series = "brown"
@@ -2188,6 +3060,10 @@ shiny = false
 original = "pog_0219.png"
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0219.jpg"
+original = "pog_0219.png"
+
 
 [[items]]
 series = "brown"
@@ -2198,6 +3074,10 @@ shiny = false
 original = "pog_0220.png"
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0220.jpg"
+original = "pog_0220.png"
+
 
 [[items]]
 series = "brown"
@@ -2208,6 +3088,10 @@ shiny = false
 original = "pog_0221.png"
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0221.jpg"
+original = "pog_0221.png"
+
 
 [[items]]
 series = "brown"
@@ -2218,6 +3102,10 @@ shiny = false
 original = "pog_0222.png"
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0222.jpg"
+original = "pog_0222.png"
+
 
 [[items]]
 series = "brown"
@@ -2228,6 +3116,10 @@ shiny = false
 original = "pog_0223.png"
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0223.jpg"
+original = "pog_0223.png"
+
 
 [[items]]
 series = "brown"
@@ -2238,6 +3130,10 @@ shiny = false
 original = "pog_0224.png"
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0224.jpg"
+original = "pog_0224.png"
+
 
 [[items]]
 series = "brown"
@@ -2248,6 +3144,10 @@ shiny = false
 original = "pog_0225.png"
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0225.jpg"
+original = "pog_0225.png"
+
 
 [[items]]
 series = "brown"
@@ -2258,6 +3158,10 @@ shiny = false
 original = "pog_0226.png"
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0226.jpg"
+original = "pog_0226.png"
+
 
 [[items]]
 series = "brown"
@@ -2268,6 +3172,10 @@ shiny = false
 original = "pog_0227.png"
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0227.jpg"
+original = "pog_0227.png"
+
 
 [[items]]
 series = "brown"
@@ -2278,6 +3186,10 @@ shiny = false
 original = "pog_0228.png"
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0228.jpg"
+original = "pog_0228.png"
+
 
 [[items]]
 series = "brown"
@@ -2288,6 +3200,10 @@ shiny = false
 original = "pog_0229.png"
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0229.jpg"
+original = "pog_0229.png"
+
 
 [[items]]
 series = "brown"
@@ -2298,6 +3214,10 @@ shiny = false
 original = "pog_0230.png"
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0230.jpg"
+original = "pog_0230.png"
+
 
 [[items]]
 series = "brown"
@@ -2308,6 +3228,10 @@ shiny = false
 original = "pog_0231.png"
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0231.jpg"
+original = "pog_0231.png"
+
 
 [[items]]
 series = "brown"
@@ -2318,6 +3242,10 @@ shiny = false
 original = "pog_0232.png"
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0232.jpg"
+original = "pog_0232.png"
+
 
 [[items]]
 original = "pog_0233.png"
@@ -2328,6 +3256,10 @@ backface = "default"
 shiny = false
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0233.jpg"
+original = "pog_0233.png"
+
 
 [[items]]
 series = "brown"
@@ -2338,6 +3270,10 @@ shiny = false
 original = "pog_0234.png"
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0234.jpg"
+original = "pog_0234.png"
+
 
 [[items]]
 series = "brown"
@@ -2348,6 +3284,10 @@ shiny = false
 original = "pog_0235.png"
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0235.jpg"
+original = "pog_0235.png"
+
 
 [[items]]
 series = "brown"
@@ -2358,6 +3298,10 @@ shiny = false
 original = "pog_0236.png"
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0236.jpg"
+original = "pog_0236.png"
+
 
 [[items]]
 series = "brown"
@@ -2368,6 +3312,10 @@ shiny = false
 original = "pog_0237.png"
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0237.jpg"
+original = "pog_0237.png"
+
 
 [[items]]
 series = "brown"
@@ -2378,6 +3326,10 @@ shiny = false
 original = "pog_0238.png"
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0238.jpg"
+original = "pog_0238.png"
+
 
 [[items]]
 series = "brown"
@@ -2388,6 +3340,10 @@ shiny = false
 original = "pog_0239.png"
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0239.jpg"
+original = "pog_0239.png"
+
 
 [[items]]
 series = "brown"
@@ -2398,6 +3354,10 @@ shiny = false
 original = "pog_0240.png"
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0240.jpg"
+original = "pog_0240.png"
+
 
 [[items]]
 series = "black"
@@ -2408,6 +3368,10 @@ shiny = true
 original = "pog_0241.png"
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0241.jpg"
+original = "pog_0241.png"
+
 
 [[items]]
 series = "black"
@@ -2418,6 +3382,10 @@ shiny = true
 original = "pog_0242.png"
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0242.jpg"
+original = "pog_0242.png"
+
 
 [[items]]
 series = "black"
@@ -2428,6 +3396,10 @@ shiny = false
 original = "pog_0243.png"
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0243.jpg"
+original = "pog_0243.png"
+
 
 [[items]]
 series = "black"
@@ -2438,6 +3410,10 @@ shiny = false
 original = "pog_0244.png"
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0244.jpg"
+original = "pog_0244.png"
+
 
 [[items]]
 series = "black"
@@ -2448,6 +3424,10 @@ shiny = false
 original = "pog_0245.png"
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0245.jpg"
+original = "pog_0245.png"
+
 
 [[items]]
 series = "black"
@@ -2458,6 +3438,10 @@ shiny = false
 original = "pog_0246.png"
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0246.jpg"
+original = "pog_0246.png"
+
 
 [[items]]
 series = "black"
@@ -2468,6 +3452,10 @@ shiny = false
 original = "pog_0247.png"
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0247.jpg"
+original = "pog_0247.png"
+
 
 [[items]]
 series = "black"
@@ -2478,6 +3466,10 @@ shiny = false
 original = "pog_0248.png"
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0248.jpg"
+original = "pog_0248.png"
+
 
 [[items]]
 series = "black"
@@ -2488,6 +3480,10 @@ shiny = false
 original = "pog_0249.png"
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0249.jpg"
+original = "pog_0249.png"
+
 
 [[items]]
 series = "black"
@@ -2498,6 +3494,10 @@ shiny = false
 original = "pog_0250.png"
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0250.jpg"
+original = "pog_0250.png"
+
 
 [[items]]
 series = "black"
@@ -2508,6 +3508,10 @@ shiny = false
 original = "pog_0251.png"
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0251.jpg"
+original = "pog_0251.png"
+
 
 [[items]]
 series = "black"
@@ -2518,6 +3522,10 @@ shiny = false
 original = "pog_0252.png"
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0252.jpg"
+original = "pog_0252.png"
+
 
 [[items]]
 series = "black"
@@ -2528,6 +3536,10 @@ shiny = false
 original = "pog_0253.png"
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0253.jpg"
+original = "pog_0253.png"
+
 
 [[items]]
 series = "black"
@@ -2538,6 +3550,10 @@ shiny = false
 original = "pog_0254.png"
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0254.jpg"
+original = "pog_0254.png"
+
 
 [[items]]
 series = "black"
@@ -2548,6 +3564,10 @@ shiny = false
 original = "pog_0255.png"
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0255.jpg"
+original = "pog_0255.png"
+
 
 [[items]]
 series = "black"
@@ -2558,6 +3578,10 @@ shiny = false
 original = "pog_0256.png"
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0256.jpg"
+original = "pog_0256.png"
+
 
 [[items]]
 series = "black"
@@ -2568,6 +3592,10 @@ shiny = false
 original = "pog_0257.png"
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0257.jpg"
+original = "pog_0257.png"
+
 
 [[items]]
 series = "black"
@@ -2578,6 +3606,10 @@ shiny = false
 original = "pog_0258.png"
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0258.jpg"
+original = "pog_0258.png"
+
 
 [[items]]
 series = "black"
@@ -2588,6 +3620,10 @@ shiny = false
 original = "pog_0259.png"
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0259.jpg"
+original = "pog_0259.png"
+
 
 [[items]]
 series = "black"
@@ -2598,6 +3634,10 @@ shiny = false
 original = "pog_0260.png"
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0260.jpg"
+original = "pog_0260.png"
+
 
 [[items]]
 series = "black"
@@ -2608,6 +3648,10 @@ shiny = false
 original = "pog_0261.png"
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0261.jpg"
+original = "pog_0261.png"
+
 
 [[items]]
 series = "black"
@@ -2618,6 +3662,10 @@ shiny = false
 original = "pog_0262.png"
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0262.jpg"
+original = "pog_0262.png"
+
 
 [[items]]
 series = "black"
@@ -2628,6 +3676,10 @@ shiny = false
 original = "pog_0263.png"
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0263.jpg"
+original = "pog_0263.png"
+
 
 [[items]]
 series = "black"
@@ -2638,6 +3690,10 @@ shiny = false
 original = "pog_0264.png"
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0264.jpg"
+original = "pog_0264.png"
+
 
 [[items]]
 series = "black"
@@ -2648,6 +3704,10 @@ shiny = false
 original = "pog_0265.png"
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0265.jpg"
+original = "pog_0265.png"
+
 
 [[items]]
 series = "black"
@@ -2658,6 +3718,10 @@ shiny = false
 original = "pog_0266.png"
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0266.jpg"
+original = "pog_0266.png"
+
 
 [[items]]
 series = "black"
@@ -2668,6 +3732,10 @@ shiny = false
 original = "pog_0267.png"
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0267.jpg"
+original = "pog_0267.png"
+
 
 [[items]]
 series = "black"
@@ -2678,6 +3746,10 @@ shiny = false
 original = "pog_0268.png"
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0268.jpg"
+original = "pog_0268.png"
+
 
 [[items]]
 series = "black"
@@ -2688,6 +3760,10 @@ shiny = false
 original = "pog_0269.png"
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0269.jpg"
+original = "pog_0269.png"
+
 
 [[items]]
 series = "black"
@@ -2698,6 +3774,10 @@ shiny = false
 original = "pog_0270.png"
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0270.jpg"
+original = "pog_0270.png"
+
 
 [[items]]
 series = "gray"
@@ -2708,6 +3788,10 @@ shiny = true
 original = "pog_0271.png"
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0271.jpg"
+original = "pog_0271.png"
+
 
 [[items]]
 series = "gray"
@@ -2718,6 +3802,10 @@ shiny = true
 original = "pog_0272.png"
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0272.jpg"
+original = "pog_0272.png"
+
 
 [[items]]
 series = "gray"
@@ -2728,6 +3816,10 @@ shiny = false
 original = "pog_0273.png"
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0273.jpg"
+original = "pog_0273.png"
+
 
 [[items]]
 series = "gray"
@@ -2738,6 +3830,10 @@ shiny = false
 original = "pog_0274.png"
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0274.jpg"
+original = "pog_0274.png"
+
 
 [[items]]
 series = "gray"
@@ -2748,6 +3844,10 @@ shiny = false
 original = "pog_0275.png"
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0275.jpg"
+original = "pog_0275.png"
+
 
 [[items]]
 series = "gray"
@@ -2758,6 +3858,10 @@ shiny = false
 original = "pog_0276.png"
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0276.jpg"
+original = "pog_0276.png"
+
 
 [[items]]
 series = "gray"
@@ -2768,6 +3872,10 @@ shiny = false
 original = "pog_0277.png"
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0277.jpg"
+original = "pog_0277.png"
+
 
 [[items]]
 series = "gray"
@@ -2778,6 +3886,10 @@ shiny = false
 original = "pog_0278.png"
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0278.jpg"
+original = "pog_0278.png"
+
 
 [[items]]
 series = "gray"
@@ -2788,6 +3900,10 @@ shiny = false
 original = "pog_0279.png"
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0279.jpg"
+original = "pog_0279.png"
+
 
 [[items]]
 series = "gray"
@@ -2798,6 +3914,10 @@ shiny = false
 original = "pog_0280.png"
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0280.jpg"
+original = "pog_0280.png"
+
 
 [[items]]
 series = "gray"
@@ -2808,6 +3928,10 @@ shiny = false
 original = "pog_0281.png"
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0281.jpg"
+original = "pog_0281.png"
+
 
 [[items]]
 series = "gray"
@@ -2818,6 +3942,10 @@ shiny = false
 original = "pog_0282.png"
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0282.jpg"
+original = "pog_0282.png"
+
 
 [[items]]
 series = "gray"
@@ -2828,6 +3956,10 @@ shiny = false
 original = "pog_0283.png"
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0283.jpg"
+original = "pog_0283.png"
+
 
 [[items]]
 series = "gray"
@@ -2838,6 +3970,10 @@ shiny = false
 original = "pog_0284.png"
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0284.jpg"
+original = "pog_0284.png"
+
 
 [[items]]
 series = "gray"
@@ -2848,6 +3984,10 @@ shiny = false
 original = "pog_0285.png"
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0285.jpg"
+original = "pog_0285.png"
+
 
 [[items]]
 series = "gray"
@@ -2858,6 +3998,10 @@ shiny = false
 original = "pog_0286.png"
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0286.jpg"
+original = "pog_0286.png"
+
 
 [[items]]
 series = "gray"
@@ -2868,6 +4012,10 @@ shiny = false
 original = "pog_0287.png"
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0287.jpg"
+original = "pog_0287.png"
+
 
 [[items]]
 series = "gray"
@@ -2878,6 +4026,10 @@ shiny = false
 original = "pog_0288.png"
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0288.jpg"
+original = "pog_0288.png"
+
 
 [[items]]
 series = "gray"
@@ -2888,6 +4040,10 @@ shiny = false
 original = "pog_0289.png"
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0289.jpg"
+original = "pog_0289.png"
+
 
 [[items]]
 series = "gray"
@@ -2898,6 +4054,10 @@ shiny = false
 original = "pog_0290.png"
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0290.jpg"
+original = "pog_0290.png"
+
 
 [[items]]
 series = "gray"
@@ -2908,6 +4068,10 @@ shiny = false
 original = "pog_0291.png"
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0291.jpg"
+original = "pog_0291.png"
+
 
 [[items]]
 series = "gray"
@@ -2918,6 +4082,10 @@ shiny = false
 original = "pog_0292.png"
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0292.jpg"
+original = "pog_0292.png"
+
 
 [[items]]
 series = "gray"
@@ -2928,6 +4096,10 @@ shiny = false
 original = "pog_0293.png"
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0293.jpg"
+original = "pog_0293.png"
+
 
 [[items]]
 series = "gray"
@@ -2938,6 +4110,10 @@ shiny = false
 original = "pog_0294.png"
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0294.jpg"
+original = "pog_0294.png"
+
 
 [[items]]
 series = "gray"
@@ -2948,6 +4124,10 @@ shiny = false
 original = "pog_0295.png"
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0295.jpg"
+original = "pog_0295.png"
+
 
 [[items]]
 series = "gray"
@@ -2958,6 +4138,10 @@ shiny = false
 original = "pog_0296.png"
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0296.jpg"
+original = "pog_0296.png"
+
 
 [[items]]
 series = "gray"
@@ -2968,6 +4152,10 @@ shiny = false
 original = "pog_0297.png"
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0297.jpg"
+original = "pog_0297.png"
+
 
 [[items]]
 series = "gray"
@@ -2978,6 +4166,10 @@ shiny = false
 original = "pog_0298.png"
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0298.jpg"
+original = "pog_0298.png"
+
 
 [[items]]
 series = "gray"
@@ -2988,6 +4180,10 @@ shiny = false
 original = "pog_0299.png"
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0299.jpg"
+original = "pog_0299.png"
+
 
 [[items]]
 series = "gray"
@@ -2998,6 +4194,10 @@ shiny = false
 original = "pog_0300.png"
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0300.jpg"
+original = "pog_0300.png"
+
 
 [[items]]
 series = "turquoise"
@@ -3008,6 +4208,10 @@ shiny = true
 original = "pog_0301.png"
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0301.jpg"
+original = "pog_0301.png"
+
 
 [[items]]
 series = "turquoise"
@@ -3018,6 +4222,10 @@ shiny = true
 original = "pog_0302.png"
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0302.jpg"
+original = "pog_0302.png"
+
 
 [[items]]
 series = "turquoise"
@@ -3028,6 +4236,10 @@ shiny = false
 original = "pog_0303.png"
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0303.jpg"
+original = "pog_0303.png"
+
 
 [[items]]
 series = "turquoise"
@@ -3038,6 +4250,10 @@ shiny = false
 original = "pog_0304.png"
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0304.jpg"
+original = "pog_0304.png"
+
 
 [[items]]
 series = "turquoise"
@@ -3048,6 +4264,10 @@ shiny = false
 original = "pog_0305.png"
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0305.jpg"
+original = "pog_0305.png"
+
 
 [[items]]
 series = "turquoise"
@@ -3058,6 +4278,10 @@ shiny = false
 original = "pog_0306.png"
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0306.jpg"
+original = "pog_0306.png"
+
 
 [[items]]
 series = "turquoise"
@@ -3068,6 +4292,10 @@ shiny = false
 original = "pog_0307.png"
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0307.jpg"
+original = "pog_0307.png"
+
 
 [[items]]
 series = "turquoise"
@@ -3078,6 +4306,10 @@ shiny = false
 original = "pog_0308.png"
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0308.jpg"
+original = "pog_0308.png"
+
 
 [[items]]
 series = "turquoise"
@@ -3088,6 +4320,10 @@ shiny = false
 original = "pog_0309.png"
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0309.jpg"
+original = "pog_0309.png"
+
 
 [[items]]
 series = "turquoise"
@@ -3098,6 +4334,10 @@ shiny = false
 original = "pog_0310.png"
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0310.jpg"
+original = "pog_0310.png"
+
 
 [[items]]
 series = "turquoise"
@@ -3108,6 +4348,10 @@ shiny = false
 original = "pog_0311.png"
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0311.jpg"
+original = "pog_0311.png"
+
 
 [[items]]
 series = "turquoise"
@@ -3118,6 +4362,10 @@ shiny = false
 original = "pog_0312.png"
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0312.jpg"
+original = "pog_0312.png"
+
 
 [[items]]
 series = "turquoise"
@@ -3128,6 +4376,10 @@ shiny = false
 original = "pog_0313.png"
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0313.jpg"
+original = "pog_0313.png"
+
 
 [[items]]
 series = "turquoise"
@@ -3138,6 +4390,10 @@ shiny = false
 original = "pog_0314.png"
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0314.jpg"
+original = "pog_0314.png"
+
 
 [[items]]
 series = "turquoise"
@@ -3148,6 +4404,10 @@ shiny = false
 original = "pog_0315.png"
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0315.jpg"
+original = "pog_0315.png"
+
 
 [[items]]
 series = "turquoise"
@@ -3158,6 +4418,10 @@ shiny = false
 original = "pog_0316.png"
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0316.jpg"
+original = "pog_0316.png"
+
 
 [[items]]
 series = "turquoise"
@@ -3168,6 +4432,10 @@ shiny = false
 original = "pog_0317.png"
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0317.jpg"
+original = "pog_0317.png"
+
 
 [[items]]
 series = "turquoise"
@@ -3178,6 +4446,10 @@ shiny = false
 original = "pog_0318.png"
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0318.jpg"
+original = "pog_0318.png"
+
 
 [[items]]
 series = "turquoise"
@@ -3188,6 +4460,10 @@ shiny = false
 original = "pog_0319.png"
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0319.jpg"
+original = "pog_0319.png"
+
 
 [[items]]
 series = "turquoise"
@@ -3198,6 +4474,10 @@ shiny = false
 original = "pog_0320.png"
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0320.jpg"
+original = "pog_0320.png"
+
 
 [[items]]
 series = "turquoise"
@@ -3208,6 +4488,10 @@ shiny = false
 original = "pog_0321.png"
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0321.jpg"
+original = "pog_0321.png"
+
 
 [[items]]
 series = "turquoise"
@@ -3218,6 +4502,10 @@ shiny = false
 original = "pog_0322.png"
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0322.jpg"
+original = "pog_0322.png"
+
 
 [[items]]
 series = "turquoise"
@@ -3228,6 +4516,10 @@ shiny = false
 original = "pog_0323.png"
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0323.jpg"
+original = "pog_0323.png"
+
 
 [[items]]
 series = "turquoise"
@@ -3238,6 +4530,10 @@ shiny = false
 original = "pog_0324.png"
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0324.jpg"
+original = "pog_0324.png"
+
 
 [[items]]
 series = "turquoise"
@@ -3248,6 +4544,10 @@ shiny = false
 original = "pog_0325.png"
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0325.jpg"
+original = "pog_0325.png"
+
 
 [[items]]
 series = "turquoise"
@@ -3258,6 +4558,10 @@ shiny = false
 original = "pog_0326.png"
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0326.jpg"
+original = "pog_0326.png"
+
 
 [[items]]
 series = "turquoise"
@@ -3268,6 +4572,10 @@ shiny = false
 original = "pog_0327.png"
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0327.jpg"
+original = "pog_0327.png"
+
 
 [[items]]
 series = "turquoise"
@@ -3278,6 +4586,10 @@ shiny = false
 original = "pog_0328.png"
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0328.jpg"
+original = "pog_0328.png"
+
 
 [[items]]
 series = "turquoise"
@@ -3288,6 +4600,10 @@ shiny = false
 original = "pog_0329.png"
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0329.jpg"
+original = "pog_0329.png"
+
 
 [[items]]
 series = "turquoise"
@@ -3298,6 +4614,10 @@ shiny = false
 original = "pog_0330.png"
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0330.jpg"
+original = "pog_0330.png"
+
 
 [[items]]
 series = "psycho"
@@ -3308,6 +4628,10 @@ shiny = true
 original = "pog_0331.png"
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0331.jpg"
+original = "pog_0331.png"
+
 
 [[items]]
 series = "psycho"
@@ -3318,6 +4642,10 @@ shiny = true
 original = "pog_0332.png"
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0332.jpg"
+original = "pog_0332.png"
+
 
 [[items]]
 series = "psycho"
@@ -3328,6 +4656,10 @@ shiny = false
 original = "pog_0333.png"
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0333.jpg"
+original = "pog_0333.png"
+
 
 [[items]]
 series = "psycho"
@@ -3338,6 +4670,10 @@ shiny = false
 original = "pog_0334.png"
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0334.jpg"
+original = "pog_0334.png"
+
 
 [[items]]
 series = "psycho"
@@ -3348,6 +4684,10 @@ shiny = false
 original = "pog_0335.png"
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0335.jpg"
+original = "pog_0335.png"
+
 
 [[items]]
 original = "pog_0336.png"
@@ -3358,6 +4698,10 @@ backface = "default"
 shiny = false
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0336.jpg"
+original = "pog_0336.png"
+
 
 [[items]]
 series = "psycho"
@@ -3368,6 +4712,10 @@ shiny = false
 original = "pog_0337.png"
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0337.jpg"
+original = "pog_0337.png"
+
 
 [[items]]
 series = "psycho"
@@ -3378,6 +4726,10 @@ shiny = false
 original = "pog_0338.png"
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0338.jpg"
+original = "pog_0338.png"
+
 
 [[items]]
 series = "psycho"
@@ -3388,6 +4740,10 @@ shiny = false
 original = "pog_0339.png"
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0339.jpg"
+original = "pog_0339.png"
+
 
 [[items]]
 series = "psycho"
@@ -3398,6 +4754,10 @@ shiny = false
 original = "pog_0340.png"
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0340.jpg"
+original = "pog_0340.png"
+
 
 [[items]]
 series = "psycho"
@@ -3408,6 +4768,10 @@ shiny = false
 original = "pog_0341.png"
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0341.jpg"
+original = "pog_0341.png"
+
 
 [[items]]
 series = "psycho"
@@ -3418,6 +4782,10 @@ shiny = false
 original = "pog_0342.png"
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0342.jpg"
+original = "pog_0342.png"
+
 
 [[items]]
 series = "psycho"
@@ -3428,6 +4796,10 @@ shiny = false
 original = "pog_0343.png"
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0343.jpg"
+original = "pog_0343.png"
+
 
 [[items]]
 series = "psycho"
@@ -3438,6 +4810,10 @@ shiny = false
 original = "pog_0344.png"
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0344.jpg"
+original = "pog_0344.png"
+
 
 [[items]]
 series = "psycho"
@@ -3448,6 +4824,10 @@ shiny = false
 original = "pog_0345.png"
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0345.jpg"
+original = "pog_0345.png"
+
 
 [[items]]
 series = "psycho"
@@ -3458,6 +4838,10 @@ shiny = false
 original = "pog_0346.png"
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0346.jpg"
+original = "pog_0346.png"
+
 
 [[items]]
 series = "psycho"
@@ -3468,6 +4852,10 @@ shiny = false
 original = "pog_0347.png"
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0347.jpg"
+original = "pog_0347.png"
+
 
 [[items]]
 series = "psycho"
@@ -3478,6 +4866,10 @@ shiny = false
 original = "pog_0348.png"
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0348.jpg"
+original = "pog_0348.png"
+
 
 [[items]]
 series = "psycho"
@@ -3488,6 +4880,10 @@ shiny = false
 original = "pog_0349.png"
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0349.jpg"
+original = "pog_0349.png"
+
 
 [[items]]
 series = "psycho"
@@ -3498,6 +4894,10 @@ shiny = false
 original = "pog_0350.png"
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0350.jpg"
+original = "pog_0350.png"
+
 
 [[items]]
 series = "psycho"
@@ -3508,6 +4908,10 @@ shiny = false
 original = "pog_0351.png"
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0351.jpg"
+original = "pog_0351.png"
+
 
 [[items]]
 series = "psycho"
@@ -3518,6 +4922,10 @@ shiny = false
 original = "pog_0352.png"
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0352.jpg"
+original = "pog_0352.png"
+
 
 [[items]]
 series = "psycho"
@@ -3528,6 +4936,10 @@ shiny = false
 original = "pog_0353.png"
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0353.jpg"
+original = "pog_0353.png"
+
 
 [[items]]
 series = "psycho"
@@ -3538,6 +4950,10 @@ shiny = false
 original = "pog_0354.png"
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0354.jpg"
+original = "pog_0354.png"
+
 
 [[items]]
 series = "psycho"
@@ -3548,6 +4964,10 @@ shiny = false
 original = "pog_0355.png"
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0355.jpg"
+original = "pog_0355.png"
+
 
 [[items]]
 series = "psycho"
@@ -3558,6 +4978,10 @@ shiny = false
 original = "pog_0356.png"
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0356.jpg"
+original = "pog_0356.png"
+
 
 [[items]]
 series = "psycho"
@@ -3568,6 +4992,10 @@ shiny = false
 original = "pog_0357.png"
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0357.jpg"
+original = "pog_0357.png"
+
 
 [[items]]
 series = "psycho"
@@ -3578,6 +5006,10 @@ shiny = false
 original = "pog_0358.png"
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0358.jpg"
+original = "pog_0358.png"
+
 
 [[items]]
 series = "psycho"
@@ -3588,6 +5020,10 @@ shiny = false
 original = "pog_0359.png"
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0359.jpg"
+original = "pog_0359.png"
+
 
 [[items]]
 series = "psycho"
@@ -3598,6 +5034,10 @@ shiny = false
 original = "pog_0360.png"
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0360.jpg"
+original = "pog_0360.png"
+
 
 [[items]]
 original = "pog_0361.png"
@@ -3608,6 +5048,10 @@ backface = "buddy"
 shiny = true
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0361.jpg"
+original = "pog_0361.png"
+
 
 [[items]]
 original = "pog_0362.png"
@@ -3618,6 +5062,10 @@ backface = "buddy"
 shiny = true
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0362.jpg"
+original = "pog_0362.png"
+
 
 [[items]]
 original = "pog_0363.png"
@@ -3628,6 +5076,10 @@ backface = "buddy"
 shiny = true
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0363.jpg"
+original = "pog_0363.png"
+
 
 [[items]]
 original = "pog_0364.png"
@@ -3638,6 +5090,10 @@ backface = "buddy"
 shiny = true
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0364.jpg"
+original = "pog_0364.png"
+
 
 [[items]]
 original = "pog_0365.png"
@@ -3648,6 +5104,10 @@ backface = "buddy"
 shiny = true
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0365.jpg"
+original = "pog_0365.png"
+
 
 [[items]]
 original = "pog_0366.png"
@@ -3658,6 +5118,10 @@ backface = "buddy"
 shiny = true
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0366.jpg"
+original = "pog_0366.png"
+
 
 [[items]]
 original = "pog_0367.png"
@@ -3668,6 +5132,10 @@ backface = "buddy"
 shiny = true
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0367.jpg"
+original = "pog_0367.png"
+
 
 [[items]]
 original = "pog_0368.png"
@@ -3678,6 +5146,10 @@ backface = "buddy"
 shiny = true
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0368.jpg"
+original = "pog_0368.png"
+
 
 [[items]]
 original = "pog_0369.png"
@@ -3688,6 +5160,10 @@ backface = "buddy"
 shiny = true
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0369.jpg"
+original = "pog_0369.png"
+
 
 [[items]]
 original = "pog_0370.png"
@@ -3698,6 +5174,10 @@ backface = "buddy"
 shiny = true
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0370.jpg"
+original = "pog_0370.png"
+
 
 [[items]]
 original = "pog_0371.png"
@@ -3708,6 +5188,10 @@ backface = "buddy"
 shiny = true
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0371.jpg"
+original = "pog_0371.png"
+
 
 [[items]]
 original = "pog_0372.png"
@@ -3718,6 +5202,10 @@ backface = "buddy"
 shiny = true
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0372.jpg"
+original = "pog_0372.png"
+
 
 [[items]]
 series = "gold"
@@ -3728,6 +5216,10 @@ shiny = true
 original = "pog_0373.png"
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0373.jpg"
+original = "pog_0373.png"
+
 
 [[items]]
 series = "gold"
@@ -3738,6 +5230,10 @@ shiny = true
 original = "pog_0374.png"
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0374.jpg"
+original = "pog_0374.png"
+
 
 [[items]]
 original = "pog_0375.png"
@@ -3748,6 +5244,10 @@ backface = "buddy"
 shiny = true
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0375.jpg"
+original = "pog_0375.png"
+
 
 [[items]]
 original = "pog_0376.png"
@@ -3758,6 +5258,10 @@ backface = "buddy"
 shiny = true
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0376.jpg"
+original = "pog_0376.png"
+
 
 [[items]]
 original = "pog_0377.png"
@@ -3768,6 +5272,10 @@ backface = "buddy"
 shiny = true
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0377.jpg"
+original = "pog_0377.png"
+
 
 [[items]]
 original = "pog_0378.png"
@@ -3778,6 +5286,10 @@ backface = "buddy"
 shiny = true
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0378.jpg"
+original = "pog_0378.png"
+
 
 [[items]]
 original = "pog_0379.png"
@@ -3788,6 +5300,10 @@ backface = "buddy"
 shiny = true
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0379.jpg"
+original = "pog_0379.png"
+
 
 [[items]]
 original = "pog_0380.png"
@@ -3798,6 +5314,10 @@ backface = "buddy"
 shiny = true
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0380.jpg"
+original = "pog_0380.png"
+
 
 [[items]]
 original = "pog_0381.png"
@@ -3808,6 +5328,10 @@ backface = "buddy"
 shiny = true
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0381.jpg"
+original = "pog_0381.png"
+
 
 [[items]]
 original = "pog_0382.png"
@@ -3818,6 +5342,10 @@ backface = "buddy"
 shiny = true
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0382.jpg"
+original = "pog_0382.png"
+
 
 [[items]]
 original = "pog_0383.png"
@@ -3828,6 +5356,10 @@ backface = "buddy"
 shiny = true
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0383.jpg"
+original = "pog_0383.png"
+
 
 [[items]]
 original = "pog_0384.png"
@@ -3838,6 +5370,10 @@ backface = "buddy"
 shiny = true
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0384.jpg"
+original = "pog_0384.png"
+
 
 [[items]]
 original = "pog_0385.png"
@@ -3848,6 +5384,10 @@ backface = "buddy"
 shiny = true
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0385.jpg"
+original = "pog_0385.png"
+
 
 [[items]]
 original = "pog_0386.png"
@@ -3858,6 +5398,10 @@ backface = "buddy"
 shiny = true
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0386.jpg"
+original = "pog_0386.png"
+
 
 [[items]]
 original = "pog_0387.png"
@@ -3868,6 +5412,10 @@ backface = "buddy"
 shiny = true
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0387.jpg"
+original = "pog_0387.png"
+
 
 [[items]]
 original = "pog_0388.png"
@@ -3878,6 +5426,10 @@ backface = "buddy"
 shiny = true
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0388.jpg"
+original = "pog_0388.png"
+
 
 [[items]]
 original = "pog_0389.png"
@@ -3888,6 +5440,10 @@ backface = "buddy"
 shiny = true
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0389.jpg"
+original = "pog_0389.png"
+
 
 [[items]]
 original = "pog_0390.png"
@@ -3898,6 +5454,10 @@ backface = "buddy"
 shiny = true
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0390.jpg"
+original = "pog_0390.png"
+
 
 [[items]]
 series = "dominos"
@@ -3908,6 +5468,10 @@ shiny = false
 original = "pog_0391.png"
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0391.jpg"
+original = "pog_0391.png"
+
 
 [[items]]
 original = "pog_0392.png"
@@ -3918,6 +5482,10 @@ backface = "dominos"
 shiny = false
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0392.jpg"
+original = "pog_0392.png"
+
 
 [[items]]
 series = "dominos"
@@ -3928,6 +5496,10 @@ shiny = false
 original = "pog_0393.png"
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0393.jpg"
+original = "pog_0393.png"
+
 
 [[items]]
 series = "dominos"
@@ -3938,6 +5510,10 @@ shiny = false
 original = "pog_0394.png"
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0394.jpg"
+original = "pog_0394.png"
+
 
 [[items]]
 original = "pog_0395.png"
@@ -3948,6 +5524,10 @@ backface = "dominos"
 shiny = false
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0395.jpg"
+original = "pog_0395.png"
+
 
 [[items]]
 original = "pog_0396.png"
@@ -3958,6 +5538,10 @@ backface = "dominos"
 shiny = false
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0396.jpg"
+original = "pog_0396.png"
+
 
 [[items]]
 original = "pog_0397.png"
@@ -3968,6 +5552,10 @@ backface = "dominos"
 shiny = false
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0397.jpg"
+original = "pog_0397.png"
+
 
 [[items]]
 series = "dominos"
@@ -3978,6 +5566,10 @@ shiny = false
 original = "pog_0398.png"
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0398.jpg"
+original = "pog_0398.png"
+
 
 [[items]]
 original = "pog_0399.png"
@@ -3988,6 +5580,10 @@ backface = "dominos"
 shiny = false
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0399.jpg"
+original = "pog_0399.png"
+
 
 [[items]]
 original = "pog_0400.png"
@@ -3998,6 +5594,10 @@ backface = "dominos"
 shiny = false
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0400.jpg"
+original = "pog_0400.png"
+
 
 [[items]]
 series = "dominos"
@@ -4008,6 +5608,10 @@ shiny = false
 original = "pog_0401.png"
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0401.jpg"
+original = "pog_0401.png"
+
 
 [[items]]
 series = "dominos"
@@ -4018,6 +5622,10 @@ shiny = false
 original = "pog_0402.png"
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0402.jpg"
+original = "pog_0402.png"
+
 
 [[items]]
 original = "pog_0403.png"
@@ -4028,6 +5636,10 @@ backface = "dominos"
 shiny = false
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0403.jpg"
+original = "pog_0403.png"
+
 
 [[items]]
 original = "pog_0404.png"
@@ -4038,6 +5650,10 @@ backface = "dominos"
 shiny = false
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0404.jpg"
+original = "pog_0404.png"
+
 
 [[items]]
 series = "dominos"
@@ -4048,6 +5664,10 @@ shiny = false
 original = "pog_0405.png"
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0405.jpg"
+original = "pog_0405.png"
+
 
 [[items]]
 original = "pog_0406.png"
@@ -4058,6 +5678,10 @@ backface = "dominos"
 shiny = false
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0406.jpg"
+original = "pog_0406.png"
+
 
 [[items]]
 original = "pog_0407.png"
@@ -4068,6 +5692,10 @@ backface = "dominos"
 shiny = false
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0407.jpg"
+original = "pog_0407.png"
+
 
 [[items]]
 original = "pog_0408.png"
@@ -4078,6 +5706,10 @@ backface = "dominos"
 shiny = false
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0408.jpg"
+original = "pog_0408.png"
+
 
 [[items]]
 original = "pog_0409.png"
@@ -4088,6 +5720,10 @@ backface = "dominos"
 shiny = false
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0409.jpg"
+original = "pog_0409.png"
+
 
 [[items]]
 original = "pog_0410.png"
@@ -4098,6 +5734,10 @@ backface = "dominos"
 shiny = false
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0410.jpg"
+original = "pog_0410.png"
+
 
 [[items]]
 original = "pog_0411.png"
@@ -4108,6 +5748,10 @@ backface = "dominos"
 shiny = false
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0411.jpg"
+original = "pog_0411.png"
+
 
 [[items]]
 original = "pog_0412.png"
@@ -4118,6 +5762,10 @@ backface = "dominos"
 shiny = false
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0412.jpg"
+original = "pog_0412.png"
+
 
 [[items]]
 original = "pog_0413.png"
@@ -4128,6 +5776,10 @@ backface = "dominos"
 shiny = false
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0413.jpg"
+original = "pog_0413.png"
+
 
 [[items]]
 original = "pog_0414.png"
@@ -4138,6 +5790,10 @@ backface = "dominos"
 shiny = false
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0414.jpg"
+original = "pog_0414.png"
+
 
 [[items]]
 original = "pog_0415.png"
@@ -4148,6 +5804,10 @@ backface = "dominos"
 shiny = false
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0415.jpg"
+original = "pog_0415.png"
+
 
 [[items]]
 original = "pog_0416.png"
@@ -4158,6 +5818,10 @@ backface = "dominos"
 shiny = false
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0416.jpg"
+original = "pog_0416.png"
+
 
 [[items]]
 original = "pog_0417.png"
@@ -4168,6 +5832,10 @@ backface = "dominos"
 shiny = false
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0417.jpg"
+original = "pog_0417.png"
+
 
 [[items]]
 original = "pog_0418.png"
@@ -4178,6 +5846,10 @@ backface = "dominos"
 shiny = false
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0418.jpg"
+original = "pog_0418.png"
+
 
 [[items]]
 original = "pog_0419.png"
@@ -4188,6 +5860,10 @@ backface = "dominos"
 shiny = false
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0419.jpg"
+original = "pog_0419.png"
+
 
 [[items]]
 original = "pog_0420.png"
@@ -4198,6 +5874,10 @@ backface = "dominos"
 shiny = false
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0420.jpg"
+original = "pog_0420.png"
+
 
 [[items]]
 number = 421
@@ -4209,6 +5889,10 @@ original = "missing.svg"
 missing = true
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "missing.svg"
+original = "missing.svg"
+
 
 [[items]]
 number = 422
@@ -4220,6 +5904,10 @@ original = "missing.svg"
 missing = true
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "missing.svg"
+original = "missing.svg"
+
 
 [[items]]
 number = 423
@@ -4231,6 +5919,10 @@ original = "missing.svg"
 missing = true
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "missing.svg"
+original = "missing.svg"
+
 
 [[items]]
 number = 424
@@ -4242,6 +5934,10 @@ original = "missing.svg"
 missing = true
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "missing.svg"
+original = "missing.svg"
+
 
 [[items]]
 number = 425
@@ -4253,6 +5949,10 @@ original = "missing.svg"
 missing = true
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "missing.svg"
+original = "missing.svg"
+
 
 [[items]]
 number = 426
@@ -4264,6 +5964,10 @@ original = "missing.svg"
 missing = true
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "missing.svg"
+original = "missing.svg"
+
 
 [[items]]
 number = 427
@@ -4275,6 +5979,10 @@ original = "missing.svg"
 missing = true
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "missing.svg"
+original = "missing.svg"
+
 
 [[items]]
 number = 428
@@ -4286,6 +5994,10 @@ original = "missing.svg"
 missing = true
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "missing.svg"
+original = "missing.svg"
+
 
 [[items]]
 number = 429
@@ -4297,6 +6009,10 @@ original = "missing.svg"
 missing = true
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "missing.svg"
+original = "missing.svg"
+
 
 [[items]]
 number = 430
@@ -4308,6 +6024,10 @@ original = "missing.svg"
 missing = true
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "missing.svg"
+original = "missing.svg"
+
 
 [[items]]
 number = 431
@@ -4319,6 +6039,10 @@ original = "missing.svg"
 missing = true
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "missing.svg"
+original = "missing.svg"
+
 
 [[items]]
 number = 432
@@ -4330,6 +6054,10 @@ original = "missing.svg"
 missing = true
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "missing.svg"
+original = "missing.svg"
+
 
 [[items]]
 number = 433
@@ -4341,6 +6069,10 @@ original = "missing.svg"
 missing = true
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "missing.svg"
+original = "missing.svg"
+
 
 [[items]]
 number = 434
@@ -4352,6 +6084,10 @@ original = "missing.svg"
 missing = true
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "missing.svg"
+original = "missing.svg"
+
 
 [[items]]
 number = 435
@@ -4363,6 +6099,10 @@ original = "missing.svg"
 missing = true
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "missing.svg"
+original = "missing.svg"
+
 
 [[items]]
 number = 436
@@ -4374,6 +6114,10 @@ original = "missing.svg"
 missing = true
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "missing.svg"
+original = "missing.svg"
+
 
 [[items]]
 number = 437
@@ -4385,6 +6129,10 @@ original = "missing.svg"
 missing = true
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "missing.svg"
+original = "missing.svg"
+
 
 [[items]]
 number = 438
@@ -4396,6 +6144,10 @@ original = "missing.svg"
 missing = true
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "missing.svg"
+original = "missing.svg"
+
 
 [[items]]
 number = 439
@@ -4407,6 +6159,10 @@ original = "missing.svg"
 missing = true
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "missing.svg"
+original = "missing.svg"
+
 
 [[items]]
 number = 440
@@ -4418,6 +6174,10 @@ original = "missing.svg"
 missing = true
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "missing.svg"
+original = "missing.svg"
+
 
 [[items]]
 number = 441
@@ -4429,6 +6189,10 @@ original = "missing.svg"
 missing = true
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "missing.svg"
+original = "missing.svg"
+
 
 [[items]]
 number = 442
@@ -4440,6 +6204,10 @@ original = "missing.svg"
 missing = true
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "missing.svg"
+original = "missing.svg"
+
 
 [[items]]
 number = 443
@@ -4451,6 +6219,10 @@ original = "missing.svg"
 missing = true
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "missing.svg"
+original = "missing.svg"
+
 
 [[items]]
 number = 444
@@ -4462,6 +6234,10 @@ original = "missing.svg"
 missing = true
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "missing.svg"
+original = "missing.svg"
+
 
 [[items]]
 number = 445
@@ -4473,6 +6249,10 @@ original = "missing.svg"
 missing = true
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "missing.svg"
+original = "missing.svg"
+
 
 [[items]]
 number = 446
@@ -4484,6 +6264,10 @@ original = "missing.svg"
 missing = true
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "missing.svg"
+original = "missing.svg"
+
 
 [[items]]
 number = 447
@@ -4495,6 +6279,10 @@ original = "missing.svg"
 missing = true
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "missing.svg"
+original = "missing.svg"
+
 
 [[items]]
 number = 448
@@ -4506,6 +6294,10 @@ original = "missing.svg"
 missing = true
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "missing.svg"
+original = "missing.svg"
+
 
 [[items]]
 number = 449
@@ -4517,6 +6309,10 @@ original = "missing.svg"
 missing = true
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "missing.svg"
+original = "missing.svg"
+
 
 [[items]]
 number = 450
@@ -4528,6 +6324,10 @@ original = "missing.svg"
 missing = true
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "missing.svg"
+original = "missing.svg"
+
 
 [[items]]
 original = "pog_0451.png"
@@ -4538,6 +6338,10 @@ backface = "default"
 shiny = false
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0451.jpg"
+original = "pog_0451.png"
+
 
 [[items]]
 series = "comedy-store"
@@ -4548,6 +6352,10 @@ shiny = false
 original = "pog_0452.png"
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0452.jpg"
+original = "pog_0452.png"
+
 
 [[items]]
 original = "pog_0453.png"
@@ -4558,6 +6366,10 @@ backface = "default"
 shiny = false
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0453.jpg"
+original = "pog_0453.png"
+
 
 [[items]]
 original = "pog_0454.png"
@@ -4568,6 +6380,10 @@ backface = "default"
 shiny = false
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0454.jpg"
+original = "pog_0454.png"
+
 
 [[items]]
 original = "pog_0455.png"
@@ -4578,6 +6394,10 @@ backface = "default"
 shiny = false
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0455.jpg"
+original = "pog_0455.png"
+
 
 [[items]]
 series = "comedy-store"
@@ -4588,6 +6408,10 @@ shiny = false
 original = "pog_0456.png"
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0456.jpg"
+original = "pog_0456.png"
+
 
 [[items]]
 original = "pog_0457.png"
@@ -4598,6 +6422,10 @@ backface = "default"
 shiny = false
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0457.jpg"
+original = "pog_0457.png"
+
 
 [[items]]
 original = "pog_0458.png"
@@ -4608,6 +6436,10 @@ backface = "default"
 shiny = false
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0458.jpg"
+original = "pog_0458.png"
+
 
 [[items]]
 series = "comedy-store"
@@ -4618,6 +6450,10 @@ shiny = false
 original = "pog_0459.png"
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0459.jpg"
+original = "pog_0459.png"
+
 
 [[items]]
 series = "comedy-store"
@@ -4628,6 +6464,10 @@ shiny = false
 original = "pog_0460.png"
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0460.jpg"
+original = "pog_0460.png"
+
 
 [[items]]
 series = "comedy-store"
@@ -4638,6 +6478,10 @@ shiny = false
 original = "pog_0461.png"
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0461.jpg"
+original = "pog_0461.png"
+
 
 [[items]]
 original = "pog_0462.png"
@@ -4648,6 +6492,10 @@ backface = "default"
 shiny = false
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0462.jpg"
+original = "pog_0462.png"
+
 
 [[items]]
 original = "pog_0463.png"
@@ -4658,6 +6506,10 @@ backface = "default"
 shiny = false
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0463.jpg"
+original = "pog_0463.png"
+
 
 [[items]]
 original = "pog_0464.png"
@@ -4668,6 +6520,10 @@ backface = "default"
 shiny = false
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0464.jpg"
+original = "pog_0464.png"
+
 
 [[items]]
 original = "pog_0465.png"
@@ -4678,6 +6534,10 @@ backface = "default"
 shiny = false
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0465.jpg"
+original = "pog_0465.png"
+
 
 [[items]]
 original = "pog_0466.png"
@@ -4688,6 +6548,10 @@ backface = "default"
 shiny = false
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0466.jpg"
+original = "pog_0466.png"
+
 
 [[items]]
 original = "pog_0467.png"
@@ -4698,6 +6562,10 @@ backface = "default"
 shiny = false
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0467.jpg"
+original = "pog_0467.png"
+
 
 [[items]]
 original = "pog_0468.png"
@@ -4708,6 +6576,10 @@ backface = "default"
 shiny = false
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0468.jpg"
+original = "pog_0468.png"
+
 
 [[items]]
 original = "pog_0469.png"
@@ -4718,6 +6590,10 @@ backface = "default"
 shiny = false
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0469.jpg"
+original = "pog_0469.png"
+
 
 [[items]]
 original = "pog_0470.png"
@@ -4728,6 +6604,10 @@ backface = "default"
 shiny = false
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0470.jpg"
+original = "pog_0470.png"
+
 
 [[items]]
 series = "comedy-store"
@@ -4738,6 +6618,10 @@ shiny = false
 original = "pog_0471.png"
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0471.jpg"
+original = "pog_0471.png"
+
 
 [[items]]
 original = "pog_0472.png"
@@ -4748,6 +6632,10 @@ backface = "default"
 shiny = false
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0472.jpg"
+original = "pog_0472.png"
+
 
 [[items]]
 original = "pog_0473.png"
@@ -4758,6 +6646,10 @@ backface = "default"
 shiny = false
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0473.jpg"
+original = "pog_0473.png"
+
 
 [[items]]
 original = "pog_0474.png"
@@ -4768,6 +6660,10 @@ backface = "default"
 shiny = false
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0474.jpg"
+original = "pog_0474.png"
+
 
 [[items]]
 original = "pog_0475.png"
@@ -4778,6 +6674,10 @@ backface = "default"
 shiny = false
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0475.jpg"
+original = "pog_0475.png"
+
 
 [[items]]
 series = "comedy-store"
@@ -4788,6 +6688,10 @@ shiny = false
 original = "pog_0476.png"
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0476.jpg"
+original = "pog_0476.png"
+
 
 [[items]]
 original = "pog_0477.png"
@@ -4798,6 +6702,10 @@ backface = "default"
 shiny = false
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0477.jpg"
+original = "pog_0477.png"
+
 
 [[items]]
 original = "pog_0478.png"
@@ -4808,6 +6716,10 @@ backface = "default"
 shiny = false
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0478.jpg"
+original = "pog_0478.png"
+
 
 [[items]]
 original = "pog_0479.png"
@@ -4818,6 +6730,10 @@ backface = "default"
 shiny = false
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0479.jpg"
+original = "pog_0479.png"
+
 
 [[items]]
 series = "comedy-store"
@@ -4828,6 +6744,10 @@ shiny = false
 original = "pog_0480.png"
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0480.jpg"
+original = "pog_0480.png"
+
 
 [[items]]
 original = "pog_0481.png"
@@ -4838,6 +6758,10 @@ backface = "default"
 shiny = false
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0481.jpg"
+original = "pog_0481.png"
+
 
 [[items]]
 original = "pog_0482.png"
@@ -4848,6 +6772,10 @@ backface = "default"
 shiny = false
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0482.jpg"
+original = "pog_0482.png"
+
 
 [[items]]
 original = "pog_0483.png"
@@ -4858,6 +6786,10 @@ backface = "default"
 shiny = false
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0483.jpg"
+original = "pog_0483.png"
+
 
 [[items]]
 original = "pog_0484.png"
@@ -4868,6 +6800,10 @@ backface = "default"
 shiny = false
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0484.jpg"
+original = "pog_0484.png"
+
 
 [[items]]
 original = "pog_0485.png"
@@ -4878,6 +6814,10 @@ backface = "default"
 shiny = false
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0485.jpg"
+original = "pog_0485.png"
+
 
 [[items]]
 series = "comedy-store-yellow"
@@ -4888,6 +6828,10 @@ shiny = false
 original = "pog_0486.png"
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0486.jpg"
+original = "pog_0486.png"
+
 
 [[items]]
 original = "pog_0487.png"
@@ -4898,6 +6842,10 @@ backface = "default"
 shiny = false
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0487.jpg"
+original = "pog_0487.png"
+
 
 [[items]]
 original = "pog_0488.png"
@@ -4908,6 +6856,10 @@ backface = "default"
 shiny = false
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0488.jpg"
+original = "pog_0488.png"
+
 
 [[items]]
 original = "pog_0489.png"
@@ -4918,6 +6870,10 @@ backface = "default"
 shiny = false
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0489.jpg"
+original = "pog_0489.png"
+
 
 [[items]]
 original = "pog_0490.png"
@@ -4928,6 +6884,10 @@ backface = "default"
 shiny = false
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0490.jpg"
+original = "pog_0490.png"
+
 
 [[items]]
 series = "comedy-store-yellow"
@@ -4938,6 +6898,10 @@ shiny = false
 original = "pog_0491.png"
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0491.jpg"
+original = "pog_0491.png"
+
 
 [[items]]
 original = "pog_0492.png"
@@ -4948,6 +6912,10 @@ backface = "default"
 shiny = false
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0492.jpg"
+original = "pog_0492.png"
+
 
 [[items]]
 original = "pog_0493.png"
@@ -4958,6 +6926,10 @@ backface = "default"
 shiny = false
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0493.jpg"
+original = "pog_0493.png"
+
 
 [[items]]
 original = "pog_0494.png"
@@ -4968,6 +6940,10 @@ backface = "default"
 shiny = false
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0494.jpg"
+original = "pog_0494.png"
+
 
 [[items]]
 original = "pog_0495.png"
@@ -4978,6 +6954,10 @@ backface = "default"
 shiny = false
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0495.jpg"
+original = "pog_0495.png"
+
 
 [[items]]
 original = "pog_0496.png"
@@ -4988,6 +6968,10 @@ backface = "default"
 shiny = false
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0496.jpg"
+original = "pog_0496.png"
+
 
 [[items]]
 original = "pog_0497.png"
@@ -4998,6 +6982,10 @@ backface = "default"
 shiny = false
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0497.jpg"
+original = "pog_0497.png"
+
 
 [[items]]
 original = "pog_0498.png"
@@ -5008,6 +6996,10 @@ backface = "default"
 shiny = false
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0498.jpg"
+original = "pog_0498.png"
+
 
 [[items]]
 original = "pog_0499.png"
@@ -5018,6 +7010,10 @@ backface = "default"
 shiny = false
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0499.jpg"
+original = "pog_0499.png"
+
 
 [[items]]
 original = "pog_0500.png"
@@ -5028,6 +7024,10 @@ backface = "default"
 shiny = false
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0500.jpg"
+original = "pog_0500.png"
+
 
 [[items]]
 series = "comedy-store-yellow"
@@ -5038,6 +7038,10 @@ shiny = false
 original = "pog_0501.png"
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0501.jpg"
+original = "pog_0501.png"
+
 
 [[items]]
 original = "pog_0502.png"
@@ -5048,6 +7052,10 @@ backface = "default"
 shiny = false
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0502.jpg"
+original = "pog_0502.png"
+
 
 [[items]]
 original = "pog_0503.png"
@@ -5058,6 +7066,10 @@ backface = "default"
 shiny = false
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0503.jpg"
+original = "pog_0503.png"
+
 
 [[items]]
 original = "pog_0504.png"
@@ -5068,6 +7080,10 @@ backface = "default"
 shiny = false
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0504.jpg"
+original = "pog_0504.png"
+
 
 [[items]]
 original = "pog_0505.png"
@@ -5078,6 +7094,10 @@ backface = "default"
 shiny = false
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0505.jpg"
+original = "pog_0505.png"
+
 
 [[items]]
 original = "pog_0506.png"
@@ -5088,6 +7108,10 @@ backface = "default"
 shiny = false
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0506.jpg"
+original = "pog_0506.png"
+
 
 [[items]]
 original = "pog_0507.png"
@@ -5098,6 +7122,10 @@ backface = "default"
 shiny = false
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0507.jpg"
+original = "pog_0507.png"
+
 
 [[items]]
 original = "pog_0508.png"
@@ -5108,6 +7136,10 @@ backface = "default"
 shiny = false
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0508.jpg"
+original = "pog_0508.png"
+
 
 [[items]]
 original = "pog_0509.png"
@@ -5118,6 +7150,10 @@ backface = "default"
 shiny = false
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0509.jpg"
+original = "pog_0509.png"
+
 
 [[items]]
 original = "pog_0510.png"
@@ -5128,6 +7164,10 @@ backface = "default"
 shiny = false
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0510.jpg"
+original = "pog_0510.png"
+
 
 [[items]]
 original = "pog_0511.png"
@@ -5138,6 +7178,10 @@ backface = "default"
 shiny = false
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0511.jpg"
+original = "pog_0511.png"
+
 
 [[items]]
 original = "pog_0512.png"
@@ -5148,6 +7192,10 @@ backface = "default"
 shiny = false
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0512.jpg"
+original = "pog_0512.png"
+
 
 [[items]]
 original = "pog_0513.png"
@@ -5158,6 +7206,10 @@ backface = "default"
 shiny = false
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0513.jpg"
+original = "pog_0513.png"
+
 
 [[items]]
 original = "pog_0514.png"
@@ -5168,6 +7220,10 @@ backface = "default"
 shiny = false
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0514.jpg"
+original = "pog_0514.png"
+
 
 [[items]]
 original = "pog_0515.png"
@@ -5178,6 +7234,10 @@ backface = "default"
 shiny = false
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0515.jpg"
+original = "pog_0515.png"
+
 
 [[items]]
 original = "pog_0516.png"
@@ -5188,6 +7248,10 @@ backface = "default"
 shiny = false
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0516.jpg"
+original = "pog_0516.png"
+
 
 [[items]]
 original = "pog_0517.png"
@@ -5198,6 +7262,10 @@ backface = "default"
 shiny = false
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0517.jpg"
+original = "pog_0517.png"
+
 
 [[items]]
 original = "pog_0518.png"
@@ -5208,6 +7276,10 @@ backface = "default"
 shiny = false
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0518.jpg"
+original = "pog_0518.png"
+
 
 [[items]]
 original = "pog_0519.png"
@@ -5218,6 +7290,10 @@ backface = "default"
 shiny = false
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0519.jpg"
+original = "pog_0519.png"
+
 
 [[items]]
 original = "pog_0520.png"
@@ -5228,6 +7304,10 @@ backface = "default"
 shiny = false
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0520.jpg"
+original = "pog_0520.png"
+
 
 [[items]]
 original = "pog_0521.png"
@@ -5238,6 +7318,10 @@ backface = "default"
 shiny = false
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0521.jpg"
+original = "pog_0521.png"
+
 
 [[items]]
 original = "pog_0522.png"
@@ -5248,6 +7332,10 @@ backface = "default"
 shiny = false
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0522.jpg"
+original = "pog_0522.png"
+
 
 [[items]]
 original = "pog_0523.png"
@@ -5258,6 +7346,10 @@ backface = "default"
 shiny = false
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0523.jpg"
+original = "pog_0523.png"
+
 
 [[items]]
 original = "pog_0524.png"
@@ -5268,6 +7360,10 @@ backface = "default"
 shiny = false
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0524.jpg"
+original = "pog_0524.png"
+
 
 [[items]]
 original = "pog_0525.png"
@@ -5278,6 +7374,10 @@ backface = "default"
 shiny = false
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0525.jpg"
+original = "pog_0525.png"
+
 
 [[items]]
 original = "pog_0526.png"
@@ -5288,6 +7388,10 @@ backface = "default"
 shiny = false
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0526.jpg"
+original = "pog_0526.png"
+
 
 [[items]]
 original = "pog_0527.png"
@@ -5298,6 +7402,10 @@ backface = "default"
 shiny = false
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0527.jpg"
+original = "pog_0527.png"
+
 
 [[items]]
 original = "pog_0528.png"
@@ -5308,6 +7416,10 @@ backface = "default"
 shiny = false
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0528.jpg"
+original = "pog_0528.png"
+
 
 [[items]]
 original = "pog_0529.png"
@@ -5318,6 +7430,10 @@ backface = "default"
 shiny = false
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0529.jpg"
+original = "pog_0529.png"
+
 
 [[items]]
 original = "pog_0530.png"
@@ -5328,6 +7444,10 @@ backface = "default"
 shiny = false
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0530.jpg"
+original = "pog_0530.png"
+
 
 [[items]]
 original = "pog_0531.png"
@@ -5338,6 +7458,10 @@ backface = "default"
 shiny = false
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0531.jpg"
+original = "pog_0531.png"
+
 
 [[items]]
 original = "pog_0532.png"
@@ -5348,6 +7472,10 @@ backface = "default"
 shiny = false
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0532.jpg"
+original = "pog_0532.png"
+
 
 [[items]]
 original = "pog_0533.png"
@@ -5358,6 +7486,10 @@ backface = "default"
 shiny = false
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0533.jpg"
+original = "pog_0533.png"
+
 
 [[items]]
 original = "pog_0534.png"
@@ -5368,6 +7500,10 @@ backface = "default"
 shiny = false
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0534.jpg"
+original = "pog_0534.png"
+
 
 [[items]]
 original = "pog_0535.png"
@@ -5378,6 +7514,10 @@ backface = "default"
 shiny = false
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0535.jpg"
+original = "pog_0535.png"
+
 
 [[items]]
 original = "pog_0536.png"
@@ -5388,6 +7528,10 @@ backface = "default"
 shiny = false
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0536.jpg"
+original = "pog_0536.png"
+
 
 [[items]]
 original = "pog_0537.png"
@@ -5398,6 +7542,10 @@ backface = "default"
 shiny = false
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0537.jpg"
+original = "pog_0537.png"
+
 
 [[items]]
 original = "pog_0538.png"
@@ -5408,6 +7556,10 @@ backface = "default"
 shiny = false
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0538.jpg"
+original = "pog_0538.png"
+
 
 [[items]]
 original = "pog_0539.png"
@@ -5418,6 +7570,10 @@ backface = "default"
 shiny = false
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0539.jpg"
+original = "pog_0539.png"
+
 
 [[items]]
 original = "pog_0540.png"
@@ -5428,6 +7584,10 @@ backface = "default"
 shiny = false
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0540.jpg"
+original = "pog_0540.png"
+
 
 [[items]]
 original = "pog_0601.png"
@@ -5438,6 +7598,10 @@ backface = "default"
 shiny = true
 note = "**הערה:** בסדרת היקרים, אין סדר קבוע בין המספר לבין המדבקה שעל הפוג"
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0601.jpg"
+original = "pog_0601.png"
+
 
 [[items]]
 original = "pog_0602.png"
@@ -5448,6 +7612,10 @@ backface = "default"
 shiny = true
 note = "**הערה:** בסדרת היקרים, אין סדר קבוע בין המספר לבין המדבקה שעל הפוג"
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0602.jpg"
+original = "pog_0602.png"
+
 
 [[items]]
 original = "pog_0603.png"
@@ -5458,6 +7626,10 @@ backface = "default"
 shiny = true
 note = "**הערה:** בסדרת היקרים, אין סדר קבוע בין המספר לבין המדבקה שעל הפוג"
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0603.jpg"
+original = "pog_0603.png"
+
 
 [[items]]
 original = "pog_0604.png"
@@ -5468,6 +7640,10 @@ backface = "default"
 shiny = true
 note = "**הערה:** בסדרת היקרים, אין סדר קבוע בין המספר לבין המדבקה שעל הפוג"
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0604.jpg"
+original = "pog_0604.png"
+
 
 [[items]]
 original = "pog_0605.png"
@@ -5478,6 +7654,10 @@ backface = "default"
 shiny = true
 note = "**הערה:** בסדרת היקרים, אין סדר קבוע בין המספר לבין המדבקה שעל הפוג"
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0605.jpg"
+original = "pog_0605.png"
+
 
 [[items]]
 original = "pog_0606.png"
@@ -5488,6 +7668,10 @@ backface = "default"
 shiny = true
 note = "**הערה:** בסדרת היקרים, אין סדר קבוע בין המספר לבין המדבקה שעל הפוג"
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0606.jpg"
+original = "pog_0606.png"
+
 
 [[items]]
 original = "pog_0607.png"
@@ -5498,6 +7682,10 @@ backface = "default"
 shiny = true
 note = "**הערה:** בסדרת היקרים, אין סדר קבוע בין המספר לבין המדבקה שעל הפוג"
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0607.jpg"
+original = "pog_0607.png"
+
 
 [[items]]
 original = "pog_0608.png"
@@ -5508,6 +7696,10 @@ backface = "default"
 shiny = true
 note = "**הערה:** בסדרת היקרים, אין סדר קבוע בין המספר לבין המדבקה שעל הפוג"
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0608.jpg"
+original = "pog_0608.png"
+
 
 [[items]]
 original = "pog_0609.png"
@@ -5518,6 +7710,10 @@ backface = "default"
 shiny = true
 note = "**הערה:** בסדרת היקרים, אין סדר קבוע בין המספר לבין המדבקה שעל הפוג"
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0609.jpg"
+original = "pog_0609.png"
+
 
 [[items]]
 original = "pog_0610.png"
@@ -5528,6 +7724,10 @@ backface = "default"
 shiny = true
 note = "**הערה:** בסדרת היקרים, אין סדר קבוע בין המספר לבין המדבקה שעל הפוג"
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0610.jpg"
+original = "pog_0610.png"
+
 
 [[items]]
 original = "pog_0611.png"
@@ -5538,6 +7738,10 @@ backface = "default"
 shiny = true
 note = "**הערה:** בסדרת היקרים, אין סדר קבוע בין המספר לבין המדבקה שעל הפוג"
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0611.jpg"
+original = "pog_0611.png"
+
 
 [[items]]
 original = "pog_0612.png"
@@ -5548,6 +7752,10 @@ backface = "default"
 shiny = true
 note = "**הערה:** בסדרת היקרים, אין סדר קבוע בין המספר לבין המדבקה שעל הפוג"
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0612.jpg"
+original = "pog_0612.png"
+
 
 [[items]]
 original = "pog_0613.png"
@@ -5558,6 +7766,10 @@ backface = "default"
 shiny = true
 note = "**הערה:** בסדרת היקרים, אין סדר קבוע בין המספר לבין המדבקה שעל הפוג"
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0613.jpg"
+original = "pog_0613.png"
+
 
 [[items]]
 original = "pog_0614.png"
@@ -5568,6 +7780,10 @@ backface = "default"
 shiny = true
 note = "**הערה:** בסדרת היקרים, אין סדר קבוע בין המספר לבין המדבקה שעל הפוג"
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0614.jpg"
+original = "pog_0614.png"
+
 
 [[items]]
 original = "pog_0615.png"
@@ -5578,6 +7794,10 @@ backface = "default"
 shiny = true
 note = "**הערה:** בסדרת היקרים, אין סדר קבוע בין המספר לבין המדבקה שעל הפוג"
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0615.jpg"
+original = "pog_0615.png"
+
 
 [[items]]
 original = "pog_0616.png"
@@ -5588,6 +7808,10 @@ backface = "default"
 shiny = true
 note = "**הערה:** בסדרת היקרים, אין סדר קבוע בין המספר לבין המדבקה שעל הפוג"
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0616.jpg"
+original = "pog_0616.png"
+
 
 [[items]]
 original = "pog_0617.png"
@@ -5598,6 +7822,10 @@ backface = "default"
 shiny = true
 note = "**הערה:** בסדרת היקרים, אין סדר קבוע בין המספר לבין המדבקה שעל הפוג"
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0617.jpg"
+original = "pog_0617.png"
+
 
 [[items]]
 original = "pog_0618.png"
@@ -5608,6 +7836,10 @@ backface = "default"
 shiny = true
 note = "**הערה:** בסדרת היקרים, אין סדר קבוע בין המספר לבין המדבקה שעל הפוג"
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0618.jpg"
+original = "pog_0618.png"
+
 
 [[items]]
 original = "pog_0619.png"
@@ -5618,6 +7850,10 @@ backface = "default"
 shiny = true
 note = "**הערה:** בסדרת היקרים, אין סדר קבוע בין המספר לבין המדבקה שעל הפוג"
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0619.jpg"
+original = "pog_0619.png"
+
 
 [[items]]
 original = "pog_0620.png"
@@ -5628,6 +7864,10 @@ backface = "default"
 shiny = true
 note = "**הערה:** בסדרת היקרים, אין סדר קבוע בין המספר לבין המדבקה שעל הפוג"
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0620.jpg"
+original = "pog_0620.png"
+
 
 [[items]]
 original = "pog_0621.png"
@@ -5638,6 +7878,10 @@ backface = "default"
 shiny = true
 note = "**הערה:** בסדרת היקרים, אין סדר קבוע בין המספר לבין המדבקה שעל הפוג"
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0621.jpg"
+original = "pog_0621.png"
+
 
 [[items]]
 original = "pog_0622.png"
@@ -5648,6 +7892,10 @@ backface = "default"
 shiny = true
 note = "**הערה:** בסדרת היקרים, אין סדר קבוע בין המספר לבין המדבקה שעל הפוג"
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0622.jpg"
+original = "pog_0622.png"
+
 
 [[items]]
 original = "pog_0623.png"
@@ -5658,6 +7906,10 @@ backface = "default"
 shiny = true
 note = "**הערה:** בסדרת היקרים, אין סדר קבוע בין המספר לבין המדבקה שעל הפוג"
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0623.jpg"
+original = "pog_0623.png"
+
 
 [[items]]
 original = "pog_0624.png"
@@ -5668,6 +7920,10 @@ backface = "default"
 shiny = true
 note = "**הערה:** בסדרת היקרים, אין סדר קבוע בין המספר לבין המדבקה שעל הפוג"
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0624.jpg"
+original = "pog_0624.png"
+
 
 [[items]]
 original = "pog_0625.png"
@@ -5678,6 +7934,10 @@ backface = "default"
 shiny = true
 note = "**הערה:** בסדרת היקרים, אין סדר קבוע בין המספר לבין המדבקה שעל הפוג"
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0625.jpg"
+original = "pog_0625.png"
+
 
 [[items]]
 original = "pog_0626.png"
@@ -5688,6 +7948,10 @@ backface = "default"
 shiny = true
 note = "**הערה:** בסדרת היקרים, אין סדר קבוע בין המספר לבין המדבקה שעל הפוג"
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0626.jpg"
+original = "pog_0626.png"
+
 
 [[items]]
 original = "pog_0627.png"
@@ -5698,6 +7962,10 @@ backface = "default"
 shiny = true
 note = "**הערה:** בסדרת היקרים, אין סדר קבוע בין המספר לבין המדבקה שעל הפוג"
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0627.jpg"
+original = "pog_0627.png"
+
 
 [[items]]
 original = "pog_0628.png"
@@ -5708,6 +7976,10 @@ backface = "default"
 shiny = true
 note = "**הערה:** בסדרת היקרים, אין סדר קבוע בין המספר לבין המדבקה שעל הפוג"
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0628.jpg"
+original = "pog_0628.png"
+
 
 [[items]]
 original = "pog_0629.png"
@@ -5718,6 +7990,10 @@ backface = "default"
 shiny = true
 note = "**הערה:** בסדרת היקרים, אין סדר קבוע בין המספר לבין המדבקה שעל הפוג"
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0629.jpg"
+original = "pog_0629.png"
+
 
 [[items]]
 original = "pog_0630.png"
@@ -5728,6 +8004,10 @@ backface = "default"
 shiny = true
 note = "**הערה:** בסדרת היקרים, אין סדר קבוע בין המספר לבין המדבקה שעל הפוג"
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0630.jpg"
+original = "pog_0630.png"
+
 
 [[items]]
 original = "pog_0631.png"
@@ -5738,6 +8018,10 @@ backface = "default"
 shiny = false
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0631.jpg"
+original = "pog_0631.png"
+
 
 [[items]]
 original = "pog_0632.png"
@@ -5748,6 +8032,10 @@ backface = "default"
 shiny = false
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0632.jpg"
+original = "pog_0632.png"
+
 
 [[items]]
 original = "pog_0633.png"
@@ -5758,6 +8046,10 @@ backface = "default"
 shiny = false
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0633.jpg"
+original = "pog_0633.png"
+
 
 [[items]]
 original = "pog_0634.png"
@@ -5768,6 +8060,10 @@ backface = "default"
 shiny = false
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0634.jpg"
+original = "pog_0634.png"
+
 
 [[items]]
 original = "pog_0635.png"
@@ -5778,6 +8074,10 @@ backface = "default"
 shiny = false
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0635.jpg"
+original = "pog_0635.png"
+
 
 [[items]]
 original = "pog_0636.png"
@@ -5788,6 +8088,10 @@ backface = "default"
 shiny = false
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0636.jpg"
+original = "pog_0636.png"
+
 
 [[items]]
 original = "pog_0637.png"
@@ -5798,6 +8102,10 @@ backface = "default"
 shiny = false
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0637.jpg"
+original = "pog_0637.png"
+
 
 [[items]]
 original = "pog_0638.png"
@@ -5808,6 +8116,10 @@ backface = "default"
 shiny = false
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0638.jpg"
+original = "pog_0638.png"
+
 
 [[items]]
 original = "pog_0639.png"
@@ -5818,6 +8130,10 @@ backface = "default"
 shiny = false
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0639.jpg"
+original = "pog_0639.png"
+
 
 [[items]]
 original = "pog_0640.png"
@@ -5828,6 +8144,10 @@ backface = "default"
 shiny = false
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0640.jpg"
+original = "pog_0640.png"
+
 
 [[items]]
 original = "pog_0641.png"
@@ -5838,6 +8158,10 @@ backface = "default"
 shiny = false
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0641.jpg"
+original = "pog_0641.png"
+
 
 [[items]]
 original = "pog_0642.png"
@@ -5848,6 +8172,10 @@ backface = "default"
 shiny = false
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0642.jpg"
+original = "pog_0642.png"
+
 
 [[items]]
 original = "pog_0643.png"
@@ -5858,6 +8186,10 @@ backface = "default"
 shiny = false
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0643.jpg"
+original = "pog_0643.png"
+
 
 [[items]]
 original = "pog_0644.png"
@@ -5868,6 +8200,10 @@ backface = "default"
 shiny = false
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0644.jpg"
+original = "pog_0644.png"
+
 
 [[items]]
 original = "pog_0645.png"
@@ -5878,6 +8214,10 @@ backface = "default"
 shiny = false
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0645.jpg"
+original = "pog_0645.png"
+
 
 [[items]]
 original = "pog_0646.png"
@@ -5888,6 +8228,10 @@ backface = "default"
 shiny = false
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0646.jpg"
+original = "pog_0646.png"
+
 
 [[items]]
 original = "pog_0647.png"
@@ -5898,6 +8242,10 @@ backface = "default"
 shiny = false
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0647.jpg"
+original = "pog_0647.png"
+
 
 [[items]]
 original = "pog_0648.png"
@@ -5908,6 +8256,10 @@ backface = "default"
 shiny = false
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0648.jpg"
+original = "pog_0648.png"
+
 
 [[items]]
 original = "pog_0649.png"
@@ -5918,6 +8270,10 @@ backface = "default"
 shiny = false
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0649.jpg"
+original = "pog_0649.png"
+
 
 [[items]]
 original = "pog_0650.png"
@@ -5928,6 +8284,10 @@ backface = "default"
 shiny = false
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0650.jpg"
+original = "pog_0650.png"
+
 
 [[items]]
 series = "crazies"
@@ -5938,6 +8298,10 @@ shiny = false
 original = "pog_0651.png"
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0651.jpg"
+original = "pog_0651.png"
+
 
 [[items]]
 original = "pog_0652.png"
@@ -5948,6 +8312,10 @@ backface = "default"
 shiny = false
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0652.jpg"
+original = "pog_0652.png"
+
 
 [[items]]
 original = "pog_0653.png"
@@ -5958,6 +8326,10 @@ backface = "default"
 shiny = false
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0653.jpg"
+original = "pog_0653.png"
+
 
 [[items]]
 original = "pog_0654.png"
@@ -5968,6 +8340,10 @@ backface = "default"
 shiny = false
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0654.jpg"
+original = "pog_0654.png"
+
 
 [[items]]
 original = "pog_0655.png"
@@ -5978,6 +8354,10 @@ backface = "default"
 shiny = false
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0655.jpg"
+original = "pog_0655.png"
+
 
 [[items]]
 original = "pog_0656.png"
@@ -5988,6 +8368,10 @@ backface = "default"
 shiny = false
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0656.jpg"
+original = "pog_0656.png"
+
 
 [[items]]
 original = "pog_0657.png"
@@ -5998,6 +8382,10 @@ backface = "default"
 shiny = false
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0657.jpg"
+original = "pog_0657.png"
+
 
 [[items]]
 original = "pog_0658.png"
@@ -6008,6 +8396,10 @@ backface = "default"
 shiny = false
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0658.jpg"
+original = "pog_0658.png"
+
 
 [[items]]
 original = "pog_0659.png"
@@ -6018,6 +8410,10 @@ backface = "default"
 shiny = false
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0659.jpg"
+original = "pog_0659.png"
+
 
 [[items]]
 original = "pog_0660.png"
@@ -6028,6 +8424,10 @@ backface = "default"
 shiny = false
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0660.jpg"
+original = "pog_0660.png"
+
 
 [[items]]
 original = "pog_0721.png"
@@ -6038,6 +8438,10 @@ backface = "uwf"
 shiny = false
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0721.jpg"
+original = "pog_0721.png"
+
 
 [[items]]
 original = "pog_0722.png"
@@ -6048,6 +8452,10 @@ backface = "uwf"
 shiny = false
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0722.jpg"
+original = "pog_0722.png"
+
 
 [[items]]
 original = "pog_0723.png"
@@ -6058,6 +8466,10 @@ backface = "uwf"
 shiny = false
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0723.jpg"
+original = "pog_0723.png"
+
 
 [[items]]
 original = "pog_0724.png"
@@ -6068,6 +8480,10 @@ backface = "uwf"
 shiny = false
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0724.jpg"
+original = "pog_0724.png"
+
 
 [[items]]
 original = "pog_0725.png"
@@ -6078,6 +8494,10 @@ backface = "uwf"
 shiny = false
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0725.jpg"
+original = "pog_0725.png"
+
 
 [[items]]
 original = "pog_0726.png"
@@ -6088,6 +8508,10 @@ backface = "uwf"
 shiny = false
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0726.jpg"
+original = "pog_0726.png"
+
 
 [[items]]
 original = "pog_0727.png"
@@ -6098,6 +8522,10 @@ backface = "uwf"
 shiny = false
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0727.jpg"
+original = "pog_0727.png"
+
 
 [[items]]
 original = "pog_0728.png"
@@ -6108,6 +8536,10 @@ backface = "uwf"
 shiny = false
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0728.jpg"
+original = "pog_0728.png"
+
 
 [[items]]
 original = "pog_0729.png"
@@ -6118,6 +8550,10 @@ backface = "uwf"
 shiny = false
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0729.jpg"
+original = "pog_0729.png"
+
 
 [[items]]
 original = "pog_0730.png"
@@ -6128,6 +8564,10 @@ backface = "uwf"
 shiny = false
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0730.jpg"
+original = "pog_0730.png"
+
 
 [[items]]
 original = "pog_0731.png"
@@ -6138,6 +8578,10 @@ backface = "uwf"
 shiny = false
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0731.jpg"
+original = "pog_0731.png"
+
 
 [[items]]
 original = "pog_0732.png"
@@ -6148,6 +8592,10 @@ backface = "uwf"
 shiny = false
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0732.jpg"
+original = "pog_0732.png"
+
 
 [[items]]
 original = "pog_0733.png"
@@ -6158,6 +8606,10 @@ backface = "uwf"
 shiny = false
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0733.jpg"
+original = "pog_0733.png"
+
 
 [[items]]
 original = "pog_0734.png"
@@ -6168,6 +8620,10 @@ backface = "uwf"
 shiny = false
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0734.jpg"
+original = "pog_0734.png"
+
 
 [[items]]
 original = "pog_0735.png"
@@ -6178,6 +8634,10 @@ backface = "uwf"
 shiny = false
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0735.jpg"
+original = "pog_0735.png"
+
 
 [[items]]
 original = "pog_0736.png"
@@ -6188,6 +8648,10 @@ backface = "uwf"
 shiny = false
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0736.jpg"
+original = "pog_0736.png"
+
 
 [[items]]
 original = "pog_0737.png"
@@ -6198,6 +8662,10 @@ backface = "uwf"
 shiny = false
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0737.jpg"
+original = "pog_0737.png"
+
 
 [[items]]
 original = "pog_0738.png"
@@ -6208,6 +8676,10 @@ backface = "uwf"
 shiny = false
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0738.jpg"
+original = "pog_0738.png"
+
 
 [[items]]
 original = "pog_0739.png"
@@ -6218,6 +8690,10 @@ backface = "uwf"
 shiny = false
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0739.jpg"
+original = "pog_0739.png"
+
 
 [[items]]
 original = "pog_0740.png"
@@ -6228,6 +8704,10 @@ backface = "uwf"
 shiny = false
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0740.jpg"
+original = "pog_0740.png"
+
 
 [[items]]
 original = "pog_0741.png"
@@ -6238,6 +8718,10 @@ backface = "uwf"
 shiny = false
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0741.jpg"
+original = "pog_0741.png"
+
 
 [[items]]
 original = "pog_0742.png"
@@ -6248,6 +8732,10 @@ backface = "uwf"
 shiny = false
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0742.jpg"
+original = "pog_0742.png"
+
 
 [[items]]
 original = "pog_0743.png"
@@ -6258,6 +8746,10 @@ backface = "uwf"
 shiny = false
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0743.jpg"
+original = "pog_0743.png"
+
 
 [[items]]
 original = "pog_0744.png"
@@ -6268,6 +8760,10 @@ backface = "uwf"
 shiny = false
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0744.jpg"
+original = "pog_0744.png"
+
 
 [[items]]
 original = "pog_0745.png"
@@ -6278,6 +8774,10 @@ backface = "uwf"
 shiny = false
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0745.jpg"
+original = "pog_0745.png"
+
 
 [[items]]
 original = "pog_0746.png"
@@ -6288,6 +8788,10 @@ backface = "uwf"
 shiny = false
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0746.jpg"
+original = "pog_0746.png"
+
 
 [[items]]
 original = "pog_0747.png"
@@ -6298,6 +8802,10 @@ backface = "uwf"
 shiny = false
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0747.jpg"
+original = "pog_0747.png"
+
 
 [[items]]
 original = "pog_0748.png"
@@ -6308,6 +8816,10 @@ backface = "uwf"
 shiny = false
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0748.jpg"
+original = "pog_0748.png"
+
 
 [[items]]
 original = "pog_0749.png"
@@ -6318,6 +8830,10 @@ backface = "uwf"
 shiny = false
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0749.jpg"
+original = "pog_0749.png"
+
 
 [[items]]
 original = "pog_0750.png"
@@ -6328,6 +8844,10 @@ backface = "uwf"
 shiny = false
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0750.jpg"
+original = "pog_0750.png"
+
 
 [[items]]
 original = "pog_0751.png"
@@ -6338,6 +8858,10 @@ backface = "uwf"
 shiny = false
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0751.jpg"
+original = "pog_0751.png"
+
 
 [[items]]
 series = "bushido-green"
@@ -6348,6 +8872,10 @@ shiny = false
 original = "pog_0752.png"
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0752.jpg"
+original = "pog_0752.png"
+
 
 [[items]]
 original = "pog_0753.png"
@@ -6358,6 +8886,10 @@ backface = "uwf"
 shiny = false
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0753.jpg"
+original = "pog_0753.png"
+
 
 [[items]]
 series = "bushido-green"
@@ -6368,6 +8900,10 @@ shiny = false
 preview = "pog_0754.jpg"
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0754.jpg"
+original = "pog_0754.png"
+
 
 [[items]]
 original = "pog_0755.png"
@@ -6378,6 +8914,10 @@ backface = "uwf"
 shiny = false
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0755.jpg"
+original = "pog_0755.png"
+
 
 [[items]]
 original = "pog_0756.png"
@@ -6388,6 +8928,10 @@ backface = "uwf"
 shiny = false
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0756.jpg"
+original = "pog_0756.png"
+
 
 [[items]]
 original = "pog_0757.png"
@@ -6398,6 +8942,10 @@ backface = "uwf"
 shiny = false
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0757.jpg"
+original = "pog_0757.png"
+
 
 [[items]]
 original = "pog_0758.png"
@@ -6408,6 +8956,10 @@ backface = "uwf"
 shiny = false
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0758.jpg"
+original = "pog_0758.png"
+
 
 [[items]]
 original = "pog_0759.png"
@@ -6418,6 +8970,10 @@ backface = "uwf"
 shiny = false
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0759.jpg"
+original = "pog_0759.png"
+
 
 [[items]]
 original = "pog_0760.png"
@@ -6428,6 +8984,10 @@ backface = "uwf"
 shiny = false
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0760.jpg"
+original = "pog_0760.png"
+
 
 [[items]]
 original = "pog_0761.png"
@@ -6438,6 +8998,10 @@ backface = "uwf"
 shiny = false
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0761.jpg"
+original = "pog_0761.png"
+
 
 [[items]]
 original = "pog_0762.png"
@@ -6448,6 +9012,10 @@ backface = "uwf"
 shiny = false
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0762.jpg"
+original = "pog_0762.png"
+
 
 [[items]]
 original = "pog_0763.png"
@@ -6458,6 +9026,10 @@ backface = "uwf"
 shiny = false
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0763.jpg"
+original = "pog_0763.png"
+
 
 [[items]]
 original = "pog_0764.png"
@@ -6468,6 +9040,10 @@ backface = "uwf"
 shiny = false
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0764.jpg"
+original = "pog_0764.png"
+
 
 [[items]]
 original = "pog_0765.png"
@@ -6478,6 +9054,10 @@ backface = "uwf"
 shiny = false
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0765.jpg"
+original = "pog_0765.png"
+
 
 [[items]]
 original = "pog_0766.png"
@@ -6488,6 +9068,10 @@ backface = "uwf"
 shiny = false
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0766.jpg"
+original = "pog_0766.png"
+
 
 [[items]]
 original = "pog_0767.png"
@@ -6498,6 +9082,10 @@ backface = "uwf"
 shiny = false
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0767.jpg"
+original = "pog_0767.png"
+
 
 [[items]]
 original = "pog_0768.png"
@@ -6508,6 +9096,10 @@ backface = "uwf"
 shiny = false
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0768.jpg"
+original = "pog_0768.png"
+
 
 [[items]]
 original = "pog_0769.png"
@@ -6518,6 +9110,10 @@ backface = "uwf"
 shiny = false
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0769.jpg"
+original = "pog_0769.png"
+
 
 [[items]]
 original = "pog_0770.png"
@@ -6528,6 +9124,10 @@ backface = "uwf"
 shiny = false
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0770.jpg"
+original = "pog_0770.png"
+
 
 [[items]]
 original = "pog_0771.png"
@@ -6538,6 +9138,10 @@ backface = "uwf"
 shiny = false
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0771.jpg"
+original = "pog_0771.png"
+
 
 [[items]]
 original = "pog_0772.png"
@@ -6548,6 +9152,10 @@ backface = "uwf"
 shiny = false
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0772.jpg"
+original = "pog_0772.png"
+
 
 [[items]]
 original = "pog_0773.png"
@@ -6558,6 +9166,10 @@ backface = "uwf"
 shiny = false
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0773.jpg"
+original = "pog_0773.png"
+
 
 [[items]]
 series = "bushido-green"
@@ -6568,6 +9180,10 @@ shiny = false
 original = "pog_0774.png"
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0774.jpg"
+original = "pog_0774.png"
+
 
 [[items]]
 original = "pog_0775.png"
@@ -6578,6 +9194,10 @@ backface = "uwf"
 shiny = false
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0775.jpg"
+original = "pog_0775.png"
+
 
 [[items]]
 original = "pog_0776.png"
@@ -6588,6 +9208,10 @@ backface = "uwf"
 shiny = false
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0776.jpg"
+original = "pog_0776.png"
+
 
 [[items]]
 original = "pog_0777.png"
@@ -6598,6 +9222,10 @@ backface = "uwf"
 shiny = false
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0777.jpg"
+original = "pog_0777.png"
+
 
 [[items]]
 number = 778
@@ -6609,6 +9237,10 @@ original = "pog_0778.png"
 missing = false
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0778.jpg"
+original = "pog_0778.png"
+
 
 [[items]]
 original = "pog_0779.png"
@@ -6619,6 +9251,10 @@ backface = "uwf"
 shiny = false
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0779.jpg"
+original = "pog_0779.png"
+
 
 [[items]]
 original = "pog_0780.png"
@@ -6629,6 +9265,10 @@ backface = "uwf"
 shiny = false
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0780.jpg"
+original = "pog_0780.png"
+
 
 [[items]]
 original = "pog_0781.png"
@@ -6638,6 +9278,10 @@ series = "yellow"
 backface = "default"
 shiny = false
 note = ""
+[[items.frontfaces]]
+preview = "pog_0781.jpg"
+original = "pog_0781.png"
+
 
 [[items]]
 original = "pog_0782.png"
@@ -6648,6 +9292,10 @@ backface = "default"
 shiny = false
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0782.jpg"
+original = "pog_0782.png"
+
 
 [[items]]
 original = "pog_0783.png"
@@ -6658,6 +9306,10 @@ backface = "default"
 shiny = false
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0783.jpg"
+original = "pog_0783.png"
+
 
 [[items]]
 original = "pog_0784.png"
@@ -6668,6 +9320,10 @@ backface = "default"
 shiny = false
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0784.jpg"
+original = "pog_0784.png"
+
 
 [[items]]
 original = "pog_0785.png"
@@ -6678,6 +9334,10 @@ backface = "default"
 shiny = false
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0785.jpg"
+original = "pog_0785.png"
+
 
 [[items]]
 original = "pog_0786.png"
@@ -6687,6 +9347,10 @@ series = "yellow"
 backface = "default"
 shiny = false
 note = ""
+[[items.frontfaces]]
+preview = "pog_0786.jpg"
+original = "pog_0786.png"
+
 
 [[items]]
 original = "pog_0787.png"
@@ -6697,6 +9361,10 @@ backface = "default"
 shiny = false
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0787.jpg"
+original = "pog_0787.png"
+
 
 [[items]]
 number = 788
@@ -6708,6 +9376,10 @@ original = "missing.svg"
 missing = true
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "missing.svg"
+original = "missing.svg"
+
 
 [[items]]
 original = "pog_0789.png"
@@ -6717,6 +9389,10 @@ series = "yellow"
 backface = "default"
 shiny = false
 note = ""
+[[items.frontfaces]]
+preview = "pog_0789.jpg"
+original = "pog_0789.png"
+
 
 [[items]]
 original = "pog_0790.png"
@@ -6727,6 +9403,10 @@ backface = "default"
 shiny = false
 note = "**הערה:** הטעות במספר המודפס הינה במקור"
 number_override = 710
+[[items.frontfaces]]
+preview = "pog_0790.jpg"
+original = "pog_0790.png"
+
 
 [[items]]
 original = "pog_0791.png"
@@ -6737,6 +9417,10 @@ backface = "default"
 shiny = false
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0791.jpg"
+original = "pog_0791.png"
+
 
 [[items]]
 number = 792
@@ -6748,6 +9432,10 @@ original = "missing.svg"
 missing = true
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "missing.svg"
+original = "missing.svg"
+
 
 [[items]]
 original = "pog_0793.png"
@@ -6758,6 +9446,10 @@ backface = "default"
 shiny = false
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0793.jpg"
+original = "pog_0793.png"
+
 
 [[items]]
 original = "pog_0794.png"
@@ -6768,6 +9460,10 @@ backface = "default"
 shiny = false
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0794.jpg"
+original = "pog_0794.png"
+
 
 [[items]]
 original = "pog_0795.png"
@@ -6778,6 +9474,10 @@ backface = "default"
 shiny = false
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0795.jpg"
+original = "pog_0795.png"
+
 
 [[items]]
 original = "pog_0796.png"
@@ -6788,6 +9488,10 @@ backface = "default"
 shiny = false
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0796.jpg"
+original = "pog_0796.png"
+
 
 [[items]]
 number = 797
@@ -6799,6 +9503,10 @@ original = "missing.svg"
 missing = true
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "missing.svg"
+original = "missing.svg"
+
 
 [[items]]
 original = "pog_0798.png"
@@ -6809,6 +9517,10 @@ backface = "default"
 shiny = false
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0798.jpg"
+original = "pog_0798.png"
+
 
 [[items]]
 original = "pog_0799.png"
@@ -6819,6 +9531,10 @@ backface = "default"
 shiny = false
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0799.jpg"
+original = "pog_0799.png"
+
 
 [[items]]
 original = "pog_0800.png"
@@ -6829,6 +9545,10 @@ backface = "default"
 shiny = false
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0800.jpg"
+original = "pog_0800.png"
+
 
 [[items]]
 original = "pog_0801.png"
@@ -6839,6 +9559,10 @@ backface = "default"
 shiny = false
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0801.jpg"
+original = "pog_0801.png"
+
 
 [[items]]
 original = "pog_0802.png"
@@ -6849,6 +9573,10 @@ backface = "default"
 shiny = false
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0802.jpg"
+original = "pog_0802.png"
+
 
 [[items]]
 original = "pog_0803.png"
@@ -6859,6 +9587,10 @@ backface = "default"
 shiny = false
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0803.jpg"
+original = "pog_0803.png"
+
 
 [[items]]
 original = "pog_0804.png"
@@ -6868,6 +9600,10 @@ series = "yellow"
 backface = "default"
 shiny = false
 note = ""
+[[items.frontfaces]]
+preview = "pog_0804.jpg"
+original = "pog_0804.png"
+
 
 [[items]]
 original = "pog_0805.png"
@@ -6878,6 +9614,10 @@ backface = "default"
 shiny = false
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0805.jpg"
+original = "pog_0805.png"
+
 
 [[items]]
 original = "pog_0806.png"
@@ -6888,6 +9628,10 @@ backface = "default"
 shiny = false
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0806.jpg"
+original = "pog_0806.png"
+
 
 [[items]]
 original = "pog_0807.png"
@@ -6898,6 +9642,10 @@ backface = "default"
 shiny = false
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0807.jpg"
+original = "pog_0807.png"
+
 
 [[items]]
 original = "pog_0808.png"
@@ -6907,6 +9655,10 @@ series = "yellow"
 backface = "default"
 shiny = false
 note = ""
+[[items.frontfaces]]
+preview = "pog_0808.jpg"
+original = "pog_0808.png"
+
 
 [[items]]
 number = 809
@@ -6918,6 +9670,10 @@ original = "missing.svg"
 missing = true
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "missing.svg"
+original = "missing.svg"
+
 
 [[items]]
 original = "pog_0810.png"
@@ -6928,6 +9684,10 @@ backface = "default"
 shiny = false
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0810.jpg"
+original = "pog_0810.png"
+
 
 [[items]]
 original = "pog_0811.png"
@@ -6938,6 +9698,10 @@ backface = "default"
 shiny = false
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0811.jpg"
+original = "pog_0811.png"
+
 
 [[items]]
 original = "pog_0812.png"
@@ -6948,6 +9712,10 @@ backface = "default"
 shiny = false
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0812.jpg"
+original = "pog_0812.png"
+
 
 [[items]]
 original = "pog_0813.png"
@@ -6958,6 +9726,10 @@ backface = "default"
 shiny = false
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0813.jpg"
+original = "pog_0813.png"
+
 
 [[items]]
 original = "pog_0814.png"
@@ -6968,6 +9740,10 @@ backface = "default"
 shiny = false
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0814.jpg"
+original = "pog_0814.png"
+
 
 [[items]]
 original = "pog_0815.png"
@@ -6978,6 +9754,10 @@ backface = "default"
 shiny = false
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0815.jpg"
+original = "pog_0815.png"
+
 
 [[items]]
 original = "pog_0816.png"
@@ -6988,6 +9768,10 @@ backface = "default"
 shiny = false
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0816.jpg"
+original = "pog_0816.png"
+
 
 [[items]]
 original = "pog_0817.png"
@@ -6998,6 +9782,10 @@ backface = "default"
 shiny = false
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0817.jpg"
+original = "pog_0817.png"
+
 
 [[items]]
 original = "pog_0818.png"
@@ -7008,6 +9796,10 @@ backface = "default"
 shiny = false
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0818.jpg"
+original = "pog_0818.png"
+
 
 [[items]]
 original = "pog_0819.png"
@@ -7018,6 +9810,10 @@ backface = "default"
 shiny = false
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0819.jpg"
+original = "pog_0819.png"
+
 
 [[items]]
 original = "pog_0820.png"
@@ -7028,6 +9824,10 @@ backface = "default"
 shiny = false
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0820.jpg"
+original = "pog_0820.png"
+
 
 [[items]]
 original = "pog_0821.png"
@@ -7038,6 +9838,10 @@ backface = "default"
 shiny = false
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0821.jpg"
+original = "pog_0821.png"
+
 
 [[items]]
 original = "pog_0822.png"
@@ -7048,6 +9852,10 @@ backface = "default"
 shiny = false
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0822.jpg"
+original = "pog_0822.png"
+
 
 [[items]]
 original = "pog_0823.png"
@@ -7058,6 +9866,10 @@ backface = "default"
 shiny = false
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0823.jpg"
+original = "pog_0823.png"
+
 
 [[items]]
 original = "pog_0824.png"
@@ -7068,6 +9880,10 @@ backface = "default"
 shiny = false
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0824.jpg"
+original = "pog_0824.png"
+
 
 [[items]]
 original = "pog_0825.png"
@@ -7078,6 +9894,10 @@ backface = "default"
 shiny = false
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0825.jpg"
+original = "pog_0825.png"
+
 
 [[items]]
 original = "pog_0826.png"
@@ -7088,6 +9908,10 @@ backface = "default"
 shiny = false
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0826.jpg"
+original = "pog_0826.png"
+
 
 [[items]]
 original = "pog_0827.png"
@@ -7098,6 +9922,10 @@ backface = "default"
 shiny = false
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0827.jpg"
+original = "pog_0827.png"
+
 
 [[items]]
 series = "road-safety"
@@ -7108,6 +9936,10 @@ shiny = false
 original = "pog_0828.png"
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0828.jpg"
+original = "pog_0828.png"
+
 
 [[items]]
 original = "pog_0829.png"
@@ -7118,6 +9950,10 @@ backface = "default"
 shiny = false
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0829.jpg"
+original = "pog_0829.png"
+
 
 [[items]]
 original = "pog_0830.png"
@@ -7128,6 +9964,10 @@ backface = "default"
 shiny = false
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0830.jpg"
+original = "pog_0830.png"
+
 
 [[items]]
 original = "pog_0831.png"
@@ -7138,6 +9978,10 @@ backface = "default"
 shiny = false
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0831.jpg"
+original = "pog_0831.png"
+
 
 [[items]]
 original = "pog_0832.png"
@@ -7148,6 +9992,10 @@ backface = "default"
 shiny = false
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0832.jpg"
+original = "pog_0832.png"
+
 
 [[items]]
 original = "pog_0833.png"
@@ -7158,6 +10006,10 @@ backface = "default"
 shiny = false
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0833.jpg"
+original = "pog_0833.png"
+
 
 [[items]]
 original = "pog_0834.png"
@@ -7168,6 +10020,10 @@ backface = "default"
 shiny = false
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0834.jpg"
+original = "pog_0834.png"
+
 
 [[items]]
 original = "pog_0835.png"
@@ -7178,6 +10034,10 @@ backface = "default"
 shiny = false
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0835.jpg"
+original = "pog_0835.png"
+
 
 [[items]]
 series = "road-safety"
@@ -7188,6 +10048,10 @@ shiny = false
 original = "pog_0836.png"
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0836.jpg"
+original = "pog_0836.png"
+
 
 [[items]]
 original = "pog_0837.png"
@@ -7198,6 +10062,10 @@ backface = "default"
 shiny = false
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0837.jpg"
+original = "pog_0837.png"
+
 
 [[items]]
 original = "pog_0838.png"
@@ -7208,6 +10076,10 @@ backface = "default"
 shiny = false
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0838.jpg"
+original = "pog_0838.png"
+
 
 [[items]]
 number = 839
@@ -7219,6 +10091,10 @@ original = "pog_0839.png"
 missing = false
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0839.jpg"
+original = "pog_0839.png"
+
 
 [[items]]
 original = "pog_0840.png"
@@ -7229,6 +10105,10 @@ backface = "default"
 shiny = false
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_0840.jpg"
+original = "pog_0840.png"
+
 
 [[items]]
 original = "pog_1001.png"
@@ -7239,6 +10119,10 @@ backface = "horospog"
 shiny = false
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_1001.jpg"
+original = "pog_1001.png"
+
 
 [[items]]
 original = "pog_1002.png"
@@ -7249,6 +10133,10 @@ backface = "horospog"
 shiny = false
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_1002.jpg"
+original = "pog_1002.png"
+
 
 [[items]]
 original = "pog_1003.png"
@@ -7259,6 +10147,10 @@ backface = "horospog"
 shiny = false
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_1003.jpg"
+original = "pog_1003.png"
+
 
 [[items]]
 original = "pog_1004.png"
@@ -7269,6 +10161,10 @@ backface = "horospog"
 shiny = false
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_1004.jpg"
+original = "pog_1004.png"
+
 
 [[items]]
 original = "pog_1005.png"
@@ -7279,6 +10175,10 @@ backface = "horospog"
 shiny = false
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_1005.jpg"
+original = "pog_1005.png"
+
 
 [[items]]
 original = "pog_1006.png"
@@ -7289,6 +10189,10 @@ backface = "horospog"
 shiny = false
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_1006.jpg"
+original = "pog_1006.png"
+
 
 [[items]]
 original = "pog_1007.png"
@@ -7299,6 +10203,10 @@ backface = "horospog"
 shiny = false
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_1007.jpg"
+original = "pog_1007.png"
+
 
 [[items]]
 original = "pog_1008.png"
@@ -7309,6 +10217,10 @@ backface = "horospog"
 shiny = false
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_1008.jpg"
+original = "pog_1008.png"
+
 
 [[items]]
 original = "pog_1009.png"
@@ -7319,6 +10231,10 @@ backface = "horospog"
 shiny = false
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_1009.jpg"
+original = "pog_1009.png"
+
 
 [[items]]
 original = "pog_1010.png"
@@ -7329,6 +10245,10 @@ backface = "horospog"
 shiny = false
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_1010.jpg"
+original = "pog_1010.png"
+
 
 [[items]]
 original = "pog_1011.png"
@@ -7339,6 +10259,10 @@ backface = "horospog"
 shiny = false
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_1011.jpg"
+original = "pog_1011.png"
+
 
 [[items]]
 series = "horospog"
@@ -7349,6 +10273,10 @@ shiny = false
 original = "pog_1012.png"
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_1012.jpg"
+original = "pog_1012.png"
+
 
 [[items]]
 series = "horospog"
@@ -7359,6 +10287,10 @@ shiny = false
 original = "pog_1013.png"
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_1013.jpg"
+original = "pog_1013.png"
+
 
 [[items]]
 series = "horospog"
@@ -7369,6 +10301,10 @@ shiny = false
 original = "pog_1014.png"
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_1014.jpg"
+original = "pog_1014.png"
+
 
 [[items]]
 series = "horospog"
@@ -7379,6 +10315,10 @@ shiny = false
 original = "pog_1015.png"
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_1015.jpg"
+original = "pog_1015.png"
+
 
 [[items]]
 original = "pog_1016.png"
@@ -7389,6 +10329,10 @@ backface = "horospog"
 shiny = false
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_1016.jpg"
+original = "pog_1016.png"
+
 
 [[items]]
 original = "pog_1017.png"
@@ -7399,6 +10343,10 @@ backface = "horospog"
 shiny = false
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_1017.jpg"
+original = "pog_1017.png"
+
 
 [[items]]
 series = "horospog"
@@ -7409,6 +10357,10 @@ shiny = false
 original = "pog_1018.png"
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_1018.jpg"
+original = "pog_1018.png"
+
 
 [[items]]
 series = "horospog"
@@ -7419,6 +10371,10 @@ shiny = false
 original = "pog_1019.png"
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_1019.jpg"
+original = "pog_1019.png"
+
 
 [[items]]
 series = "horospog"
@@ -7429,6 +10385,10 @@ shiny = false
 original = "pog_1020.png"
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_1020.jpg"
+original = "pog_1020.png"
+
 
 [[items]]
 original = "pog_1021.png"
@@ -7439,6 +10399,10 @@ backface = "horospog"
 shiny = false
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_1021.jpg"
+original = "pog_1021.png"
+
 
 [[items]]
 series = "horospog"
@@ -7449,6 +10413,10 @@ shiny = false
 original = "pog_1022.png"
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_1022.jpg"
+original = "pog_1022.png"
+
 
 [[items]]
 original = "pog_1023.png"
@@ -7459,6 +10427,10 @@ backface = "horospog"
 shiny = false
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_1023.jpg"
+original = "pog_1023.png"
+
 
 [[items]]
 original = "pog_1024.png"
@@ -7469,6 +10441,10 @@ backface = "horospog"
 shiny = false
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_1024.jpg"
+original = "pog_1024.png"
+
 
 [[items]]
 original = "pog_1025.png"
@@ -7479,6 +10455,10 @@ backface = "horospog"
 shiny = false
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_1025.jpg"
+original = "pog_1025.png"
+
 
 [[items]]
 original = "pog_1026.png"
@@ -7489,6 +10469,10 @@ backface = "horospog"
 shiny = false
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_1026.jpg"
+original = "pog_1026.png"
+
 
 [[items]]
 original = "pog_1027.png"
@@ -7499,6 +10483,10 @@ backface = "horospog"
 shiny = false
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_1027.jpg"
+original = "pog_1027.png"
+
 
 [[items]]
 original = "pog_1028.png"
@@ -7509,6 +10497,10 @@ backface = "horospog"
 shiny = false
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_1028.jpg"
+original = "pog_1028.png"
+
 
 [[items]]
 original = "pog_1029.png"
@@ -7519,6 +10511,10 @@ backface = "horospog"
 shiny = false
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_1029.jpg"
+original = "pog_1029.png"
+
 
 [[items]]
 original = "pog_1030.png"
@@ -7529,4 +10525,8 @@ backface = "horospog"
 shiny = false
 note = ""
 number_override = ""
+[[items.frontfaces]]
+preview = "pog_1030.jpg"
+original = "pog_1030.png"
+
 

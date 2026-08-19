@@ -1,11 +1,8 @@
 # Site settings
 baseurl = "https://pogim.net"
-languageCode = "he-IL"
+locale = "he-IL"
 languageLang = "he"
 title = "פוגים.נט"
-
-# Enter your tracking code to enable Google Analytics
-googleAnalytics = "G-8459CWCMM5"
 
 contentdir = "content"
 datadir = "data"
@@ -15,8 +12,11 @@ publishdir = "public"
 # RSS, categories and tags disabled for an easy start
 # See configuration options for more details:
 # https://gohugo.io/getting-started/configuration/#toml-configuration
-disableKinds = ["RSS", "taxonomy", "taxonomyTerm"]
+disableKinds = ["RSS", "taxonomy"]
 
+[services]
+    [services.googleAnalytics]
+        id = "G-8459CWCMM5"
 [markup]
     [markup.goldmark]
         [markup.goldmark.renderer]
@@ -32,6 +32,7 @@ disableKinds = ["RSS", "taxonomy", "taxonomyTerm"]
     author = "אמיר גרוצקי"
     description = "פוגים.נט הוא אתר לשימור הפוגים, דיסקיות הקרטון הצבעוניות שהיו אולי השיגעון הגדול ביותר של שנות ה-90 בארץ"
     keywords = "פוגים, פוג, ניינטיז, נוסטלגיה"
+    image = "https://pogim.net/images/logo.png"
 
     # Footer text
     footertext = " נבנה על-ידי [אמיר גרוצקי](https://github.com/GeReV) &bull; [קוד מקור](https://github.com/GeReV/pogim) &bull; תוכן האתר מוגש בכפוף לרישיון [Creative Commons BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0)"

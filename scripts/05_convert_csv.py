@@ -48,11 +48,16 @@ def main():
             # )
 
             output_dict['items'].append({
-                "original": output_filename,
-                "preview": preview_filename,
+
                 "number": num,
                 "series": row['series'],
                 "backface": row['backface'] or 'default',
+                "frontfaces": [
+                    {
+                        "original": output_filename,
+                        "preview": preview_filename
+                    }
+                ],
                 "shiny": row['shiny'] == 'y',
                 "note": row['note'] if row['note'] else "",
                 "number_override": int(row['number_override']) if row['number_override'] else None
