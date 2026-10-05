@@ -5373,14 +5373,15 @@ original = "pog_0390.png"
 series = "dominos"
 number = 391
 backface = "dominos"
-preview = "pog_0391.jpg"
 shiny = false
-original = "pog_0391.png"
 note = ""
 number_override = ""
 [[items.frontfaces]]
-preview = "pog_0391.jpg"
-original = "pog_0391.png"
+preview = "pog_0391_0.jpg"
+original = "pog_0391_0.png"
+[[items.frontfaces]]
+preview = "pog_0391_1.jpg"
+original = "pog_0391_1.png"
 
 
 [[items]]
@@ -5391,37 +5392,41 @@ shiny = false
 note = ""
 number_override = ""
 [[items.frontfaces]]
-preview = "pog_0392.jpg"
-original = "pog_0392.png"
+preview = "pog_0392_0.jpg"
+original = "pog_0392_0.png"
+[[items.frontfaces]]
+preview = "pog_0392_1.jpg"
+original = "pog_0392_1.png"
 
 
 [[items]]
 series = "dominos"
 number = 393
 backface = "dominos"
-preview = "pog_0393.jpg"
 shiny = false
-original = "pog_0393.png"
 note = ""
 number_override = ""
 [[items.frontfaces]]
-preview = "pog_0393.jpg"
-original = "pog_0393.png"
+preview = "pog_0393_0.jpg"
+original = "pog_0393_0.png"
+[[items.frontfaces]]
+preview = "pog_0393_1.jpg"
+original = "pog_0393_1.png"
 
 
 [[items]]
 series = "dominos"
 number = 394
 backface = "dominos"
-preview = "pog_0394.jpg"
 shiny = false
-original = "pog_0394.png"
 note = ""
 number_override = ""
 [[items.frontfaces]]
-preview = "pog_0394.jpg"
-original = "pog_0394.png"
-
+preview = "pog_0394_0.jpg"
+original = "pog_0394_0.png"
+[[items.frontfaces]]
+preview = "pog_0394_1.jpg"
+original = "pog_0394_1.png"
 
 [[items]]
 number = 395
@@ -5431,9 +5436,11 @@ shiny = false
 note = ""
 number_override = ""
 [[items.frontfaces]]
-preview = "pog_0395.jpg"
-original = "pog_0395.png"
-
+preview = "pog_0395_0.jpg"
+original = "pog_0395_0.png"
+[[items.frontfaces]]
+preview = "pog_0395_1.jpg"
+original = "pog_0395_1.png"
 
 [[items]]
 number = 396
