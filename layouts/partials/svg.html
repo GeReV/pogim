@@ -1,0 +1,2 @@
+{{ $svg := . }}
+{{ return ((printf "/assets/images/%s.svg" $svg | readFile) | safeHTML) }}

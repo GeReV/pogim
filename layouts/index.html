@@ -32,12 +32,13 @@
       {{.number}}
     </span>
     {{ if eq .shiny true }}
-    <span class="pog-icon pog-shiny"
-          title="מבריק">&starf;</span>
+    <svg class="pog-icon pog-shiny" title="מבריק"><use xlink:href="#pog-icon-star-full"><title>מבריק</title></use></svg>
     {{ end }}
     {{ if .note }}
-    <span class="pog-icon pog-note"
-          title="הערה">?</span>
+    <svg class="pog-icon pog-note" title="הערה"><use xlink:href="#pog-icon-info"><title>הערה</title></use></svg>
+    {{ end }}
+    {{ if gt (len .frontfaces) 1 }}
+    <svg class="pog-icon pog-variants" title="וריאציות"><use xlink:href="#pog-icon-files-empty"><title>וריאציות</title></use></svg>
     {{ end }}
   </li>
   {{ end }}
